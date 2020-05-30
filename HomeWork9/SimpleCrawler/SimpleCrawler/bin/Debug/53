@@ -1,0 +1,2372 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/css/newindex/reset.css?v=201901181429" />
+    <link rel="stylesheet" type="text/css" href="/Javascripts/layui/css/layui.css" />
+    <link rel="stylesheet" type="text/css" href="/css/newindex/index.css?v=1.0.15" />
+    <script src="/Javascripts/newindex/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/Javascripts/layui/layui.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/Javascripts/newindex/jquery1.42.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/Javascripts/newindex/jquery.SuperSlide.2.1.1.js" type="text/javascript" charset="utf-8"></script>
+
+    <meta http-equiv="mobile-agent" content="format=xhtml; url=https://m.youbian.com/">
+<script src="/Javascripts/uaredirect.js" type="text/javascript"></script>
+<script type="text/javascript">uaredirect("https://m.youbian.com/");</script>
+        <title>邮编查询_邮政编码查询_北京上海邮编 - 邮编查询网</title>
+    <meta content="邮编生活网是邮编、邮政编码、区号查询、邮政网点专业查询网，拥有最全面北京、上海等各大城市1000万详细街道机构邮编" name="description">
+    <meta content="邮编查询,邮政编码查询,邮编区号查询,邮政网点,邮政ATM,邮政编码,区号查询,邮政快递,邮政资费查询,邮编,区号" name="keywords">
+</head>
+
+<body>
+    <div class="header">
+        <div class="container clearfix">
+            <div class="logobox fl">
+                <a target="_blank" href="//www.youbian.com/"><img src="/Images/pc/logo.png" /></a>
+            </div>
+            <div class="head_info fl">
+                <div class="city fl red"><a target="_blank" href="//www.youbian.com/">全国站</a>                    <a target="_blank" href="//www.youbian.com/city/">[切换]</a>
+                </div>
+                <div class="fr login red">
+                    <!--<script language="javascript" src="https://user.youbian.com/?module=User&action=TopLogin"></script>-->
+                    <!--<script language="javascript" src="https://user.youbian.com/?module=User&action=TopLogin"></script>-->
+                    <!--<strong>-->
+                    <!---->
+                    <a target="_blank" class="red" href="https://user.youbian.com/login/">登录</a>
+                    <a target="_blank" href="https://user.youbian.com/register/">注册</a>
+                    <!--</strong>-->
+                    <!--<strong class="userInfo">-->
+                    <!--<a target="_blank" href="">欢迎您,王者荣耀...</a>-->
+                    <!--</strong>-->
+                    <span class="navigation">网站导航
+						<i></i>
+						<p class="nav_boder"></p>
+						<ul class="nav_detail clearfix">
+                            <li>
+                                <dl>
+                                    <dt>时尚</dt>
+                                    <dd><a target="_blank" href="https://shishang.youbian.com/shizhuang/">时尚配饰</a><span>|</span><a target="_blank" href="https://shishang.youbian.com/shechipin/">奢侈品</a></dd>
+                    <dd><a target="_blank" href="https://shishang.youbian.com/meirongshenghuo/">美容生活</a><span>|</span><a target="_blank" href="https://shishang.youbian.com/mingxingrenwu/">明星人物</a></dd>
+                    <dd><a target="_blank" href="https://shishang.youbian.com/shishanghunjia/">时尚婚嫁</a></dd>
+                    </dl>
+                    <dl>
+                        <dt>旅游</dt>
+                        <dd><a target="_blank" href="https://lvyou.youbian.com/jingdian/">景点</a><span>|</span><a target="_blank" href="https://lvyou.youbian.com/xianlu/">旅游线路</a><span>|</span><a target="_blank" href="https://lvyou.youbian.com/lvxingshe/">旅行社</a></dd>
+                        <dd><a target="_blank" href="https://hotel.youbian.com/">酒店</a><span>|</span><a target="_blank" href="https://lvyou.youbian.com/lvyougonglve/">旅游攻略</a><span>|</span><a target="_blank" href="https://lvyou.youbian.com/lvyouzixun/">旅游资讯</a></dd>
+                    </dl>
+                    <dl>
+                        <dt>体育</dt>
+                        <dd><a target="_blank" href="https://www.youbian.com/tiyu/zuqiu/">足球</a><span>|</span><a target="_blank" href="https://www.youbian.com/tiyu/lanqiu/">篮球</a><span>|</span><a target="_blank" href="https://www.youbian.com/tiyu/paiqiu/">排球</a></dd>
+                        <dd><a target="_blank" href="https://www.youbian.com/tiyu/qipai/">棋牌</a><span>|</span><a target="_blank" href="https://www.youbian.com/tiyu/saiche/">赛车</a><span>|</span><a target="_blank" href="https://www.youbian.com/tiyu/tyzonghe/">综合</a></dd>
+                    </dl>
+                    <dl>
+                        <dt>时尚资讯</dt>
+                        <dd><a target="_blank" href="https://www.youbian.com/shishang/shishangpinglun/">时尚评论</a><span>|</span><a target="_blank" href="https://www.youbian.com/shishang/shizhuangdapei/">时装搭配</a></dd>
+                        <dd><a target="_blank" href="https://www.youbian.com/shishang/shechipinzhan/">奢侈品展</a><a target="_blank" href="https://www.youbian.com/shishang/shishanghunjia/">时尚婚嫁</a></dd>
+                    </dl>
+                    <dl>
+                        <dt>交通资讯</dt>
+                        <dd><a target="_blank" href="https://www.youbian.com/jiaotong/huoche/">火车资讯</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiaotong/qiche/">汽车资讯</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiaotong/feiji/">飞机资讯</a></dd>
+                        <dd><a target="_blank" href="https://www.youbian.com/jiaotong/qitanews/">其他资讯</a><span>|</span><a target="_blank" href="https://www.youbian.com/huoche/">火车时刻</a><span>|</span><a target="_blank" href="https://www.youbian.com/qiche/">汽车时刻</a></dd>
+                        <dd><a target="_blank" href="https://www.youbian.com/dongche/">动车时刻</a><span>|</span><a target="_blank" href="https://www.youbian.com/gaotie/">高铁时刻</a><span>|</span><a target="_blank" href="https://www.youbian.com/ditie/">地铁查询</a></dd>
+                        <dd><a target="_blank" href="https://www.youbian.com/dingpiaodian/">火车订票查询</a><span>|</span><a target="_blank" href="https://www.youbian.com/gongjiao/">公交查询</a></dd>
+                    </dl>
+                    </li>
+                    <li>
+                        <dl>
+                            <dt>美食</dt>
+                            <dd><a target="_blank" href="https://meishi.youbian.com/yuanliao/">原料大全</a><span>|</span><a target="_blank" href="https://meishi.youbian.com/meishidaquan/">菜谱大全</a></dd>
+                            <dd><a target="_blank" href="https://meishi.youbian.com/techan/">特产</a><span>|</span><a target="_blank" href="https://meishi.youbian.com/xiaochi/">小吃</a><span>|</span><a target="_blank" href="https://meishi.youbian.com/mingdian/">美食名店</a></dd>
+                            <dd><a target="_blank" href="https://meishi.youbian.com/gonglve/">美食攻略</a><span>|</span><a target="_blank" href="https://meishi.youbian.com/meishizixun/">美食资讯</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>娱乐</dt>
+                            <dd><a target="_blank" href="https://yule.youbian.com/news/">明星星闻</a><span>|</span><a target="_blank" href="https://yule.youbian.com/mingxing/">明星资料</a><span>|</span><a target="_blank" href="https://yule.youbian.com/redian/">娱乐热点</a></dd>
+                            <dd><a target="_blank" href="https://yule.youbian.com/baike">娱乐百科</a><span>|</span><a target="_blank" href="https://yule.youbian.com/tuku/">明星图库</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>健康</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/jiankang/jiankangzixun/">健康资讯</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiankang/meirong/">美容</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiankang/jianfei/">减肥</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/jiankang/jiankangyinshi/">健康饮食</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiankang/yunyuchangshi/">孕育常识</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>房产资讯</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/fangchan/fangchanxinwen/">房产新闻</a><span>|</span><a target="_blank" href="https://www.youbian.com/fangchan/fangchandaogou/">房产导购</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/fangchan/jiajuzhuangxiu/">家居装修</a><span>|</span><a target="_blank" href="https://www.youbian.com/fangchan/youhuixinxi/">优惠信息</a></dd>
+                        </dl>
+
+                        <dl>
+                            <dt>工具资讯</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/jiaotong/huoche/">火车资讯</a><span>|</span><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/fangjiaanpai/">放假安排</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/pailuanqichangshi/">排卵期常识</a><span>|</span><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/hunyinpeidui/">八字婚姻配对</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/shengnanshengnv/">生男生女</a><span>|</span><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/shenfenzhengchaxun/">身份证查询</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/ershisijieqi/">二十四节气</a><span>|</span><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/zhougongjiemeng/">周公解梦</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/weizhangzixun/">违章查询</a><span>|</span><a target="_blank" href="https://www.youbian.com/gongjuxiangzixun/wuxianyijin/">五险一金</a></dd>
+                        </dl>
+                    </li>
+                    <li>
+                        <dl>
+                            <dt>房产</dt>
+                            <dd><a target="_blank" href="https://fangchan.youbian.com/zhuangxiufengshui/">装修风水</a><span>|</span><a target="_blank" href="https://fangchan.youbian.com/jiancai/">建材购买指南</a></dd>
+                            <dd><a target="_blank" href="https://fangchan.youbian.com/jiajuzixun/">家居资讯</a><span>|</span><a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/">装修效果图</a></dd>
+                            <dd><a target="_blank" href="https://fangchan.youbian.com/company/">装修公司</a><span>|</span><a target="_blank" href="https://fangchan.youbian.com/designer/">设计师</a><span>|</span><a target="_blank" href="https://fangchan.youbian.com/zhuangxiurizhi/">装修日志</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>教育</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/jiaoyu/zhongkao/">中考</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiaoyu/gaokao/">高考</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiaoyu/xiaoyuan/">校园</a><span>|</span>
+                                <a target="_blank" href="https://www.youbian.com/jiaoyu/liuxue/">留学</a>
+                            </dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/jiaoyu/kaoshi/">考试</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiaoyu/zhichang/">职场</a><span>|</span><a target="_blank" href="https://www.youbian.com/jiaoyu/peixun/">培训</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>亲子</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/qinzi/qinzijiaoyu/">亲子教育</a><span>|</span><a target="_blank" href="https://www.youbian.com/qinzi/baobaoshenghuo/">宝宝生活</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/qinzi/qinziwenda/">亲子问答</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>美食资讯</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/meishi/tesexiaochi/">特色小吃</a><span>|</span><a target="_blank" href="https://www.youbian.com/meishi/meishigonglue/">美食攻略</a><span>|</span><a target="_blank" href="https://www.youbian.com/meishi/meishibangdan/">美食榜单</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/meishi/meishiwenhua/">美食文化</a><span>|</span><a target="_blank" href="https://www.youbian.com/meishi/meishicaipu/">美食菜谱</a></dd>
+                        </dl>
+
+                        <dl>
+                            <dt>本地生活</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_canyin/">餐饮美食</a><span>|</span><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_xiuxianyule/">休闲娱乐</a><span>|</span><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_gouwu/">购物服务</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_bianmin/">便民服务</a><span>|</span><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_fangchan/">房产</a><span>|</span><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_lvyoujiudian/">旅游酒店</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_yiliao/">医疗</a><span>|</span><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_baojian/">美容</a><span>|</span><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_jiaoyupeixun/">教育培训</a><span>|</span>
+                                <a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_zhongjie/">咨询</a>
+                            </dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_jinrong/">金融</a><span>|</span><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_jinrong/">交通</a><span>|</span><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_cheliang/">车辆</a><span>|</span>
+                                <a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_gonggongsheshi/">设施</a>
+                            </dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/shenghuo/xiamen_zhengfujigou/">政府机构</a></dd>
+                        </dl>
+                    </li>
+                    <li>
+                        <dl>
+                            <dt>交通</dt>
+                            <dd><a target="_blank" href="https://jiaotong.youbian.com/huoche/">火车时刻表</a><span>|</span><a target="_blank" href="https://jiaotong.youbian.com/qiche/">汽车时刻表</a></dd>
+                            <dd><a target="_blank" href="https://jipiao.youbian.com/">机票</a><span>|</span><a target="_blank" href="https://jiaotong.youbian.com/gongjiao/">公交</a><span>|</span><a target="_blank" href="https://jiaotong.youbian.com/jiaotongzixun/">交通资讯</a></dd>
+                            <dd><a target="_blank" href="https://jiaotong.youbian.com/ershouche/">二手车</a><span>|</span><a target="_blank" href="https://jiaotong.youbian.com/zuche/">租车</a><span>|</span><a target="_blank" href="https://jiaotong.youbian.com/peijia/">陪驾</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>娱乐资讯</dt>
+                            <dd><a target="_blank" href="https://yule.youbian.com/news/bgfw/">娱乐八卦</a><span>|</span><a target="_blank" href="https://yule.youbian.com/news/dyzx/">电影新闻</a><span>|</span><a target="_blank" href="https://yule.youbian.com/news/dszx/">电视新闻</a></dd>
+                            <dd><a target="_blank" href="https://yule.youbian.com/news/yyzx/">音乐新闻</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>车讯</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/chexun/cheshidongtai/">车市动态</a><span>|</span>
+                                <a target="_blank" href="https://www.youbian.com/chexun/chezhan/">车展</a><span>|</span>
+                                <a target="_blank" href="https://www.youbian.com/chexun/cheshixinwen/">车市新闻</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/chexun/meilichemo/">魅力车模</a><span>|</span>
+                                <a target="_blank" href="https://www.youbian.com/chexun/xinchebaodao/">新车报道</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>旅游资讯</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/lvyou/lvyouxinwen/">旅游新闻</a><span>|</span><a target="_blank" href="https://www.youbian.com/lvyou/lvyougonglue/">旅游攻略</a><span>|</span><a target="_blank" href="https://www.youbian.com/lvyou/lvyougonglue/">旅游景点</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/lvyou/lvyoudarenfenxiang/">旅游达人分享</a><span>|</span><a target="_blank" href="https://www.youbian.com/lvyou/zijiayou/">自驾游</a><span>|</span><a target="_blank" href="https://www.youbian.com/lvyou/lvyouxianlu/">旅游线路</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>时事热点</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/shishiredian/shishiyaowen/" target="_blank">时事要闻</a></dd>
+                        </dl>
+                        <dl class="nav_detail_other">
+                            <dt>其他</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/tools/more/">工具箱</a><span>|</span><a target="_blank" href="https://www.youbian.com/zhuanti/">专题</a><span>|</span><a target="_blank" href="https://www.youbian.com/ditu/">地图查询</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/tianqi/">天气查询</a>|<a target="_blank" href="https://www.youbian.com/weizhang/">违章查询</a></dd>
+                        </dl>
+                    </li>
+                    <!--<li class="last">-->
+                    <li style="border: 0;">
+                        <dl>
+                            <dt>社保查询</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/shebao/gongjijin/">公积金查询</a><span>|</span><a target="_blank" href="https://www.youbian.com/shebao/yanglaobaoxian/">养老保险查询</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/shebao/yiliaobaoxian/">医疗保险查询</a><span>|</span><a target="_blank" href="https://www.youbian.com/shebao/shiyebaoxian/">失业保险</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/shebao/gongshangbaoxian/">工伤保险</a><span>|</span><a target="_blank" href="https://www.youbian.com/shebao/shengyubaoxian/">生育保险</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>企业黄页</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/huangye/">公司库</a><span>|</span><a target="_blank" href="https://www.youbian.com/shangqing/">产品库</a><a target="_blank" href="https://www.youbian.com/buy/">求购库</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/proxy/">代理加盟</a><span>|</span><a target="_blank" href="https://www.youbian.com/qiye/">企业</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>邮编查询</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/post.html">邮编归属</a><span>|</span><a target="_blank" href="https://www.youbian.com/guojiyoubian/">国际邮编</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/article-list.html">邮编知识</a><span>|</span><a target="_blank" href="https://www.youbian.com/kuaidi/">快递查询</a><span>|</span><a target="_blank" href="https://www.youbian.com/ask/">知道吧</a></dd>
+                        </dl>
+
+                        <dl>
+                            <dt>便民查询</dt>
+                            <dd><a target="_blank" href="https://www.youbian.com/bianmin/changyongchaxun/">常用查询</a><span>|</span><a target="_blank" href="https://www.youbian.com/bianmin/jiaotongchuxing/">交通出行</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/bianmin/shenghuofuwu/">生活服务</a><span>|</span><a target="_blank" href="https://www.youbian.com/bianmin/shenghuofuwu/">银行</a><span>|</span><a target="_blank" href="https://www.youbian.com/bianmin/changyongchaxunyufuwu/"
+                                    target="_blank">常用查询与服务</a></dd>
+                            <dd><a target="_blank" href="https://www.youbian.com/bianmin/bianminfuwu/" target="_blank">便民服务</a><span>|</span><a target="_blank" href="https://www.youbian.com/bianmin/qiyefuwu/" target="_blank">企业服务</a></dd>
+                        </dl>
+                        <!--<dl>-->
+                        <!--<dt>手机应用</dt>-->
+                        <!--<dd class="apps clearfix">-->
+                        <!--<a target="_blank" href="">-->
+                        <!--<img src="/Images/pc/d123.png"/>-->
+                        <!--<span>大学网大学网</span>-->
+                        <!--</a>-->
+                        <!--<a target="_blank" href="">-->
+                        <!--<img src="/Images/pc/d123.png"/>-->
+                        <!--<span>大学网</span>-->
+                        <!--</a>-->
+                        <!--<a target="_blank" href="">-->
+                        <!--<img src="/Images/pc/d123.png"/>-->
+                        <!--<span>大学网</span>-->
+                        <!--</a>-->
+                        <!--<a target="_blank" href="">-->
+                        <!--<img src="/Images/pc/d123.png"/>-->
+                        <!--<span>大学网</span>-->
+                        <!--</a>-->
+                        <!--<a target="_blank" href="">-->
+                        <!--<img src="/Images/pc/d123.png"/>-->
+                        <!--<span>大学网</span>-->
+                        <!--</a>-->
+                        <!--<a target="_blank" href="">-->
+                        <!--<img src="/Images/pc/d123.png"/>-->
+                        <!--<span>大学网</span>-->
+                        <!--</a>-->
+                        <!--</dd>-->
+                        <!--<dd class="codes clearfix">-->
+                        <!--<div class="fl">-->
+                        <!--<img src="/Images/pc/code.png"/>-->
+                        <!--<span>邮编网公众号</span>-->
+                        <!--</div>-->
+                        <!--<div class="fl">-->
+                        <!--<img src="/Images/pc/code.png"/>-->
+                        <!--<span>邮编网APP</span>-->
+                        <!--</div>-->
+                        <!--</dd>-->
+                        <!--</dl>-->
+                    </li>
+                    </ul>
+
+                    </span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container clearfix wrap-box">
+        <div class="select clearfix">
+
+            <div class="fr text_c">
+                <a class="select_button fl" target="_blank" href="/huangye/">企业黄页</a>
+                <p><a href="" rel="nofollow" target="_blank" id="jubaos" style="color: #ee4a45;">撤稿/纠错/投诉</a></p>
+            </div>
+            <script>
+                var jubaoref = window.location.href;
+                $("#jubaos").attr('href', 'http://jubao.yisanwu.com/jubao/7/?site=youbian&ref=' + jubaoref);
+            </script>
+            <div class="fr text_c">
+                <a class="select_button fl	" target="_blank" href="/zsjm/">招商加盟</a>
+                <p><a href="//www.youbian.com/vip/" target="_blank" rel="nofollow">成为VIP</a></p>
+            </div>
+            <div class="fr">
+                <form action="https://www.youbian.com/searchall/" method="post" class="fr">
+                    <span class="fl hide_options" style="cursor:pointer" onmouseover="listshow()" onmouseout="listhide()"><b id="zhuye">本地资讯</b><i></i>
+						<ul class="selet_options" style="cursor:pointer">
+                            <li><a>本地资讯</a></li>
+                            <li><a>邮编信息</a></li>
+                            <li><a>公司信息</a></li>
+                            <li><a>生活信息</a></li>
+                            <li class="last"><a>招商加盟</a></li>
+                        </ul>
+					</span>
+                    <input type="hidden" name="cls" class="cls" value="本地资讯">
+                    <input type="text" name="s" placeholder="请输入关键字查询" class="fl" onclick="this.value=''" /><button class="fl">搜索</button>
+                </form>
+                <div style="margin-left: 8px;">
+                    <!--<script language="javascript" src="https://www.youbian.com/?module=Home&action=Searchkey&time=1587273981&rand=5151057"></script>-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="navigat">
+        <div class="container">
+            <div class="triangle" style="left:30px;"></div>
+            <ul class="chanel clearfix">
+                <li class="first">
+                    <a target="_blank" href="//www.youbian.com" title="首页">首页</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://shishang.youbian.com/" title="时尚">时尚</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://meishi.youbian.com/" title="美食">美食</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://fangchan.youbian.com/" title="房产">房产</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://jiaotong.youbian.com/" title="交通">交通</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://yule.youbian.com/" title="娱乐">娱乐</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://www.youbian.com/lvyou/" title="旅游">旅游</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://www.youbian.com/jiaoyu/" title="教育">教育</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://www.youbian.com/jiankang/" title="健康">健康</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://www.youbian.com/tiyu/" title="体育">体育</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://www.youbian.com/qinzi/" title="亲子">亲子</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://www.youbian.com/chexun/" title="车讯">车讯</a>
+                </li>
+                <li class="">
+                    <a target="_blank" href="https://www.youbian.com/ask/" title="问答">问答</a>
+                </li>
+                <li class="more-tag">
+                    <a target="_blank" href="javascript:void(0);" title="更多">更多</a>
+                </li>
+            </ul>
+            <div class="chanel-detail clearfix">
+                <ul class="chanel_first selected">
+                    <li><a target="_blank" href="https://www.youbian.com/province.html">邮编查询</a></li>
+                    <li><a target="_blank" href="https://www.youbian.com/tools/">便民工具</a></li>
+                    <li><a target="_blank" href="https://xiamen.youbian.com/">厦门邮编</a></li>
+                </ul>
+                <ul>
+
+                    <li><a href="https://shishang.youbian.com/shizhuang/" target="_blank">时尚配饰</a></li>
+                    <li><a href="https://shishang.youbian.com/shechipin/" target="_blank">奢侈品</a></li>
+                    <li><a href="https://shishang.youbian.com/meirongshenghuo/" target="_blank">美容生活</a></li>
+                    <li><a href="https://shishang.youbian.com/mingxingrenwu/" target="_blank">明星人物</a></li>
+                </ul>
+                <ul>
+                    <li><a target="_blank" href="https://meishi.youbian.com/xiaochi/">特色小吃</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/meishidaquan/">菜谱大全</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/yuanliao/">原料大全</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/mingdian/">美食名店</a></li>
+                </ul>
+                <ul>
+                    <li><a target="_blank" href="https://fangchan.youbian.com/zhuangxiufengshui/">装修风水</a></li>
+                    <li><a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/">装修效果</a></li>
+                    <li><a target="_blank" href="https://fangchan.youbian.com/company/">装修公司</a></li>
+                    <li><a target="_blank" href="https://fangchan.youbian.com/jiancai/">建材购买</a></li>
+                </ul>
+                <ul>
+                    <li><a target="_blank" href="https://jiaotong.youbian.com/jiaotongzixun/">交通资讯</a></li>
+                    <li><a target="_blank" href="https://jiaotong.youbian.com/huoche/">火车时刻</a></li>
+                    <li><a target="_blank" href="https://jiaotong.youbian.com/qiche/">汽车时刻</a></li>
+                    <li><a target="_blank" href="https://jiaotong.youbian.com/gongjiao/">公交查询</a></li>
+                </ul>
+                <ul>
+                    <li><a target="_blank" href="https://yule.youbian.com/news/">明星星闻</a></li>
+                    <li><a target="_blank" href="https://yule.youbian.com/baike/">娱乐百科</a></li>
+                    <li><a target="_blank" href="https://yule.youbian.com/mingxing/">明星资料</a></li>
+                    <li><a target="_blank" href="https://yule.youbian.com/tuku/">明星图库</a></li>
+                </ul>
+                <ul>
+                    <li><a target="_blank" href="https://lvyou.youbian.com/lvyougonglve/">旅游攻略</a></li>
+                    <li><a target="_blank" href="https://lvyou.youbian.com/jingdian/">旅游景点</a></li>
+                    <li><a target="_blank" href="https://hotel.youbian.com/">旅游酒店</a></li>
+                    <li><a target="_blank" href="https://lvyou.youbian.com/xianlu/">旅游线路</a></li>
+                </ul>
+                <ul>
+                    <li><a href="https://www.youbian.com/jiaoyu/zhongkao/" target="_blank">中考</a></li>
+                    <li><a href="https://www.youbian.com/jiaoyu/gaokao/" target="_blank">高考</a></li>
+                    <li><a href="https://www.youbian.com/jiaoyu/xiaoyuan/" target="_blank">校园</a></li>
+                    <li><a href="https://www.youbian.com/jiaoyu/liuxue/" target="_blank">留学</a></li>
+                </ul>
+                <ul>
+                    <li><a href="https://www.youbian.com/jiankang/jiankangzixun/" target="_blank">健康资讯</a></li>
+                    <li><a href="https://www.youbian.com/jiankang/meirong/" target="_blank">美容</a></li>
+                    <li><a href="https://www.youbian.com/jiankang/jiankangyinshi/" target="_blank">健康饮食</a></li>
+                    <li><a href="https://www.youbian.com/jiankang/jianfei/" target="_blank">减肥</a></li>
+                </ul>
+                <ul>
+                    <li><a href="https://www.youbian.com/tiyu/zuqiu/" target="_blank">足球</a></li>
+                    <li><a href="https://www.youbian.com/tiyu/lanqiu/" target="_blank">篮球</a></li>
+                    <li><a href="https://www.youbian.com/tiyu/paiqiu/" target="_blank">排球</a></li>
+                    <li><a href="https://www.youbian.com/tiyu/qipai/" target="_blank">棋牌</a></li>
+                </ul>
+                <ul>
+                    <li><a href="https://www.youbian.com/qinzi/qinzijiaoyu/" target="_blank">亲子教育</a></li>
+                    <li><a href="https://www.youbian.com/qinzi/baobaoshenghuo/" target="_blank">宝宝生活</a></li>
+                    <li><a href="https://www.youbian.com/qinzi/qinziwenda/" target="_blank">亲子问答</a></li>
+                </ul>
+                <ul>
+                    <li><a href="https://www.youbian.com/chexun/cheshidongtai/" target="_blank">车市动态</a></li>
+                    <li><a href="https://www.youbian.com/chexun/chezhan/" target="_blank">车展</a></li>
+                    <li><a href="https://www.youbian.com/chexun/cheshixinwen/" target="_blank">车市新闻</a></li>
+                    <li><a href="https://www.youbian.com/chexun/meilichemo/" target="_blank">魅力车模</a></li>
+                </ul>
+                <ul>
+                    <li><a target="_blank" href="https://www.youbian.com/ask/question/">待解决问题</a></li>
+                    <li><a target="_blank" href="https://www.youbian.com/ask/answered/">已解决问题</a></li>
+                </ul>
+                <ul>
+                    <li><a target="_blank" href="https://www.youbian.com/tools/more/">工具箱</a></li>
+                    <li><a target="_blank" href="https://www.youbian.com/zhuanti/">专题</a></li>
+                    <li><a target="_blank" href="https://www.youbian.com/ditu/">地图查询</a></li>
+                    <li><a target="_blank" href="https://www.youbian.com/tianqi/">天气查询</a></li>
+                </ul>
+            </div>
+        </div>
+    </div><div class="container">
+    <!--头部推荐-->
+    <!--<div class="ads">-->
+    
+    <!--</div>-->
+    <!--头部推荐end-->
+    <div class="ads_news clearfix">
+        <div class="ads_news_left fl">
+            <!--焦点资讯-->
+            <dl>
+                <dt class="ellipsis"><a href="https://www.youbian.com/news1378360433/" target="_blank" title="今年2019“五一”假期调整后共4天">今年2019“五一”假期调整后共4天</a></dt>                
+  
+  <dd class="ellipsis"><a href="https://www.youbian.com/news1378360186/" target="_blank" title="2019清明节放假安排">2019清明节放假安排</a></dd>
+                     
+  <dd class="ellipsis"><a href="https://www.youbian.com/news1378359888/" target="_blank" title="第三方抢票软件已被限制">第三方抢票软件已被限制</a></dd>
+                     
+  <dd class="ellipsis"><a href="https://beijing.youbian.com/news1378359482/" target="_blank" title="北京春节期间连续9天不限行">北京春节期间连续9天不限行</a></dd>
+                     
+  <dd class="ellipsis"><a href="https://www.youbian.com/news1378359472/" target="_blank" title="2018年中国经济总量首破90万亿GDP增长6.6%">2018年中国经济总量首破90万亿GDP增长6.6%</a></dd>
+                     
+  
+  
+  
+  
+            </dl>
+            <!--焦点资讯end-->
+            <!--今日热点-->
+            <dl>
+                <dt class="ellipsis"><a href="https://xian.youbian.com/news1378359462/" target="_blank" title="春运期间4400名铁警护航">春运期间4400名铁警护航</a></dt>                
+  
+  
+  
+  
+  
+  
+                 <dd class="ellipsis"><a href="https://www.youbian.com/news1378359360/" target="_blank" title="严查“两客一危一货”等公安交管部门部署春运工作">严查“两客一危一货”等公安交管部门部署春运工作</a></dd>
+                 
+                 <dd class="ellipsis"><a href="https://www.youbian.com/news1378359353/" target="_blank" title="田协为规范马拉松再发文 “奔跑中国”暂未被认证">田协为规范马拉松再发文 “奔跑中国”暂未被认证</a></dd>
+                 
+                 <dd class="ellipsis"><a href="https://www.youbian.com/news1378359351/" target="_blank" title="2019年春运1月21日启幕，预计发送旅客29.9亿人次">2019年春运1月21日启幕，预计发送旅客29.9亿人次</a></dd>
+                 
+                <dd class="ellipsis"><a href="https://mp.weixin.qq.com/s/eDKQnJZ8nvb7jrSTtmsKmw" target="_blank" title="“防诈骗”专区">“防诈骗”专区</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mp.weixin.qq.com/s/id3xnZBv0oomLZKa9DrJ7g" target="_blank" title="@小伙伴们，国庆假期，看好自己的钱袋子很重要！">@小伙伴们，国庆假期，看好自己的钱袋子很重要！</a></dd>
+            </dl>
+            <!--今日热点end-->
+            <!--<p><a href="https://www.youbian.com/vip/" target="_blank"><img src="/Images/newindex/440x90.jpg"/></a></p>-->
+        </div>
+        <!--轮播-->
+        <div class="layui-carousel ads_news_right fr" id="test1" style="height: 295px;">
+            <div carousel-item>
+                
+                <div>
+                    <a href="/news1378360186/" target="_blank" title="2019清明节放假安排"><img src="https://www.youbian.com/Images/201903/15520123064208.png" style="width: 720px;height: 295px;" onerror="this.src='/Images/newindex/720x405.jpg'" /></a>
+                    <!--<p ><a href="">2019清明节放假安排</a></p>-->
+                </div>
+                
+                <div>
+                    <a href="/zhuanti-5639/" target="_blank" title="三八妇女节意义"><img src="https://www.youbian.com/Images/201902/15511529574315.jpeg" style="width: 720px;height: 295px;" onerror="this.src='/Images/newindex/720x405.jpg'" /></a>
+                    <!--<p ><a href="">三八妇女节意义</a></p>-->
+                </div>
+                
+                <div>
+                    <a href="/news1378360019" target="_blank" title="植树节的来历和意义"><img src="https://www.youbian.com/Images/201902/15511525791339.jpeg" style="width: 720px;height: 295px;" onerror="this.src='/Images/newindex/720x405.jpg'" /></a>
+                    <!--<p ><a href="">植树节的来历和意义</a></p>-->
+                </div>
+                
+            </div>
+        </div>
+        <!--轮播end-->
+    </div>
+    <div style="margin-bottom:10px;float: left;width: 600px;">
+        <!--<script language="javascript" src="https://www.youbian.com/?module=Home&action=Hengfu&time=1587273981&rand=6004071"></script>-->
+    </div>
+    <div style="margin-bottom:10px;float: left;width: 600px;">
+        <img src="/Images/chaxun.jpg" style="width: 590px;height:60px;margin-left: 10px;">
+    </div>
+    <div class="content1 index_item clearfix">
+        <div class="content1_left fl">
+            <div class="fl" style="height:970px;">
+                <dl>
+                    <dt class="clearfix">
+						<!--<script language="javascript" src="https://www.youbian.com/?module=Home&action=jinrizixun&time=1587273981&rand=2302751"></script>-->
+					</dt> 
+  <dd>
+                        <a href="https://www.youbian.com/news1378362741/" target="_blank" title="世卫组织警示：无证据说明有着新冠病毒感染抗体就可长期性免疫力">世卫组织警示：无证据说明有着新冠病毒感染抗体就可长期性免疫力</a>
+                        </dd>
+                         
+  <dd>
+                        <a href="https://www.youbian.com/news1378362740/" target="_blank" title="空客3000荷兰员工放假了回家下一步或裁人">空客3000荷兰员工放假了回家下一步或裁人</a>
+                        </dd>
+                         
+  <dd>
+                        <a href="https://www.youbian.com/news1378362739/" target="_blank" title="继口罩以后兰博基尼用三维打印生产呼吸机：每星期18台">继口罩以后兰博基尼用三维打印生产呼吸机：每星期18台</a>
+                        </dd>
+                         
+  <dd>
+                        <a href="https://www.youbian.com/news1378362738/" target="_blank" title="淘宝天猫首席总裁蒋凡因传言道歉恳请企业调查">淘宝天猫首席总裁蒋凡因传言道歉恳请企业调查</a>
+                        </dd>
+                         
+  <dd>
+                        <a href="https://www.youbian.com/news1378362737/" target="_blank" title="中国老地铁口今起封站：明年末新面貌现身">中国老地铁口今起封站：明年末新面貌现身</a>
+                        </dd>
+                         
+  <dd>
+                        <a href="https://www.youbian.com/news1378362736/" target="_blank" title="新冠病毒更为耐热研究人员发觉完全杀掉病毒的方式">新冠病毒更为耐热研究人员发觉完全杀掉病毒的方式</a>
+                        </dd>
+                         
+  
+  
+  
+  
+  
+  
+                </dl>
+                <dl>
+                    <dd class="clearfix">
+                    </dd>
+                    <!--便民资讯-->
+                    
+  
+  
+  
+  
+  
+  
+                     <dd>
+                        <a href="https://www.youbian.com/news1378362735/" target="_blank" title="专家产品研发运用一般酵母菌生产迷幻剂“裸盖菇素”的新方法">专家产品研发运用一般酵母菌生产迷幻剂“裸盖菇素”的新方法</a>
+                    </dd>
+                     
+                     <dd>
+                        <a href="https://www.youbian.com/news1378362734/" target="_blank" title="福奇警示美国人：新冠那样的病毒不容易凭空消失">福奇警示美国人：新冠那样的病毒不容易凭空消失</a>
+                    </dd>
+                     
+                     <dd>
+                        <a href="https://www.youbian.com/news1378362733/" target="_blank" title="浙江省推动沪杭甬非常磁浮等工程项目，总投资超3万亿">浙江省推动沪杭甬非常磁浮等工程项目，总投资超3万亿</a>
+                    </dd>
+                     
+                     <dd>
+                        <a href="https://www.youbian.com/news1378362732/" target="_blank" title="新德里将试着用血浆医治新冠肺炎重症病人">新德里将试着用血浆医治新冠肺炎重症病人</a>
+                    </dd>
+                     
+                     <dd>
+                        <a href="https://www.youbian.com/news1378362731/" target="_blank" title="研究工作人员打造出全新升级微型传感器：可追溯系统配戴者心血管和肺脏身心健康">研究工作人员打造出全新升级微型传感器：可追溯系统配戴者心血管和肺脏身心健康</a>
+                    </dd>
+                     
+                     <dd>
+                        <a href="https://www.youbian.com/news1378362730/" target="_blank" title="惹异议！骑自行车和跑步会提升新冠病毒散播风险性？">惹异议！骑自行车和跑步会提升新冠病毒散播风险性？</a>
+                    </dd>
+                     
+                    <!--便民资讯end-->
+                </dl>
+                <dl>
+                    <dt class="clearfix">
+						<span class="title">常用查询</span>
+						<a href="https://www.youbian.com/gongjuxiangzixun/" target="_blank" title="常用查询">更多+</a>
+					</dt>
+                    <!--常用查询-->
+                    
+                    <dd>
+                        <a href="https://www.youbian.com/news1378360169/" target="_blank" title="2019清明节放假时间高速免费吗？">2019清明节放假时间高速免费吗？</a>
+                    </dd>
+                    
+                    <dd>
+                        <a href="https://www.youbian.com/news1378359559/" target="_blank" title="2019京东春节放假吗？">2019京东春节放假吗？</a>
+                    </dd>
+                    
+                    <dd>
+                        <a href="https://www.youbian.com/news1378359503/" target="_blank" title="2019韩国春节放假吗？">2019韩国春节放假吗？</a>
+                    </dd>
+                    
+                    <dd>
+                        <a href="https://www.youbian.com/news1378359399/" target="_blank" title="养老助残卡要改名、居家养老服务统一标准...“养老”提案来了">养老助残卡要改名、居家养老服务统一标准...“养老”提案来了</a>
+                    </dd>
+                    
+                    <dd>
+                        <a href="https://www.youbian.com/news1378358930/" target="_blank" title="2019三月三如何放假 2019年广西三月三清明节放假安排">2019三月三如何放假 2019年广西三月三清明节放假安排</a>
+                    </dd>
+                    
+                    <!--常用查询end-->
+                </dl>
+                <dl class="content1_left_new">
+                    <dt class="clearfix">
+						<span class="title">最新加入企业</span>
+						<a href="https://www.youbian.com/huangye/" target="_blank" title="最新加入企业">更多+</a>
+					</dt> 
+                     <dd>
+                        <a href="https://www.youbian.com/huangye/info278393/" title="长春市英俊暖气片厂" target="_blank" class="ellipsis">长春市英俊暖气片厂</a><span>|</span>                         <a href="https://www.youbian.com/huangye/info15388/" title="顺义区税务局" target="_blank" class="ellipsis">顺义区税务局</a>
+                    </dd>
+                     
+  
+                     <dd>
+                        <a href="https://www.youbian.com/huangye/info1696035/" title="佛山智汇君彰新材料科技有限公司" target="_blank" class="ellipsis">佛山智汇君彰新材料科技有限公司</a><span>|</span>                         <a href="https://www.youbian.com/huangye/info1253607/" title="福建冠林电子有限公司" target="_blank" class="ellipsis">福建冠林电子有限公司</a>
+                    </dd>
+                     
+  
+                     <dd>
+                        <a href="https://www.youbian.com/huangye/info367932/" title="山东省东营市河口区新户乡南王砖厂" target="_blank" class="ellipsis">山东省东营市河口区新户乡南王砖厂</a><span>|</span>                         <a href="https://www.youbian.com/huangye/info463450/" title="饶阳县京联机械制造有限公司" target="_blank" class="ellipsis">饶阳县京联机械制造有限公司</a>
+                    </dd>
+                     
+  
+                     <dd>
+                        <a href="https://www.youbian.com/huangye/info994935/" title="象山博奥机械模具厂" target="_blank" class="ellipsis">象山博奥机械模具厂</a><span>|</span>                         <a href="https://www.youbian.com/huangye/info1685250/" title="湖南筑达建筑工程有限公司" target="_blank" class="ellipsis">湖南筑达建筑工程有限公司</a>
+                    </dd>
+                     
+  
+                     <dd>
+                        <a href="https://www.youbian.com/huangye/info1250825/" title="绍兴市越发纺织有限公司" target="_blank" class="ellipsis">绍兴市越发纺织有限公司</a><span>|</span>                         <a href="https://www.youbian.com/huangye/info171786/" title="舍尔特工业（天津）有限公司" target="_blank" class="ellipsis">舍尔特工业（天津）有限公司</a>
+                    </dd>
+                     
+  
+                </dl>
+            </div>
+            <div class="fl content1_middle txtMarquee-top" style="height: 970px;">
+                <dl>
+                    <dt class="clearfix">
+						<span class="title">热点专题</span><a class="rl" href="https://www.youbian.com/zhuanti/" target="_blank" title="热点专题">更多+</a>
+					</dt>
+                    <dd class="happy clearfix">
+                        
+                        <div>
+                            <a href="/zhuanti/qingming/" title="清明节是几月几日_清明节的来历_清明节放假安排 2016_邮编网清明专题" target="_blank"><img style="width: 158px;height: 107px;" src="https://www.youbian.com/Images/201313/13813106908064.thumb.jpg" /><span class="ellipsis">清明节是几月几日_清明节的来历_清明节放假安排 2016_邮编网清明专题</span></a>
+                        </div>
+                        
+                        <div>
+                            <a href="/zhuanti/zhishujie/" title="植树节是几月几日_植树节的由来_植树节手抄报_邮编网植树节专题" target="_blank"><img style="width: 158px;height: 107px;" src="https://www.youbian.com/Images/201313/13820816027477.thumb.jpg" /><span class="ellipsis">植树节是几月几日_植树节的由来_植树节手抄报_邮编网植树节专题</span></a>
+                        </div>
+                        
+                    </dd>
+                    <dd class="bd">
+                        <ul class="infoList">
+                            
+                            <li><a href="/zhuanti-19066/" title="清明节高仿人民币冥币充斥市场 该如何管制" target="_blank">清明节高仿人民币冥币充斥市场 该如何管制</a></li>
+                            
+                            <li><a href="/zhuanti-19065/" title="清明节：2016年清明节怎么提前了一天" target="_blank">清明节：2016年清明节怎么提前了一天</a></li>
+                            
+                            <li><a href="/zhuanti-19064/" title="清明节吃什么养生之荠菜猪肝汤" target="_blank">清明节吃什么养生之荠菜猪肝汤</a></li>
+                            
+                            <li><a href="/zhuanti-19063/" title="清明节吃什么养生之枸杞田螺汤" target="_blank">清明节吃什么养生之枸杞田螺汤</a></li>
+                            
+                            <li><a href="/zhuanti-19062/" title="清明节吃什么养生之肝菠菜汤" target="_blank">清明节吃什么养生之肝菠菜汤</a></li>
+                            
+                            <li><a href="/zhuanti-19061/" title="清明节吃什么养生之桑椹白馒头" target="_blank">清明节吃什么养生之桑椹白馒头</a></li>
+                            
+                            <li><a href="/zhuanti-19060/" title="清明节吃什么养生之清炒螺蛳" target="_blank">清明节吃什么养生之清炒螺蛳</a></li>
+                            
+                            <li><a href="/zhuanti-19059/" title="清明节吃什么养生之韭菜滚狗肚鱼汤" target="_blank">清明节吃什么养生之韭菜滚狗肚鱼汤</a></li>
+                            
+                            <li><a href="/zhuanti-19058/" title="清明节吃什么养生之口蘑白菜" target="_blank">清明节吃什么养生之口蘑白菜</a></li>
+                            
+                            <li><a href="/zhuanti-19040/" title="清明节前后家里有一物毒死人 小心蜱虫" target="_blank">清明节前后家里有一物毒死人 小心蜱虫</a></li>
+                            
+                        </ul>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt class="clearfix">
+						<span class="title">04月电影上映表</span><a class="rl" href="https://www.youbian.com/zhuanti/04yue/" target="_blank" title="04月电影上映表">更多+</a>
+					</dt>
+                    <dd class="happy movie clearfix">
+                        
+                        <div>
+                            <a href="https://www.youbian.com/zhuanti-movie875/" target="_blank" title="如影随心">
+                                <img src="https://www.youbian.com/Images/201904/15541909213061.jpeg" onerror="this.src='/Images/newindex/179x239.jpg'" />
+                                <span class="ellipsis">如影随心</span>
+                            </a>
+                            <p>04-19上映</p>
+                        </div>
+                        
+                        <div>
+                            <a href="https://www.youbian.com/zhuanti-movie876/" target="_blank" title="境·界">
+                                <img src="https://www.youbian.com/Images/201904/15541910055514.jpeg" onerror="this.src='/Images/newindex/179x239.jpg'" />
+                                <span class="ellipsis">境·界</span>
+                            </a>
+                            <p>04-19上映</p>
+                        </div>
+                        
+                        <div>
+                            <a href="https://www.youbian.com/zhuanti-movie877/" target="_blank" title="狗眼看人心">
+                                <img src="https://www.youbian.com/Images/201904/15541911023841.jpeg" onerror="this.src='/Images/newindex/179x239.jpg'" />
+                                <span class="ellipsis">狗眼看人心</span>
+                            </a>
+                            <p>04-20上映</p>
+                        </div>
+                        
+                        <div>
+                            <a href="https://www.youbian.com/zhuanti-movie878/" target="_blank" title="复仇者联盟4：终局之战">
+                                <img src="https://www.youbian.com/Images/201904/15541911731654.jpeg" onerror="this.src='/Images/newindex/179x239.jpg'" />
+                                <span class="ellipsis">复仇者联盟4：终局之战</span>
+                            </a>
+                            <p>04-24上映</p>
+                        </div>
+                        
+                        <div>
+                            <a href="https://www.youbian.com/zhuanti-movie879/" target="_blank" title="我在社区当片儿警">
+                                <img src="https://www.youbian.com/Images/201904/15541912863585.jpeg" onerror="this.src='/Images/newindex/179x239.jpg'" />
+                                <span class="ellipsis">我在社区当片儿警</span>
+                            </a>
+                            <p>04-26上映</p>
+                        </div>
+                        
+                        <div>
+                            <a href="https://www.youbian.com/zhuanti-movie880/" target="_blank" title="泣血旅馆">
+                                <img src="https://www.youbian.com/Images/201904/15541913669177.jpeg" onerror="this.src='/Images/newindex/179x239.jpg'" />
+                                <span class="ellipsis">泣血旅馆</span>
+                            </a>
+                            <p>04-26上映</p>
+                        </div>
+                        
+                        <div>
+                            <a href="https://www.youbian.com/zhuanti-movie881/" target="_blank" title="撞死了一只羊">
+                                <img src="https://www.youbian.com/Images/201904/15541914345789.jpeg" onerror="this.src='/Images/newindex/179x239.jpg'" />
+                                <span class="ellipsis">撞死了一只羊</span>
+                            </a>
+                            <p>04-26上映</p>
+                        </div>
+                        
+                        <div>
+                            <a href="https://www.youbian.com/zhuanti-movie882/" target="_blank" title="雪暴">
+                                <img src="https://www.youbian.com/Images/201904/15541914998303.jpeg" onerror="this.src='/Images/newindex/179x239.jpg'" />
+                                <span class="ellipsis">雪暴</span>
+                            </a>
+                            <p>04-30上映</p>
+                        </div>
+                        
+                    </dd>
+                </dl>
+                <dl>
+                    <p>
+                        <a target="_blank" href="https://www.youbian.com/huangye/"><img src="/Images/newindex/shangwu.jpg"></a>
+                    </p>
+                </dl>
+            </div>
+            <div class="clear"></div>
+            <!--<p><a href="https://www.youbian.com/huangye/" target="_blank"><img src="/Images/newindex/shangwuhf.jpg"/></a></p>-->
+            <!--<p><a href="https://www.youbian.com/product/" target="_blank"><img src="/Images/newindex/producthf.jpg"/></a></p>-->
+        </div>
+        <div class="content1_right fr">
+            <!--<div class="selection">-->
+            <!--<div class="select"><a href="javascript:;" class="active">邮编查询</a><a href="javascript:;">三明天气</a></div>-->
+            <!--<ul>-->
+            <!--<li  class="active  Code clearfix" >-->
+            <!--<form method="post" onsubmit="test(this);return false;">-->
+            <!--<p>	<input type="text" id="key" name="postnum"  class="search_txt"  value="请输入正确地名、城市拼音、邮编"  onblur="if(this.value=='')this.value='请输入正确地名、城市拼音、邮编';" onfocus="if(this.value=='请输入正确地名、城市拼音、邮编')this.value='';"/></p>-->
+            <!--<p><button>查询</button></p>-->
+            <!--<p><span>厦门邮编：361000</span><span>泉州邮编：362000</span><a href="https://www.youbian.com/province.html" target="_blank" >其他</a></p>-->
+            <!--</form>-->
+            <!--<div class="morecity_weather2" id="searchcityzicpode">-->
+            <!--<h3 id="stage"><i>邮编查询</i><span class="closebtn2" onclick="youbianshow()">╳</span></h3>-->
+            <!--<div class="12">&nbsp;&nbsp;<em>请输入正确的地名！</em></div>-->
+            <!--<div id="relevant_morelink"><a href="https://www.youbian.com/province.html">更多相关邮编</a></div>-->
+            <!--</div>-->
+            <!--</li>-->
+            <!--<li>-->
+            <!--<div class="fl">-->
+            <!--<span>阴</span>-->
+            <!--<span class="active">’C</span>-->
+            <!--</div>-->
+            <!--<div class="fr">-->
+            <!--<span>2020-04-19  星期日</span>-->
+            <!--<a href="https://www.youbian.com/pm25/sanming/">空气质量查询</a>-->
+            <!--</div>-->
+            <!--<p><a href="https://www.youbian.com/tianqi/" target="_blank">［切换城市］</a></p>-->
+            <!--</li>-->
+            <!--</ul>-->
+            <!--</div>-->
+            <iframe src="/dingweitq?time=1587273981&rand=86827182" frameborder="0" width="357" height="200" id="iframes"> </iframe>
+            <div class="service">
+                <div class="select"><a href="javascript:;" class="active">城市服务</a>
+                    <a href="javascript:;"></a>
+                </div>
+                <ul>
+                    <li>
+                        <dl class="city_service">
+                            <dt class="clearfix">
+								<span class="fl">政务办事</span>
+								<a href="https://www.youbian.com/tools/" class="fr" target="_blank" title="政务办事">更多+</a>
+							</dt>
+                            <dd>
+                                <a href="https://www.youbian.com/shebao/" target="_blank" title="社保"><i></i>社保</a><span>|</span><a href="https://www.youbian.com/zhufanggongjijin/" target="_blank" title="公积金"><i></i>公积金</a>
+                            </dd>
+                            <dd>
+                                <a href="https://www.youbian.com/tools/gongsiming/" target="_blank" title="测公司名"><i></i>测公司名</a><span>|</span><a href="https://www.youbian.com/tools/quhao/" target="_blank" title="区号查询"><i></i>区号查询</a>
+                            </dd>
+                            <dd>
+                                <a href="https://www.youbian.com/shenfenzheng/" target="_blank" title="身份证"><i></i>身份证</a><span>|</span><a href="https://www.youbian.com/tools/rili/" target="_blank" title="日历表"><i></i>日历表</a>
+                            </dd>
+                        </dl>
+                        <dl class="traffic_service">
+                            <dt class="clearfix">
+								<span class="fl">交通服务</span>
+								<a href="https://www.youbian.com/tools/" target="_blank" class="fr" title="交通服务">更多+</a>
+							</dt>
+                            <dd>
+                                <a href="https://www.youbian.com/weizhang/" target="_blank" title="交通违规"><i></i>交通违规</a><span>|</span><a href="https://jiaotong.youbian.com/gongjiao/" target="_blank" title="公交查询"><i></i>公交查询</a>
+                            </dd>
+                            <dd>
+                                <a href="https://www.youbian.com/ditie/" target="_blank" title="城市地铁"><i></i>城市地铁</a><span>|</span><a href="https://jiaotong.youbian.com/qiche/" target="_blank" title="汽车查询"><i></i>汽车查询</a>
+                            </dd>
+                            <dd>
+                                <a href="https://www.youbian.com/ditu/" target="_blank" title="地图查询"><i></i>地图查询</a><span>|</span><a href="https://jiaotong.youbian.com/huoche/" target="_blank" title="火车预订"><i></i>火车预订</a>
+                            </dd>
+                        </dl>
+                        <dl class="livelihood_service">
+                            <dt class="clearfix">
+								<span class="fl">民生服务</span>
+								<a href="https://www.youbian.com/tools/" class="fr" target="_blank" title="民生服务">更多+</a>
+							</dt>
+                            <dd>
+                                <a href="https://www.youbian.com/tianqi/" target="_blank" title="天气查询"><i></i>天气查询</a><span>|</span><a href="https://www.youbian.com/kuaidi/" target="_blank" title="快递查询"><i></i>快递查询</a>
+                            </dd>
+                            <dd>
+                                <a href="https://www.youbian.com/tools/speed/" target="_blank" title="网速测试"><i></i>网速测试</a><span>|</span><a href="https://lvyou.youbian.com/xianlu/" target="_blank" title="旅游线路"><i></i>旅游线路</a>
+                            </dd>
+                            <dd>
+                                <a href="https://hotel.youbian.com/" target="_blank" title="酒店预定"><i></i>酒店预定</a><span>|</span><a href="https://www.youbian.com/province.html" target="_blank" title="邮编查询"><i></i>邮编查询</a>
+                            </dd>
+                        </dl>
+                    </li>
+                </ul>
+            </div>
+            <div class="service company">
+                <div class="select "><a href="javascript:;" class="active">企业大全</a>
+                    <a href="javascript:;"></a>
+                </div>
+                <ul>
+                    <li>
+                        <dl>
+                            <dt class="clearfix">
+								<a href="/company_0_1000_p1/" title="北京市" target="_blank">北京</a>
+								<a href="/company_0_1001_p1/" title="上海市" target="_blank">上海</a>
+								<a href="/company_0_1002_p1/" title="天津市" target="_blank">天津</a>
+								<a href="/company_0_1003_p1/" title="重庆市" target="_blank">重庆</a>
+								<a href="/company_0_1004_p1/" title="山东市" target="_blank">山东</a>
+							</dt>
+                            <dd class="active">
+                                <a href="/company_0_1005_p1/" title="江苏省" target="_blank">江苏</a>
+                                <a href="/company_0_1006_p1/" title="四川省" target="_blank">四川</a>
+                                <a href="/company_0_1007_p1/" title="河北省" target="_blank">河北</a>
+                                <a href="/company_0_1008_p1/" title="海南省" target="_blank">海南</a>
+                                <a href="/company_0_1009_p1/" title="湖南省" target="_blank">湖南</a>
+                            </dd>
+                            <dd>
+                                <a href="/company_0_1010_p1/" title="山西省" target="_blank">山西</a>
+                                <a href="/company_0_1011_p1/" title="安徽省" target="_blank">安徽</a>
+                                <a href="/company_0_1012_p1/" title="广西壮族自治区" target="_blank">广西</a>
+                                <a href="/company_0_1013_p1/" title="河南省" target="_blank">河南</a>
+                                <a href="/company_0_1014_p1/" title="吉林省" target="_blank">吉林</a>
+                            </dd>
+                            <dd>
+                                <a href="/company_0_1015_p1/" title="广东省" target="_blank">广东</a>
+                                <a href="/company_0_1016_p1/" title="辽宁省" target="_blank">辽宁</a>
+                                <a href="/company_0_1017_p1/" title="湖北省" target="_blank">湖北</a>
+                                <a href="/company_0_1018_p1/" title="江西省" target="_blank">江西</a>
+                                <a href="/company_0_1019_p1/" title="浙江省" target="_blank">浙江</a>
+                            </dd>
+                            <dd>
+                                <a href="/company_0_1020_p1/" title="青海省" target="_blank">青海</a>
+                                <a href="/company_0_1021_p1/" title="甘肃省" target="_blank">甘肃</a>
+                                <a href="/company_0_1022_p1/" title="贵州省" target="_blank">贵州</a>
+                                <a href="/company_0_1023_p1/" title="陕西省" target="_blank">陕西</a>
+                                <a href="/company_0_1024_p1/" title="西藏自治区" target="_blank">西藏</a>
+                            </dd>
+                            <dd>
+                                <a href="/company_0_1025_p1/" title="宁夏回族自治区" target="_blank">宁夏</a>
+                                <a href="/company_0_1026_p1/" title="福建省" target="_blank">福建</a>
+                                <a href="/company_0_1027_p1/" title="内蒙古自治区" target="_blank">内蒙古</a>
+                                <a href="/company_0_1028_p1/" title="云南省" target="_blank">云南</a>
+                                <a href="/company_0_1029_p1/" title="新疆维吾尔自治区" target="_blank">新疆</a>
+                            </dd>
+                            <dd>
+                                <a href="/company_0_1030_p1/" title="黑龙江省" target="_blank">黑龙江</a>
+                                <a href="/company_0_1031_p1/" title="香港特别行政区" target="_blank">香港</a>
+                                <a href="/company_0_1032_p1/" title="澳门特别行政区" target="_blank">澳门</a>
+                                <a href="/company_0_1033_p1/" title="台湾省" target="_blank">台湾</a>
+                            </dd>
+                            <dd class="noborder">
+                                <a href="" class="more">更多</a>
+                            </dd>
+                        </dl>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="index_item fashion">
+        <div class="item_tiltle clearfix">
+            <h5 class="fl">娱乐时尚</h5>
+            <ul class="fr">
+                <li><a target="_blank" href="https://yule.youbian.com/news/" title="明星星闻">明星星闻</a></li>
+                <li><a target="_blank" href="https://yule.youbian.com/baike/" title="娱乐百科">娱乐百科</a></li>
+                <li><a target="_blank" href="https://yule.youbian.com/redian/" title="娱乐热点">娱乐热点</a></li>
+                <li><a target="_blank" href="https://yule.youbian.com/mingxing/" title="明星资料">明星资料</a></li>
+                <li><a target="_blank" href="https://yule.youbian.com/tuku/" title="明星图库">明星图库</a></li>
+                <li><a href="https://yule.youbian.com" target="_blank" title="娱乐时尚">更多+</a></li>
+            </ul>
+        </div>
+        <div class="item_box">
+            <div class="box_top clearfix">
+                <div class="box_top_left fl">
+                    <div class="loop">
+                        <div class="layui-carousel" id="test3" style="width: 340px; height:292px;">
+                            <div carousel-item>
+                                
+  <div>
+                                    <a class="imgbtn" href="https://yule.youbian.com/news84519/" title="乔振宇《明星大侦探》“炫富” 乔钻石险变惯性纵火犯" target="_blank"><img src="https://www.youbian.com/Images/YuleArticles/2018-12-24/473197250.jpg" style="width: 341px;height:228px" onerror="this.src='/Images/newindex/341x228.jpg'">
+									</a>
+                                    <p>乔振宇《明星大侦探》“炫富” ...</p>
+                            </div>
+                             
+  <div>
+                                    <a class="imgbtn" href="https://yule.youbian.com/news84468/" title="朱一龙海南岛电影节肩负推广重任:我是来学习的" target="_blank"><img src="https://www.youbian.com/Images/YuleArticles/2018-12-11/1707138012.jpg" style="width: 341px;height:228px" onerror="this.src='/Images/newindex/341x228.jpg'">
+									</a>
+                                    <p>朱一龙海南岛电影节肩负推广重任...</p>
+                            </div>
+                             
+  <div>
+                                    <a class="imgbtn" href="https://yule.youbian.com/news84467/" title="海莉自曝幼时曾遭麦莉“欺负” 承认会偷看比伯手机" target="_blank"><img src="https://www.youbian.com/Images/YuleArticles/2018-12-11/609808211.jpg" style="width: 341px;height:228px" onerror="this.src='/Images/newindex/341x228.jpg'">
+									</a>
+                                    <p>海莉自曝幼时曾遭麦莉“欺负” ...</p>
+                            </div>
+                             
+  
+  
+                        </div>
+                    </div>
+                </div>
+                <ul class="goods clearfix">
+                    
+  
+  
+  
+                     <li>
+                        <a href="https://yule.youbian.com/news84463/" title="《恕我直言》收官照亮男女差异盲区 树综艺新风向" target="_blank"><img src="https://www.youbian.com/Images/YuleArticles/2018-12-11/3181202404.jpg" style="width: 163px;height: 113px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+								<span class="ellipsis">《恕我直言》收官照亮男女差异盲区 树综艺新风向</span>
+							</a>
+                    </li>
+                     
+                     <li>
+                        <a href="https://yule.youbian.com/news83913/" title="江疏影身份被冒充？工作室称保留追责权利 切勿轻信" target="_blank"><img src="https://www.youbian.com/Images/YuleArticles/2018-09-27/2493037340.jpg" style="width: 163px;height: 113px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+								<span class="ellipsis">江疏影身份被冒充？工作室称保留追责权利 切勿轻信</span>
+							</a>
+                    </li>
+                     
+                </ul>
+            </div>
+            <div class="box_top_mid fl">
+                <div class="item_tiltle clearfix">
+                    <h5 class="fl">明星资讯</h5>
+                    <a href="https://yule.youbian.com/news/mxzx/" class="fr" target="_blank" title="明星资讯">更多+</a>
+                </div>
+                <ul class="box_list">
+                    
+                    <li><a href="https://yule.youbian.com/news84852" target="_blank" title="秋瓷炫大婚，世贤现身送祝福" />秋瓷炫大婚，世贤现身送祝福</a>
+                    </li>
+                    
+                    <li><a href="https://yule.youbian.com/news84851" target="_blank" title="李宇春除了以穿奇装异服博眼球，还会什么？" />李宇春除了以穿奇装异服博眼球，还会什么？</a>
+                    </li>
+                    
+                    <li><a href="https://yule.youbian.com/news84850" target="_blank" title="泫雅舞台走光 故意走擦边球上热搜" />泫雅舞台走光 故意走擦边球上热搜</a>
+                    </li>
+                    
+                    <li><a href="https://yule.youbian.com/news84849" target="_blank" title="曾经杨幂也是她配角 如今她在红毯上被驱赶" />曾经杨幂也是她配角 如今她在红毯上被驱赶</a>
+                    </li>
+                    
+                    <li><a href="https://yule.youbian.com/news84848" target="_blank" title="沈梦辰回应用词不当 怪网友过分解读" />沈梦辰回应用词不当 怪网友过分解读</a>
+                    </li>
+                    
+                </ul>
+                <div class="item_tiltle want clearfix">
+                    <h5 class="fl">电影资讯</h5>
+                    <a href="https://yule.youbian.com/news/dyzx/" class="fr" target="_blank" title="电影资讯">更多+</a>
+                </div>
+                <ul class="box_list">
+                    
+                    <li><a href="https://yule.youbian.com/news84741" target="_blank" title="《过春天》专场观影 获陈国富周迅陈坤评价" />《过春天》专场观影 获陈国富周迅陈坤评价</a>
+                    </li>
+                    
+                    <li><a href="https://yule.youbian.com/news84740" target="_blank" title="《家和万事惊》终极海报预告双发" />《家和万事惊》终极海报预告双发</a>
+                    </li>
+                    
+                    <li><a href="https://yule.youbian.com/news84739" target="_blank" title="浪漫加倍！《情圣2》新海报曝光 诠释情感新态度" />浪漫加倍！《情圣2》新海报曝光 诠释情感新态度</a>
+                    </li>
+                    
+                    <li><a href="https://yule.youbian.com/news84738" target="_blank" title="电影《死侍2：我爱我家》引进内地 定档1月25日" />电影《死侍2：我爱我家》引进内地 定档1月25日</a>
+                    </li>
+                    
+                    <li><a href="https://yule.youbian.com/news84737" target="_blank" title="《姑获鸟》发终极预告 樊少皇穆婷婷为爱“入魔”" />《姑获鸟》发终极预告 樊少皇穆婷婷为爱“入魔”</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div class="box_top_right fl	">
+                <div class="item_tiltle clearfix">
+                    <h5 class="fl">电视资讯</h5>
+                    <a href="https://yule.youbian.com/news/dszx/" target="_blank" class="fr" title="电视资讯">更多+</a>
+                </div>
+                <ul class="box_list">
+                    
+                    <li><a href="/appqRbqZ/105733.html" target="_blank" />歌利亚怎么让武器无限耐久 歌利亚武器无限耐久方法</a>
+                    </li>
+                    
+                    <li><a href="/appJVqf/" target="_blank" />成都划算的 RFID卡推荐，会员积分卡软件</a>
+                    </li>
+                    
+                    <li><a href="/appTGb/296430.html" target="_blank" />大家居时代来临 木门企业需走O2O道路</a>
+                    </li>
+                    
+                    <li><a href="/appNzPYXVMr/166878.html" target="_blank" />价位合理的旋转蹦床，河北划算的旋转蹦床</a>
+                    </li>
+                    
+                    <li><a href="/appqpSGbo8/" target="_blank" />西王母地宫一日游 拥有“比翼双飞”不是梦</a>
+                    </li>
+                    
+                    <li><a href="/appPfnBkgH/R2CNzkS/" target="_blank" />规模较大的移动式升降机生产商，湖北移动式升降机</a>
+                    </li>
+                    
+                    <li><a href="/appYvQ/442663.html" target="_blank" />谁不期待一场人生的遇见</a>
+                    </li>
+                    
+                    <li><a href="/appurPEiA9/226097.html" target="_blank" />开源项目 ionic3-awesome 新动态—...</a>
+                    </li>
+                    
+                    <li><a href="/appTNSjqv/" target="_blank" />陈晓赵丽颖热恋互摸 陈妍希片场略显尴尬</a>
+                    </li>
+                    
+                    <li><a href="/appTWuyukY/" target="_blank" />腾讯去年多赚54% 末期息0.36港元</a>
+                    </li>
+                    
+                    <li><a href="/appsT3o/MkNHVGTP/" target="_blank" />微信5.0引领全民“打飞机”的时候，手机QQ略显...</a>
+                    </li>
+                    
+                    <li><a href="/appZFiEU/955758.html" target="_blank" />《文明6》开局玩法套路及运营指南 文明6前期发展...</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="index_item food">
+    <div class="item_tiltle clearfix">
+        <h5 class="fl">美食</h5>
+        <ul class="fr">
+            <li><a target="_blank" href="https://meishi.youbian.com/meishidaquan/" title="菜谱">菜谱</a></li>
+            <li><a target="_blank" href="https://meishi.youbian.com/yuanliao/" title="原料">原料</a></li>
+            <li><a target="_blank" href="https://meishi.youbian.com/techan/" title="特产">特产</a></li>
+            <li><a target="_blank" href="https://meishi.youbian.com/xiaochi/" title="小吃">小吃</a></li>
+            <li><a target="_blank" href="https://meishi.youbian.com/mingdian/" title="名店">名店</a></li>
+            <li><a target="_blank" href="https://meishi.youbian.com/" target="_blank" title="美食">更多+</a></li>
+        </ul>
+    </div>
+    <div class="item_box">
+        <div class="box_top clearfix">
+            <div class="box_top_left fl">
+                <div class="loop">
+                    <div class="layui-carousel" id="test4" style="width: 340px; height:292px;">
+                        <div carousel-item>
+                            
+  <div>
+                                <a target="_blank" title="好吃的铜锣烧的做法" href="https://meishi.youbian.com/meishi/166207/"><img alt="好吃的铜锣烧的做法" src="https://www.youbian.com/Images/201812/15459939812715.jpeg" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                <p>好吃的铜锣烧</p>
+                        </div>
+                         
+  <div>
+                                <a target="_blank" title="米浆粿的做法" href="https://meishi.youbian.com/meishi/166206/"><img alt="米浆粿的做法" src="https://www.youbian.com/Images/201710/15089203985959.png" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                <p>米浆粿</p>
+                        </div>
+                         
+  <div>
+                                <a target="_blank" title="小黄人香蕉蛋糕卷的做法" href="https://meishi.youbian.com/meishi/166205/"><img alt="小黄人香蕉蛋糕卷的做法" src="https://www.youbian.com/Images/201706/14963970052415.jpeg" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                <p>小黄人香蕉蛋糕卷</p>
+                        </div>
+                         
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                    </div>
+                </div>
+            </div>
+            <ul class="goods clearfix">
+                
+  
+  
+  
+  <li>
+                    <a target="_blank" title="想念小时候--胡萝卜苹果汁的做法" href="https://meishi.youbian.com/meishi/166204/">
+                        <img src="https://www.youbian.com/Images/201608/14701195804045.jpeg" alt="想念小时候--胡萝卜苹果汁的做法" style="width: 163px;height: 113px;" onerror="this.src='/Images/newindex/341x228.jpg'" />
+                        <span class="ellipsis">想念小时候--胡萝卜苹果汁的做法</span>
+                    </a>
+                    <p class="clearfix">
+                        <span class="fl"> 　　阳阳同学这几天...</span>
+                    </p>
+                    </li>
+                     
+  <li>
+                    <a target="_blank" title="鲜蘑粟米羹的做法" href="https://meishi.youbian.com/meishi/166203/">
+                        <img src="https://www.youbian.com/Images/201608/14701186625706.jpeg" alt="鲜蘑粟米羹的做法" style="width: 163px;height: 113px;" onerror="this.src='/Images/newindex/341x228.jpg'" />
+                        <span class="ellipsis">鲜蘑粟米羹的做法</span>
+                    </a>
+                    <p class="clearfix">
+                        <span class="fl"> 　　很喜欢欢喝粟米...</span>
+                    </p>
+                    </li>
+                     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+            </ul>
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">美食特产</h5>
+                <a href="https://meishi.youbian.com/techan/" target="_blank" class="fr" title="美食特产">更多+</a>
+            </div>
+            <ul class="speciality clearfix">
+                
+                <li><a href="https://meishi.youbian.com/techan52243/" target="_blank" title="上汤响螺">上汤响螺</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52242/" target="_blank" title="磨盘柿">磨盘柿</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52241/" target="_blank" title="良乡板栗">良乡板栗</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52240/" target="_blank" title="通州大樱桃">通州大樱桃</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52239/" target="_blank" title="百花酒">百花酒</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52238/" target="_blank" title="张家湾葡萄">张家湾葡萄</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52234/" target="_blank" title="阳山水蜜桃">阳山水蜜桃</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52233/" target="_blank" title="镇江香醋">镇江香醋</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52230/" target="_blank" title="乳酪紫薯小点">乳酪紫薯小点</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52229/" target="_blank" title="薯心抹茶小点">薯心抹茶小点</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52228/" target="_blank" title="南瓜小点">南瓜小点</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52227/" target="_blank" title="扬州酱菜">扬州酱菜</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52226/" target="_blank" title="碧螺春">碧螺春</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52225/" target="_blank" title="宜兴百合">宜兴百合</a></li>
+                
+                <li><a href="https://meishi.youbian.com/techan52224/" target="_blank" title="太仓肉松">太仓肉松</a></li>
+                
+            </ul>
+        </div>
+        <div class="box_top_mid fl">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">美食食谱</h5>
+                <ul class="fr">
+                    <li><a target="_blank" href="https://meishi.youbian.com/cx-ChuanCai/" title="川菜">川菜</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/cx-FuJian/" title="闽菜">闽菜</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/cx-YueCai/" title="粤菜">粤菜</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/cx-ZheCai/" title="浙菜">浙菜</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/cx-XiangCai/" title="湘菜">湘菜</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/meishidaquan/" target="_blank" title="美食食谱">更多+</a></li>
+                </ul>
+            </div>
+            <ul class="box_list box_list_food clearfix">
+                
+  
+  
+  
+  
+  
+                 <li class="fl "><a target="_blank" title="玉米胡萝卜粥的做法" href="https://meishi.youbian.com/meishi/166202/">玉米胡萝卜粥</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="发菜豆腐汤【卡丝万缕一碗汤】的做法" href="https://meishi.youbian.com/meishi/166201/">发菜豆腐汤【卡丝万缕一碗汤】</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="鸡蛋花生汤的做法" href="https://meishi.youbian.com/meishi/166200/">鸡蛋花生汤</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="多彩卷蛋的做法" href="https://meishi.youbian.com/meishi/166199/">多彩卷蛋</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="茴香猪肉饺的做法" href="https://meishi.youbian.com/meishi/166198/">茴香猪肉饺</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="少油蒜蓉肉末烤茄子的做法" href="https://meishi.youbian.com/meishi/166197/">少油蒜蓉肉末烤茄子</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="鸡蛋韭菜卷的做法" href="https://meishi.youbian.com/meishi/166196/">鸡蛋韭菜卷</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="创新炸蘑菇的做法" href="https://meishi.youbian.com/meishi/166195/">创新炸蘑菇</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="简单又好吃的红豆沙馅饼的做法" href="https://meishi.youbian.com/meishi/166194/">简单又好吃的红豆沙馅饼</a></li>
+                 
+                 <li class="fl "><a target="_blank" title="平底锅红豆沙馅饼的做法" href="https://meishi.youbian.com/meishi/166193/">平底锅红豆沙馅饼</a></li>
+                 
+            </ul>
+            <div class="item_tiltle want clearfix">
+                <h5 class="fl">特色小吃</h5>
+                <ul class="fr">
+                    <li><a target="_blank" href="https://meishi.youbian.com/xiaochi/chongqing/" target="_blank" title="重庆美食">重庆美食</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/xiaochi/shanghai/" target="_blank" title="上海美食">上海美食</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/xiaochi/beijing/" target="_blank" title="北京美食">北京美食</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/xiaochi/xiamen/" target="_blank" title="厦门美食">厦门美食</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/xiaochi/" target="_blank" title="特色小吃">更多+</a></li>
+                </ul>
+            </div>
+            <ul class="box_list box_list_food clearfix">
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1656/" title="上海阳春面" class="ellipsis">上海阳春面</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1655/" title="庐州烤鸭" class="ellipsis">庐州烤鸭</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1654/" title="熏肉饼" class="ellipsis">熏肉饼</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1653/" title="玻璃叶饼" class="ellipsis">玻璃叶饼</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1652/" title="晋城炒凉粉" class="ellipsis">晋城炒凉粉</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1651/" title="手抓葱油饼" class="ellipsis">手抓葱油饼</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1650/" title="绥江夫妻肺片" class="ellipsis">绥江夫妻肺片</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1649/" title="乌鲁木齐凉面" class="ellipsis">乌鲁木齐凉面</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1648/" title="乌鲁木齐帕尔木丁" class="ellipsis">乌鲁木齐帕尔木丁</a></li>
+                
+                <li class="fl"><a target="_blank" href="https://meishi.youbian.com/xiaochi/1647/" title="城隍庙五香豆" class="ellipsis">城隍庙五香豆</a></li>
+                
+            </ul>
+            <div class="item_tiltle want clearfix">
+                <h5 class="fl">美食攻略·资讯</h5>
+                <ul class="fr">
+                    <li><a target="_blank" href="https://meishi.youbian.com/mingdian/1020000/" title="福建">福建</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/mingdian/1010000/" title="北京">北京</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/mingdian/1150000/" title="上海">上海</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/mingdian/1240000/" title="江苏">江苏</a></li>
+                    <li><a target="_blank" href="https://meishi.youbian.com/mingdian/1410000/" title="海南">海南</a></li>
+                    <li><a href="https://meishi.youbian.com/mingdian/" target="_blank" title="美食攻略·资讯">更多+</a></li>
+                </ul>
+            </div>
+            <ul class="box_list">
+                
+                <li><a href="https://meishi.youbian.com/news215108/" target="_blank" title="吃肉预防青光眼" class="ellipsis">吃肉预防青光眼</a></li>
+                
+                <li><a href="https://meishi.youbian.com/news215107/" target="_blank" title="注意了！这些主食的热量比你想象的高" class="ellipsis">注意了！这些主食的热量比你想象的高</a></li>
+                
+                <li><a href="https://meishi.youbian.com/news215105/" target="_blank" title="参芪核桃汤补肺气" class="ellipsis">参芪核桃汤补肺气</a></li>
+                
+                <li><a href="https://meishi.youbian.com/news215104/" target="_blank" title="香脆坚果酥?好吃又好做" class="ellipsis">香脆坚果酥?好吃又好做</a></li>
+                
+                <li><a href="https://meishi.youbian.com/news214967/" target="_blank" title="表面光滑蛋可能是陈蛋" class="ellipsis">表面光滑蛋可能是陈蛋</a></li>
+                
+            </ul>
+        </div>
+        <div class="box_top_right fl	">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">今日菜谱推荐</h5>
+                <a href="https://meishi.youbian.com/meishidaquan/" class="fr" target="_blank" title="今日菜谱推荐">更多+</a>
+            </div>
+            <ul class="box_list clearfix">
+                
+                <li class="fl">
+                    <a target="_blank" title="好吃的铜锣烧的做法" href="https://meishi.youbian.com/meishi/166207/"><img alt="好吃的铜锣烧的做法" src="https://www.youbian.com/Images/201812/15459939812715.jpeg" style="width: 163px;height:123px;" onerror="this.src='/Images/newindex/341x228.jpg'" /><span>好吃的铜锣烧</span></a>
+                </li>
+                
+                <li class="fl">
+                    <a target="_blank" title="小黄人香蕉蛋糕卷的做法" href="https://meishi.youbian.com/meishi/166205/"><img alt="小黄人香蕉蛋糕卷的做法" src="https://www.youbian.com/Images/201706/14963970052415.jpeg" style="width: 163px;height:123px;" onerror="this.src='/Images/newindex/341x228.jpg'" /><span>小黄人香蕉蛋糕卷</span></a>
+                </li>
+                
+            </ul>
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">原料大全</h5>
+                <a href="https://meishi.youbian.com/yuanliao/" class="fr" target="_blank" title="原料大全">更多+</a>
+            </div>
+            <ul class="material">
+                <li>
+                    <span>水产</span>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/gali/" title="蛤蜊">蛤蜊</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/haixia/" title="海虾">海虾</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/youyuxian/" title="鱿鱼">鱿鱼</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/xunyu/" title="鲟鱼">鲟鱼</a>
+                </li>
+                <li>
+                    <span>蔬菜</span>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/KuGua/" title="苦瓜">苦瓜</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/TuDou/" title="土豆">土豆</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/HuangGua/" title="黄瓜">黄瓜</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/qieziyuan/" title="茄子">茄子</a>
+                </li>
+                <li>
+                    <span>谷物</span>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/jimi/" title="稷米">稷米</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/damai/" title="大麦">大麦</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/huangmi/" title="黄米">黄米</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/doufunao/" title="豆腐脑">豆腐脑</a>
+                </li>
+                <li>
+                    <span>水果</span>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/XiGua/" title="西瓜">西瓜</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/lanmei/" title="蓝莓">蓝莓</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/wumei/" title="乌梅">乌梅</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/jinju/" title="金橘">金橘</a>
+                </li>
+                <li>
+                    <span>肉类</span>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/niurou/" title="牛肉">牛肉</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/yangrou/" title="羊肉">羊肉</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/JiTui/" title="鸡腿">鸡腿</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/paigu/" title="排骨">排骨</a>
+                </li>
+                <li>
+                    <span>酒水</span>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/bailandi/" title="白兰地">白兰地</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/pijiu/" title="啤酒">啤酒</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/qingjiu/" title="清酒">清酒</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/lvcha/" title="绿茶">绿茶</a>
+                </li>
+                <li>
+                    <span>调料</span>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/shengchou/" title="生抽">生抽</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/baicu/" title="白醋">白醋</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/weijing/" title="味精">味精</a>
+                    <a target="_blank" href="https://meishi.youbian.com/YuanLiao/xiangzao/" title="香糟">香糟</a>
+                </li>
+            </ul>
+            <p>
+                <a target="_blank" href="https://www.youbian.com/huangye/"><img src="/Images/newindex/shangwu.jpg" /></a>
+            </p>
+        </div>
+    </div>
+</div>
+</div>
+<div class="index_item traffic">
+    <div class="item_tiltle clearfix">
+        <h5 class="fl">交通</h5>
+        <ul class="fr">
+            <li><a target="_blank" href="https://jiaotong.youbian.com/qiche/" title="汽车">汽车</a></li>
+            <li><a target="_blank" href="https://jipiao.youbian.com/" title="机票">机票</a></li>
+            <li><a target="_blank" href="https://jiaotong.youbian.com/gongjiao/" title="公交">公交</a></li>
+            <li><a target="_blank" href="https://jiaotong.youbian.com/peijia/" title="陪驾">陪驾</a></li>
+            <li><a target="_blank" href="https://jiaotong.youbian.com/zuche/" title="租车">租车</a></li>
+            <li><a target="_blank" href="https://jiaotong.youbian.com" title="交通">更多+</a></li>
+        </ul>
+    </div>
+    <div class="item_box">
+        <div class="box_top clearfix">
+            <div class="box_top_left fl">
+                <div class="loop">
+                    <div class="layui-carousel" id="test5" style="width: 340px; height:292px;">
+                        <div carousel-item>
+                            
+                            <div>
+                                <a target="_blank" href="https://jiaotong.youbian.com/news217675/" title="北汽福田、丰田、亿华通合作推出氢燃料客车"><img src="https://www.youbian.com/Images/Articles/2019-04-22/2834953476.jpg" title="北汽福田、丰田、亿华通合作推出氢燃料客车" alt="北汽福田、丰田、亿华通合作推出氢燃料客车" style="width: 341px;height:228px" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                <p>北汽福田、丰田、亿华通合作推出...</p>
+                            </div>
+                            
+                            <div>
+                                <a target="_blank" href="https://jiaotong.youbian.com/news217605/" title="EXEED星途TX/TXL如何打造自主新高端越级体验？且看分解"><img src="https://www.youbian.com/Images/Articles/2019-04-18/3576301500.jpg" title="EXEED星途TX/TXL如何打造自主新高端越级体验？且看分解" alt="EXEED星途TX/TXL如何打造自主新高端越级体验？且看分解" style="width: 341px;height:228px" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                <p>EXEED星途TX/TXL如何...</p>
+                            </div>
+                            
+                            <div>
+                                <a target="_blank" href="https://jiaotong.youbian.com/news217589/" title="2019五一假期深圳外来车限行吗"><img src="https://www.youbian.com/Images/Articles/2019-04-17/2894873934.jpg" title="2019五一假期深圳外来车限行吗" alt="2019五一假期深圳外来车限行吗" style="width: 341px;height:228px" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                <p>2019五一假期深圳外来车限行...</p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="item_tiltle clearfix">
+                    <h5 class="fl">二手车</h5>
+                    <ul class="clearfix fr">
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/ershouche/xiamen/" title="厦门">厦门</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/ershouche/beijing/" title="北京">北京</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/ershouche/shanghai/" title="上海">上海</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/ershouche/chongqing/" title="重庆">重庆</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/ershouche/chengdu/" title="成都">成都</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/ershouche/" title="二手车">更多+</a></li>
+                    </ul>
+                </div>
+                <dl class="old clearfix">
+                    <dt><span>车型型号</span><span>价格</span><time>上牌时间</time></dt> 
+  <dd><a target="_blank" href="https://jiaotong.youbian.com/ershouche_249/" title="本田 CR-V 2010款  新CR-V 都市版 自动 两驱 2.0L"><span>本田 CR-V 2010款新C</span><span class="f06">19万元</span><time>2016年2月</time></a></dd>
+                         
+  <dd><a target="_blank" href="https://jiaotong.youbian.com/ershouche_250/" title="本田 歌诗图 2012款  旗舰版 自动 3.5L"><span>本田 歌诗图 2012款旗舰版</span><span class="f06">29万元</span><time>2013年9月</time></a></dd>
+                         
+  <dd><a target="_blank" href="https://jiaotong.youbian.com/ershouche_251/" title="宝马 Z4(进口) 2011款  敞篷 sDrive23i 烈焰极致版 手自一体 2.5L"><span>宝马 Z4(进口) 2011款</span><span class="f06">41万元</span><time>2014年4月</time></a></dd>
+                         
+  <dd><a target="_blank" href="https://jiaotong.youbian.com/ershouche_252/" title="奥迪 A5(进口) 2010款  三厢 Sportback 舒适型 无级变速 两驱 2.0T"><span>奥迪 A5(进口) 2010款</span><span class="f06">36万元</span><time>2014年4月</time></a></dd>
+                         
+  <dd><a target="_blank" href="https://jiaotong.youbian.com/ershouche_253/" title="宝马 X5(进口) 2011款  xDrive35i 领先型 手自一体 3.0T"><span>宝马 X5(进口) 2011款</span><span class="f06">67万元</span><time>2013年12月</time></a></dd>
+                         
+  
+  
+  
+                </dl>
+            </div>
+            <div class="box_top_mid fl">
+                <div class="item_tiltle clearfix">
+                    <h5 class="fl pzimg">陪驾</h5>
+                    <ul class="fr">
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/peijia_27/xiamen/" title="厦门">厦门</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/peijia_1/beijing/" title="北京">北京</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/peijia_1/shanghai/" title="上海">上海</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/peijia_25/guangzhou/" title="广州">广州</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/peijia_6/chengdu/" title="成都">成都</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/peijia/" title="陪驾">更多+</a></li>
+                    </ul>
+                </div>
+
+                <ul class="clearfix">
+                    
+                    <li class="fl peijia">
+                        <a href="https://jiaotong.youbian.com/peijia_info3250/" target="_blank" title="鞍山单车单练 专业女教练 速成班 一对一"><img alt="鞍山单车单练 专业女教练 速成班 一对一1" src="/Images/Articles/2014-02-20/3364884391.jpg"></a>
+                        <p class="clearfix">
+                            <span class="ellipsis fl">鞍山单车单</span><em class="fr">鞍山</em>
+                        </p>
+                        <p class="clearfix">
+                            <span class="fl"><strong>60</strong>/小时</span><a href="https://jiaotong.youbian.com/peijia_info3250/" class="fr" target="_blank">我要查看</a>
+                        </p>
+                    </li>
+                    
+                    <li class="fl peijia">
+                        <a href="https://jiaotong.youbian.com/peijia_info3251/" target="_blank" title="南阳翼尊驾培-南阳陪练第一品牌"><img alt="南阳翼尊驾培-南阳陪练第一品牌1" src="/Images/Articles/2014-02-20/1914900484.jpg"></a>
+                        <p class="clearfix">
+                            <span class="ellipsis fl">南阳翼尊驾</span><em class="fr">南阳</em>
+                        </p>
+                        <p class="clearfix">
+                            <span class="fl"><strong>58</strong>/小时</span><a href="https://jiaotong.youbian.com/peijia_info3251/" class="fr" target="_blank">我要查看</a>
+                        </p>
+                    </li>
+                    
+                </ul>
+                <div class="item_tiltle want clearfix">
+                    <h5 class="fl pzimg">租车</h5>
+                    <ul class="fr">
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/zuche_27/xiamen/" title="厦门">厦门</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/zuche_1/beijing/" title="北京">北京</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/zuche_1/shanghai/" title="上海">上海</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/zuche_25/guangzhou/" title="广州">广州</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/zuche_6/chengdu/" title="成都">成都</a></li>
+                        <li><a target="_blank" href="https://jiaotong.youbian.com/zuche/" title="租车">更多+</a></li>
+                    </ul>
+                </div>
+                <ul class="clearfix">
+                    
+                    <li class="fl peijia">
+                        <a href="https://jiaotong.youbian.com/zuche_car297/" title="" target="_blank"><img src="/Images/20140304/31ae3282a44f754ca24e47dcc4039289.gif" width="169" height="169" style="display:block;"/></a>
+                        <p class="clearfix">
+                            <span class="ellipsis fl"></span><em class="fr">深圳</em>
+                        </p>
+                        <p class="clearfix">
+                            <span class="fl"><strong>389</strong>/天</span><a href="https://jiaotong.youbian.com/zuche_car297/" class="fr" target="_blank">我要租车</a>
+                        </p>
+                    </li>
+                    
+                    <li class="fl peijia">
+                        <a href="https://jiaotong.youbian.com/zuche_car298/" title="" target="_blank"><img src="/Images/20140304/35d1afe3f23edd906dac0826273e18d6.gif" width="169" height="169" style="display:block;"/></a>
+                        <p class="clearfix">
+                            <span class="ellipsis fl"></span><em class="fr">深圳</em>
+                        </p>
+                        <p class="clearfix">
+                            <span class="fl"><strong>614</strong>/天</span><a href="https://jiaotong.youbian.com/zuche_car298/" class="fr" target="_blank">我要租车</a>
+                        </p>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div class="box_top_right fl	">
+                <div class="item_tiltle clearfix">
+                    <h5 class="fl">违章查询</h5>
+                    <a href="https://www.youbian.com/weizhang/" class="fr" target="_blank" title="违章查询">更多+</a>
+                </div>
+                <ul class="Illegal clearfix">
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/beijing/">北京</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/shanghai/">上海</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/tianjin/">天津</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/nanjing/">南京</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/xiamen/">厦门</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/dongguan/">东莞</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/suzhou/">苏州</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/hangzhou/">杭州</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/wenzhou/">温州</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/hnstycxwz/">海南</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/nanning/">南宁</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/guilin/">桂林</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/shenzhen/">深圳</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/guangzhou/">广州</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/fuzhou/">福州</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/longyan/">龙岩</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/quanzhou/">泉州</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/chongqing/">重庆</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/gzstycxwz/">贵州</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/zhengzhou/">郑州</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/wuhan/">武汉</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/changsha/">长沙</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/changchun/">长春</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/nanchang/">南昌</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/shenyang/">沈阳</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/xining/">西宁</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/jinan/">济南</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/taiyuan/">太原</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/xian/">西安</a></li>
+                    <li class="fl"><a target="_blank" href="https://www.youbian.com/weizhang/chengdu/">成都</a></li>
+                </ul>
+                <div class="item_tiltle want traffic_info_title clearfix">
+                    <h5 class="fl">交通资讯</h5>
+                    <a href="https://jiaotong.youbian.com/jiaotongzixun/" class="fr" target="_blank" title="交通资讯">更多+</a>
+                </div>
+                <ul class="traffic_info">
+                    
+  
+  
+  
+                     <li>
+                        <span>车市动态  |</span><a target="_blank" href="https://jiaotong.youbian.com/news217675/" title="北汽福田、丰田、亿华通合作推出氢燃料客车" class="ellipsis">北汽福田、丰田、亿华通合作推出氢燃料客车</a>
+                    </li>
+                     
+                     <li>
+                        <span>驾驶技巧  |</span><a target="_blank" href="https://jiaotong.youbian.com/news217609/" title="深圳电动车限行规定(内附详细的时间和路段)" class="ellipsis">深圳电动车限行规定(内附详细的时间和路段)</a>
+                    </li>
+                     
+                     <li>
+                        <span>驾驶技巧  |</span><a target="_blank" href="https://jiaotong.youbian.com/news217608/" title="2019年最全最新的机动车驾车扣分标准" class="ellipsis">2019年最全最新的机动车驾车扣分标准</a>
+                    </li>
+                     
+                     <li>
+                        <span>车市动态  |</span><a target="_blank" href="https://jiaotong.youbian.com/news217605/" title="EXEED星途TX/TXL如何打造自主新高端越级体验？且看分解" class="ellipsis">EXEED星途TX/TXL如何打造自主新高端越级体验？且看分解</a>
+                    </li>
+                     
+                     <li>
+                        <span>驾驶技巧  |</span><a target="_blank" href="https://jiaotong.youbian.com/news217589/" title="2019五一假期深圳外来车限行吗" class="ellipsis">2019五一假期深圳外来车限行吗</a>
+                    </li>
+                     
+                     <li>
+                        <span>车市动态  |</span><a target="_blank" href="https://jiaotong.youbian.com/news217562/" title="2019上海车展三款新车亮相 长安欧尚汽车乘用化更成熟" class="ellipsis">2019上海车展三款新车亮相 长安欧尚汽车乘用化更成熟</a>
+                    </li>
+                     
+                </ul>
+            </div>
+        </div>
+        <!--<p><a target="_blank" href="https://www.youbian.com/vip/"><img src="/Images/newindex/1200x90.jpg"/></a></p>-->
+    </div>
+</div>
+<div class="index_item travel">
+    <div class="item_tiltle clearfix">
+        <h5 class="fl">旅行</h5>
+        <ul class="fr">
+            <li><a target="_blank" href="https://lvyou.youbian.com/lvyouzixun/" title="旅游资讯">旅游资讯</a></li>
+            <li><a target="_blank" href="https://lvyou.youbian.com/jingdian/" title="景点">景点</a></li>
+            <li><a target="_blank" href="https://lvyou.youbian.com/lvxingshe/" title="旅行社">旅行社</a></li>
+            <li><a target="_blank" href="https://hotel.youbian.com" title="酒店">酒店</a></li>
+            <li><a target="_blank" href="https://lvyou.youbian.com/lvyougonglve/" title="游记攻略">游记攻略</a></li>
+            <li><a target="_blank" href="https://lvyou.youbian.com" title="旅行">更多+</a></li>
+        </ul>
+    </div>
+    <div class="item_box">
+        <div class="box_top clearfix">
+            <div class="box_top_left fl">
+                <div class="loop">
+                    <div class="layui-carousel" id="test6" style="width: 340px; height:292px;">
+                        <div carousel-item>
+                            
+  <div>
+                                <a href="https://lvyou.youbian.com/news329/" target="_blank" title="厦门哪些地方有好吃的"><img src="https://www.youbian.com/Images/Articles/2014-01-13/2891696011.thumb.thumb.jpg" alt="厦门哪些地方有好吃的" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                厦门哪些地方有好吃的                        </div>
+                         
+  <div>
+                                <a href="https://lvyou.youbian.com/news395/" target="_blank" title="厦门旅游区概览、路线推荐"><img src="https://www.youbian.com/Images/Articles/2014-01-13/2610803490.thumb.jpg" alt="厦门旅游区概览、路线推荐" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                厦门旅游区概览、路线推荐                        </div>
+                         
+  <div>
+                                <a href="https://lvyou.youbian.com/news417/" target="_blank" title="国庆长假去哪里旅游好"><img src="https://www.youbian.com/Images/Articles/2014-01-13/3128409816.thumb.thumb.jpg" alt="国庆长假去哪里旅游好" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                国庆长假去哪里旅游好                        </div>
+                         
+  
+  
+                    </div>
+                </div>
+            </div>
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">旅游景点推荐</h5>
+                <ul class="fr">
+                    <li><a target="_blank" href="https://lvyou.youbian.com/jingdian/sanya/" title="三亚">三亚</a></li>
+                    <li><a target="_blank" href="https://lvyou.youbian.com/jingdian/yunnan/" title="云南">云南</a></li>
+                    <li><a target="_blank" href="https://lvyou.youbian.com/jingdian/lijiang/" title="丽江">丽江</a></li>
+                    <li><a target="_blank" href="https://lvyou.youbian.com/jingdian/shanghai/" title="上海">上海</a></li>
+                    <li><a target="_blank" href="https://lvyou.youbian.com/jingdian/" title="旅游景点推荐">更多+</a></li>
+                </ul>
+            </div>
+            <ul class="clearfix item_box">
+                
+                <li class="fl">
+                    <a href="https://lvyou.youbian.com/jingdian/shaoyang_6996/" title="九龙山" target="_blank">
+                        <img src="https://www.youbian.com/uploads/jingdian/hunan/b/7973.jpg" style="width: 162px;height: 117px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                        <p>邵阳—九龙山</p>
+                        <!--<p class="clearfix">-->
+                        <!--<em>主要景点：游玩、游玩、游玩</em>-->
+                        <!--</p>-->
+                    </a>
+                </li>
+                
+                <li class="fl">
+                    <a href="https://lvyou.youbian.com/jingdian/zhangjiajie_6997/" title="天台景区" target="_blank">
+                        <img src="https://www.youbian.com/uploads/jingdian/hunan/b/8076.jpg" style="width: 162px;height: 117px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                        <p>张家界—天台景区</p>
+                        <!--<p class="clearfix">-->
+                        <!--<em>主要景点：游玩、游玩、游玩</em>-->
+                        <!--</p>-->
+                    </a>
+                </li>
+                
+            </ul>
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">游记·攻略</h5>
+                <ul class="fr">
+                    <li><a href="https://lvyou.youbian.com/lvyougonglve/" target="_blank" title="游记·攻略">更多+</a></li>
+                </ul>
+            </div>
+            <ul class="clearfix item_box">
+                
+  
+  
+  
+                 <li class="fl">
+                    <a href="https://lvyou.youbian.com/news421/" target="_blank" title="厦门萤火虫公园">
+                        <img src="https://www.youbian.com/Images/Articles/2014-01-13/115867316.thumb.thumb.jpg" alt="厦门萤火虫公园" style="width: 162px;height: 117px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                        <p><strong class="f06"><h4>[攻略]</h4></strong>厦门萤火虫公园</p>
+                    </a>
+                </li>
+                 
+                 <li class="fl">
+                    <a href="https://lvyou.youbian.com/news423/" target="_blank" title="2012年10月最新厦门旅游攻略">
+                        <img src="https://www.youbian.com/Images/Articles/2014-01-13/420727549.thumb.thumb.jpg" alt="2012年10月最新厦门旅游攻略" style="width: 162px;height: 117px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                        <p><strong class="f06"><h4>[游记]</h4></strong>2012年10月最新</p>
+                    </a>
+                </li>
+                 
+            </ul>
+        </div>
+        <div class="box_top_mid fl">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">品牌旅行社</h5>
+                <ul class="fr">
+                    <li><a href="https://lvyou.youbian.com/lvxingshe/xiamen/" target="_blank" title="厦门">厦门</a></li>
+                    <li><a href="https://lvyou.youbian.com/lvxingshe/yunnan/" target="_blank" title="云南">云南</a></li>
+                    <li><a href="https://lvyou.youbian.com/lvxingshe/sanya/" target="_blank" title="三亚">三亚</a></li>
+                    <li><a href="https://lvyou.youbian.com/lvxingshe/lijiang/" target="_blank" title="丽江">丽江</a></li>
+                    <li><a href="https://lvyou.youbian.com/lvxingshe/shanghai/" target="_blank" title="上海">上海</a></li>
+                    <li><a target="_blank" href="https://lvyou.youbian.com/lvxingshe/" title="品牌旅行社">更多+</a></li>
+                </ul>
+            </div>
+            <ul class="clearfix box_list_food item_box">
+                
+                <li class="fl">
+                    <a href="https://lvyou.youbian.com/lvxingshe-2210/" target="_blank" title="洛阳市中旅旅行社有限公司王城大道富雅东方门市部">							<img src="https://www.youbian.com/images/lvxingshe/20121219/3461947761.jpg"  alt="洛阳市中旅旅行社有限公司王城大道富雅东方门市部" style="width: 211px;height:153px;" onerror="this.src='/Images/newindex/341x228.jpg'"/><p class="clearfix">
+								<span class="ellipsis fl">洛阳市中旅旅行社有限公司王城大道富雅东方门市部</span>
+							</p>
+							<p class="clearfix">联系电话：<strong class="f06">0379-65220006...</strong></p>
+							</a>
+                </li>
+                
+                <li class="fl">
+                    <a href="https://lvyou.youbian.com/lvxingshe-2211/" target="_blank" title="洛阳市中旅旅行社有限公司七里河门市部">							<img src="https://www.youbian.com/images/lvxingshe/20121219/3293136933.jpg"  alt="洛阳市中旅旅行社有限公司七里河门市部" style="width: 211px;height:153px;" onerror="this.src='/Images/newindex/341x228.jpg'"/><p class="clearfix">
+								<span class="ellipsis fl">洛阳市中旅旅行社有限公司七里河门市部</span>
+							</p>
+							<p class="clearfix">联系电话：<strong class="f06">13373775177</strong></p>
+							</a>
+                </li>
+                
+            </ul>
+            <div class="item_tiltle want clearfix">
+                <h5 class="fl">周边游热门线路</h5>
+                <ul class="fr">
+                    <li><a href="https://lvyou.youbian.com/xianlu/" target="_blank" title="周边游热门线路">更多+</a></li>
+                </ul>
+            </div>
+            <ul class="traffic_info">
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-48643/" target="_blank" title="三人以上成团_冬季长白山和平滑雪_五星温泉一日游_纯玩团">三人以上成团_冬季长白山和平滑雪_五星温泉一日游_纯玩团</a><strong class="fr f06">850</strong>
+                </li>
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-48644/" target="_blank" title="延吉起止_神秘朝鲜_揭秘朝鲜两日游_探秘朝鲜_朝鲜旅游_旅游">延吉起止_神秘朝鲜_揭秘朝鲜两日游_探秘朝鲜_朝鲜旅游_旅游</a><strong class="fr f06">850</strong>
+                </li>
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-48645/" target="_blank" title="四星酒店_长白山两日游滑雪温泉游_六人成团长白山四星中等酒店">四星酒店_长白山两日游滑雪温泉游_六人成团长白山四星中等酒店</a><strong class="fr f06">920</strong>
+                </li>
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-48646/" target="_blank" title="延吉到俄罗斯_海参崴风光三日游_延吉到俄罗斯旅游_俄罗斯旅游">延吉到俄罗斯_海参崴风光三日游_延吉到俄罗斯旅游_俄罗斯旅游</a><strong class="fr f06">1200</strong>
+                </li>
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-48647/" target="_blank" title="五星酒店_六人成团_长白山两日游_冬季滑雪团_冬季赏雪">五星酒店_六人成团_长白山两日游_冬季滑雪团_冬季赏雪</a><strong class="fr f06">1020</strong>
+                </li>
+                
+            </ul>
+            <div class="item_tiltle want travel_line clearfix">
+                <h5 class="fl">国内游热门线路</h5>
+                <ul class="fr">
+                    <li><a href="https://lvyou.youbian.com/xianlu/" target="_blank" title="国内游热门线路">更多+</a></li>
+                </ul>
+            </div>
+            <ul class="traffic_info">
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-70284/" target="_blank" title="石家庄到云南旅游 昆明 大理 丽江 西双版纳大索道四飞八日游">石家庄到云南旅游 昆明 大理 丽江 西双版纳大索道四飞八日游</a><strong class="fr f06">4580</strong>
+                </li>
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-70285/" target="_blank" title="石家庄到华东旅游_黄山冬景+文化宏村+千岛碧水+醉在温泉+西">石家庄到华东旅游_黄山冬景+文化宏村+千岛碧水+醉在温泉+西</a><strong class="fr f06">1990</strong>
+                </li>
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-70286/" target="_blank" title="石家庄到安徽黄山一地双卧精华五日游">石家庄到安徽黄山一地双卧精华五日游</a><strong class="fr f06">1180</strong>
+                </li>
+                
+                <li class="clearfix">
+                    <a class="ellipsis fl" href="https://lvyou.youbian.com/xianlu-70287/" target="_blank" title="石家庄到宁夏沙坡头、沙湖、影视城、西夏王陵双卧四日游">石家庄到宁夏沙坡头、沙湖、影视城、西夏王陵双卧四日游</a><strong class="fr f06">1190</strong>
+                </li>
+                
+            </ul>
+        </div>
+        <div class="box_top_right fl	">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">当季一起去旅游</h5>
+                <a href="https://lvyou.youbian.com/xianlu/" target="_blank" class="fr" title="当季一起去旅游">更多+</a>
+            </div>
+            <ul class="traffic_info">
+                
+                <li>
+                    <a href="https://lvyou.youbian.com/xianlu-229400/" target="_blank" title="广安小平故里华蓥山汽车二日游" class="ellipsis">广安小平故里华蓥山汽车二日游</a>
+                </li>
+                
+                <li>
+                    <a href="https://lvyou.youbian.com/xianlu-229399/" target="_blank" title="热高冰雪欢乐世界夜场多少钱 团购价格【6.5折】" class="ellipsis">热高冰雪欢乐世界夜场多少钱 团购价格【6.5折】</a>
+                </li>
+                
+                <li>
+                    <a href="https://lvyou.youbian.com/xianlu-229398/" target="_blank" title="广西北海，涠洲岛休闲二日游" class="ellipsis">广西北海，涠洲岛休闲二日游</a>
+                </li>
+                
+                <li>
+                    <a href="https://lvyou.youbian.com/xianlu-229396/" target="_blank" title="平山神鹿滑雪场一日游" class="ellipsis">平山神鹿滑雪场一日游</a>
+                </li>
+                
+                <li>
+                    <a href="https://lvyou.youbian.com/xianlu-229394/" target="_blank" title="海口温泉旅游，海口观澜湖温泉一日游，2014海口泡温泉" class="ellipsis">海口温泉旅游，海口观澜湖温泉一日游，2014海口泡温泉</a>
+                </li>
+                
+                <li>
+                    <a href="https://lvyou.youbian.com/xianlu-229390/" target="_blank" title="日照龙门崮春节文化庙会二日游" class="ellipsis">日照龙门崮春节文化庙会二日游</a>
+                </li>
+                
+            </ul>
+            <div class="item_tiltle want clearfix">
+                <h5 class="fl">旅游新鲜事</h5>
+                <a href="https://lvyou.youbian.com/lvyougonglve/" target="_blank" class="fr" title="旅游新鲜事">更多+</a>
+            </div>
+            <ul class="traffic_info traffic_info1">
+                
+                <li  class="active" >
+                    <span class="ellipsis"><a href="https://lvyou.youbian.com/news217615/"  target="_blank" title="树树槐华沁韵翔，芬芳四溢满城香！">树树槐华沁韵翔，芬芳四溢满城香！</a></span>
+                    <p>
+                        <a href="https://lvyou.youbian.com/news217615/" target="_blank" title="树树槐华沁韵翔，芬芳四溢满城香！"><img src="https://www.youbian.com/Images/Articles/2019-04-19/1915369535.jpg" style="width: 340px;height: 206px;" onerror="this.src='/Images/newindex/341x228.jpg'"></a>
+                    </p>
+                </li>
+                
+                <li >
+                    <span class="ellipsis"><a href="https://lvyou.youbian.com/news217549/"  target="_blank" title="“明湖秀”昨首次商演上座率100% 若天气允许将持续至11月份">“明湖秀”昨首次商演上座率100% 若天气允许将持...</a></span>
+                    <p>
+                        <a href="https://lvyou.youbian.com/news217549/" target="_blank" title="“明湖秀”昨首次商演上座率100% 若天气允许将持续至11月份"><img src="https://www.youbian.com/Images/Articles/2019-04-17/1793832946.jpg" style="width: 340px;height: 206px;" onerror="this.src='/Images/newindex/341x228.jpg'"></a>
+                    </p>
+                </li>
+                
+                <li >
+                    <span class="ellipsis"><a href="https://lvyou.youbian.com/news217545/"  target="_blank" title="高清：青岛今晨迎平流雾 “海市蜃楼”就在眼前">高清：青岛今晨迎平流雾 “海市蜃楼”就在眼前</a></span>
+                    <p>
+                        <a href="https://lvyou.youbian.com/news217545/" target="_blank" title="高清：青岛今晨迎平流雾 “海市蜃楼”就在眼前"><img src="https://www.youbian.com/Images/Articles/2019-04-17/3970757887.jpg" style="width: 340px;height: 206px;" onerror="this.src='/Images/newindex/341x228.jpg'"></a>
+                    </p>
+                </li>
+                
+                <li >
+                    <span class="ellipsis"><a href="https://lvyou.youbian.com/news217537/"  target="_blank" title="邹城旅游怎么突然就火了？">邹城旅游怎么突然就火了？</a></span>
+                    <p>
+                        <a href="https://lvyou.youbian.com/news217537/" target="_blank" title="邹城旅游怎么突然就火了？"><img src="https://www.youbian.com/Images/Articles/2019-04-16/1883418379.jpg" style="width: 340px;height: 206px;" onerror="this.src='/Images/newindex/341x228.jpg'"></a>
+                    </p>
+                </li>
+                
+                <li >
+                    <span class="ellipsis"><a href="https://lvyou.youbian.com/news217438/"  target="_blank" title="全国最慢！淄博“网红”绿皮小火车迎首批游客体验团">全国最慢！淄博“网红”绿皮小火车迎首批游客体验团</a></span>
+                    <p>
+                        <a href="https://lvyou.youbian.com/news217438/" target="_blank" title="全国最慢！淄博“网红”绿皮小火车迎首批游客体验团"><img src="https://www.youbian.com/Images/Articles/2019-04-15/1810346347.jpg" style="width: 340px;height: 206px;" onerror="this.src='/Images/newindex/341x228.jpg'"></a>
+                    </p>
+                </li>
+                
+            </ul>
+
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+<div class="index_item  house ">
+    <div class="item_tiltle clearfix">
+        <h5 class="fl">房产</h5>
+        <ul class="fr">
+            <li><a target="_blank" href="https://fangchan.youbian.com/designer/" title="设计师">设计师</a></li>
+            <li><a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/" title="装修效果图">装修效果图</a></li>
+            <li><a target="_blank" href="https://fangchan.youbian.com/company/" title="装修公司">装修公司</a></li>
+            <li><a target="_blank" href="https://fangchan.youbian.com/jiancai/" title="建材购买指南">建材购买指南</a></li>
+            <li><a target="_blank" href="https://fangchan.youbian.com/zhuangxiufengshui/" title="装修风水">装修风水</a></li>
+            <li><a target="_blank" href="https://fangchan.youbian.com/" title="房产">更多+</a></li>
+        </ul>
+    </div>
+    <div class="item_box">
+        <div class="box_top clearfix">
+            <div class="box_top_left fl">
+                <div class="loop">
+                    <div class="layui-carousel" id="test7" style="width: 340px; height:292px;">
+                        <div carousel-item>
+                            
+  <div>
+                                <a href="https://fangchan.youbian.com/xiaoguotu/1576_291544/" target="_blank" title="简洁雅致餐厅套装设计"><img src="https://www.youbian.com/Uploads/pic/20130507/201305072037310531510.jpg" alt="简洁雅致餐厅套装设计" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                简洁雅致餐厅套装设计                        </div>
+                         
+  <div>
+                                <a href="https://fangchan.youbian.com/xiaoguotu/1576_291543/" target="_blank" title="别墅之美：浪漫却又朴实的乡村风格餐厅"><img src="https://www.youbian.com/Uploads/pic/20130507/20130507203729052958.jpg" alt="别墅之美：浪漫却又朴实的乡村风格餐厅" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                别墅之美：浪漫却又朴实的乡村风...                        </div>
+                         
+  <div>
+                                <a href="https://fangchan.youbian.com/xiaoguotu/1576_291542/" target="_blank" title="现代简约时尚餐厅设计"><img src="https://www.youbian.com/Uploads/pic/20130507/201305072037280528439.jpg" alt="现代简约时尚餐厅设计" style="width: 341px;height: 228px;" onerror="this.src='/Images/newindex/341x228.jpg'" /></a>
+                                现代简约时尚餐厅设计                        </div>
+                         
+  
+  
+                    </div>
+                </div>
+            </div>
+            <ul class="goods clearfix">
+                
+  
+  
+  
+                 <li>
+                    <a href="https://fangchan.youbian.com/xiaoguotu/1576_291541/" title="餐厅里的背景墙装饰效果图">
+                        <img src="https://www.youbian.com/Uploads/pic/20130507/201305072037280528124.jpg" style="width: 163px;height: 113px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                        <span>餐厅里的背景墙装饰效果图</span>
+                    </a>
+                </li>
+                 
+                 <li>
+                    <a href="https://fangchan.youbian.com/xiaoguotu/1576_291540/" title="百变餐桌装修效果图">
+                        <img src="https://www.youbian.com/Uploads/pic/20130507/201305072037270527924.jpg" style="width: 163px;height: 113px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                        <span>百变餐桌装修效果图</span>
+                    </a>
+                </li>
+                 
+            </ul>
+        </div>
+        <div class="box_top_mid fl">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">装修资讯</h5>
+                <a href="https://fangchan.youbian.com/zhuangxiufengshui/" class="fr" target="_blank" title="装修资讯">更多+</a>
+            </div>
+            <ul class="box_list">
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217673/" target="_blank" class="clearfix" title="导致厨房漏财的风水 厨房风水如何布局">
+                        <span class="fl ellipsis">导致厨房漏财的风水 厨房风水如何布局</span><time class="fr">2019-04-22</time>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217672/" target="_blank" class="clearfix" title="阳台养什么植物风水好 阳台养植物风水禁忌">
+                        <span class="fl ellipsis">阳台养什么植物风水好 阳台养植物风水禁忌</span><time class="fr">2019-04-22</time>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217671/" target="_blank" class="clearfix" title="卧室摆放什么盆栽风水好 卧室盆栽摆放禁忌">
+                        <span class="fl ellipsis">卧室摆放什么盆栽风水好 卧室盆栽摆放禁忌</span><time class="fr">2019-04-22</time>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217616/" target="_blank" class="clearfix" title="六家单位认建千山西路绿化 260余人参加栽植">
+                        <span class="fl ellipsis">六家单位认建千山西路绿化 260余人参加栽植</span><time class="fr">2019-04-19</time>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217536/" target="_blank" class="clearfix" title="卧室空调安装风水 卧室空调风水禁忌">
+                        <span class="fl ellipsis">卧室空调安装风水 卧室空调风水禁忌</span><time class="fr">2019-04-15</time>
+                    </a>
+                </li>
+                
+            </ul>
+            <div class="item_tiltle want clearfix">
+                <h5 class="fl">建材购买指南</h5>
+                <a href="https://fangchan.youbian.com/jiancai/" class="fr" target="_blank" title="建材购买指南">更多+</a>
+            </div>
+            <ul class="box_list guide">
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217607/" title="厦门市音乐学校2019年高一艺术教育实验班招生简章" class="clearfix" target="_blank">
+                        <span class="fl ellipsis">厦门市音乐学校2019年高一艺术教育实验...</span><time class="fr">2019-04-18</time>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217606/" title="2019年厦门实验中学高一数字化实验班招生简章" class="clearfix" target="_blank">
+                        <span class="fl ellipsis">2019年厦门实验中学高一数字化实验班招...</span><time class="fr">2019-04-18</time>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217588/" title="2019年上海中考报名时间" class="clearfix" target="_blank">
+                        <span class="fl ellipsis">2019年上海中考报名时间</span><time class="fr">2019-04-17</time>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217587/" title="2019年武汉市中考报名信息内容" class="clearfix" target="_blank">
+                        <span class="fl ellipsis">2019年武汉市中考报名信息内容</span><time class="fr">2019-04-17</time>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="https://fangchan.youbian.com/news217586/" title="2019年武汉市中考单独报名" class="clearfix" target="_blank">
+                        <span class="fl ellipsis">2019年武汉市中考单独报名</span><time class="fr">2019-04-17</time>
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+        <div class="box_top_right fl	">
+            <form>
+                <div class="item_tiltle clearfix">
+                    <h5 class="fl">3分钟快速解决你的装修问题</h5>
+                </div>
+                <div class="box_list box_list1">
+                    <textarea rows="" cols="" placeholder="请输入您要解决的问题"></textarea>
+                    <!-- <input type="text" name="" placeholder="" value="" /> -->
+                    <p><button type="button">发送</button></p>
+                </div>
+            </form>
+            <div class="item_tiltle want clearfix">
+                <h5 class="fl">装修效果大全</h5>
+                <a href="https://fangchan.youbian.com/xiaoguotu/" class="fr" target="_blank" title="装修效果大全">更多+</a>
+            </div>
+
+            <ul class="box_list clearfix">
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/gongzuojian/" title="工作间">
+                        <div class="gzs"></div><span>工作间</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/tianyuan/" title="田园风">
+                        <div class="tyf"></div><span>田园风</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/xiuxishi/" title="休息室">
+                        <div class="xxs"></div><span>休息室</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/fushi/" title="复式装修">
+                        <div class="fszx"></div><span>复式装修</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/chuwugui/" title="储物柜">
+                        <div class="cwg"></div><span>储物柜</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/chufangtu/" title="厨房装修">
+                        <div class="cfzx"></div><span>厨房装修</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/zhonghuxing/" title="中户型">
+                        <div class="zhx"></div><span>中户型</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/shishang/" title="时尚装修">
+                        <div class="sszx"></div><span>时尚装修</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/haohua/" title="豪华装修">
+                        <div class="hhzx"></div><span>豪华装修</span></a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://fangchan.youbian.com/xiaoguotu/peishitu/" title="家居配饰">
+                        <div class="jjps"></div><span>家居配饰</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <ul class="box_bottom clearfix noborder tubiao">
+        <li class="fl">
+            <a href="https://shishang.youbian.com/" target="_blank" title="衣：穿得更轻松">
+                <img src="https://www.youbian.com/images/zipimg/clothes_btn.jpg">
+            </a>
+        </li>
+        <li class="fl">
+            <a href="https://meishi.youbian.com/" target="_blank" title="食：吃得更轻松">
+                <img src="https://www.youbian.com/images/zipimg/food_btn.jpg">
+            </a>
+        </li>
+        <li class="fl">
+            <a href="https://fangchan.youbian.com/" target="_blank" title="住：活得更轻松">
+                <img src="https://www.youbian.com/images/zipimg/live_btn.jpg">
+            </a>
+        </li>
+        <li class="fl">
+            <a href="https://jiaotong.youbian.com/" target="_blank" title="行：走得更轻松">
+                <img src="https://www.youbian.com/images/zipimg/walk_btn.jpg">
+            </a>
+        </li>
+        <li class="fl">
+            <a href="https://lvyou.youbian.com/" target="_blank" title="玩：玩得更轻松">
+                <img src="https://www.youbian.com/images/zipimg/play_btn.jpg">
+            </a>
+        </li>
+        <li class="fl noM">
+            <a href="https://yule.youbian.com/" target="_blank" title="乐：乐得更轻松">
+                <img src="https://www.youbian.com/images/zipimg/happy_btn.jpg">
+            </a>
+        </li>
+    </ul>
+    <ul class="box_bottom border_right noborder clearfix">
+        <li class="fl">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">教育</h5>
+                <a href="https://www.youbian.com/jiaoyu/" class="fr" target="_blank" title="教育">更多+</a>
+            </div>
+            <div>
+                <a href="https://hengshui.youbian.com/news1378360573/" target="_blank" title="情系边疆 鄂尔多斯衡水实验中学边疆教育成绩斐然">
+                    <em class="tuwenzi">情系边疆 鄂尔多斯衡水实验中学...</em>
+                    <img src="https://www.youbian.com/Images/Articles/2019-03-29/3442121927.jpg" alt="情系边疆 鄂尔多斯衡水实验中学边疆教育成绩斐然" style="width: 284px;height: 190px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                </a>
+            </div>
+            <ul class="text">
+                
+                <li><a href="https://www.youbian.com/news1378360865/" target="_blank" title="2019年武昌初三分配生考试为何在四调之前">2019年武昌初三分配生考试为何在四...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360852/" target="_blank" title="调查：27%的受访企业认为海归的自我评价过高">调查：27%的受访企业认为海归的自我...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360849/" target="_blank" title="2019英国留学报告：中国学生的就读方向依旧以商科为主">2019英国留学报告：中国学生的就读...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360828/" target="_blank" title="2019年福建中考改革政策：深化招生制度">2019年福建中考改革政策：深化招生...</a></li>
+                
+                <li><a href="https://huzhou.youbian.com/news1378360827/" target="_blank" title="浙江2019年湖州中考招生新政策">浙江2019年湖州中考招生新政策</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360826/" target="_blank" title="2019年中考生物复习计划及备考方法">2019年中考生物复习计划及备考方法</a></li>
+                
+                <li><a href="https://taian.youbian.com/news1378360821/" target="_blank" title="山东2019年泰安中考招生录取政策调整">山东2019年泰安中考招生录取政策调...</a></li>
+                
+                <li><a href="https://suqian.youbian.com/news1378360820/" target="_blank" title="2019年宿迁中考招生政策新变化解析">2019年宿迁中考招生政策新变化解析</a></li>
+                
+            </ul>
+        </li>
+        <li class="fl">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">亲子</h5>
+                <a href="https://www.youbian.com/qinzi/" class="fr" target="_blank" title="亲子">更多+</a>
+            </div>
+            <div>
+                <a href="https://www.youbian.com/news1378345469/" target="_blank" title="婴儿床有必要买吗 作为妈妈有必要告诉你一下">
+                    <em class="tuwenzi">婴儿床有必要买吗 作为妈妈有必...</em>
+                    <img src="/Images/201812/15457286903833.jpeg" alt="婴儿床有必要买吗 作为妈妈有必要告诉你一下" style="width: 284px;height: 190px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                </a>
+            </div>
+            <ul class="text">
+                
+                <li><a href="https://www.youbian.com/news1378359132/" target="_blank" title="儿童游泳时容易引起耳部感染 应注意保护">儿童游泳时容易引起耳部感染 应注意保...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378358134/" target="_blank" title="引导孩子正确处理负面情绪 别让负面情绪成为他的压力">引导孩子正确处理负面情绪 别让负面情...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378358133/" target="_blank" title="宝宝湿疹并不可怕 做好护理可以避免">宝宝湿疹并不可怕 做好护理可以避免</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378358132/" target="_blank" title="宝宝喂辅食 妈妈的理论遇上了奶奶的经验">宝宝喂辅食 妈妈的理论遇上了奶奶的经...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378358131/" target="_blank" title="促进宝宝肢体发育的20个游戏">促进宝宝肢体发育的20个游戏</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378347566/" target="_blank" title="大部分娃在七岁前患过两次以上的中耳炎">大部分娃在七岁前患过两次以上的中耳炎</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378347565/" target="_blank" title="胆固醇高 生二胎难">胆固醇高 生二胎难</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378347564/" target="_blank" title="多喝水可以补充羊水吗">多喝水可以补充羊水吗</a></li>
+                
+            </ul>
+        </li>
+        <li class="fl">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">体育</h5>
+                <a href="https://www.youbian.com/tiyu/" class="fr" target="_blank" title="体育">更多+</a>
+            </div>
+            <div>
+                <a href="https://www.youbian.com/news1378360313/" target="_blank" title="考辛斯对火箭27+8+7：试探步中投">
+                    <em class="tuwenzi">考辛斯对火箭27+8+7：试探...</em>
+                    <img src="https://www.youbian.com/Images/20190315/a5921c0960a0f58575414aa239b6a3bc.png" alt="考辛斯对火箭27+8+7：试探步中投" style="width: 284px;height: 190px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                </a>
+            </div>
+            <ul class="text">
+                
+                <li><a href="https://www.youbian.com/news1378360866/" target="_blank" title="武切维奇：对位伦纳德很难，我们本应给戈登更多帮助">武切维奇：对位伦纳德很难，我们本应给...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360864/" target="_blank" title="利拉德：不会关注质疑者，只会关注如何成为一个更好的团队">利拉德：不会关注质疑者，只会关注如何...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360863/" target="_blank" title="弗格森：我们需要改变对开拓者双枪的防守策略">弗格森：我们需要改变对开拓者双枪的防...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360862/" target="_blank" title="威少谈本场没有内线得分：我的任务是让队友在空位接球">威少谈本场没有内线得分：我的任务是让...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360861/" target="_blank" title="格里芬：希望球迷能感受到我们的努力">格里芬：希望球迷能感受到我们的努力</a></li>
+                
+                <li><a href="https://tianjin.youbian.com/news1378360859/" target="_blank" title="足球报：天海申诉函仅在媒体间流转，并非官方发出">足球报：天海申诉函仅在媒体间流转，并...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360858/" target="_blank" title="哈德森返美发声感谢辽篮：结局遗憾，心怀感恩">哈德森返美发声感谢辽篮：结局遗憾，心...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360856/" target="_blank" title="CBA官方发布海报：今天地球就是我的主场">CBA官方发布海报：今天地球就是我的...</a></li>
+                
+            </ul>
+        </li>
+        <li class="fl noP noborder noM">
+            <div class="item_tiltle clearfix">
+                <h5 class="fl">车讯</h5>
+                <a href="https://www.youbian.com/chexun/" class="fr" target="_blank" title="车讯">更多+</a>
+            </div>
+            <div>
+                <a href="https://zhengzhou.youbian.com/news1378360654/" target="_blank" title="日产汽车2019年一季度销量同比增长2.3%">
+                    <em class="tuwenzi">日产汽车2019年一季度销量同...</em>
+                    <img src="https://www.youbian.com/Images/Articles/2019-04-04/2357096982.jpg" alt="日产汽车2019年一季度销量同比增长2.3%" style="width: 284px;height: 190px;" onerror="this.src='/Images/newindex/341x228.jpg'">
+                </a>
+            </div>
+            <ul class="text">
+                
+                <li><a href="https://guiyang.youbian.com/news1378360848/" target="_blank" title="焕新蝶变 车市暖阳 2019第九届贵阳国际车展火爆收官！">焕新蝶变 车市暖阳 2019第九届贵...</a></li>
+                
+                <li><a href="https://shijiazhuang.youbian.com/news1378360745/" target="_blank" title="2019正定国际车展开幕在即，最全观展攻略一网打尽">2019正定国际车展开幕在即，最全观...</a></li>
+                
+                <li><a href="https://shijiazhuang.youbian.com/news1378360743/" target="_blank" title="2019正定国际车展开通免费摆渡车">2019正定国际车展开通免费摆渡车</a></li>
+                
+                <li><a href="https://guiyang.youbian.com/news1378360695/" target="_blank" title="4月贵阳国际车展，银行金融购车分期节为您购车保驾护航">4月贵阳国际车展，银行金融购车分期节...</a></li>
+                
+                <li><a href="https://jiyuan.youbian.com/news1378360673/" target="_blank" title="聚焦汽车材料技术，济源钢铁与您相约车都武汉">聚焦汽车材料技术，济源钢铁与您相约车...</a></li>
+                
+                <li><a href="https://www.youbian.com/news1378360672/" target="_blank" title="房车旅游，远比你想象的更加省钱！">房车旅游，远比你想象的更加省钱！</a></li>
+                
+                <li><a href="https://shanghai.youbian.com/news1378360668/" target="_blank" title="8月上海充电设施展第二轮专业观众邀约强劲发力">8月上海充电设施展第二轮专业观众邀约...</a></li>
+                
+                <li><a href="https://shanghai.youbian.com/news1378360666/" target="_blank" title="踏青正当时，却苦于停车难？5月上海国际智慧停车设备展创造未来生活">踏青正当时，却苦于停车难？5月上海国...</a></li>
+                
+            </ul>
+        </li>
+    </ul>
+    <p>
+        <a target="_blank" href="https://www.youbian.com/vip/"><img src="/Images/newindex/1200x90.jpg" /></a>
+    </p>
+</div>
+</div>
+</div>
+<div class="footer">
+    <div class="container">
+        <div class="foot_top">
+            <div class="tabtitle">
+                <a href="javascript:;" class="hotbtn active">友情链接</a>
+                <a href="javascript:;" class=" ">合作伙伴</a>
+                <a href="javascript:;" class=" ">网址导航</a>
+            </div>
+            <ul class="cont active clearfix">
+                
+                <li><a href="http://www.cifnews.com/" target="_blank">电商新闻</a></li>
+                
+                <li><a href="https://www.ixiumei.com" target="_blank">爱秀美</a></li>
+                
+                <li><a href="http://uhchina.com" target="_blank">足球之夜</a></li>
+                
+                <li><a href="http://www.6a8a.com" target="_blank">美食天下菜谱</a></li>
+                
+                <li><a href="http://www.gongguanzhijia.com" target="_blank">公关公司</a></li>
+                
+                <li><a href="http://beijing.baixing.com" target="_blank">北京百姓网</a></li>
+                
+                <li><a href="https://www.chashebao.com/" target="_blank">社保查询网</a></li>
+                
+                <li><a href="http://www.pptok.com/" target="_blank">PPT课件下载</a></li>
+                
+                <li><a href="http://www.jiameng001.com/" target="_blank">第一加盟网</a></li>
+                
+                <li><a href="https://www.xianjichina.com/" target="_blank">贤集网</a></li>
+                
+                <li><a href="https://ask.jia.com" target="_blank">装修问答</a></li>
+                
+                <li><a href="http://www.shushi100.com/" target="_blank">中央空调</a></li>
+                
+                <li><a href="http://www.zhuangxiubaike.cn/" target="_blank">装修效果图</a></li>
+                
+                <li><a href="http://china.findlaw.cn/" target="_blank">法律咨询</a></li>
+                
+                <li><a href="http://jibing.qiuyi.cn/" target="_blank">疾病库</a></li>
+                
+                <li><a href="http://www.tuniu.com" target="_blank">途牛旅游网</a></li>
+                
+                <li><a href="http://poi.mapbar.com/" target="_blank">中国地图</a></li>
+                
+                <li><a href="http://www.jiwu.com/" target="_blank">买房网</a></li>
+                
+                <li><a href="http://www.99.com.cn/" target="_blank">99健康网</a></li>
+                
+                <li><a href="http://www.258.com" target="_blank">供求信息</a></li>
+                
+                <li><a href="https://finance.gucheng.com/" target="_blank">股城财经</a></li>
+                
+                <li><a href="http://b2b.hc360.com/" target="_blank">慧聪网</a></li>
+                
+                <li><a href="http://www.azg168.cn/" target="_blank">风水</a></li>
+                
+                <li><a href="http://www.lagou.com/" target="_blank">招聘网</a></li>
+                
+                <li><a href="http://www.qianzhan.com/" target="_blank">前瞻网</a></li>
+                
+                <li><a href="http://www.xiziwang.net" target="_blank">发型设计</a></li>
+                
+                <li><a href="http://www.66law.cn/" target="_blank">律师</a></li>
+                
+                <li><a href="http://www.manmankan.com/" target="_blank">火影忍者漫画</a></li>
+                
+                <li><a href=" http://www.yaolan.com/" target="_blank">摇篮育儿网</a></li>
+                
+                <li><a href="http://www.ly.com/" target="_blank">同程旅游网</a></li>
+                
+                <li><a href="/links/" target="_blank">&gt;&gt;更多友情链接</a></li>
+            </ul>
+            <ul class="cont clearfix">
+                
+            </ul>
+            <ul class="cont clearfix">
+                
+            </ul>
+        </div>
+        <ul class="foot_mid clearfix">
+            <li><span>热门城市</span></li>
+            <li><a target="_blank" href="https://beijing.youbian.com" title="北京邮编生活">北京</a></li>
+            <li><a target="_blank" href="https://guangzhou.youbian.com" title="广州邮编生活">广州</a></li>
+            <li><a target="_blank" href="https://shenzhen.youbian.com" title="深圳邮编生活">深圳</a></li>
+            <li><a target="_blank" href="https://shanghai.youbian.com" title="上海邮编生活">上海</a></li>
+            <li><a target="_blank" href="https://chengdu.youbian.com" title="成都邮编生活">成都</a></li>
+            <li><a target="_blank" href="https://tianjin.youbian.com" title="天津邮编生活">天津</a></li>
+            <li><a target="_blank" href="https://nanjing.youbian.com" title="南京邮编生活">南京</a></li>
+            <li><a target="_blank" href="https://xian.youbian.com" title="西安邮编生活">西安</a></li>
+            <li><a target="_blank" href="https://xiamen.youbian.com" title="厦门邮编生活">厦门</a></li>
+            <li><a target="_blank" href="https://changsha.youbian.com" title="长沙邮编生活">长沙</a></li>
+            <li><a target="_blank" href="https://hangzhou.youbian.com" title="杭州邮编生活">杭州</a></li>
+            <li><a target="_blank" href="https://chongqing.youbian.com" title="重庆邮编生活">重庆</a></li>
+            <li><a target="_blank" href="https://sanya.youbian.com" title="三亚邮编生活">三亚</a></li>
+            <li><a target="_blank" href="https://suzhou.youbian.com" title="苏州邮编生活">苏州</a></li>
+            <li><a target="_blank" href="https://fuzhou.youbian.com" title="福州邮编生活">福州</a></li>
+            <li><a target="_blank" href="https://lijiang.youbian.com" title="丽江邮编生活">丽江</a></li>
+            <li><a target="_blank" href="https://wuhan.youbian.com" title="武汉邮编生活">武汉</a></li>
+            <li><a target="_blank" href="https://dongguan.youbian.com" title="东莞邮编生活">东莞</a></li>
+            <li><a target="_blank" href="https://ningbo.youbian.com" title="宁波邮编生活">宁波</a></li>
+            <li><a target="_blank" href="https://zhengzhou.youbian.com" title="郑州邮编生活">郑州</a></li>
+            <li><a target="_blank" href="https://qingdao.youbian.com" title="青岛邮编生活">青岛</a></li>
+        </ul>
+        <div class="foot_bottom clearfix">
+            <div class="fl">
+                <a href=""><img src="/Images/newindex/flogo.png"></a>
+            </div>
+            <div class="fr">
+                <p><a href="https://www.youbian.com/about/company/" target="_blank">公司概况</a><span>|</span>
+                    <a href="https://www.youbian.com/about/zhongzhi/" target="_blank"> 企业宗旨</a><span>|</span>
+                    <a href="https://www.youbian.com/about/fangxian/" target="_blank"> 发展方向 </a><span>|</span>
+                    <!--<a href="https://www.youbian.com/about/fengcai/" target="_blank"> 企业风采</a><span>|</span>-->
+                    <a href="https://www.youbian.com/about/contact/" target="_blank">联系我们</a><span>|</span><a href="https://www.youbian.com/about/searchapi/"> 免费代码</a><span>|</span>
+                    <a href="" rel="nofollow" target="_blank" id="jubao">违法和不良信息举报中心</a>
+                </p>
+                <div style="padding: 0;padding-top: 10px">邮编网举报投诉方式：<span>投诉电话：<!--<img src="/Images/tel.png" style="    margin-top: -2px;margin-right: 5px;font-size: 0;vertical-align: middle;">--></span><span>邮箱：3083145028@qq.com<!--<img src="/Images/email.png" style="    margin-top: -2px;margin-right: 5px;font-size: 0;vertical-align: middle;">--></span><br><span>微信： QQ：3083145028（接受色情、低俗、侵权、虐待等违法和不良信息的投诉）</span></div>
+                <div><span>邮编网 www.youbian.com</span><br/><br/><img src="/Images/police.png" style="margin-left: 10px;margin-right: 5px;font-size: 0;vertical-align: middle;"> </div>
+                <p><img src="/Images/newindex/apply_1.jpg" /><img src="/Images/newindex/apply_2.jpg" /><img src="/Images/newindex/apply_3.jpg" /><img src="/Images/newindex/apply_4.jpg" /><img src="/Images/newindex/apply_5.jpg" /><img src="/Images/newindex/apply_6.jpg"
+                    /></p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div style="display:none">
+</div>
+<script src="/Javascripts/newindex/home.js?v=201810231536" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+    function test(obj) {
+        var words = document.getElementById("key").value;
+        jQuery(document).ready(function() {
+            jQuery("div[id='searchcityzicpode'] div[class='12']").remove();
+        });
+        $.ajax({
+            url: 'https://www.youbian.com/?module=Home&action=ReturnAjax',
+            type: "GET",
+            data: {
+                keyword: words
+            },
+            datanType: 'json',
+            success: function(json) {
+                if (typeof json == 'string') {
+                    var oProduct;
+                    var result = eval("(" + json + ")"); //转换为json对象
+                    for (var i = 0, n = result.length; i < n; i++) {
+                        oProduct = result[i];
+                        var txt1 = '<div class=12>' + oProduct.name + '&nbsp;&nbsp;<em>' + oProduct.zipcode + '</em></div>'; // 以 HTML 创建新元素
+                        //var txt2=$("<p></p>").text("Text.");   // 以 jQuery 创建新元素
+                        //var txt3=document.createElement("p");  // 以 DOM 创建新元素
+                        //txt3.innerHTML=oProduct.sname;
+                        $("#stage").after(txt1);
+                        $row = $(this);
+                    }
+                }
+            }
+        });
+    }
+    function youbianshow() {
+        $("#searchcityzicpode").hide();
+    }
+    $('.peijia img').error(function() {
+        $(this).attr('src', "/Images/newindex/341x228.jpg");
+    });
+</script>
+<script>
+    var jubaoref = window.location.href;
+    $("#jubao").attr('href', 'http://jubao.yisanwu.com/jubao/7/?site=youbian&ref=' + jubaoref);
+</script>
+<script src="/Static/bottom.js?v201811140001"></script>
+<script>
+    (function() {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+</body>
+</html>

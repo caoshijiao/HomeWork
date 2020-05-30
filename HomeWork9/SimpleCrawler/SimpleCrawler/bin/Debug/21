@@ -1,0 +1,203 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>���˿���--�۵�--������</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="427498" />
+
+<!-- ������ʽ�� -->
+<link rel="stylesheet"  href="/img/MAIN/2014/06/114590/page.css" type="text/css" media="all"  />
+<link rel="stylesheet"  href="http://www.people.com.cn/img/MAIN/2016/11/116906/page_nav.css" type="text/css" media="all"  />
+
+
+<script type="text/javascript" src='http://tools.people.com.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+<script type="text/javascript" src="http://www.people.com.cn/css/search.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 4px 0 3px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">��վ��ҳ</a><a href="http://politics.people.com.cn/" target="_blank">ʱ��</a><a href="http://world.people.com.cn/" target="_blank">����</a><a href="http://finance.people.com.cn/" target="_blank">�ƾ�</a><a href="http://tw.people.com.cn/" target="_blank">̨��</a><a href="http://military.people.com.cn/" target="_blank">����</a><a href="http://opinion.people.com.cn/" target="_blank">�۵�</a><a href="http://leaders.people.com.cn/" target="_blank">�쵼</a><a href="http://renshi.people.com.cn/" target="_blank">����</a><a href="http://theory.people.com.cn/" target="_blank">����</a><a href="http://legal.people.com.cn/" target="_blank">����</a><a href="http://society.people.com.cn/" target="_blank">���</a><a href="http://industry.people.com.cn/" target="_blank">����</a><a href="http://edu.people.com.cn/" target="_blank">����</a><a href="http://kpzg.people.com.cn/" target="_blank">����</a><a href="http://sports.people.com.cn/" target="_blank">����</a><a href="http://culture.people.com.cn/" target="_blank">�Ļ�</a><a href="http://art.people.com.cn/" target="_blank">�黭</a><a href="http://house.people.com.cn/" target="_blank">����</a><a href="http://auto.people.com.cn/" target="_blank">����</a><a href="http://travel.people.com.cn/" target="_blank">����</a><a href="http://health.people.com.cn/" target="_blank">����</a><a href="http://tv.people.com.cn/" target="_blank">��Ƶ</a><a href="http://ip.people.com.cn/" target="_blank">֪ʶ��Ȩ</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">��¼</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">ע��</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">�˳�</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>��¼������ͨ��֤ &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">����ע��</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="�������û���" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">��ס��¼״̬</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">�������룿</a></p>
+            <p class="tc"><input type="submit" name="" value="��¼" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/MAIN/2016/11/116906/js/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--ͨ�����-->
+<div class="w1000 ad_column_1 clear">
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016channel|dingbutonglan&db=people&border=0&local=yes&js=ie&kv=people|opinion;third|427498;fourth|;newsid|0' charset='gbk'></script>
+</div>
+<!--pd_logo-->
+<div class="w1000 clear logo_line mt15 o_h">
+    <div class="fl"><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/MAIN/2016/11/116906/images/logo_rmw.png" width="120" height="46" alt="������" /></a><span>�۵�</span></div>  
+  <div class="fr">
+    <form action="http://search.people.com.cn/cnpeople/searchForChannel.do" name="searchForm" method="post" target="_blank">
+<input type="hidden" name="siteName" value="people" />
+<input type="hidden" name="pageNum" value="1" />
+<input type="hidden" name="totalPage" value="0" />
+<input type="hidden" name="channelName" value="opinion" />
+    <input type="image" src="http://www.people.com.cn/img/MAIN/2016/11/116906/images/icon2.gif" />
+    <input type="text" name="keyword" Id="keyword" value="���ż���"  onblur="if(this.value=='') this.value='���ż���';this.style.color='#ccc';" onfocus="if(this.value=='���ż���') this.value='';this.style.color='#000';" class="jianso_t"/>
+	</form> 
+	</div>
+</div>
+<!--����-->
+<div class="pd_nav w1000 white mt15"><a href="http://opinion.people.com.cn/" target="_blank">�۵�Ƶ��</a><a href="http://opinion.people.com.cn/GB/223228/index.html" target="_blank">��������</a><a href="http://opinion.people.com.cn/GB/8213/420650/index.html" target="_blank">����</a><a href="http://opinion.people.com.cn/GB/427456/index.html" target="_blank">�������</a><a href="http://opinion.people.com.cn/GB/427048/index.html" target="_blank">�������</a><a href="http://opinion.people.com.cn/GB/427498/index.html" target="_blank">���˿���</a><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target="_blank">�۵�1��1</a><a href="http://opinion.people.com.cn/GB/40604/index.html" target="_blank">��ϵ����</a><a href="http://opinion.people.com.cn/GB/1036/index.html" target="_blank">��������</a>
+&nbsp;<a href="mailto:opinion@people.cn" target="_blank">Ͷ������</a></div>
+<div class="quan_nav w1000"><a href="http://opinion.people.com.cn/GB/8213/49160/index.html" target="_blank">�����ձ�Ҫ��</a><a href="http://opinion.people.com.cn/GB/8213/49160/49179/index.html" target="_blank">�����ձ�����</a><a href="http://opinion.people.com.cn/GB/8213/49160/49205/index.html" target="_blank">����ƽ</a><a href="http://opinion.people.com.cn/GB/8213/49160/49217/index.html" target="_blank">����Ա</a><a href="http://opinion.people.com.cn/GB/8213/49160/49221/index.html" target="_blank">����̸</a><a href="http://opinion.people.com.cn/GB/8213/353915/353917/index.html" target="_blank">����۵�</a><a href="http://opinion.people.com.cn/GB/8213/49160/49220/index.html" target="_blank">������̳</a><a href="http://opinion.people.com.cn/GB/8213/353915/353916/index.html" target="_blank">����ʱ��</a><a href="http://opinion.people.com.cn/GB/8213/49160/54773/index.html" target="_blank">����¥</a><a href="http://opinion.people.com.cn/GB/8213/49160/69963/index.html" target="_blank">����ƽ</a><a href="http://opinion.people.com.cn/GB/8213/408448/index.html" target="_blank">����</a></div>
+<!--��ʱ���� ����-->
+
+
+<!--list-->
+<div class="path w1000_320 clearfix red"><a href="http://www.people.com.cn/">������</a> &gt;&gt; <a href="http://opinion.people.com.cn/">�۵�</a> &gt;&gt; <a href="http://opinion.people.com.cn/GB/427498/index.html">���˿���</a></div>
+<div class="clearfix w1000_320">
+  <div class="fl p2j_list">
+     
+    <div class="bor">
+     <ul class="list_14 clearfix"><li><a href='/n1/2019/1218/c1003-31511636.html' target=_blank>���˿��׷�������ߣ����������ڿ���</a> <i class="gray">2019-12-18 09:35</i></li>
+<li><a href='/n1/2019/1114/c1003-31455706.html' target=_blank>���˿��Ϊ��벢���ϳ͸߿��������</a> <i class="gray">2019-11-14 13:53</i></li>
+<li><a href='/n1/2019/1101/c1003-31433389.html' target=_blank>���˿��У԰���Ǽ����ƹ����鳡</a> <i class="gray">2019-11-01 13:44</i></li>
+<li><a href='/n1/2019/1023/c1003-31416711.html' target=_blank>���˿��ҽ����Ա������ȫ�ǵ���</a> <i class="gray">2019-10-23 16:09</i></li>
+<li><a href='/n1/2019/1015/c1003-31401766.html' target=_blank>���˿�������������Բ���֤����������ս���ɵ���</a> <i class="gray">2019-10-15 16:36</i></li>
+<li><a href='/n1/2019/1011/c1003-31393643.html' target=_blank>���˿������ҩ�۳�ʵ��</a> <i class="gray">2019-10-11 08:55</i></li>
+<li><a href='/n1/2019/1001/c1003-31382893.html' target=_blank>���˿��ͬ�Ĺ����й���</a> <i class="gray">2019-10-01 13:33</i></li>
+<li><a href='/n1/2019/1001/c1003-31382840.html' target=_blank>���˿��ӥ�����հ����</a> <i class="gray">2019-10-01 13:16</i></li>
+<li><a href='/n1/2019/1001/c1003-31382766.html' target=_blank>���˿����������ն����</a> <i class="gray">2019-10-01 12:26</i></li>
+<li><a href='/n1/2019/1001/c1003-31382714.html' target=_blank>���˿�����ױ���������</a> <i class="gray">2019-10-01 11:47</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2019/1001/c1003-31382700.html' target=_blank>���˿������״�չʾ�Ҿ�ո����ò</a> <i class="gray">2019-10-01 11:39</i></li>
+<li><a href='/n1/2019/1001/c1003-31382614.html' target=_blank>���˿�����ñ��������</a> <i class="gray">2019-10-01 10:54</i></li>
+<li><a href='/n1/2019/0830/c1003-31328201.html' target=_blank>���˿���Ҹ۷������������ɻ�</a> <i class="gray">2019-08-30 11:08</i></li>
+<li><a href='/n1/2019/0828/c1003-31322835.html' target=_blank>���˿���ڴ�������ᱳ�������</a> <i class="gray">2019-08-28 10:43</i></li>
+<li><a href='/n1/2019/0816/c1003-31299397.html' target=_blank>���˿�������ۡ�ͷĿ�������ط���</a> <i class="gray">2019-08-16 08:59</i></li>
+<li><a href='/n1/2019/0815/c1003-31298247.html' target=_blank>���˿�����ⴧ�����Ϊ���п��ѣ�</a> <i class="gray">2019-08-15 16:25</i></li>
+<li><a href='/n1/2019/0809/c1003-31286614.html' target=_blank>���˿���ԡ��̲�ס�ٽš���һЩ���Ϳ���</a> <i class="gray">2019-08-09 16:30</i></li>
+<li><a href='/n1/2019/0805/c1003-31276880.html' target=_blank>���˿��������˽й¶��ʱ�ݣ�</a> <i class="gray">2019-08-05 15:28</i></li>
+<li><a href='/n1/2019/0805/c1003-31276868.html' target=_blank>���˿�����ǻ����֣������й��ˣ�</a> <i class="gray">2019-08-05 15:20</i></li>
+<li><a href='/n1/2019/0801/c1003-31270902.html' target=_blank>���˿���������ߣ����Բ������̣�</a> <i class="gray">2019-08-01 17:20</i></li>
+</ul>
+     <div class="page_n clearfix"><a class="common_current_page">1</a>&nbsp;<a href='index2.html'  >2</a>&nbsp;<a href='index2.html'  >��һҳ</a>
+</div><!--all page--><!--PageNo=2-->
+</div>
+  </div>
+  <div class="fr p2_right">
+     <div class="bor mb10">
+  <h2 class="red"><a href="http://opinion.people.com.cn/GB/8213/119388/index.html">�۵�1��1</a> </h2><div class="pic01"><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target=_blank><img src="/NMediaFile/2014/0623/MAIN201406231127385513410079937.jpg" width="100" height="100" alt="�������Һã�����С�������£����£������£����춼�������¡����������������������ٻ�����ξ�Ʒ��"/></a><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target=_blank><p><font color="#0000FF"><b>������</b></font><b><font color="#0000FF">��</font></b>��Һã�����С�������£����£������£����춼�������¡����������������������ٻ�����ξ�Ʒ��</p></a></div>
+        <ul class="list_14 clearfix">
+</ul>
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/GB/364827/index.html" target="_blank">ר��ͼ��</a>
+</h2>
+        <div class="pic02"><a href="http://opinion.people.com.cn/GB/155936/155939/373228/index.html" target=_blank><img src="/NMediaFile/2014/0624/MAIN201406241358265483716082187.jpg" width="268" height="180" alt="ϰ��ƽ������ι�����˼ά"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/373228/index.html" target=_blank>ϰ��ƽ������ι�����˼ά</a>
+<a href="http://opinion.people.com.cn/GB/155936/155939/364256/index.html" target=_blank><img src="/NMediaFile/2014/0624/MAIN201406241358267100213240938.jpg" width="268" height="180" alt="ϰ��ƽ��ϯ�����й����⽻"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/364256/index.html" target=_blank>ϰ��ƽ��ϯ�����й����⽻</a>
+<a href="http://opinion.people.com.cn/GB/155936/155939/155963/index.html" target=_blank><img src="/NMediaFile/2014/0623/MAIN201406231226110541753759981.jpg" width="268" height="180" alt="����Ա�ǹ�������������������"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/155963/index.html" target=_blank>����Ա�ǹ�������������������</a>
+<a href="http://opinion.people.com.cn/GB/155936/155939/155962/index.html" target=_blank><img src="/NMediaFile/2014/0623/MAIN201406231226108505671084190.jpg" width="268" height="180" alt="����ץ�˶��١��ϻ�������Ӭ��"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/155962/index.html" target=_blank>����ץ�˶��١��ϻ�������Ӭ��</a>
+<a href="http://opinion.people.com.cn/GB/155936/155939/365349/index.html" target=_blank><img src="/NMediaFile/2014/0623/MAIN201406231234279846138836627.jpg" width="268" height="180" alt="����涨�Ϲܹ���Ժȵ��ķ�����"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/365349/index.html" target=_blank>����涨�Ϲܹ���Ժȵ��ķ�����</a>
+</div> 
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/" target="_blank">24Сʱ�������</a>
+</h2>
+        <ol><!--1--><li><a href="/n1/2019/1217/c1003-31508768.html">������ɺ����꾭�ù����ص�����</a></li><!--2--><li><a href="/n1/2019/1217/c1003-31508801.html" title="��ǿ�ʹ��»���������������ѧϰ�᳹����ʮ�Ž�����ȫ�ᾫ��">��ǿ�ʹ��»���������������ѧϰ�ᡭ</a></li><!--3--><li><a href="/n1/2019/1217/c1003-31508916.html" title="���౨�������ޡ�����Υ�� �����ͳɳ�����">���౨�������ޡ�����Υ��&nbsp;�����ͳɡ�</a></li><!--4--><li><a href="/n1/2019/1217/c1003-31508972.html" title="���౨�����޵����߳������ѽ�ͨ������ʶ��">���౨�����޵����߳������ѽ�ͨ������</a></li><!--5--><li><a href="/n1/2019/1217/c1003-31508913.html" title="���౨����վ��������8�� ����������������">���౨����վ��������8��&nbsp;����������</a></li><!--6--><li><a href="/n1/2019/1217/c1003-31508910.html" title="���౨��������̻��衰����Υ���嵥��֧��">���౨��������̻��衰����Υ���嵥��</a></li><!--7--><li><a href="/n1/2019/1217/c1003-31508764.html" title="�����ձ�����Ա���ϸɲ����ƽ��й���ɫ�������ΰ����ҵ����Ҫ����">�����ձ�����Ա���ϸɲ����ƽ��й��ء�</a></li><!--8--><li><a href="/n1/2019/1217/c1003-31508788.html" title="��ֵ���죬�᳹�·�չ�������Ա�۲죩">��ֵ���죬�᳹�·�չ�������Ա�ۡ�</a></li><!--9--><li><a href="/n1/2019/1217/c1003-31508789.html">ڹ�͸��������ķ����й�</a></li><!--10--><li><a href="/n1/2019/1217/c1003-31508904.html">���౨����������Ǳ��ؽ����һ���ھ�</a></li></ol>
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/GB/155936/index.html" target="_blank">�۵��ȴʿ�</a>
+</h2>
+        <ul class="list"><li><i class="red"><a href="http://opinion.people.com.cn/GB/51854/index.html">�ȵ�|</a></i><a href="http://opinion.people.com.cn/GB/155936/155939/370842/index.html
+">�ι�����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/368020/index.html
+">�ձ�����|</a><a href="http://opinion.people.com.cn/GB/155936/155938/364563/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/234592/index.html">��������</a></li> <li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/385834/index.html">�ƶ�|</a></i><a href="http://opinion.people.com.cn/GB/155936/155938/362687/362688/index.html">�й���|</a><a href="http://opinion.people.com.cn/GB/155936/155939/364267/index.html">��ֵ��|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/366481/index.html">��ɫ����|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/364266/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/364257/index.html
+">��������</a></li><li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/370842/index.html">�ĸ�|</a></i><a href="http://opinion.people.com.cn/GB/155936/155939/155950/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157878/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/158733/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/202617/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/155963/index.html">����Ա|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157876/index.html">�ɲ�|</a><a href="http://opinion.people.com.cn/GB/155936/155939/364256/index.html">�⽻</a></li> <li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/157881/index.html">����|</a></i><a href="http://opinion.people.com.cn/GB/155936/155939/372574/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157312/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/156297/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/155960/index.html">��ҵ|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157879/index.html">ʳҩ|</a><a href="http://opinion.people.com.cn/GB/155936/155939/155961/index.html">ҽ��|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157882/index.html">����</a></li><li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/155962/index.html">����|</a></i><a href="http://opinion.people.com.cn/GB/8213/368023/index.html">��ҥ|</a><a href="http://opinion.people.com.cn/GB/155936/155939/365349/index.html">����涨|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/156115/index.html">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/193813/index.html">ɨ��|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/366088/index.html">����</a></li><li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/214528/index.html">����|</a></i><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/191808/index.html">�˲�|</a><a href="http://opinion.people.com.cn/GB/155936/155939/155959/index.html">����|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/157872/index.html">�ǹ�|</a><a href="http://opinion.people.com.cn/GB/155936/155939/158819/index.html">�¹�|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/202619/index.html">���|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/158732/index.html">����|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/155949/index.html">����</a></li><li><i class="red"><a href="http://opinion.people.com.cn/GB/51854/index.html">����|</a></i><a href="http://opinion.people.com.cn/GB/155936/155939/165128/index.html
+">����|</a><a href="http://opinion.people.com.cn/GB/155936/155939/156297/index.html">�̸�|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157122/index.html">�߿�|</a><a href="http://opinion.people.com.cn/GB/155936/155939/158695/index.html">��ѧ|</a><a href="http://opinion.people.com.cn/GB/155936/155939/158679/index.html">ѧ��|</a><a href="http://opinion.people.com.cn/GB/155936/155939/364245/index.html">�Ƽ�����</a></li> <br><img src='/mediafile/201112/20/P201112201407491308319178.gif' width="18" height="22" border='0'><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235151/index.html" scrolling="no" frameborder="0"></iframe><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235152/index.html" scrolling="no" frameborder="0"></iframe><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235154/index.html" scrolling="no" frameborder="0"></iframe><br><img src='/mediafile/201112/20/P201112201407491308319178.gif' width="18" height="22" border='0'><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235153/index.html" scrolling="no" frameborder="0"></iframe><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235155/index.html" scrolling="no" frameborder="0"></iframe><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235156/index.html" scrolling="no" frameborder="0"></iframe><br><img src='/mediafile/201112/20/P201112201407491308319178.gif' width="18" height="22" border='0'><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235159/index.html" scrolling="no" frameborder="0"></iframe></ul>
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/GB/41891/index.html" target="_blank">����Աר��</a></h2>
+        <ul class="list"><li><a href="http://opinion.people.com.cn/GB/41891/64065/index.html" target='_blank'>¬����</a>|<a href="http://opinion.people.com.cn/GB/41891/386217/index.html" target='_blank'>����</a>|<a href="http://opinion.people.com.cn/GB/other7081/index.html" target='_blank'>�¼���</a>|<a href="http://opinion.people.com.cn/GB/41891/137555/index.html" target='_blank'>����</a>|<a href="http://opinion.people.com.cn/GB/41891/124689/index.html" target='_blank'>����ΰ</a><li><a href="http://opinion.people.com.cn/GB/41891/55311/index.html" target='_blank'>������</a>|<a href="http://opinion.people.com.cn/GB/41891/391068/391069/index.html" target='_blank'>���S</a>|<a href="http://opinion.people.com.cn/GB/41891/365686/index.html" target='_blank'>����</a>|<a href="http://opinion.people.com.cn/GB/41891/352874/index.html" target='_blank'>����</a>|<a href="http://opinion.people.com.cn/GB/41891/175391/index.html" target='_blank'>�º�</a>|<a href="http://opinion.people.com.cn/GB/41891/367679/index.html" target='_blank'>���</a>|<a href="http://opinion.people.com.cn/GB/41891/390789/index.html" target='_blank'>���೽</a></li><li><a href="http://opinion.people.com.cn/GB/41891/51829/index.html" target='_blank'>��ά��</a>|<a href="http://opinion.people.com.cn/GB/41891/391070/index.html" target='_blank'>���ַ�</a>|<a href="http://opinion.people.com.cn/GB/41891/136841/index.html" target='_blank'>³��</a>|<a href="http://opinion.people.com.cn/GB/41891/58185/58186/index.html" target='_blank'>��ʯ��</a>|<a href="http://opinion.people.com.cn/GB/41891/385732/index.html" target='_blank'>����</a>|<a href="http://opinion.people.com.cn/GB/41891/44158/index.html" target='_blank'>����</a></li><li><a href="http://opinion.people.com.cn/GB/41891/177910/index.html" target='_blank'>������</a>|<a href="http://opinion.people.com.cn/GB/41891/34854/index.html" target='_blank'>˹��</a>|<a href="http://opinion.people.com.cn/GB/41891/146394/index.html" target='_blank'>������</a>|<a href="http://opinion.people.com.cn/GB/other7083/index.html" target='_blank'>ʿ��</a>|<a href="http://opinion.people.com.cn/GB/41891/170184/index.html" target='_blank'>Ԭ��ƽ</a>|<a href="http://opinion.people.com.cn/GB/41891/139751/index.html" target='_blank'>���ܸ�</a></li><li><a href="http://opinion.people.com.cn/GB/41891/48593/index.html" target='_blank'>�����</a>|<a href="http://opinion.people.com.cn/GB/other5504/index.html" target='_blank'>������</a>|<a href="http://opinion.people.com.cn/GB/41891/32593/index.html" target='_blank'>����</a>|<a href="http://opinion.people.com.cn/GB/other6345/index.html" target='_blank'>����</a>|<a href="http://opinion.people.com.cn/GB/other5494/index.html" target='_blank'>���β�</a>|<a href="http://opinion.people.com.cn/GB/other6993/index.html" target='_blank'>����ѧ</a></li></ul>
+     </div>
+  </div>
+</div>
+<!--list end-->
+
+<!--copyright-->
+<div class="copyright red">
+<style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">�� �� �� �� Ȩ �� �� ��δ �� �� �� �� Ȩ �� ֹ ʹ ��<br />
+Copyright &copy; 1997-2019 by www.people.com.cn. all rights reserved</div></div>
+<style type="text/css">
+<!--
+.copyright{ text-align:center; padding:30px 0;}
+-->
+</style>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--2017ͳ�ƴ���Ƶ��-->
+<!--2017ͳ�ƴ���-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '427498']);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,799 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+    <meta http-equiv="Content-Language" content="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>�人�ռ�--���--������</title>
+    <meta content="all" name="robots" />
+    <meta name="description" content="���������ߴ޶�������Ȼ����Զ�������������衡����С�ǰ���人��������������Ƶ��ʮ��λ����һ�𣬼�¼�人����¼��ʷ��" />
+    <meta name="keywords" content="" />
+    <meta name="filetype" content="1" />
+    <meta name="publishedtype" content="1" />
+    <meta name="pagetype" content="2" />
+    <meta name="catalogs" content="431592" />
+    <!--����ʹ�� IE ���°汾�� Chrome-->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <!--360 ʹ��Google Chrome Frame-->
+    <meta name="renderer" content="webkit">
+    <script src="http://tools.people.com.cn/libs/jquery/3.0.0/jquery-3.0.0.min.js" type="text/javascript"></script>
+    <link href="/img/MAIN/2020/01/119987/static/css/default.css" rel="stylesheet">
+    <script type="text/javascript" src="/img/MAIN/2020/01/119987/static/js/app.js"></script>
+    <script src="/img/MAIN/2020/01/119987/static/libs/swiper.min.js"></script>
+    <link href="/img/MAIN/2020/01/119987/static/libs/swiper.min.css" rel="stylesheet">
+    <script src="/img/MAIN/2020/01/119987/static/js/iscroll.js"></script>
+    <style type="text/css">
+    .shikuang h3,.dialog h3,.vlog h3,.zhiji h3,.dialog .dia-main .dia-left ul li span,.vlog h3,.shikuang1 h3,.bianzhe p{font-style:normal;}
+	.dialog .dia-main .dia-left ul li span{font-size:16px;}
+	.dialog .dia-main .dia-left ul{width:380px;}
+	.dialog .dia-main .dia-right{width:620px;}
+	.dialog .dia-main .dia-right p{font-size:18px;line-height:190%;}
+	.zhiji #swiper2 .swiper-slide img{height:120px;}
+	.dialog .dia-main .dia-right h4{font-size:22px;padding-bottom:10px;}
+	.shikuang .shikuang-left li{font-size:16px;}
+	.vlog .video-right .video-list li p{background:url(/img/MAIN/2020/01/119987/static/images/kuai.png);}
+	.vlog .video-right .video-list li p a{color:#fff;}
+	.zhiji #swiper1 .swiper-slide p{font-size:24px;}
+	.zhiji #swiper1 .swiper-slide p a{color:#fff;}
+	#swiper2 p{display:none;}
+	.shikuang1 {
+ }
+
+.shikuang1 h3 {
+  padding-bottom: 20px; }
+
+.shikuang1 ul {
+  overflow: hidden; }
+
+.shikuang1 ul li {
+  float: left;
+  width: 30%;
+  line-height: 30px;
+  font-size: 14px;
+  margin-right: 3%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
+  .vlog {
+  padding-top: 50px;
+  overflow: hidden; }
+
+.vlog h3 {
+  padding-bottom: 20px; }
+
+.vlog .video-right {
+  width: 500px;
+  height: auto;
+  position: relative; }
+
+.vlog .video-right .video-list {
+  width: 500px;
+  height: auto; }
+
+.vlog .video-right .video-list li {
+  width: 235px;
+  float: left;
+  margin-bottom: 10px;
+  margin-left: 15px;
+  position: relative; }
+
+.vlog .video-right .video-list li p {
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  line-height: 32px;
+  text-align: center;
+  color: white;
+  font-size: 14px; }
+
+.vlog .vlog-box {
+  overflow: hidden; }
+
+.vlog .list {
+  padding-top: 30px; }
+
+.vlog .list li {
+  float: left;
+  width: 47%;
+  line-height: 30px;
+  font-size: 14px;
+  margin-right: 3%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
+  .vlog_video{
+      float:left;
+      width: 490px;
+  }
+ 
+	.dialog .dia-main .dia-left ul {
+    width: 350px;
+}
+.dialog .dia-main .dia-right p {
+    font-size: 18px;
+    line-height: 196%;
+}
+.dialog .dia-main .dia-left {
+    width: 370px;
+    height: 800px;
+    overflow-y: scroll;
+}
+/*.titu .w1000 img {display:block;margin-left:150px}*/
+  @media (min-device-width:320px) and (max-width:689px),
+       (max-device-width:480px)
+	   {
+		   html,body{ width:1000px;}
+		   .titu {
+    height:760px;
+    background: url(/img/MAIN/2020/01/119987/static/images/sjban.jpg) top center no-repeat;
+    border-bottom: 35px solid #344467;
+	
+}
+.titu .w1000{display:none;}
+	}
+    </style>
+
+</head>
+<script>
+    var myscroll;
+    function loaded(){
+            myscroll=new iScroll("wrapper",{
+		    click: true, tap: true
+			});
+        }
+    window.addEventListener("DOMContentLoaded",loaded,false);
+</script>
+
+<body>
+    <!--��ͼ-->
+    <div class="titu">
+        <div  class="w1000" style="padding-top: 25px ;">
+            <!--<img height="39px" src="/img/MAIN/2020/01/119987/static/images/BYD_logo2.png" alt="">-->
+        </div>
+        
+    </div>
+    <!-- ���߰� -->
+    <div class="bianzhe w1000">
+        <div class="title"><img src="/img/MAIN/2020/01/119987/static/images/bianzhe_title.png" alt=""></div>
+         <p style="color: black;">������������Ӵ���ǰϦ�����͹�״��������������Ű��</p>
+ <p style="color: black;">���������ߴ޶�������Ȼ����Զ�������������衡����С�ǰ���人��������������Ƶ��ʮ��λ����һ�𣬼�¼�人����¼��ʷ��</p><p><a href="http://society.people.com.cn/GB/369130/431577/index.html" target="_blank"><font color="#0000ff">���Ƽ��Ķ���ר�⣺ȫ���������͹�״������Ⱦ�ķ���������ع���</font>��������<a href="/GB/369130/431577/431583/index.html" target="_blank"><font color="#0000ff">�������౾���人һ��ԭ������</font></a></p>
+
+
+ 
+
+    </div>
+    <!-- �人�ռ� -->
+    <div class="dialog w1000">
+        <h3>�人�ռ�</h3>
+        <div class="dia-main">
+            <div    class="left dia-left">
+                <div id="scroller">
+                    <ul>
+                        <li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>3��15��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人�е�һҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>3��7��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人�ж�������</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>3��7��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>������ظ����</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>3��6��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����ʡ���ױ���Ժ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>3��5��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人����������</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>3��4��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人ͬ��ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>3��3��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人ĳ������</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>3��2��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>Э�Ͷ�����ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��29��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>��ұ������ҵ��</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��28��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����ɽҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��27��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�������ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��26��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>���������˽�</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��25��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����Է����</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��24��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�̵�������ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��23��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�������ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��22��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�����ù���</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��21��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>��ɽ�������깬</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��20��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>��УУ԰</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��19��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人������ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��18��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����ɽҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��17��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>��ɽ����ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��16��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>��Ȳ��н�</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��15��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>���ѩ</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����-�人</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��14��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人��ͷ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��11��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人��ɽ������</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��7��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>��������ͷ��</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��6��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>������԰С��</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��5��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人�е���ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��4��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�����������</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��3��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人��ѧ����ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��2��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����̶ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>2��1��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>������������վ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��31��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>������������վ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��30��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����-�人</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��29��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人��Э��ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��28��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����ɽҽԺ����</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��27��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����ɽҽԺ����</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��26��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����̶ҽԺ</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��25��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>���Ϻ����г�</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��24��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>�人�̵�</span></li><li><i class="time"><img src="/img/MAIN/2020/01/119987/static/images/time.png" alt=""></i><span>1��23��</span><i class="tianqi"><img src="/img/MAIN/2020/01/119987/static/images/yun.png" alt=""></i><span>��</span><i><img src="/img/MAIN/2020/01/119987/static/images/location.png" alt=""></i><span>����-�人</span></li>
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <ul class="right dia-right">
+                <li><h4>3��15��|�人�ռǣ����������š��롰�ػ������ˡ�</h4>
+ <p>&nbsp; &nbsp;&nbsp;<a href="http://society.people.com.cn/n1/2020/0315/c1008-31632525.html" target="_blank">û�С�Χ׷�½ء���Ҳû�С������������3��13�գ�79����������˸߲��ҵ��߳���������һ�Σ������ڲ����١����ء��ˡ�
+<br>�����죬���߲ɷý���ʡ����Ԯ��ҽ�ƶӣ��ö��ձ�����ҽԺ�����ľ�ҽ�������ǽ�������λ���������š��͡��ػ������ˡ��Ĺ��¡�
+<br>��2��16�գ�ѩ����人�ر���䡣�򡰿��������������ض�ʮ�족�������ű�������Σ�ס�����人�е�һҽԺ27����֢������
+<br>����Ժǰ������������ʱ�����޷���̵�����������Ż�������������ʱ����Ϣ��һ��Ժ��ҽ�ƶ�������չ���ȣ�����ҽ������ƣ�����º������ŴӲ�ΣתΪ��֢������״����ת�����˼ҿ�ʼ��ң�һ�����ӡ��롰�ء��ġ����Ƕ��¡���ʼ�ˡ�<font color="#800000">[��ϸ]</font></a></p>
+<a href="http://society.people.com.cn/n1/2020/0315/c1008-31632525.html" target="_blank"><img src="/NMediaFile/2020/0315/MAIN202003152037111331246870951.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0309/c1008-31623781.html" ><h4 style="color: black;">3��7��|�人�ռǣ����ζ�����ķ���ү�Ƕ��ݹ���</h4><p>����3��7�����磬��ɲ�����ɨ�ͷ�����˹��������������·��������ݺݵش�����������
+<br>����
+�人��������ҽԺ�����ݲգ����������ƺͶ��ѵ����һ��ڡ��뿪ǰ�����ֿ���һ�������ս��һ�����µĵط��������Ŵ󼪣���Ҳ��������
+<br>����
+<b>������ҲҪ���ֶ��롱
+</b><br>����
+���������人�ж��������ǹ�ִ������װ�ӵĻ���˾����ʡ����ģ��
+<br>����
+2��5���賿����װ���յ����Э���人��������ҽԺ�����ƶ����ޡ���Խ�ǽ������ԽҪһ����ȣ�������9�㣬�����ƾͺͶ��ѳ��������ֳ���
+<br>
+�������ǵִ�ʱ������50���ƶ��������˹����������2000�Ŵ�λ�����ò�û����������ô���ס�
+<br>
+������Ҫ��ֿ��Ǵ�λ�ֲ���Ѱ������·������Ҫ���Ǻ��ڲ����Ļ�����������������˺ܶ�Σ��������ŵ�����š���������˵��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0309/MAIN202003091331286995817849663.png" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0308/c1008-31621856.html" target="_blank"><h4 style="color: black;">3��7��|�人�ռǣ������ס�����</h4><p>����87������㣬�ۼƲ���21130��������������������ĸ���������С�ֶӳ��������ս����������ȡ�����Ų��¹ڷ��׵ĵ�һ���ؿڣ�С�ֶӳ�ԱҲ�Գơ����׹������������У�����֮����Ů����������ռǣ������ҷ�����Ⱥ�����ס�����Ĺ��¡�
+<br>����
+1994���������԰԰������ҽ�ƴ�ѧ����ҽԺ�ļ��鼼ʦ��2��3�գ��������Ͽ������人��ļ�����������־Ը�ߵ���Ϣ��2��8�գ�����Ϊ����С�ֶӵ�һԱ��
+<br>����
+���������£��ܿ�ġ����¿��֣����죬�������������԰԰�ѶԲ���������죬����һ���ϸھͱ���޵ľ���������������
+<br>����
+���죬��������4Сʱ����԰԰�����¡���Ъ�������������Ŷӵ�һλ���߾Ͳ������ˣ���������������͵����������Ҫ�ع�����
+<br>����
+���ر�ί����һ��û��ס���Ϳ��ˡ���������������԰԰�޷�ժ�»�Ŀ����ֻ�ܿ�����ˮ��������ɡ����죬������������8Сʱ���������103�ݲ������˼�û�Է���Ҳû�ϲ�����
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0309/MAIN202003091257530110719872252.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0306/c1008-31620933.html" target="_blank"><h4 style="color: black;">3��6��|�人�ռǣ�46�죬3200��С�人�������ﵮ��</h4>
+<p>����2��29���賿02:01������ʡ���ױ���Ժ��һ����ޣ������µ��人����ӭ����һ����������<br>����С�һ��ĸ�׽���������������34�ꡣ�������ж����ѳ��ۺ�֢�������������ȥ��ͨ���Թ�Ӥ���ɹ����С�Ϊ�˱�̥�ͷ�����죬�������˳��٣�����ҽԺ�������˷���<br>����������ǰ�ͻ��и�Ѫѹ�����ֱ��������ǰ��֢״������ҽ��˵������15�����ڵò�����ʱ���Σ����ӺͲ�������������Σ�ա�<br>����2��28�գ�����37����2�졣����ͻ�и������ʣ�ȥҽԺһ�飬Ӥ�����������β��������Բ��䣬��������Ϊ�߶����ƻ��ߡ�<br>��������Ƕ���ҽԺ��ҽԺ����������Ҫ��������ҽԺ��������ϵ�˺ü��Ҹ�����˽��ҽԺ��ҽԺ����Ը����������֡��鷳���Ĳ�����<br>�������������ң���������ľ������Һ�������·�߼��ô�ޣ������120���ҽӵ�����ʡ���ױ���Ժ��������˵��ҽԺ֪�����Ǹ߶����Ʋ����������ǽ��������������賿����˳������Ů����<br>������������������ICU����۲죬����״̬�Ƚ��ȶ�������Σ�յ�ʱ����ʡ���׵�ҽ�������Һͺ��ӣ�����������˼���ʹ��������˵��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0307/MAIN202003071031377555466828795.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0305/c1008-31619110.html" target="_blank"><h4 style="color: black;">3��5��|�人�ռǣ�������Ҿͳ�����</h4>
+<p>������2��27�գ���������������ֵ�ص㡣��˵�ţ�����ϵݸ���һ����Ƭ������ս���ߡ����������Ͱְֵ�һ�Ρ�ͬ�򡱡�<br>������Ƭ�У�����ϴ��Ż�Ŀ�����������������־�����ž�ñ�����ž��������Ӷ��˼粢�ż磬�Ծ�ͷ���˸���Ĵָ��<br>������������������ȴæ������ת������������ͨ��Ӹ���ӳ���־����˵�����ǲξ�26����ͷһ�⡣<br>�����Ӵ��˱��ϵ�������أ����Ѿ�������ս��50���졣���������˵����������һ̨����������24Сʱ��������<br>������ͬ�����죬��־���Ӿ���������С��Ψһ���ڴ�ͣ�˼���˽�ҳ�������Ӱ�������Ź��������ʷ��š�<br>&nbsp; &nbsp;�����ϳ����޷���ϵ�������ĳ����ƿ�����־����ָ��������׶��Ͱ�������30ƽ��������ר��Ӧ���������ʷ��úͷ��š������ĸ��죬��ͨ����������6����
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0305/MAIN202003052130268259232503012.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0304/c1008-31617342.html" target="_blank"><h4 style="color: black;">3��4��|�人�ռǣ�����ͬ��ѽ���Ǹ����Ǹ��మ��</h4>
+<p>�������Ҳ�������ˣ���Ҫ�ؼң���Ҫ�ؼң��������ϵ�������һ��˵��һ�����ư����´������ù؛I꿸Ͻ���ǰ������<br>������Ҫ�úóԷ����úô��룬�����˲�������ؼ�Ŷ�����؛I����ĵذ�ο�š�����Сʱ��ȥ��������ƽ��������������˯ȥ����<br>������һ��Ҳ�����ջ���С�����������ɡ����������һ����ʱ�ջ������̣����ִ�ѧ��һҽԺС��ICU�ƻ�ʿ�؛I�����˵��<br>����84�����������һ�������¹ڷ��׻��ߣ�Ŀǰ���人ͬ��ҽԺ�з��³�Ժ���������ơ��ϰ���ߵ��磬���϶�Ů����æ����Ժǰ������һֱ�����Լ��չ��Լ���<br>��������Ժʱ�������̲���˵��Ҳ�����Է��������ʱ����������컨�巢����؛I���С�������е������㡢��Ů���ˡ����ɵ������������ʱ�������ġ�Ů���ˡ�Ҳ�����ѡ�<br>���������ǳ��ڶԲ��˵Ĺذ����������������Ҳ���ֲ�����ľ�������Խš�ͣ��Ҿ�ԽҪ�����ջ��ã������Ժ�ֻҪ�пգ����ͻ�ȥ����������ྣ����������̡���С���
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0304/MAIN202003042158548628805002255.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0303/c1008-31614689.html" target="_blank"><h4 style="color: black;">3��3��|�人�ռǣ�����ܡ�Ժʿ�ġ�����Ա��</h4>
+<p>��&nbsp; &nbsp; ������ռǣ������ҷ���һ�θ���Ժʿ����ȴ������ܡ��ľ�����
+<br>��&nbsp; &nbsp; <b>�Ŷ���ġ�����Ա���ա�
+</b><br>��&nbsp; &nbsp; ǰ���죬�Һ�ͬ�º���衸����й�ҽʦЭ�����廪��ѧ����ר������С��������ɶ��Һ�Ժʿ���ӣ�����һվ���人ĳ��������
+<br>��&nbsp; &nbsp;һ���磬�����ȸϵ�������פ�ء�û�˽Ӵ�����������·�����˽Ӵ��ҡ�
+<br>��&nbsp; &nbsp;�Ӵ��Ҳ���һλ���ź�ɫ����¡�����Ա��ģ���Ĵ����æ�š�����������£������ɷüƻ���
+<br>��&nbsp; &nbsp;�����æ���ˣ����Ҳ�չ�����
+<br>��&nbsp; &nbsp;���������������ļ��߰ɣ��·����бꡣ����ʱ�ڣ��Ͳ�������׼��ˮ�ˣ�������⡣�����㲻��ɤ�Ŵ�������ͦ��ȫ��
+<br>��&nbsp; &nbsp;��лл�������人�ɷã�����������������ȥ�����ڳ���ͷ���������ĳ���ҽ����Ա�����Ǽ����ˡ���
+<br>��&nbsp; &nbsp;���⼸����½½�����������ҽ�ƶӣ��ӽ�4���˵Ķ��飬��ס�޾��Ǹ����¡���˵ר���黹������Զ��ҽ�ƽ��������Ӧ���ܻ���ܶ�ѹ������
+<br>��&nbsp; &nbsp;����ֻ��ҽԺ��ҪԶ��ҽ��ϵͳ������Ҳ��Ҫ���������Ҫ���������������񻯹������������һ�ߵ�ͬ־����Ч�ʾ͸����ˡ�����
+<br>��&nbsp; &nbsp;���ͦ���飬����Ҳ�죬��һ����������ǽ��������ս���ߡ��е����⡢�Բߺ��������ݾ�ȷ��������׼��
+<br>��&nbsp; &nbsp;������Ȼ�ع�ζ���������������Ҫ�ȵ����ɲ�ѽ�����ѹֶ�����������ô�˽⡣��
+<br>��&nbsp; &nbsp;רҵ���������ҵĵ�һӡ���ñ�����˵���ǣ��Ŷ��壡
+<font color="#800000">[��ϸ]</font></p>
+</a></li><li><a href="http://society.people.com.cn/n1/2020/0302/c1008-31613060.html" target="_blank"><h4 style="color: black;">3��2��|�人�ռǣ���ӣ��Ƕ�ս�����Ĺ���</h4>
+<p>��&nbsp; &nbsp; 2��21�����磬���пƼ���ѧЭ�Ͷ�����ҽԺ��֢ҽѧ������Ԭ���δ��Ϸ��������ص�����ս�����ĵط���
+<br>��&nbsp; &nbsp; ������ҽ����Ҳ���������ߣ�������Ϊ�Ż����Ʒ����ṩ�������ع飬�Ƕ�ս�����Ĺ��衣��Ԭ����˵��
+<br>��&nbsp; &nbsp; <b>������ð����ա�
+</b><br>��&nbsp; &nbsp; 1��14�գ�Ԭ�������ڵ�Ժ�ھ���ר��������һ���¹ڷ��׻��ߡ����߲���Σ�������������ơ�
+<br>��&nbsp; &nbsp; ���Ž�20���ҽ������Ԭ���ε�Ȼ֪�����Ӵ���ܲ��˶�ҽ����Ա��ζ��ʲô������������ð����ա���
+<br>��&nbsp; &nbsp;ת�˾���ֻ��600���ף��������궯������ͼ�ιܣ���������ĺ�ˮ����ˮ��������ˮ��������Ԭ���ε�������
+<br>��&nbsp; &nbsp;ת��ICU���������������ηθ��������賿1�㡣���Ļ��߲����б䣬Ԭ���ε���˯���˰칫���
+<br>��&nbsp; &nbsp;���������ѵ�ת�ˣ�������Ҹ�Ⱦ��ԭ�򡣡�Ԭ���λ��䣬�ڶ������¾�����39�棬1��17��סԺ���ƣ�10�����β���Ӱ���ء�1��28�գ�ҽԺ�´���֢֪���飬����Ԭ���α�ת���人�зο�ҽԺICU������
+<br>��&nbsp; &nbsp;�����ڣ��������ڣ����ԣ���Ҫ��������Ԭ���θ����ң��������ǶԾ�������ҽ����Ա����ֿ���¾���Ҳ�Ƕ�ս�����Ĺ��衣
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0302/MAIN202003021608527053336813846.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0301/c1008-31611453.html" target="_blank"><h4 style="color: black;">2��29��|�人�ռǣ�������β��ܡ���������</h4>
+<p>����һ�㲡��ʹ�ú�������ÿ��������2-4����������֢����Ҳ����6-8����һ���¹ڷ��׻��ߣ�ÿ�������Ķ���������
+<br>��&nbsp; &nbsp; ���ǣ�60����
+<br>��&nbsp; &nbsp; 2��29�գ�֧Ԯ�人���鱨���ĵ�31�졣����20�๫��Һ�ͬ�������������ұ������ҵ����
+<br>��&nbsp; &nbsp; �����鱩���󣬸�ҽԺ���������ճ�������ֵ��10�����ࡣ2��18�գ���������839������ƿ����Ҳ��Ŀǰ�������͵ļ�¼���������ұ������ҵ����֧��������½��������������������֪���ģ��������յ�Σ������
+<br>��&nbsp; &nbsp; ��һ��Σ����������1��23�յ�2��4�ա�
+<br>��&nbsp; &nbsp; ���������ڵľ��飬���Ǳ���300-500��������ƿ���������������ң�����ҽԺ�ĺ�����ֱ�������
+<br>��&nbsp; &nbsp; ���ǸϽ���ʡ�ڽ���ɹ���һ����ƿ��Ͷ��ʹ�á��������������ƿ��ʯ�����ˡ���
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0301/MAIN202003011814373527964677237.png" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0229/c1008-31610826.html"><h4 style="color: black;">2��28��|�人�ռǣ�����ɽҽԺ��ġ�ս�ػ���</h4>
+<p>������������һ�����������ӹ���һ�㡢����һ�㡣����������������ɡ������Ӳ��������ˣ���2��28�գ�С�ꡣ����4�㣬�人����ɽҽԺB3�칫��һ��æµ��
+<br>��&nbsp; &nbsp; ս���ߡ����ƣ��ټ����������������������������ơ���˵�����л����Һ�ͬ��Ҳ��մմϲ��
+<br>��&nbsp; &nbsp; �칫���ϣ���ɢ�ذڷ��ż����ʻ�����ֻ��ɫ����������ǽ�ϣ������й���������������ѵ�ף����Ƶ��ҽ�������ߡ�Ժ��������Ա�����ڱ�����Աһ�����Ų��Ҵң����ſ��֣�Ҳ���ܵõ���ҵ�ϲ�á�
+<br>��&nbsp; &nbsp; ����������Ҳ������ְɣ�����λ��ʿЦ���к����ǡ��հں������豸�����Ǿͱ���ץ��׳�����������ӡ��������������ɨ�ֳ��������¡���ǹ���ڡ�������죬���Ǳ߸ɱ��֣�˳�����ߵ��˴������˵������
+<br>��&nbsp; &nbsp; ���˶����Ϻ���ͨ��ѧҽѧԺ�����ʼ�ҽԺ�ģ����ɽ��ھ���������ֲ�໤�һ�ʿ������������ڣ������ƻ�ʿ�����ǡ�95�󡱡�
+<br>��&nbsp; &nbsp; ����ԭ��2��14����֤��2��28�վٰ��������ͻ�������ǹ���ȡ�����񣬳�Ԯ�人��ǰ���죬�����ö���ͬ����Ϻ��ڰ���Ԯ��ҽ�ƶӾ�����������ɽҽԺ������Ϊ���Ǿٰ����
+<br>��&nbsp; &nbsp; ����5��18�֣����������Ժ�쵼��ҽ�ƶӳ�������£����������ֳ���
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0229/MAIN202002291643479419499648286.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0228/c1008-31609438.html"><h4 style="color: black;">2��27��|�人�ռǣ�������в�ס�����Ϸ�</h4>
+<p>���������������ʱ���������ͱ��ѡ�
+<br>��&nbsp; &nbsp; ��ע����룬�չ˺��Լ�������Ȼ���ᣬ�����ѳ��գ��Ϸ�����������ˡ�
+<br>��&nbsp; &nbsp; 58����Ϸ����������ͨ��Ӷ��жӵ��񾯡����յ����ۼ��ϽӴ���Ա̫�࣬���Ϸ���Ⱦ���¹ڷ��ס�ȷ��������֢���ߺ�2��11�գ��Ϸ�ס�����������ҽԺ��
+<br>��&nbsp; &nbsp; �Ϸ�һ�����ĳ����ڷ���Ҳ���в�ס������������󡢻��߶࣬��30�˵ı����Ŷ���Ȼ�Խ���Ϸ��Ͳ��Ѿ���������ﱣ�๤�˷ֵ�������
+<br>��&nbsp; &nbsp; ������һ�߹����ߣ���֪�����ǵĲ����ס�ͬ�ʹ��࣬������������˺��ÿһ�죬�ڷ��ն��������ܿ������Ű״�ӵ��Ϸ��Ͳ���һ������������
+<br>��&nbsp; &nbsp; �Ϸ�������ҽ����Ա�Ͳ͡�ÿ�ζ��Ȱѱ��˵����롢�͵����Ϸ��ٻ�ȥ�ԡ����극�����ְ������������ֺ������ӡ�
+<br>��&nbsp; &nbsp; ���Ϸ������࣬�����˿ɺ��ˡ������ѵĿ������Ϸ��е㲻����˼�������ǵ�Ա��Ӧ�ô�ͷ����Ⱥ�ڡ���˵��һ������ү�Ƕ�������֮�Ͳ���ʲô�����Ϸ�˵��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0228/MAIN202002281312073801057072135.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0227/c1008-31607674.html?from=groupmessage" style=""><h4 style="color: black;">2��26��|�人�ռǣ�����硱��������ǩ</h4>
+<p>���������ϣ������������������ץ��д�л���¥����Ϣ�ı�񣬾���¥��塣
+<br>��&nbsp; &nbsp; ���˺�һ�����ֻ����һ�ֲ���һλ���ˣ�һ��߬��װ�ô���סԺ��Ʒ��һ��һ�����ѵ��߳��˴�¥��
+<br>��&nbsp; &nbsp; 2018�꣬����20������������תҵ����Ϊ���������˽ֵ�һ����Ա�����鱩����������μ�־Ը�߳��ӽ��Ͳ��ˣ��󾭽ֵ����ţ���������ȷ�ＰΣ�ز������Ρ�
+<br>��&nbsp; &nbsp; 2��15�����ϣ����������ͬ���������ǻ������ǳ�С���ſ�ʱ��ȴû�з��ֻ��ߵ���Ӱ��һ���������߲�����أ��Լ�������¥����������û�з�������������¥��
+<br>��&nbsp; &nbsp; ����Ҫ��������⵱�����ϳ��¥�������������61��������Ž������ڡ�������������͵ĵ�16λ���ߡ�
+<br>��&nbsp; &nbsp; �����ǲ�֪��������ķ��գ�������֪����Σ�����������ϡ������ϡ����������е���£��Ͼ��ҵķ����豸Ҫ��һЩ�������˾;ȵ��ף���֯���ҵ������ݲ��ð�㺬������������˵��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271513003230184641287.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0226/c1008-31606131.html?from=groupmessage" style=""><h4 style="color: black;">2��25��|�人�ռǣ������еġ�����Ӣ�ۡ�</h4>
+<p>��&nbsp; &nbsp; �⼸�죬һ��ȫ�����¹���ҩ���ӵ��ˣ���������Ȧˢ���ˡ�
+<br>��&nbsp; &nbsp; ��תͼ����Ψ�ֵ��ɲ�˵����С�������򳡽ֵģ��򳡽��Ǳ�˵�������ȼ���Ǳߵġ��м���ǽֵĸɲ�˵�������ǵģ�����Ǻ���ֵ��ĸɲ�һ�����������Է��������Ա����㡣
+<br>��&nbsp; &nbsp; 2��25�գ��������������ŵ�һλͬ־�����ҽ���������һ�����۵ġ���ͼѰ�ˡ�������
+<br>��&nbsp; &nbsp; 2019���������人��300-500����ס�˿�1000�����ұ�׼�淶�����������񣬲����ա�һ��һԱ����׼�䱸������Ա��
+<br>��&nbsp; &nbsp; ���鷢������Щ����Ա������������������ܼң���������������š����佻ͨ���С����к�����������֢���Բ�ҩ���Ϊ���ǵ���Ҫ����֮һ��
+<br>��&nbsp; &nbsp; ��Ƭ�еġ�ҩ���ˡ��з�㣬���人����������ֵ�����Է������һ������Ա��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0226/MAIN202002261938078636615395559.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0225/c1008-31603953.html" style=""><h4 style="color: black;">2��24��|�人�ռǣ��人�ռǣ���ȥ�޴����ࡰ˼��</h4>
+<p>��&nbsp; &nbsp; ����İ���˵������˵��Ҫһ���ͷ��һ��Ѻ�������
+<br>��&nbsp; &nbsp; ����ĸ���˵�����Ȱ��������µ�ҽѧ��ҵ��
+<br>��&nbsp; &nbsp; �����ͬ��˵����ϲ���ں죬���������̣���Ц����
+<br>��&nbsp; &nbsp; �ź�����ʲô����������˵�����������������ķ�ʽ��ʶ�㣺��˼˼��
+<br>��&nbsp; &nbsp; 2020��2��23��6��30�֡�
+<br>��&nbsp; &nbsp; ��������Ч�����пƼ���ѧЭ�ͽ���ҽԺ���̵�������ҽԺ�������ڿ�ҽ����˼˼����ѳְ��
+<br>��&nbsp; ������ͻȻ�񻯣���û���ü�����һ�仰���������ˡ�����ʶ��У԰����ʯ������˼˼�మ�߹�11�ꡣ
+<br>��&nbsp; ������סԺ���뿪�������ź��ӡ������ڣ��Ҳ�֪������ô������˵���Ұ�������Ū���ˡ���˵���ӣ���ǰ������������̲�ס�������档
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0226/MAIN202002261741143943923840748.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0224/c1008-31601623.html" style="" target="_blank"><h4 style="color: black;">2��23��|�人�ռǣ��人�ռǣ����ڷ��գ��������ܡ�</h4>
+<p>���� ���ڻ�׼�������������ҽԺ��
+<br>�������ǵִ�ҽԺ��ʱ��������ͣ��һ�����˿�������ǰһ��������֪����һ�����Ǵ��㽭������Ԯ�����ʡ�
+<br>����һ�ԣ�˾����翿�ڵ��߸��ϣ����ֻ������ﱨƽ����
+<br>����˾������ճ£���������ս���ߡ����ʶ�ʮ�����ˣ�û�Ź��ң�ҹ���ڼ�ʻ����˯��
+<br>�����´��˵������˾�����人���ѣ������人���ѡ�һ���人�����Ǿͳ���Я���¹ڷ��ײ����ġ������ˡ���
+<br>�����������ҵط�Ъ�ţ������һؼң������ɴ�װ�ϻ��ͷ��̡����´��˵��
+<br>���������ɲ����𣿡�����һ�ʣ������������ס�ˡ�
+<br>�������һ�����������ҽԺ���ŵķ���˵�������ǲ��ˣ������ʲô����ʲô����ҲҪ�Ͳ������ĵ��ס���
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0224/MAIN202002241625148663847534332.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0223/c1008-31600126.html" style="" target="_blank"><h4 style="color: black;">2��22��|�人�ռǣ����Ƕ���־Ը�ߣ�������Ҫȥ����</h4>
+<p>��  �����ù����ϵ���ʱ�ֿ�����������Ϻ�ͬ��Ｏ�������ʡ�21��һ�磬��ȥ�Ƕ����������ͷ��
+<br>���������ͷ��ҹ����Ⱥ�﷢�����棬�������������ܲμ��ж���־Ը�ߡ������Ŷӿ�չ־Ը�ж��ĵ�26�죬��������ˣ�����ϸ���һ�㡣
+<br>����������ʮ���ϣ�����ϰٰ����ۣ��հﰮ��һλ���Ƹ�Ⱦ�¹ڷ��׵�ѧ����ϵ����ҽԺ��
+<br>�� ˭֪��һһ�磬�����������һλ������������������ҽԺ����ȱ�����ܲ��ܰ�æ��һ����֣�������϶���û˵�����Լ��ڵ�ȫ�����˹�ȥ��
+<br>��������������һЩ��ص�����Ҳ��ϵ���������������һ�����ʣ���Ҫ���˶Խӡ��������Ǿ�Ǯ�����ܲ��������ʣ���
+<br>������������ҿ�������ʲô�����������������վ������һ����һ��ȥ��־Ը�ߡ����ڣ��Ŷ�ǰǰ����50���ˡ�
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0224/MAIN202002241622089471194242345.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0222/c1008-31599435.html" style="" target="_blank"><h4 style="color: black;">2��21��|�人�ռǣ���б�����ꡱ���곽</h4>
+<p>�����ɷû��곽�е��ѡ������ڼ䣬���������ϿΣ������90�����ֽ�ʦ�������˲��١���ְ����
+<br>������������ɽ�������շ�վֵ�غ��ȥ�����깬��æ�������ʣ��������8�㵽����Լ�ɷã�Ҫ������ת������
+<br>�����ִ���ɽ�������깬ʱ����ǰ�ۼ��˲������ͳһ�Ʒ���־Ը�ߣ����������Ҫװжһ���Ӻ������������ʡ���ɨ�˺ü�����Ⱥ��û�з��ֻ��곽��
+<br>�� ��Ȼ����һ�����ѣ���Զ��һ����������ʻ���������׼���á�������һ�£�־Ը���ǽ��˽��������һ���ſ���
+<br>������һͣ�ȣ���ͷ�ļ���־Ը��Ծ�ϻ�����������˽�����������˿�ʼһ��һ���ش��ݡ������Ѿ�ʮ��Ĭ����
+<br>�������������ţ����곽���������������� 
+<br>���� ���շ�վ�Ǳ߳���״���߲�����������˼���������ˡ���˵�ţ��������������С�������ʦ�ϳ��ᣡ��������ܲ��ϳ��ˣ����������أ�����Ҹ����곽������Ц��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0222/MAIN202002221321000029833348562.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0221/c1008-31598565.html" style="" target="_blank"><h4 style="color: black;">2��20��|�人�ռǣ�������Ⱥ˿·����������</h4>
+ <p>��������2�㣬��������й����ʴ�ѧ���人�����ʽ���ѧԺ2¥�����ҡ����ҽ�������԰���������ơ�����ǰ��˧С�����Ŀ��ת���Աߣ������ʿ���꼶�������ǡ����������Ķӳ�����
+<br>�����Ӵ���ʦ����ò裬�Ǹ���������ӳ��ģ���æ��ǰ����豭���������Ѳ�ˮ����������ǰ�����ҽд��������Է��ޱ�������
+<br>������������ͨ����ͦ�������������й�5�꣬˶ʿҲ�ڵش���ġ������˳���׳ʵ���ټ���ȫ�����Ű�ɫ�����������������Ǹ�ů�˵Ŀ�ͨ���󣺴�ס�
+<br>�����鷢���󣬵ش���ʽ���ѧԺ300������ѧ������ѧУ���е���ѧ�����ﻹ����̫�ã��еĻ�����ʹ���й������繺��ƽ̨��
+<br>������ȻѧУ��������У�����ṩ�˱�Ҫ���������������Ҫ����ۡ��߲ˣ���Ҫ���������赼����λ��ʦ�Ĺ�������С��
+<br>�������ǣ�������������������ˡ�˿·����־Ը����ӡ������ѧУ������У��ѧ���������13λ־Ը�ߣ��ֱ����԰ͻ�˹̹�����������������ǵȹ��ҡ�
+<br>
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0221/MAIN202002211300039293275360519.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0220/c1008-31596060.html" style="" target="_blank"><h4 style="color: black;">2��19��|�人�ռǣ���OK��������300��������</h4>
+ <p>������һ�죬�����ٴμ������人������ҽԺ�Ļ�ʿ���ȡ���һ�죬��ʿ����������һ����������ȷ���¡�
+<br>����2��13�գ�����ʡ�ٿ����ŷ����ᡣ����̶ҽԺԺ���Ŷ���˵������4�����߽��ܹ��ָ��ڿ�������Ѫ�������ƣ�Ѫ���ȶ��������¹ڷ��׿����߾���Ѫ����
+<br>������������Ժ��˵�������ߡ���ʱ��������˲��ĳ��ˡ����ȡ�������֡���������ͬʱ���Ҷ϶�����һ����ȥ����Ѫ����
+<br>������Ȼ�����죬�������ң�������ʮ�㣬��ȥ��Ѫ����
+<br>��������һ�磬�Һ�ͬ��һ���������������Լ������Ѫ��ǰ�����������˴���һ���ĳ���£��������һ�¡������Ҳ�֪����ԭ������Ϊֻ���Һ�����Ȼ���ɷã�����������ӣ��������ˡ�
+<br>��������Ϊ���õ������ҡ������½½�������˽�ʮ��ý�塣ÿ�����߶���ǹ���ڡ�ȫ����װ����������ü�����΢��Щ���š�����ý��ɷõ�ʱ�������ֱ����˺��档��֮ǰ�Ĳɷ��У��ҹ۲쵽��һ��С���������ŵ�ʱ�򣬻�����ʶ�ؿ���ָ��
+<br>��������֮ǰ�ж�ν��ܲɷõľ������������ƺ���Ȼ��ϰ�߶��ž�ͷ̸�Լ��Ĺ��¡�������ɷã�����˵������Ѫ���Ҷ������ţ�����ô������ŵ����ˡ���
+<br>
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0220/MAIN202002202126070277226099391.jpg" alt=""></a>
+</li><li><a href="http://society.people.com.cn/n1/2020/0219/c1008-31595061.html" style="" target="_blank"><h4>2��18��|�人�ռǣ�������ˣ�����һ�ɾ���</h4>
+ <p>��������һ����ҽ������14�죻�ڶ���ȥ��Ѫ�������������˺ú��žۡ��人���ͣ��й����ͣ���<br>����2��18�գ��人����ɽҽԺ�����������߳�Ժ��˵���Ժ���������������£�36�����������������һ���ľ�����<br>������������ǰһֱ��Э��ҽԺ�������ƣ�2��9�����ס��������ɽҽԺ������Ժ��ʱ���������Ƚϵ��䣬�����Ҳ����ȡ�<br>��������ɽ��ҽ���ͻ�ʿһ�ٹ�������Ҫ��ԣ��������������Ժ�����ڼ䣬����������ҽҩ���ƣ�Ϊ�˻��⻼�ߵ�����ѹ����ҽ����Ա����Ի��߽��������赼�������Ǿ������Ҽ��͹ľ�����ķǳ���л��Щҽ����Ա����������˵��<br>�������������������ӣ�һ��8�꣬һ��8���¡�ÿ����Ƶ���죬���Ӷ�������������ְ֣���Ҫ����Ŷ���������Լ����Լ��ľ�������Ҳ���ҹľ��������ҽ����ԱҲ���ҹľ�������սʤ������ȫ�������ɾ���������������ϲ�������Ա��<br>����������˵�������ڽ�������Ҫȥ����Ѫ���������������п��壬����ȥ�������ˡ����ܰ�һ����һ�����ܾ�һ����һ������
+<br>
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0220/MAIN202002202129277303420533199.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0218/c1008-31591901.html" style="" target="_blank"><h4 style="color: black;">2��17��|�人�ռǣ�����ķ��ճ�����</h4>
+ <p>��������ô���ƣ����������Ͼʱ���ɶ����<br>��������ͦ�ã�Խ��Խ�á���<br>����2��17�գ�����ҵ������ʣ���ɽ����ҽԺ17A�Ų��������磨����������˵��<br>���������˫���ԣ�2��1�գ����类ȷ��Ϊ�¹ڷ��׻��ߣ�������������һ����ҽԺ���Ρ�����֢״ת�ᣬ2��14�գ������Ϊ����ת���ɽ����ҽԺ�Ļ��ߡ�<br>������ɽ����ҽԺ��5���������������ڵĲ��������ҽ�ƶӽӹܣ�Ŀǰס��92�����ߡ�����6�㣬ҽ����Ա���ÿλ���߲������º�Ѫ�����峿�����硢���硢���ϣ�ÿ�������ļ����4�Ρ���˵����������룬ҽ����Ա����鷿�����Щ���ƫ����и�Ѫѹ��֢�Ļ��ߣ���Ҫ����Ѫѹ��⡣<br>��������ͬ�������Ȼ�в�ͬ���Ʒ����ˡ�������˵���ڷ���ҽԺ������������߲�����ҩ���ƣ�1�ŷ���2�ŷ���4�ŷ��ȣ�����״̬�Լ����ƽ׶β�ͬ���õ�ҩҲ��ͬ��ÿ���硢��������綼���õ�2����ҩ����<br>��������ֻ��רҵ���������죬���ҽ�ƶ�����Ϊÿһλ����׼�������ֲ�ͬ��ˮ��������ƽʱ�������ûʲô�������ڲ�һ��������ˮ�����ǰ���ʵʵ���ڵĹذ���������˵��
+<font color="#800000">[��ϸ]</font></p>
+
+<img src="/NMediaFile/2020/0218/MAIN202002181003428134714780563.jpg" alt=""></a>
+</li><li><a href="http://society.people.com.cn/n1/2020/0217/c1008-31591038.html" style="" target="_blank"><h4 style="color: black;">2��16��|�人�ռǣ�ӣ�����ŵ�ʱ��һ�����ȱ�����</h4>
+ <p>�������������ȡ�������������
+<br>�������Һ�ͬ��վ�ڹ��Wakanda�������ȵ��⣬�ŵ�ŨŨ�Ŀ����㣬������һ������ת��һ�룬��ס�ˣ��ѿ����������Ҫ���ˡ�
+<br>�������磬��Ȳ��н�Wakanda���ȵ��ڣ�7��Ա����æµ�ţ���Χ������ֽ��Ϳ��ȴ������
+<br>�������������ȵ�1��21�վͷż��ˣ�7�ҵ�󲿷���Ҳ�������ϼҡ�1��23�գ��人��ǣ�·�ϡ�С���������ˮζԽ��ԽŨ�����ȵ��ϰ�������ûȥ�������ˣ������Լ������£�������Ҫ�ǹ��ţ�����ȥ����ȿ��ȣ���
+<br>���������ǡ���������������һȺ�Ϲ˿͡������ٽ�����ʡ��ҽԺ������ҽ����Ա��ˣ����в���ÿ�����ٺ�һ���Լ��°�ҲҪ����һ��������ضȿ��Ȱ����ߡ�
+<br>���������æ����Ҳ�ﲻ�ϣ���������ÿ�춼�ܺ���һ�����ȵġ�רҵ�Ŀ��Ȱɡ���˵�ɾ͸ɣ�24�գ���������΢��Ⱥ�﷢��һ��΢�ţ����ع�ȵ��ҽԺ�Ϳ��ȣ�Ը�����Ļ�鱨������
+<br>�����������벻�����ǣ�½����7λС���Ӧ�ж����������У����ڳɶ����ε�С��ר�Ŵ���ظϻء��������ʵĿ���ʦ���ɣ����η����뿪�人������ܻ��������Ȱ˵����Ȼ���¡����人�����������Һܶ���������������������ѵ�ʱ���Ҳ��������ʱ���뿪���ǡ�������˵��
+<br>
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0218/MAIN202002181020592260605723698.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0216/c1008-31589096.html" style="" target="_blank"><h4 style="color: black;">2��15��|�人�ռǣ�������Ϊ��ͬһ��Ŀ��</h4>
+ <p>����2��15�գ��人���ѩ�������轵��
+<br>�����Һͺ��������������������Ԯ�人һ�߱����ļ��ߣ��ֺ�������һ�죬����ҷ����������¡�
+<br>����������2�㣬��������ʵ�����
+<br>��������������ȱ�����人����α��Ͻ�������֧Ԯ�人ҽ����Ա��������½���������������ȥ��
+<br>����һ���磬����һ�����ˣ����ҴҸ���������ʡ��ҽ�ƶ���ס�ľƵꡣ
+<br>�������ſ���������ʿ�ڵȴ��������û���Ա����ţ���������ǰ�ʣ�������˯�ú��𣿷��䲻�ÿ��յ����䲻�䣿��
+<br>���������䡣��
+<br>��������ʳզ����Ҫ�ǹ˲��ϳԣ�������ô�죿��
+<br>������˯��Ҳ������Ե�Ҳû���⡣��
+<br>�������ǻ������ģ���ȥ�ɷ�ĳҽ�ƶ���ӡ�˭֪������ʡ�������ָ�Ӳ��ĸ����˱����ǵ��û��磬������ӽ�����
+<br>
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0218/MAIN202002181014391985281157844.jpg" alt=""></a>
+</li><li><a href="http://society.people.com.cn/n1/2020/0215/c1008-31588698.html" style="" target="_blank"><h4 style="color: black;">2��14��|�人�ռǣ����ô��ֵĶ���������</h4>
+ <p>���������ڣ��人���������������ط���ҽԺ���̳������Լ�����������������8�㵽10�㣬����5�㵽7�����ó��߷塣��26�������ǰ��ո����ˣ���ĳ�������Ʒ���人������ҵ���ĳ��о������һ�߶Գ�������������һ�߽��������Ŷ��ܽ�����Ĺ����ĵá�
+<br>
+�������鱩����ԭ���ڹ����λ�������Ҳ�嵽�˵�һ�ߡ�ÿ��һ���磬���ʹ��ÿ��֡������ף��������¼ƣ�������ˮ����84����ˮ��ǰ�������ҽԺ�����䳵�����Գ��������������Ĺ������࣬������Ŷ���Ա�Ӵ���ǰһֱ��������
+<br>
+����1��23�ս�ͨ���С��������������ڳ��и������������������ͳ�ƣ�1��22����24�գ��人����3�������ϵĳ������ж�������3�������������ָ�λ������
+<br>
+�������괺�ڣ���������е�һ����������ꡣ��ǰ���ܵ���������人�������ϼң����ܾ��ˡ�����һֱ���人��������ȥ���ܻ����鷳������Ҫ���ǣ����ڣ���ұ������κ�ʱ�򶼸���Ҫ���ǣ����Ǿ����������ӡ������˵��
+<br>
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0218/MAIN202002180951498975273125112.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0212/c1008-31583991.html" style="" target="_blank"><h4 style="color: black;">2��11��|�人�ռǣ�����Ц���ߣ����Ǽ�����</h4>
+ <p>�������人���ͣ��й����ͣ���2��11�����磬�����Ŀں����人��ɽ����������졣<br>
+����16��30��28λ�¹ڷ�����������½���߳������ݶ��ţ���ͬ����ӹ��ʻ�չ���ĳ�Ժ��6�ˣ������ӽ��������������ҽԺ����Ժ���߹�34�ˡ�Ц��������������������ͬ��Ӱʱ�Ļ����������ϲ�������ġ�<br>
+����
+
+��һ�������������ҽԺ���߳������������ߣ���37�������������������ҽ����Ա�ĸм��ͶԲ��ѵĲ��ᣬ������������ǰ����סԺʱ�Ŀ��ܺͽ��ǡ�<br>
+����
+
+���᲻�ύ���Ⱦ������������ʩ�в��У�����ס��������ҽԺ��������ʮ���������ɵ�������ҽ����Աÿ��רҵ��ϸ�µļ������ƣ�������ܵ�ҽ����Աÿ�����ĵ������赼�����������ȴ������ϣ��ͱ������ˡ���<br>
+����
+
+����̬����Ҫ����Ҫ�������ŵ���Ҫ�����ģ�����˳����Ժ������Ҳ�ܣ�������������ǣ����ٱ�ǰ�����������Ѹ�����в���������ڴ��š����ҳ�Ժ����ۡ�
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0213/MAIN202002130934551064993523538.jpg" alt=""></a></li><li><a href="/n1/2020/0208/c1008-31577322.html" style="" target="_blank"><h4 style="color: black;">2��7��|�人�ռǣ���ëϸѪ�ܡ������ʵ���ů</h4>
+ <p>����2��7�գ�֧Ԯ�人���鱨���ĵھ��졣�人��ͨ���С��������������˾�ҽ��ҽ����Ա���°ࡢ�����ճ��ɹ����г��˱���Ҫ��������⡣�人�з��߹���ָ�Ӳ�ͳһ���𣬸�ÿ��������3����Լ�����Ա��ϱ�Ҫ������Ա�ĳ�������<br>
+����1��25�մ����һ�����ۼƷ���120��Ρ��߷�һ�����15�Σ�ë���Ǻ�����������������Լ��˾���еġ�����������<br>
+����
+
+�������Ī�����Ҹ������Ź����űȽϳ������ÿ�����ë���ѳ�ͣ�ȣ���æ�³�ȥ�����ڵĳ˿Ϳ��š�������ԤԼ���ţ���������������͵��е���ҽԺ����Ҫ��������������һ��ԤԼ�˿͡�<br>
+����
+
+��������ϰ����69�꣬��������ء�����������ʮ���죬�����һֱ���ţ����������ٴ�Ҿ��������ţ����Ǽ����Ӧ�������ǡ���ǡ�����������һ�γ��š���<br>
+����
+
+����1�㣬ë���ճ����緹���ͽӵ�������ĵ绰������·�ϣ���������ϰ��˳�����˰ײˡ����ܲ�����Բ�����������ܵ�ҩ���ټ�����Щ�Եģ����ܼ��һ��ʱ�䲻�����ˡ��������˵��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0208/MAIN202002081527358053968321100.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0206/c1008-31574660.html" style="" target="_blank"><h4 style="color: black;">2��6��|�人�ռǣ��ϵ���һ�ߣ����úá�������</h4>
+ <p>����2��5�գ�����ɽҽԺӭ���ڶ������͹�״��������ȷ�ﻼ�ߡ�10�죬����ɽҽԺ���ٽ���������7500����һ�߽�����û��ûҹƴ�����ġ�־Ը���쾴���������ǧ��ٷ�֮һ��<br>
+������Ϧ������쾴������˻���ɽҽԺ���й���Ϣ����ϵ���������������һ·�������շת���������һ�磬�쾴��������˻���ɽҽԺ���صĽ�����Ŀ����<br>
+�����쾴��ѧ���ǵ���רҵ����������ΪҽԺ�����繤�̾�һ���������ִﵱ�죬���軹�����������˺ͷ���Ĥ����׶Ρ��쾴��������н����ֵ�һ֧����ӣ���������ˡ�����������˵�����˶����ˣ���ʲô���ǳ�������<br>
+����������500�๫��ľ�ķ��£����������嵽������м䣬һ���ƾ�ģ�һ�߳���ɤ�Ӻ����ͣ�����ٽ�һ���ŷ���Ĥ�������������4000��ƽ���׷���Ĥ�������쾴���һ���ս����<br>
+�������ϣ���û�����ɹ���������쾴���ѡ��۵�ֱ���������������ľƵ궼����Ա��������һ�죬�쾴��ֻ���ڸ�������վ�ĳ����Ͻ�����һ���
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271537160862788904828.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0205/c1008-31572494.html" style="" target="_blank"><h4 style="color: black;">2��5��|�人�ռǣ������ǲ����ϣ�˭���ϣ���</h4>
+ <p>����2��4�գ��人��ͨ���С����еĵ�ʮ���졣<br>
+�������鵱ǰ�������������˲����Ѷ������ۻᣬ���Բ��Ҹ�Ⱦ���͹�״�������׺����нӴ�����˵��Խ����Խ���Ų顢���롢���Ρ����죬�人�о���������з���֢״�ķ��Ȳ��˺����͹�״�������ײ��˵����нӴ����������������и�������۲졣<br>
+����
+
+1�����ݡ�28���������120�䷿�������������ߵ��⴦���и���㣬���׺��κ�����3λͬ�µ���ء��׺����Ǻ��������ױ���Ժ�ĵ�ί��ǣ�Ҳ���⴦�����ĸ����ˡ�<br>
+����
+
+7�죬������ǧԪ���ɱ��������в���һ������Ա����û�˸���������ͨ����˵�������һ��Σ�յĵط������׺���˵��û�з���Ա�����Ǿͼȵ�ҽ����Ա�ֵ�����Ա��<br>
+����
+
+����������ͷ�����࡭��ÿ�칤�����࣬��ҵ����࣬�׺��ζ��������������ͬ��7��һ�ֻ������Ҳ��֣��������������Ҷ��������ǡ�����˵���Ӵ��˲���Ҫ�չˣ���Ҳ���뺢�ӣ���֮���鰡����
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271606392693374315426.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0204/c1008-31569924.html" style="" target="_blank"><h4 style="color: black;">2��4��|�人�ռǣ��״���µ�����</h4>
+ <p>����2��3�գ���Ԯ�人���鱨���ĵ����졣
+<br>������˫��ҽ��������������գ�һ���ڸ��벡�����ϰ��ã�һ���ڲ����⣬�°��á�1�³����������������ˣ�ͬ����Ϻ�Ľ������������ܡ��ɽ�����4�죬��짾����Ź�������5λͬ���߽�����֢���벡������ʵ��ȱ�ˣ��һ��ǲ����ĸ����ˡ���
+<br>����������人��ѧ����ҽԺ��֢ҽѧ���Ѿ�������9�꣬���߽��������ʱ��������Ÿո�Ȭ����
+<br>����1�µ��人���������꣬��ʱ��ѩ�����˺���짵Ľ��׵�ֻ��������Ь��ס��¥��û�е��ݣ���ÿ��һ��һ����Ų��¥���ټ�����ȥ������칫¥6��¥��������ĳ�λ��������6���𴲣�������ǰ��1��Сʱ��
+<br>����1��18�գ���짺�5λͬ���߽���֢���벡�����������人��ѧ����ҽԺ�ڶ����߽���֢���벡��������ҽ����Ա������ڼ䣬������Ȥ��������˫��ҽ��������ʱ����짻��������һ�����Լ����̡���˭���������أ���ֻ��ͨ��Ц��ʶ���֡����۲���Ц���ĸ��벡����
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271611253563030893456.jpg" alt=""></a>
+</li><li><a href="http://society.people.com.cn/n1/2020/0203/c1008-31568699.html" style="" target="_blank"><h4 style="color: black;">2��3��|�人�ռǣ�Ӣ�۾��ڳ�����</h4>
+ <p>����2��2�գ�����޶������人��չ���鱨���ĵ�ʮһ�졣<br>
+��������Ҳ�����ѳ�Ϊǧ���ѷ�ġ��Գ��ա�����ǰ����������@�������򵱵������֣�ϣ�����������Լ�����һ��Ǽǽ�顣���鵱ǰ��������Щ���õļƻ��޷�ʵ�֣���Ҳ���ع�����ϧ����Ϊ���Ѹ�������ɹ�<br>
+����
+
+һ����ҽ����һ���ǻ�ʿ��һ������¥��һ������¥������һ�����人����̶ҽԺ��Ϳʢ������ɺ��ٳ����Ϊս��������ܲɷã���������ҽԺΪ������Ķ��������<br>
+����
+
+����������Ϊҽ������Ҫ������ʿ�Ĺ�������ҽ����öࡣ��Ϊ�Ǹ��벡������ʿ����Ҫ����ҽ����������Ҫ�չ˻��ߵ����������һЩ�����˳Է����ϲ��������򲼵ȣ�Ҳ���ɻ�ʿ���е�����̸�����˵Ĺ�����Ϳʢ���̲�ס���ʡ�<br>
+����
+
+�ڲ�ɺӡ���У��ɷ��Ȥ��Ĭ��ȴ�����������14�꣬��ֻ�ڻ���һ������˽��յ���һ��õ�廨������ƽ���﹤��æ�������أ���̫����ˡ��Ͼ�����ͬһ����ҵ���������������ɺ˵��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271615424020690723796.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0202/c1008-31567257.html" style="" target="_blank"><h4 style="color: black;">2��2��|�人�ռǣ���û�й���ȥ�ļ�������</h4>
+ <p>����2��1�գ��人��ͨ���С�������ʮ�졣<br>
+�����һ�����ڣ����г��������̯��Զһ��Ĵ��ͳ���ҲֻӪҵ������5�㡣ҩ����Ŀ��ֺ�ҽ�þƾ���Զ���ǲ������������ٲ���������������<br>
+����
+
+��������������Զ������ɢ������һ����С��¥�´���ë�����Ҳ���ſ��֡��ҵĳǣ�û�������յ����ֺ�����������Щ�ˣ�Ϊ��������������һ�̲�ͣЪ��<br>
+����
+
+���пƼ���ѧ����Э��ҽԺҲ��ս���ߡ�ǰ�ߡ�ǰ���ã�һ�Ŵ�������������Ƭ����ý���ע������Ȧˢ����һ��ҽ����Ա��ȫ���ע�ع��������ķ��������ڲ�ȫ��ˮ�飬��ë����һ����¶��<br>
+����
+
+��λ�����ѳ������������ֽ�㡱��ҽ����Ա���������ࡣ��Ժ����16�꣬���ܹ����ڵ�רҵ��ѵ������������������ȶ���������أ��зḻ�Ĵ�Ⱦ��������顣
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271621249937700848145.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0201/c1008-31566546.html" style="" target="_blank"><h4 style="color: black;">2��1��|�人�ռǣ������µĶ�����������վ</h4>
+ <p>����1��31�գ�����ͬ�������人��չ���鱨���ھ��졣<br>
+�������˵�Ȼ�һ��������������ս������ս������ô�����������ǵڶ�ս����Ҳ������ȷ�����׼ȷ������Ⱦ���׾����ѡ���ȾѸ�ٷ������ǳ�ʶ������ʵ����ֹ���ཡ�����˱���Ⱦ����ֻ�ǡ���æ�����ҡ������ǡ����߿��ߡ���<br>
+����
+
+�人�ж���������Ͻ6��С����20������������Ҫ����5100�໧����13000���ˡ�Ŀǰ�����������͹�״��������ȷ��1�����Ӵ��߾�������۲졣<br>
+����
+
+9�㣬��������վ��æ�ò��ɿ������������������ĵ绰����һ���ûͣ������ҹ��������һ��83����������˲������������ϰ��һ��ʹ�绰�����վ������<br>
+����
+
+��ץ����ץ�������������ְ�һ���������ǲ��еģ����������˵Ķ��ӣ��������˵�������ڵ�Ů��Զ�޹��⣬���������人��ȴ��ͨ�����޷����̸�������̫̫�����ϡ������Ҳ���ã���������֢�����������ܼ�����
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271625452164545589991.jpg" alt=""></a></li><li>
+<a href="http://society.people.com.cn/n1/2020/0201/c1008-31566546.html" style="" target="_blank"><h4 style="color: black;">1��31��|�人�ռǣ������µĶ�����������վ</h4>
+ <p>����
+1��31�գ�����ͬ�������人��չ���鱨���ھ��졣��
+9�㣬�人�ж�����������վ��æ�ò��ɿ������������������ĵ绰����һ���ûͣ������ҹ��������һ��83����������˲������������ϰ��һ��ʹ�绰�����վ������
+<br>����
+��ץ����ץ�������������ְ�һ���������ǲ��еģ����������˵Ķ��ӣ��������˵�������ڵ�Ů��Զ�޹��⣬���������人��ȴ��ͨ�����޷����̸�������̫̫�����ϡ������Ҳ���ã���������֢�����������ܼ�����
+<br>����
+���ô�ҽ��Ƶ��ǣ���������ǰ�������в���ԭ���ȡ���ʹ֮�࣬����֮���ǸϽ�ȷ�������Ƿ�Ϊ���͹�״�������׻��߻�߶����ƻ��ߣ��Լ���̫̫���ޱ���Ⱦ����
+<br>����
+����̫̫���ż�飬�Ĳ�������̫̫���ڼ��У��ֲ����ġ��������ѣ������ż�ȷ�Ϸ���ԭ����Ϊ�������5100�໧��ͥ��Խ����ȷ�����Խ���ȶ����ġ�
+<br>����
+����ȥ�������������������������Ϊ������ķ�������Ҫ�����ߡ������������ǲ���Я���ߣ�����������������������ͼ�����ͬ���衣����û��ѡ��ͬ���ĺ�ְ�����������ϣ��������ʿ������ֻ����ô�ϡ�
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271644465637138986596.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0131/c1008-31565900.html" style="" target="_blank"><h4 style="color: black;">1��30��|�人�ռǣ������ģ��������Ҫ��</h4>
+ <p>����
+1��30�գ���Ԯ�人���鱨���ĵ�һ�졣���緹ʱ�������������찮�����ĸ�������Һ���ڣ�������æ��Ů�����������н�һ������û�Ե��ˡ���ǰΪ�˲����ң��������˱����������ӧ֧ǰ�������ǹ�����Ҫ������Ϊ������Ҳ���ҵļ��硣
+<br>�� ��
+����Щ�������������һ������ϣ���ͨ������Ȧ����ǰ��������֮��ͣ����������ϵ��һ��ͻ���������ǣ����ֵȷ������������򲻵������죬��Ҳ�����人Э��ҽԺ��ҽ��ͨ��΢�����������ʲ��Ǹ漱����û���ˣ�
+<br>�� ��
+��������人�к�ʮ�ֻ�ҽԺ�Ļ�ʿ���������2018����ְ���˿̵����϶��ڿ���һ�ߡ���23���人������ս�ͨ���죬���ͳ�Ϊ��һ��ҽ��־Ը�ߣ������Ѽ�����ҽԺ��������Ϣ���ַ����ؾ�����ҽ�����ʡ�
+<br>���� 
+��ÿ�쾭�ֵĿ��֣�����20�֣�����������������ҽ�á����������ң������ϳ�����3M���֡����������Ŀ��֣��ǲ��ܸ�һ��ҽ����Աʹ�õģ���ҽ����Ա����Щ���͵���ֱ�ӱ�¶�ڲ��������̫Σ���ˣ���
+
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271640587430766254388.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0130/c1008-31565189.html" style="" target="_blank"><h4 style="color: black;">1��29��|�人�ռǣ�ս���ߡ����ӰѺ��Լ��������</h4>
+ <p>����
+1��29�գ��Һʹ޶����人�ĵ����졣
+<br>�� ���ϰ������������֣���͸����ҵ���������ã����������вɹ���һλ����ȥ֪ʶ����ģ���Ĵ������Ա�ĶԻ�������������ע�⡣���彲����ǰ����ȫ�Ҷ����á��������¡���Ҳû�������֣�ֱ�������������ﱨ������Խ��Խ�󣬲š���Ļ��ˡ���
+<br>�� 
+���Ҵ������ֽ����Ѿ�����ˣ����ڻ���Щ��ͯ�õģ�Ҳ����һ���ķ������á�����Ա���ĵ�����λ�����ˡ��Ĵ��彲�⣬�Ŷӽ��˵���Խ��Խ�࣬��Ⱥ�����˿�ʼ�ֹ���
+<br>�� 
+������ǰ����һ�������塱�����������һ�ߣ������ã�����ֻ�������ֿ��ֲ���Ч��ƽʱ���Ǽ�ҽ������ʿ�õĿ���Ҳ���ԡ��������廹�ǽ��Ž��ɣ����������ֿ��ֶ�����������ֻ�ܡ�������������
+<br>���� 
+��ס����·�ϣ��Һʹ޶��п���������������װ���걸�Ľֵ���Աÿ��һ����ִ߽����������֪ʶ������ž����б�Ҫ�����ֵĴ���һ�ң����Ŀ���󡱡����鵱ǰ���������Ҫ��ʵʵ���ڵ��ж���
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271636281677829508381.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0129/c1008-31564526.html" style="" target="_blank"><h4 style="color: black;">1��28��|�人�ռǣ�����������һ���������Ļ��񣡡�</h4>
+ <p>�� ��
+1��28�գ��人��ͨ���С����еĵ����졣
+<br>����
+Ԭ��ǿ���н��������ܼ������޹�˾����Ŀ������������ڽ���ӭȢ��������Ҽ�������ȴ���ڻ���ɽҽԺ��ʩ���ֳ���
+<br>����
+��֪�н����ֽ��������ɽҽԺ�������Ϣ�����ھ����ϼҳﱸ�����Ԭ��ǿ��ʼ����������һ����ԭ���ڴ�����ľ��еĻ���һ���ǹ��ڽ�����ֽ�Ľ���һ�ߡ�������֪��զ��ϱ�������ڡ�
+<br>����
+Ԭ��ǿ˵����ϱ����������ϸ���Լ��ǵ����¸����ز�ס������ȥ�ɣ���֧���㣡��Ҳ����������ѻ������ڣ���ʱ�����������μӻ���Ҳ��Σ�գ�����һ��Ҫ��֤�����ȫ�������ܵõ���δ���޵�֧�֣���Ԭ��ǿ˵��Щ��ʱ���һ�����Լ�е��������ĵ�Ǹ�Ρ�
+<br>����
+1��27�գ��ھ��ݽ����İ����£�Ԭ��ǿ˳���ϵ�ʩ���ֳ�������ͼֽ�����ȹ�����������������¶����զ��ϱ����˵�ģ�Ԭ��ǿ����Щ��Ϊ���˵�����Ҹ���˵�������һ�������һ���������Ļ��񡯣���
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271634361692272325439.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" style="" target="_blank"><h4 style="color: black;">1��27��|�人�ռǣ����ҵĳǣ������ȣ���</h4>
+ <p>����
+1��27�գ��Һ�ͬ������Ȼ���人�ĵ����졣NBA���ǿƱ�����ȥ�������������ԣ�Ҳ�Ƕ��ѣ����ӻ��浽��������������ɷõļ�϶�����Դ���ֻ��δ�᣺Խ��Խ���ǡ����;��񡱵�һ�����֣��˿̻���ʹΪ���������������ղ�����Ĭ����
+<br>����
+��ȥ�ɷù���ҽ�ƶӵ�·�ϣ�������˵���ǿ�����ѵִ��人����ȥ����������ɷù�������ȷ�ﻼ�ߺ���֢�������Ľ���̶ҽԺ��
+<br>����
+��֪�����ֳ�Ҫ�󾡿���ҽ����Ա�ͷ������ʵ�ȱ�ڣ�������������ɷ�ʱ����������������ʲ�����������ʵ�κ���Σ��˿̵�����һ����е���ο�ɡ�
+<br>����
+�յ��ɷõص㣬�����ֵ�֪�������ڻ���ɽ���졣һ�鶨λ������10����Һ�����Ȼһ���ɹ�ʶ��׷��ȥ�����ź����ǣ������Ǹϵ�����ɽҽԺ��������ʱ�������Ѹϸ���һ������㡣
+<br>����
+��û��������Ĳ��������ֳ��ĳ���������ܣ�����ɽʩ���ֳ�������ȫ����ƽ��һ���ɶ������Ļ�����Ӳ��·�����ڽ������ɷ��ڼ䣬��һ����ײ���˳����أ�������Ч������̤ʵ��Ϊ��������ħ�����ޡ�
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271623464624699973306.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" style="" target="_blank"><h4 style="color: black;">1��26��|�人�ռǣ�ʡ��һ�׷����������Լ���</h4>
+ <p>����
+1��26�գ��Һ�ͬ�´޶����人�ĵ����졣���죬���������õ��˷��������人�н���̶ҽԺ���������ˣ�
+<br>�� ��
+�������人ʩ�г���˽�ҳ����еĵ�һ�죬���յ�С�������¸���ͣ���ֵ����塣���вɷ������Һʹ޶���ʾ���֤����˳��ͨ�������ټ졣
+<br>�� ��
+����̶ҽԺ���人�ж������ҽ�ƻ������ܶ�ת���������͹�״��������Σ�ػ��߱������ڡ����岡����������ҽԺ����������������ʢ���������Ǵ�ǰ�������кܴ�����������Ҳ��������������ֱ�߽����������
+<br>�� ��
+���ܴ�����������ʿ̨�ϰ������ʻ���ƻ���͵��⡣��������֣�Ը����ƽ�����������͸���ս��һ�ߵİ�����ʹ�����ʻ��ϼ�������һ��С������
+<br>�� ��
+��̽��������ǻ����ɣ�����ǰ�������岡������·�ϣ��Һʹ޶���ͣ����ʿѯ����������������ϣ��������һЩ����Ϣ������֪����Խ�࣬Խ�ܻ����������ĵĿֻš�����л���ǵĹ�ע������Ҳ�����࣬������һ��Ҫע���������κ���������ڡ����岡������һλ�������ǲɷõ�һ��ҽ����Ա�������ݺͰ�����˵��������
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271623467541767253981.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562758.html" style="" target="_blank"><h4 style="color: black;">1��25��|�人�ռǣ���һ��ҽԺ�������µĿ���Ҳ����</h4>
+ <p>����
+1��25�գ��Һ�ͬ������Ȼ���人�ĵ����졣
+<br>���� 
+����Ⱥ�е�һ����Ϣ���ұ�����ܣ������һ���й��������ξֳ���ίԱ���ٿ����飬ר����ȡ���͹�״������Ⱦ�ķ���������ع����㱨������������ر��ǻ������ƹ����������о����ٲ����ٶ�Ա�������������ģ�
+<br>�� ��
+�µķ�������û�������ǽ��������޷�����ҽԺ���������Һ�����Ȼ�����󣬾��������̵����ɽ��С��ɽ��ҽԺ��
+<br>�� ��
+���ǵִ�ʱ�������Ϲ����ǳ��緹��ʦ����һ�������̻��ʣ����˻��߹˲����ܽ����е���ˮ�����⡢���ӡ��߲ˣ����м�������һλ���˱߳Ա߸�����˵��������ð�������ķ������Ǻ����㣬��������Ÿɣ���
+<br>�� ��
+���յ�С�꣬�ù��صĵ�·��Ţ�����������ߵ���Щ��������������ʵ��̫�࣬�н��У������Ļ��м��ؾܾ���һλ˽�ҳ��������ǳ�ȥ�����롣��������ɽ����ָ�Ӵ�Ӫ��һλ���ҵ����Ĵ����������ʢ������������һ��ʪ��������æҨ�������������������������������ʢ���⹻160���˺��֣���һ�������¶ǣ���ů��θ��Ҳů���ġ� 
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271623471119151233351.jpg" alt=""></a></li><li><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562275.html" style="" target="_blank"><h4 style="color: black;">1��24��|�人�ռǣ��̵顰С��ɽ������ ��Ϧ��ž��ս�</h4>
+ <p>����
+1��24�գ�ũ��������ʮ���������人�ĵڶ��졣
+<br>���� 
+һ�����������˼��˵Ķ�����������ѵ��ʺ��ֻ��жѻ�����ģ���ͬ�·����ĸ�ʽ�������д���ʵ����Ϣ����Ҫ�������⣬������Ҳ�ض���߾����ܡ�
+<br>���� ������������人���������人�Ľ����ڲ̵顣
+
+<br>���� �人�����人�桰С��ɽ����ʱҽԺ�����ڱ����������ǵ䡱������ң���֪��С��ɽ���������ֱ�������������������ֻ��һ��ҽԺ����������һ����������ȫ�������������Ǳؽ���Ӯ�ⳡ���߹���ս���ĺ����ĵ�ǿ���롣
+
+<br>���� ��ʱҽԺ���ڲ̵��人ְ������Ժ��������Ҳ�����ǽ�����ɵĵ�һվ��30����·�̣���·ͨ���������ִ�ʱ��������һ������ʮ�����ʻ�����ɵġ����������У�һ������ɫ����A��������ָ����Ա�������£�����ʻ��ʩ���ֳ�����һ�����������ʵġ���A��������ѩ����̿��Ҳ�Ƕԡ���A�����ǲ�Դ����������ҥ�Ժ����˵������ػ���
+
+<br>���� ��ʩ���ֳ�����Զ�����Ƕ�������ȫ�ǻ�е�ĺ�������
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271625271910737599847.jpg" alt=""></a></li><li>
+<a href="http://society.people.com.cn/n1/2020/0124/c1008-31561899.html" style="" target="_blank"><h4 style="color: black;">1��23��|�人�ռǣ������人�������籩���ġ�ȥ��</h4>
+ <p>����
+��������飬���Ǻ��人��û��̫��ʱ��ȥ׼��������ȷ��·��Ҫ����������Ҫ�ǻۡ�һ����������ۼ�֤�ͼ�¼һ����ʷ���Ǽ��ߵ����Ρ���
+<br>����
+ӳ�����յ����ͣ������׶������������������һ������Ȧ������֮���ҽ���һλͬ�¸�𡰿����䡱�ı�����ֱ���˿̵ġ��籩֮�ۡ����������ģ������人������һ�������ǽ�ÿ���¼���������͹�״������������֮�£����������������׶����ŵģ������人�������һ�С�
+<br>�� ��
+1��23�գ�ũ������إ�š��˿̣���ؾ�������й������г��˳�Ϧ����֮ǰ��ϲ�ú��ڴ���һ��Ҳʱ��ǣ�������͹�״������������Ľ�չ��
+<br>�� ��
+�������е�һ���������ڼ䣬�׶�����T3��վ¥�˳�ӿ����Ŀ��������Χ�ڣ�����������ÿͶ��Ѿ������˿��֣��������侯սʿ��������Ա���ۻ�Ա����������ԱҲ���������ִ�ڡ�������������δ����������֣�һЩ���������Χ��������ｫ�ڱ��ڵ�����ʵʵ��
+<font color="#800000">[��ϸ]</font></p>
+<img src="/NMediaFile/2020/0227/MAIN202002271613365279706935192.jpg" alt=""></a></li>
+            </ul>
+           
+
+        </div>
+    </div>
+    <!-- vlog -->
+    <div class="vlog w1000 clearfix">
+        <h3>�人Vlog</h3>
+        <div class="vlog-box">
+        <div class="vlog_video">
+            <p class="left"><a href="http://v.people.cn/n1/2020/0308/c413792-31622097.html" target="_blank"><img src="/NMediaFile/2020/0309/MAIN202003091117066316531528206.png" width="485" height="273" alt="" alt="��������ʹ��Ҳ��սʿ��"/></a>
+</p>
+            <ul class="list"><li><a href="http://v.people.cn/n1/2020/0308/c413792-31622097.html" target="_blank">23����������ʹ��Ҳ��սʿ��</a></li><li><a href="http://tv.people.com.cn/n1/2020/0217/c413792-31590995.html" target="_blank">22���������Ҳ��һ���人��������</a></li><li><a href="http://v.people.cn/n1/2020/0214/c413792-31587910.html" target="_blank">21:�����еĳ�������ת����</a></li><li><a href="http://v.people.cn/n1/2020/0212/c413792-31583882.html" target="_blank">20��������ʤ�����첻ңԶ��</a></li><li><a href="http://v.people.cn/n1/2020/0211/c413792-31582286.html" target="_blank">19���������̣�ֻΪһ�����</a></li><li><a href="http://v.people.cn/n1/2020/0210/c413792-31580433.html" target="_blank">18����Сʱ��תֻΪȫ�����</a></li><li><a href="http://v.people.cn/n1/2020/0209/c413792-31578359.html" target="_blank">17������ɫ���������ϰ�ɫ������</a></li><li><a href="http://v.people.cn/n1/2020/0208/c413792-31577442.html" target="_blank">16��������ר���Ѿ�λ��</a></li><li><a href="http://v.people.cn/n1/2020/0207/c413792-31576282.html" target="_blank">15�����人һ�����������</a></li><li><a href="http://v.people.cn/n1/2020/0206/c413792-31574365.html" target="_blank">14�����¾���־Ը�ߵ������塱</a></li><li><a href="http://v.people.cn/n1/2020/0205/c413792-31572639.html" target="_blank">13�������أ����٣���</a></li><li><a href="http://v.people.cn/n1/2020/0204/c413792-31570773.html" target="_blank">12�������鲻�⣬���ǲ��ˡ�</a></li><li><a href="http://v.people.cn/n1/2020/0203/c413792-31569227.html" target="_blank">11����������Ϊ�˸��õ���ۡ�</a></li><li><a href="http://v.people.cn/n1/2020/0202/c413792-31567248.html" target="_blank">10����Ϊǧ�����غ��š�</a></li><li><a href="http://v.people.cn/n1/2020/0201/c413792-31566575.html" target="_blank">9����Ϊ���������Ҳ��ܵ��£���</a></li><li><a href="http://v.people.cn/n1/2020/0131/c413792-31565979.html" target="_blank">8���������ģ��������Ҫ�ġ�</a></li><li><a href="http://v.people.cn/n1/2020/0130/c413792-31565125.html" target="_blank">7������Ԯ��ȥ��һ�ߡ�</a></li><li><a href="http://v.people.cn/n1/2020/0129/c413792-31564319.html" target="_blank">6������Щ��ů����Щ������</a></li><li><a href="http://v.people.cn/n1/2020/0128/c413792-31563658.html" target="_blank">5����̽������ɽ��</a></li><li><a href="http://v.people.cn/n1/2020/0127/c413792-31562977.html" target="_blank">4�����¾���������ʹ��</a></li><li><a href="http://tv.people.com.cn/n1/2020/0126/c413792-31562679.html" target="_blank">3������ǰ������·�ϡ�</a></li><li><a href="http://tv.people.com.cn/n1/2020/0125/c413792-31562327.html" target="_blank">2�����ر�ĳ�Ϧҹ��</a></li><li><a href="http://tv.people.com.cn/n1/2020/0124/c413792-31561862.html" target="_blank">1�����ֵܣ��������ˣ���</a></li></ul>
+        </div>
+            <div class="right video-right">
+                <ul class=" video-list">
+                <li><a href="http://v.people.cn/n1/2020/0404/c413792-31662115.html" target="_blank"><img src="/NMediaFile/2020/0406/MAIN202004061729413679686860224.jpg" width="235" height="132" alt="" alt="Ӣ�۵ĳǣ�Ӣ�۵���"/></a><p><a href="http://v.people.cn/n1/2020/0404/c413792-31662115.html" target="_blank">Ӣ�۵ĳǣ�Ӣ�۵���</a></p></li>
+<li><a href="http://tv.people.com.cn/n1/2020/0217/c413792-31590995.html" target="_blank"><img src="/NMediaFile/2020/0309/MAIN202003091316276247345749577.jpg" width="235" height="132" alt="" alt="�������Ҳ��һ���人��������"/></a><p><a href="http://tv.people.com.cn/n1/2020/0217/c413792-31590995.html" target="_blank">�������Ҳ��һ���人��������</a></p></li>
+<li><a href="http://v.people.cn/n1/2020/0214/c413792-31587910.html" target="_blank"><img src="/NMediaFile/2020/0309/MAIN202003091115440866918932412.jpg" width="235" height="132" alt="" alt="�����еĳ�������ת����"/></a><p><a href="http://v.people.cn/n1/2020/0214/c413792-31587910.html" target="_blank">�����еĳ�������ת����</a></p></li>
+<li><a href="http://v.people.cn/n1/2020/0212/c413792-31583882.html" target="_blank"><img src="/NMediaFile/2020/0218/MAIN202002181321536629258353016.jpg" width="235" height="132" alt="" alt="������ʤ�����첻ңԶ��"/></a><p><a href="http://v.people.cn/n1/2020/0212/c413792-31583882.html" target="_blank">������ʤ�����첻ңԶ��</a></p></li>
+<li><a href="http://v.people.cn/n1/2020/0211/c413792-31582286.html" target="_blank"><img src="/NMediaFile/2020/0218/MAIN202002181321540072526825158.jpg" width="235" height="132" alt="" alt="�������̣�ֻΪһ�����"/></a><p><a href="http://v.people.cn/n1/2020/0211/c413792-31582286.html" target="_blank">�������̣�ֻΪһ�����</a></p></li>
+<li><a href="http://v.people.cn/n1/2020/0210/c413792-31580433.html" target="_blank"><img src="/NMediaFile/2020/0309/MAIN202003091321308914688502804.jpg" width="235" height="132" alt="" alt="��Сʱ��תֻΪȫ�����"/></a><p><a href="http://v.people.cn/n1/2020/0210/c413792-31580433.html" target="_blank">��Сʱ��תֻΪȫ�����</a></p></li>
+<li><a href="http://v.people.cn/n1/2020/0209/c413792-31578359.html" target="_blank"><img src="/NMediaFile/2020/0309/MAIN202003091328127411322280974.jpg" width="235" height="132" alt="" alt="������ɫ���������ϰ�ɫ��������"/></a><p><a href="http://v.people.cn/n1/2020/0209/c413792-31578359.html" target="_blank">������ɫ���������ϰ�ɫ��������</a></p></li>
+<li><a href="http://v.people.cn/n1/2020/0208/c413792-31577442.html" target="_blank"><img src="/NMediaFile/2020/0218/MAIN202002181321547140266850966.jpg" width="235" height="132" alt="" alt="������ר���Ѿ�λ��"/></a><p><a href="http://v.people.cn/n1/2020/0208/c413792-31577442.html" target="_blank">������ר���Ѿ�λ��</a></p></li>
+<li><a href="http://v.people.cn/n1/2020/0207/c413792-31576282.html" target="_blank"><img src="/NMediaFile/2020/0218/MAIN202002181321550603220319426.jpg" width="235" height="132" alt="" alt="���人һ�����������"/></a><p><a href="http://v.people.cn/n1/2020/0207/c413792-31576282.html" target="_blank">���人һ�����������</a></p></li>
+<li><a href="http://v.people.cn/n1/2020/0206/c413792-31574365.html" target="_blank"><img src="/NMediaFile/2020/0208/MAIN202002081019483330212346098.jpg" width="235" height="132" alt="" alt="���¾���־Ը�ߵ������塱"/></a><p><a href="http://v.people.cn/n1/2020/0206/c413792-31574365.html" target="_blank">���¾���־Ը�ߵ������塱</a></p></li>
+
+                </ul>
+            </div>
+        </div>
+                  
+        
+    </div>
+
+    <!-- ����ֱ�� -->
+    <div class="zhiji w1000 clearfix">
+        <h3>����ֱ��</h3>
+        <div class="swiper-container" id="swiper1">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171457038472259677537.jpg" width="1000" height="500" alt="" alt="��Ԯ�人�Ĺ���ҽ�ƶӷ�������"/></a><p><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank">��Ԯ�人�Ĺ���ҽ�ƶӷ�������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171457035044455790527.jpg" width="1000" height="500" alt="" alt="��Ԯ�人�Ĺ���ҽ�ƶӷ�������"/></a><p><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank">��Ԯ�人�Ĺ���ҽ�ƶӷ�������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171457032577171031266.jpg" width="1000" height="500" alt="" alt="��Ԯ�人�Ĺ���ҽ�ƶӷ�������"/></a><p><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank">��Ԯ�人�Ĺ���ҽ�ƶӷ�������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0204/c1008-31569924.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171525371505368252189.jpg" width="1000" height="500" alt="" alt="������4�죬��짾����Ź�������5λͬ���߽�����֢���벡����"/></a><p><a href="http://society.people.com.cn/n1/2020/0204/c1008-31569924.html" target="_blank">������4�죬��짾����Ź�������5λͬ���߽�����֢���벡����</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0203/c1008-31568699.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171523584291247987156.jpg" width="1000" height="500" alt="" alt="Ϳʢ������ɺ���޽��ܲɷá�"/></a><p><a href="http://society.people.com.cn/n1/2020/0203/c1008-31568699.html" target="_blank">Ϳʢ������ɺ���޽��ܲɷá�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0202/c1008-31567257.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171522425552797360125.jpg" width="1000" height="500" alt="" alt="��ʤ����ҽԺ����������Ϊ���ﻼ���ṩ����"/></a><p><a href="http://society.people.com.cn/n1/2020/0202/c1008-31567257.html" target="_blank">��ʤ����ҽԺ����������Ϊ���ﻼ���ṩ����</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0201/c1008-31566546.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171519329953120596907.jpg" width="1000" height="500" alt="" alt="һ�����ĳ��ӵ�˾��������ϴ������"/></a><p><a href="http://society.people.com.cn/n1/2020/0201/c1008-31566546.html" target="_blank">һ�����ĳ��ӵ�˾��������ϴ������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0130/c1008-31565189.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171516242634632916186.jpg" width="1000" height="500" alt="" alt="Э��ҽԺסԺ������������ҽ�ƶӽ��յ�һλת�����Ļ��ߡ�"/></a><p><a href="http://society.people.com.cn/n1/2020/0130/c1008-31565189.html" target="_blank">Э��ҽԺסԺ������������ҽ�ƶӽ��յ�һλת�����Ļ��ߡ�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0129/c1008-31564526.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171514044600887976196.jpg" width="1000" height="500" alt="" alt="����ɽҽԺʩ���ֳ����巿���γ��֡�"/></a><p><a href="http://society.people.com.cn/n1/2020/0129/c1008-31564526.html" target="_blank">����ɽҽԺʩ���ֳ����巿���γ��֡�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0218/c1008-31591263-3.html" target="_blank"><img src="/NMediaFile/2020/0218/MAIN202002180941429730434844715.jpg" width="1000" height="500" alt="" alt="���Ϸ�������人�����������&#13;"/></a><p><a href="http://society.people.com.cn/n1/2020/0218/c1008-31591263-3.html" target="_blank">���Ϸ�������人�����������
+</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0216/c1008-31589096.html" target="_blank"><img src="/NMediaFile/2020/0218/MAIN202002181011543569385280954.jpg" width="1000" height="500" alt="" alt="������Ϊ��ͬһ��Ŀ��"/></a><p><a href="http://society.people.com.cn/n1/2020/0216/c1008-31589096.html" target="_blank">������Ϊ��ͬһ��Ŀ��</a></p></div>
+<div class="swiper-slide"><a href="/n1/2020/0207/c1008-31576214.html" target="_blank"><img src="/NMediaFile/2020/0208/MAIN202002081502560141131732149.jpg" width="1000" height="500" alt="" alt="90���Ŀ͵ľ�ͷ���£����賿�ĵ���人��Ҳ�кܶ�Ʊȡ�"/></a><p><a href="/n1/2020/0207/c1008-31576214.html" target="_blank">90���Ŀ͵ľ�ͷ���£����賿�ĵ���人��Ҳ�кܶ�Ʊȡ�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562039.html" target="_blank"><img src="/NMediaFile/2020/0205/MAIN202002051136229835037455877.jpg" width="1000" height="500" alt="" alt="��ž�֧Ԯ����ҽ�ƶӵִ��人"/></a><p><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562039.html" target="_blank">��ž�֧Ԯ����ҽ�ƶӵִ��人</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562758.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282038036150218015931.jpg" width="1000" height="500" alt="" alt="���Ϻ��������г��Ѿ��ر�"/></a><p><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562758.html" target="_blank">���Ϻ��������г��Ѿ��ر�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562321.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282021329979231541281.jpg" width="1000" height="500" alt="" alt="����������̽���人����ɽҽԺʩ���ֳ� ��ȾˮԴϵҥ��&#13;"/></a><p><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562321.html" target="_blank">����������̽���人����ɽҽԺʩ���ֳ� ��ȾˮԴϵҥ��
+</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282003106410222417281.jpg" width="1000" height="500" alt="" alt="����ɽҽԺ�����ֳ�����ʹ�ù�������"/></a><p><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" target="_blank">����ɽҽԺ�����ֳ�����ʹ�ù�������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282003110034114235426.jpg" width="1000" height="500" alt="" alt="����ɽҽԺʩ���ֳ��Ĺ���"/></a><p><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" target="_blank">����ɽҽԺʩ���ֳ��Ĺ���</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282035260041631395584.jpg" width="1000" height="500" alt="" alt="����̶ҽԺ��ҽ���ǳ�æµ"/></a><p><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" target="_blank">����̶ҽԺ��ҽ���ǳ�æµ</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282003113518117712252.jpg" width="1000" height="500" alt="" alt="����̶ҽԺİ���������Ļ��ϸ�����ů��ף��"/></a><p><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" target="_blank">����̶ҽԺİ���������Ļ��ϸ�����ů��ף��</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562677.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282002426976135371517.jpg" width="1000" height="500" alt="" alt="�人�������ʹ�Ӧ���۸�Ŀǰ�����ָ�����"/></a><p><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562677.html" target="_blank">�人�������ʹ�Ӧ���۸�Ŀǰ�����ָ�����</a></p></div>
+
+            </div>
+            <div class="swiper-button-prev"></div><!--���ͷ�����������swiper-container���棬��Ҫ�Զ�����ʽ��-->
+            <div class="swiper-button-next"></div><!--�Ҽ�ͷ�����������swiper-container���棬��Ҫ�Զ�����ʽ��-->
+            <div class="swiper-pagination"></div><!--��ҳ�������������swiper-container���棬��Ҫ�Զ�����ʽ��-->
+        </div>
+        <div class="swiper-container" id="swiper2">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171457038472259677537.jpg" width="1000" height="500" alt="" alt="��Ԯ�人�Ĺ���ҽ�ƶӷ�������"/></a><p><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank">��Ԯ�人�Ĺ���ҽ�ƶӷ�������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171457035044455790527.jpg" width="1000" height="500" alt="" alt="��Ԯ�人�Ĺ���ҽ�ƶӷ�������"/></a><p><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank">��Ԯ�人�Ĺ���ҽ�ƶӷ�������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171457032577171031266.jpg" width="1000" height="500" alt="" alt="��Ԯ�人�Ĺ���ҽ�ƶӷ�������"/></a><p><a href="http://society.people.com.cn/n1/2020/0317/c1008-31636160.html" target="_blank">��Ԯ�人�Ĺ���ҽ�ƶӷ�������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0204/c1008-31569924.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171525371505368252189.jpg" width="1000" height="500" alt="" alt="������4�죬��짾����Ź�������5λͬ���߽�����֢���벡����"/></a><p><a href="http://society.people.com.cn/n1/2020/0204/c1008-31569924.html" target="_blank">������4�죬��짾����Ź�������5λͬ���߽�����֢���벡����</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0203/c1008-31568699.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171523584291247987156.jpg" width="1000" height="500" alt="" alt="Ϳʢ������ɺ���޽��ܲɷá�"/></a><p><a href="http://society.people.com.cn/n1/2020/0203/c1008-31568699.html" target="_blank">Ϳʢ������ɺ���޽��ܲɷá�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0202/c1008-31567257.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171522425552797360125.jpg" width="1000" height="500" alt="" alt="��ʤ����ҽԺ����������Ϊ���ﻼ���ṩ����"/></a><p><a href="http://society.people.com.cn/n1/2020/0202/c1008-31567257.html" target="_blank">��ʤ����ҽԺ����������Ϊ���ﻼ���ṩ����</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0201/c1008-31566546.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171519329953120596907.jpg" width="1000" height="500" alt="" alt="һ�����ĳ��ӵ�˾��������ϴ������"/></a><p><a href="http://society.people.com.cn/n1/2020/0201/c1008-31566546.html" target="_blank">һ�����ĳ��ӵ�˾��������ϴ������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0130/c1008-31565189.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171516242634632916186.jpg" width="1000" height="500" alt="" alt="Э��ҽԺסԺ������������ҽ�ƶӽ��յ�һλת�����Ļ��ߡ�"/></a><p><a href="http://society.people.com.cn/n1/2020/0130/c1008-31565189.html" target="_blank">Э��ҽԺסԺ������������ҽ�ƶӽ��յ�һλת�����Ļ��ߡ�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0129/c1008-31564526.html" target="_blank"><img src="/NMediaFile/2020/0317/MAIN202003171514044600887976196.jpg" width="1000" height="500" alt="" alt="����ɽҽԺʩ���ֳ����巿���γ��֡�"/></a><p><a href="http://society.people.com.cn/n1/2020/0129/c1008-31564526.html" target="_blank">����ɽҽԺʩ���ֳ����巿���γ��֡�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0218/c1008-31591263-3.html" target="_blank"><img src="/NMediaFile/2020/0218/MAIN202002180941429730434844715.jpg" width="1000" height="500" alt="" alt="���Ϸ�������人�����������&#13;"/></a><p><a href="http://society.people.com.cn/n1/2020/0218/c1008-31591263-3.html" target="_blank">���Ϸ�������人�����������
+</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0216/c1008-31589096.html" target="_blank"><img src="/NMediaFile/2020/0218/MAIN202002181011543569385280954.jpg" width="1000" height="500" alt="" alt="������Ϊ��ͬһ��Ŀ��"/></a><p><a href="http://society.people.com.cn/n1/2020/0216/c1008-31589096.html" target="_blank">������Ϊ��ͬһ��Ŀ��</a></p></div>
+<div class="swiper-slide"><a href="/n1/2020/0207/c1008-31576214.html" target="_blank"><img src="/NMediaFile/2020/0208/MAIN202002081502560141131732149.jpg" width="1000" height="500" alt="" alt="90���Ŀ͵ľ�ͷ���£����賿�ĵ���人��Ҳ�кܶ�Ʊȡ�"/></a><p><a href="/n1/2020/0207/c1008-31576214.html" target="_blank">90���Ŀ͵ľ�ͷ���£����賿�ĵ���人��Ҳ�кܶ�Ʊȡ�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562039.html" target="_blank"><img src="/NMediaFile/2020/0205/MAIN202002051136229835037455877.jpg" width="1000" height="500" alt="" alt="��ž�֧Ԯ����ҽ�ƶӵִ��人"/></a><p><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562039.html" target="_blank">��ž�֧Ԯ����ҽ�ƶӵִ��人</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562758.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282038036150218015931.jpg" width="1000" height="500" alt="" alt="���Ϻ��������г��Ѿ��ر�"/></a><p><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562758.html" target="_blank">���Ϻ��������г��Ѿ��ر�</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562321.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282021329979231541281.jpg" width="1000" height="500" alt="" alt="����������̽���人����ɽҽԺʩ���ֳ� ��ȾˮԴϵҥ��&#13;"/></a><p><a href="http://society.people.com.cn/n1/2020/0125/c1008-31562321.html" target="_blank">����������̽���人����ɽҽԺʩ���ֳ� ��ȾˮԴϵҥ��
+</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282003106410222417281.jpg" width="1000" height="500" alt="" alt="����ɽҽԺ�����ֳ�����ʹ�ù�������"/></a><p><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" target="_blank">����ɽҽԺ�����ֳ�����ʹ�ù�������</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282003110034114235426.jpg" width="1000" height="500" alt="" alt="����ɽҽԺʩ���ֳ��Ĺ���"/></a><p><a href="http://society.people.com.cn/n1/2020/0128/c1008-31563700.html" target="_blank">����ɽҽԺʩ���ֳ��Ĺ���</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282035260041631395584.jpg" width="1000" height="500" alt="" alt="����̶ҽԺ��ҽ���ǳ�æµ"/></a><p><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" target="_blank">����̶ҽԺ��ҽ���ǳ�æµ</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282003113518117712252.jpg" width="1000" height="500" alt="" alt="����̶ҽԺİ���������Ļ��ϸ�����ů��ף��"/></a><p><a href="http://society.people.com.cn/n1/2020/0127/c1008-31563235.html" target="_blank">����̶ҽԺİ���������Ļ��ϸ�����ů��ף��</a></p></div>
+<div class="swiper-slide"><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562677.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001282002426976135371517.jpg" width="1000" height="500" alt="" alt="�人�������ʹ�Ӧ���۸�Ŀǰ�����ָ�����"/></a><p><a href="http://society.people.com.cn/n1/2020/0126/c1008-31562677.html" target="_blank">�人�������ʹ�Ӧ���۸�Ŀǰ�����ָ�����</a></p></div>
+
+            </div>
+            
+        </div>
+    </div>
+    <!-- �人ʵ�� -->
+    <div class="shikuang w1000 clearfix">
+        <h3><a href="/GB/369130/431577/431583/index.html" target="_blank">�人ʵ��</a></h3>
+        <div class="shikuang-box">
+            <ul class="left shikuang-left"><li><a href='/n1/2020/0128/c1008-31563784.html' target="_blank">�人Ϊ�ں��⼮��ʿ��ͨ24Сʱ��ѯ��������</a></li>
+<li><a href='/n1/2020/0325/c1008-31648101.html' target="_blank">����ʡ�ڰ���Ԯ������ҽ�ƶӶ�Ա���մ��人��̷�ǭ</a></li>
+<li><a href='/n1/2020/0324/c1008-31646565.html' target="_blank">�����¹���������־Ը���γ����������Լ��������°ɣ�</a></li>
+<li><a href='/n1/2020/0324/c1008-31646357.html' target="_blank">����������ȥ��־Ը�ߣ������Ӣ����ʦ�Ŀ��֡�</a></li>
+<li><a href='/n1/2020/0323/c1008-31645061.html' target="_blank">��ͷ��ġ���˲�䡱�ޣ��人21֧Ԯ��ҽ�ƶӹ�ֲ���ж��֡�</a></li>
+<li><a href='/n1/2020/0322/c1008-31643132.html' target="_blank">����֢״��Ⱦ�ߡ�Ϊ��û���롰ȷ�ﲡ������ר����������</a></li>
+<li><a href='/n1/2020/0321/c1008-31642467.html' target="_blank">ս���ߡ�Ӣ���ǣ���������˵һ����лл������</a></li>
+<li><a href='/n1/2020/0320/c1008-31641886.html' target="_blank">���人Ҳ���ҵļҡ�</a></li>
+<li><a href='/n1/2020/0320/c1008-31641575.html' target="_blank">��Ժ�С���Ϊ����ҽԺ���ݻ���</a></li>
+
+<br></ul>
+    <div id="wrapper2" class="right shikuang-right">
+                <ul class=" shikuang-list"><a href="http://hb.people.com.cn/GB/194094/395462/index.html" target="_blank"><img src="/NMediaFile/2020/0128/MAIN202001281814200695508576232.jpg" width="490" height="212" alt=""/></a><p>&nbsp;
+</ul>
+    
+            </div>
+        </div>
+        
+    </div>
+    <div class="shikuang1 w1000 clearfix">
+        <h3>����ԭ��</h3>
+        <ul><li><a href='http://legal.people.com.cn/n1/2020/0411/c42510-31669959.html' target="_blank">������������ƻ�3��α�졢ʹ��α����������֤����</a></li>
+<li><a href='http://legal.people.com.cn/n1/2020/0409/c42510-31667847.html' target="_blank">��߼췢��6�����¹ڷ����������ر���������Ͱ���</a></li>
+<li><a href='/n1/2020/0409/c1008-31667501.html' target="_blank">������ҵ�Ͳ�ԭ�֣��Ѳ���չ���������ɹ�����������</a></li>
+<li><a href='/n1/2020/0409/c1008-31667497.html' target="_blank">����ɭ���죺����5����Ӧ��ɭ�ֻ���</a></li>
+<li><a href='/n1/2020/0409/c1008-31667494.html' target="_blank">������ҵ�Ͳ�ԭ�֣���֯15��ɭ����Դ�ලרԱ�쿪չר����𶽲�</a></li>
+<li><a href='/n1/2020/0409/c1008-31667483.html' target="_blank">ɭ�������֣������߱��ڱ���ڳ���1����ʵʩ������Ԯ������</a></li>
+<li><a href='/n1/2020/0409/c1008-31667466.html' target="_blank">����ɭ���죺���ɳ������Ա7.6���˴� �Ų���������5.2��ദ</a></li>
+<li><a href='/n1/2020/0409/c1008-31667461.html' target="_blank">Ӧ�����������չ����λһ�塱���Ԥ���Ե㹤��</a></li>
+<li><a href='/n1/2020/0409/c1008-31667433.html' target="_blank">Ӧ���������3�·���ɭ�ֻ���221�� ͬ�ȼ���34.2%</a></li>
+<li><a href='/n1/2020/0408/c1008-31666345.html' target="_blank">�人����·���������֢״���˵��أ��ٷ���ҥ��ϵ���ƹ���</a></li>
+<li><a href='http://legal.people.com.cn/n1/2020/0408/c42510-31665828.html' target="_blank">�۽�������緸�� ��߼췢����ʮ����ָ���԰���</a></li>
+<li><a href='http://legal.people.com.cn/n1/2020/0407/c42510-31664621.html' target="_blank">�����������������Σ����������ι��춽�ٺӱ���8ʡ����</a></li>
+<li><a href='/n1/2020/0407/c1008-31664405.html' target="_blank">������������ָ����ϻ�������������</a></li>
+<li><a href='/n1/2020/0407/c1008-31664068.html' target="_blank">���ݣ��Ų�߷��չ�������3779�� �ѽ��к�����</a></li>
+<li><a href='http://legal.people.com.cn/n1/2020/0406/c42510-31662941.html' target="_blank">�뺺ͨ���ܿش�ʩ����ڼ� �人��ӻ�������ȫ���ԡ�����</a></li>
+<li><a href='http://legal.people.com.cn/n1/2020/0404/c42510-31662116.html' target="_blank">�׶��������е����¹ڷ���������ʿ������ͬ��</a></li>
+<li><a href='http://legal.people.com.cn/n1/2020/0404/c42510-31661924.html' target="_blank">�������������졪����ս���ߡ��е����񾯲�</a></li>
+<li><a href='/n1/2020/0404/c1008-31661709.html' target="_blank">���󡢽�����ѵ�����ڡ�����ר����Ƹ 19.6���λ������</a></li>
+<li><a href='http://legal.people.com.cn/n1/2020/0403/c42510-31661246.html' target="_blank">������|�¾�����Ӣ�� ���·ܽ�ǰ��</a></li>
+<li><a href='/n1/2020/0403/c1008-31661064.html' target="_blank">��߼칫�������Ϸ����澳��������������ص��Ͱ���</a></li>
+<li><a href='http://legal.people.com.cn/n1/2020/0402/c42510-31659365.html' target="_blank">����ͨ���⼮�¹ڷ��׻��ߴ��˻�ʿ���</a></li>
+
+</ul>
+    </div>
+
+    <!--��Ȩ-->
+    <div class="bottom clearfix w1200">
+        <div class="copyright"><style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">�� �� �� �� Ȩ �� �� ��δ �� �� �� �� Ȩ �� ֹ ʹ ��<br />
+Copyright &copy; 1997-2020 by www.people.com.cn. all rights reserved</div></div>
+    </div>
+    <script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"
+        async></script>
+    <!-- CMS ΢�ŷ��� -->
+    <script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script><script type="text/javascript">      
+	var wxData = {
+		"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg",
+		"link": window.location.href.split('?')[0],
+		"desc": "�����������人���ߡ��߲ɷ�ʵ¼",
+		"title": "�人�ռ�"
+	};
+</script><script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+    <script>
+        $(function(){
+            $(".dia-left li").mouseenter(function(){
+                var index = $(this).index()
+                $(".dia-left li").siblings().removeClass("active").eq(index).addClass("active")
+                $(".dia-right li").siblings().hide().eq(index).show()
+            })
+			$(".dia-left li").on("click",function(){
+                var index = $(this).index()
+                $(".dia-left li").siblings().removeClass("active").eq(index).addClass("active")
+                $(".dia-right li").siblings().hide().eq(index).show()
+            })
+        })
+    
+        var mySwiper2 = new Swiper('#swiper2', {
+            spaceBetween: 10,
+            slidesPerView: 4,
+            watchSlidesVisibility: true,/*�������bug*/
+            
+           
+        })
+        var mySwiper1 = new Swiper('#swiper1', {
+            autoplay: true,//��ѡѡ��Զ�����
+          
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+                renderBullet: function (index, className) {
+                return '<span class="' + className + '">' + (index + 1) + '</span>';
+                },
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            thumbs: {
+                swiper: mySwiper2,
+            }
+           
+        })
+    </script>
+    
+</body>
+
+</html>

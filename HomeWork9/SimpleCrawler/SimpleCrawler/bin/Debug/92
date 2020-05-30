@@ -1,0 +1,1325 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>小平故里行  途牛旅游网</title>
+<meta content="小平故里行  途牛旅游网" name="keywords" />
+<meta content="小平故里行  途牛旅游网" name="description" />
+ <link rel="stylesheet" type="text/css" href="http://img2.tuniucdn.com/site/market/css/common.css" />
+ <script type="text/javascript" src="http://img1.tuniucdn.com/mkt/20160520/lib/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://img1.tuniucdn.com/mkt/20160520/unti/jquery.lazyload.min.js,unti/fixedBar.js,unti/countdown-sev.min.js"></script>
+<style type="text/css">
+ .topicFooter{
+    background:#fff;
+  }
+  .tn_footer {
+      width:1052px!important;
+      margin-bottom:0!important;
+      padding-bottom:10px;
+  }
+ .slide_order{
+    padding-left:22px;
+  }
+</style>
+    <style>
+.headerBanner {
+  width: 100%;
+  height: 762px;
+  position: relative;
+  overflow: hidden;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/5B/08/Cii-T1hQtv6IVLeUAAWZn1WBfwoAAFgSwHVVYoABZm331.jpeg) no-repeat center;
+}
+.headerBanner .pos {
+  width: 884px;
+  height: 267px;
+  position: absolute;
+  top: 489px;
+  left: 50%;
+  margin-left: -328px;
+}
+.headerBanner .pos li {
+  width: 203px;
+  height: 203px;
+  float: left;
+  margin: 0 9px;
+  cursor: pointer;
+}
+.headerBanner .pos .li01 {
+  margin-top: 59px;
+}
+.headerBanner .pos .li02 {
+  margin-top: 36px;
+}
+.headerBanner .pos .li03 {
+  margin-top: 19px;
+}
+.videoMod {
+  width: 100%;
+  height: 569px;
+  overflow: hidden;
+  position: relative;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/5B/17/Cii-T1hQupKIA8jmAAJeJUFskO4AAFgWQKwFo8AAl4964.jpeg) no-repeat center;
+}
+.videoMod .sVideo {
+  width: 733px;
+  height: 453px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -227px;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+}
+.prdMod {
+  width: 100%;
+  height: 759px;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/5B/1E/Cii-T1hQvICIOVWEAAIGhRBoL1wAAFgYAGbfWoAAgad20.jpeg) no-repeat center;
+  overflow: hidden;
+  position: relative;
+}
+.prdMod .tabTop {
+  width: 100%;
+  margin-bottom: 35px;
+  overflow: hidden;
+}
+.prdMod .tabTop .tabUl {
+  width: 783px;
+  position: absolute;
+  left: 50%;
+  top: 122px;
+  margin-left: -382px;
+}
+.prdMod .tabTop .tabUl li {
+  width: 107px;
+  height: 107px;
+  float: left;
+  line-height: 107px;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+  font-size: 31px;
+  color: #644709;
+  margin: 0 77px;
+}
+.prdMod .tabTop .tabUl li span {
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: -28px;
+  left: 44px;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/58/EA/Cii-TlhQvOeIOm1AAAAEmJnu3egAAFekQP_-1AAAASw336.png) no-repeat center;
+}
+.prdMod .tabTop .tabUl li.select {
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/5B/1E/Cii-T1hQvLSIdQkZAAA5Yw6XpnEAAFgYANNpAwAADl7852.png) no-repeat center;
+  color: #fff;
+}
+.prdMod .tabTop .tabUl li.select span {
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/3B/FD/Cii-TlhQvOeIHx7iAAAFAr8rZE8AAFHSgP_-uYAAAUa796.png) no-repeat center;
+}
+.prdMod .tabCon {
+  width: 984px;
+  margin: 260px auto 0;
+  overflow: hidden;
+}
+.prdMod .tabCon .top li {
+  float: left;
+  width: 467px;
+  height: 246px;
+  overflow: hidden;
+  margin: 5px;
+  text-align: center;
+  position: relative;
+}
+.prdMod .tabCon .top li .tag {
+  position: absolute;
+  width: 97px;
+  height: 30px;
+  line-height: 30px;
+  color: #fff;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.8);
+  *background: #ffb400;
+}
+.prdMod .tabCon .top li img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.prdMod .tabCon .top li .prdBg {
+  position: absolute;
+  width: 148px;
+  height: 178px;
+  padding: 10px 0 0 14px;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/00/65/Cii-T1d82ESIcHiSAAAFVYV5kBsAAAA2QP_-oQAAAV8332.png) center;
+  top: 30px;
+  right: 56px;
+}
+.prdMod .tabCon .top li .prdBg .title {
+  font-size: 16px;
+  color: #fff;
+  width: 136px;
+  height: 81px;
+  overflow: hidden;
+  text-align: left;
+  line-height: 20px;
+}
+.prdMod .tabCon .top li .prdBg .price {
+  font-size: 14px;
+  color: #fff;
+  line-height: 40px;
+  text-align: left;
+}
+.prdMod .tabCon .top li .prdBg .price span {
+  font-size: 24px;
+  font-weight: bold;
+}
+.prdMod .tabCon .top li .prdBg .card-link {
+  width: 90px;
+  height: 28px;
+  background: #ffb400;
+  display: block;
+  line-height: 28px;
+  font-size: 16px;
+  color: #fff;
+}
+.prdMod .tabCon .tabChange {
+  display: none;
+}
+.walk {
+  width: 100%;
+  height: 871px;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/CD/C0/Cii-T1gPEjiIUAIgAARGmKT_dAUAADuBgK-0ugABEaw49.jpeg) no-repeat center;
+  overflow: hidden;
+}
+.tuijian {
+  width: 100%;
+  height: 909px;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/5B/60/Cii-TlhQ0_iISTcVAAKT3AGFAFAAAFgogLhAdIAApP012.jpeg) no-repeat center;
+  overflow: hidden;
+}
+.tuijian .tabTop {
+  width: 100%;
+  margin-bottom: 35px;
+  overflow: hidden;
+}
+.tuijian .tabTop .tabUl {
+  width: 822px;
+  position: relative;
+  margin: 125px auto 30px;
+}
+.tuijian .tabTop .tabUl li {
+  width: 107px;
+  height: 107px;
+  float: left;
+  line-height: 107px;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+  font-size: 25px;
+  color: #644709;
+  margin: 0 14px;
+}
+.tuijian .tabTop .tabUl li span {
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: -28px;
+  left: 44px;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/58/EA/Cii-TlhQvOeIOm1AAAAEmJnu3egAAFekQP_-1AAAASw336.png) no-repeat center;
+}
+.tuijian .tabTop .tabUl .li01,
+.tuijian .tabTop .tabUl .li03 {
+  height: 91px;
+  line-height: 38px;
+  padding-top: 16px;
+}
+.tuijian .tabTop .tabUl li.select {
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/5B/1E/Cii-T1hQvLSIdQkZAAA5Yw6XpnEAAFgYANNpAwAADl7852.png) no-repeat center;
+  color: #fff;
+}
+.tuijian .tabTop .tabUl li.select span {
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/3B/FD/Cii-TlhQvOeIHx7iAAAFAr8rZE8AAFHSgP_-uYAAAUa796.png) no-repeat center;
+}
+.tuijian .tabCon {
+  width: 947px;
+  height: 525px;
+  margin: 56px auto 0;
+}
+.tuijian .tabChange {
+  display: none;
+}
+.meishi {
+  width: 100%;
+  height: 1394px;
+  background: url(http://m.tuniucdn.com/fb2/t1/G2/M00/5B/69/Cii-TFhQ1vyIaBeKAATuSh1QU54AAFgrAI16ssABO5i56.jpeg) no-repeat center;
+}
+.card {
+  width: 312px;
+  overflow: hidden;
+  display: block;
+  position: relative;
+  background: #fff;
+  float: left;
+  margin: 8px;
+}
+.card .tItem {
+  height: auto;
+  background: #fff;
+}
+.card .tPic {
+  position: relative;
+  text-align: center;
+  background: #fff;
+}
+.card .tPic a {
+  width: 100%;
+  height: 223px;
+  display: block;
+  margin: 0 auto;
+}
+.card .tPic a img {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.card .tPic .tnTag {
+  padding: 0 15px;
+  overflow: hidden;
+  height: 35px;
+  background: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35px;
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  display: none;
+}
+.card .tPic .tTag {
+  padding: 0 15px;
+  overflow: hidden;
+  height: 35px;
+  background: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35px;
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  display: none;
+}
+.card .tPic .goCity {
+  width: 100%;
+  overflow: hidden;
+  height: 25px;
+  background: #3a3a3a;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  line-height: 25px;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+  display: none;
+}
+.card .tPic .goCity .attr {
+  float: right;
+  display: none;
+}
+.card .tInfo {
+  overflow: hidden;
+  position: relative;
+  padding: 15px 12px 0;
+}
+.card .tInfo .tDesc {
+  height: 38px;
+  line-height: 18px;
+  overflow: hidden;
+}
+.card .tInfo .tDesc a {
+  color: #1f1f1f;
+  font-size: 15px;
+}
+.card .tInfo .tDesc a:hover {
+  text-decoration: underline;
+}
+.card .tInfo .tPrice {
+  color: #5c5c5c;
+  font-size: 15px;
+  text-align: left;
+}
+.card .tInfo .tPrice .tSalePrice {
+  display: block;
+  float: left;
+}
+.card .tInfo .tPrice .tSalePrice .tText {
+  display: none;
+}
+.card .tInfo .tPrice .tSalePrice .tsNum {
+  font-size: 42px;
+  color: #ff4743;
+  font-family: "Haettenschweiler";
+}
+.card .tInfo .tPrice .tnPrice {
+  display: none;
+  float: left;
+  margin: 27px 0 0 20px;
+  text-decoration: line-through;
+}
+.card .tInfo .tPrice .tnPrice .tText {
+  display: none;
+}
+.card .tInfo .tPrice .tnPrice .tnNum {
+  font-size: 32px;
+  color: #ed274c;
+}
+.card .tBtnArea {
+  overflow: hidden;
+  position: absolute;
+  right: 16px;
+  bottom: 18px;
+}
+.card .tBtnArea a {
+  display: block;
+  width: 108px;
+  height: 40px;
+  color: #fff;
+  background: #005982;
+  line-height: 40px;
+  font-size: 18px;
+  text-align: center;
+}
+/*轮播*/
+.slideshow_wrapper {
+  position: relative;
+  width: 100%;
+  height: 563px;
+  overflow: hidden;
+  margin-top: 308px;
+}
+.slideshow_footbar {
+  z-index: 5;
+  position: absolute;
+  width: 1000px;
+  bottom: 2px;
+  height: 30px;
+  margin: 0 auto;
+  left: 50%;
+  margin-left: -500px;
+  text-align: center;
+}
+.slideshow_photo {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.slideshow_photo a {
+  z-index: 1;
+  border-bottom: 0px;
+  position: absolute;
+  border-left: 0px;
+  margin: 0px;
+  display: block;
+  border-top: 0px;
+  top: 0px;
+  border-right: 0px;
+  left: 0px;
+  width: 100%;
+  height: 563px;
+  background-position: center center;
+}
+.slideshow_footbar .slideshow-bt {
+  margin: 10px 5px 0px 0px;
+  width: 15px;
+  display: inline-block;
+  height: 15px;
+  font-size: 0px;
+  cursor: pointer;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  background: #fff;
+  margin-top: 2px;
+  vertical-align: middle;
+}
+.slideshow_footbar .bt-on {
+  opacity: 1;
+  background: #ff5a00;
+  width: 15px;
+  height: 15px;
+}
+
+</style>
+</head>
+<body>
+    <div class="topicHeader">
+    <style type="text/css">body{margin:0px;padding:0px;}.head{ height:58px; width: 100%; border-top:1px solid #999; border-bottom:#999; font-family: "Microsoft Yahei"; background: #fff; margin: 0 auto;}.head .inner_menu{ width:838px; height:58px; float:left;}.head .nav_list{width:838px;margin:0px;padding:0px;}.head .nav_list li{ float: left; height:58px;list-style: none;margin:0px;padding:0px;}.head .nav_list li a{font-size: 14px; height:58px; line-height:58px; color: #736f72; display: inline-block; padding-left:8px; padding-right: 8px;text-decoration: none;}.head .nav_list li a:hover{color: #2e9900; background:#f7f7f7;}.head .inner_head{width: 1000px; margin: 0 auto; height:58px;}.head .logo{float: left; width:160px; padding-top: 10px;}.head .nav_list li.tuniuphone-wrapper { line-height:58px; margin-left:10px;} .icon-tuniuphone{width:13px; height:14px; background:url(//img4.tuniucdn.com/site/file/zt/common/icons/icon-greenphone.png) top center no-repeat;display:inline-block;position:relative;bottom:-2px;margin-right:2px;} .head .nav_list li a.tuniuPhone {display:inline-block; color:#38c249;font-size:16px;padding-left:0;}</style>
+<div class="head" id="head">
+<div class="inner_head clearfix">
+<div class="logo"><a class="logo_a" href="http://www.tuniu.com/"><img title="途牛旅游网" src="//img.tuniucdn.com/img/20151013/common/logo/logo-158-53.gif
+" width="110"/></a>
+</div>
+<div class="inner_menu clearfix">
+    <ul class="nav_list clearfix">
+        <li><a class="cur_nav" href="http://www.tuniu.com/" title="首页">首页</a></li>
+        <li><a href="http://www.tuniu.com/tours/">跟团</a></li>
+        <li><a href="http://www.tuniu.com/pkg/">自助</a></li>
+        <li><a href="http://youlun.tuniu.com/">邮轮</a></li>
+        <li><a href="http://www.tuniu.com/drive/">自驾</a></li>
+        <li><a href="http://temai.tuniu.com/">特卖</a></li>
+        <li><a href="http://www.tuniu.com/niuren/">牛人专线</a></li>
+        <li><a href="http://menpiao.tuniu.com/">门票</a></li>
+        <li><a href="http://hotel.tuniu.com">酒店</a></li>
+        <li><a href="http://www.tuniu.com/flight/">机票</a></li>
+        <li><a href="http://huoche.tuniu.com">火车票</a></li>
+        <li><a href="http://www.tuniu.com/gongsi/">公司游</a></li>
+        <li><a href="http://8.tuniu.com/">金融</a></li>
+        <li><a href="http://go.tuniu.com/">攻略</a></li>
+        <li class="tuniuphone-wrapper"><span class="icon-tuniuphone"></span><a class="tuniuPhone" href="javascript:void(0);">4007-999-999</a></li>
+    </ul>
+</div>
+</div>
+</div>
+    </div>
+    <div class="wrapper" id="fortop">
+        <div id='block_2104448' class='headerBanner an_mo' liWithHan='cms_2104448_头图'><div id="block" class="block clearfix"><!-- txtModule txtMself start -->
+        <div class="h1"></div>
+            <div class="h2"></div>
+            <ul class="pos" id="position">
+                <li class="li01"></li>
+                <li class="li02"></li>
+                <li class="li03"></li>
+                <li class="li04"></li>
+            </ul>
+<!-- txtModule txtMself end --></div></div><div id='block_2104449' class='block_mod videoMod an_mo' liWithHan='cms_2104449_视频模块'><div id="block" class="block clearfix"><!-- txtModule txtMself start -->
+        <div class="sVideo">
+              <iframe frameborder="0" width="733" height="453" src="https://v.qq.com/iframe/player.html?vid=l0355tfb20o&tiny=0&auto=0" allowfullscreen></iframe>
+            </div>
+<!-- txtModule txtMself end --></div></div><div id='block_2104450' class='block_mod prdMod an_mo' liWithHan='cms_2104450_线路推荐'><div id="block" class="block clearfix"><!-- txtModule txtMself start -->
+        <div class="tabTop" id="prdTit">
+                    <ul class="tabUl">
+                        <li class="tabHover select">
+                            <span></span> 跟团
+                            <br>游玩</li>
+                        <li class="tabHover">
+                            <span></span> 酒店
+                        </li>
+                        <li class="tabHover">
+                            <span></span> 景点
+                            <br>门票</li>
+                    </ul>
+                </div>
+<!-- txtModule txtMself end --><!-- txtModule txtMself start -->
+        <div id="prdCon" class="tabCon">
+<!-- txtModule txtMself end --><div class="tabChange">
+    <ul>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://www.tuniu.com/tour/210438218" pro_id="210438218" pro_name="&lt;四川广安小平故居-宝箴寨汽车2日游&gt;逛小平故居观宝箴古寨10人起订" pro_type="1" venue_tuniu_price="490" venue_pro_price="490" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-1']);" target="_blank">
+                                <img data-src="http://m.tuniucdn.com/filebroker/cdn/olb/3a/2f/3a2f52015e8f1289a1f561370894494b_w450_h300_c1_t0_w640_h480_c1_t0.png" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">重庆出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="<四川广安小平故居-宝箴寨汽车2日游>逛小平故居观宝箴古寨10人起订">
+                                <a href="http://www.tuniu.com/tour/210438218" pro_id="210438218" pro_name="&lt;四川广安小平故居-宝箴寨汽车2日游&gt;逛小平故居观宝箴古寨10人起订" pro_type="1" venue_tuniu_price="490" venue_pro_price="490" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-1']);" target="_blank"><四川广安小平故居-宝箴寨汽车2日游>逛小平故居观宝箴古寨10人起订</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">490</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">490</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://www.tuniu.com/tour/210438218" pro_id="210438218" pro_name="&lt;四川广安小平故居-宝箴寨汽车2日游&gt;逛小平故居观宝箴古寨10人起订" pro_type="1" venue_tuniu_price="490" venue_pro_price="490" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-1']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://www.tuniu.com/tour/210438220" pro_id="210438220" pro_name="&lt;四川广安小平故居-华蓥山-武胜白坪脐橙采摘园汽车2日游&gt;观小平故居学习先进思想10人起订" pro_type="1" venue_tuniu_price="394" venue_pro_price="394" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-2']);" target="_blank">
+                                <img data-src="http://m.tuniucdn.com/filebroker/cdn/online/b2/69/b269e37f_w450_h300_c1_t0_w640_h480_c1_t0.jpg" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">重庆出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="<四川广安小平故居-华蓥山-武胜白坪脐橙采摘园汽车2日游>观小平故居学习先进思想10人起订">
+                                <a href="http://www.tuniu.com/tour/210438220" pro_id="210438220" pro_name="&lt;四川广安小平故居-华蓥山-武胜白坪脐橙采摘园汽车2日游&gt;观小平故居学习先进思想10人起订" pro_type="1" venue_tuniu_price="394" venue_pro_price="394" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-2']);" target="_blank"><四川广安小平故居-华蓥山-武胜白坪脐橙采摘园汽车2日游>观小平故居学习先进思想10人起订</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">394</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">394</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://www.tuniu.com/tour/210438220" pro_id="210438220" pro_name="&lt;四川广安小平故居-华蓥山-武胜白坪脐橙采摘园汽车2日游&gt;观小平故居学习先进思想10人起订" pro_type="1" venue_tuniu_price="394" venue_pro_price="394" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-2']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://www.tuniu.com/tour/210438219" pro_id="210438219" pro_name="&lt;武胜白坪脐橙采摘园-广安小平故居汽车2日游&gt;享川东刨猪汤脐橙采摘10人起订" pro_type="1" venue_tuniu_price="426" venue_pro_price="426" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-3']);" target="_blank">
+                                <img data-src="http://m.tuniucdn.com/filebroker/cdn/online/25/7f/257f9de7_w450_h300_c1_t0_w640_h480_c1_t0.jpg" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">重庆出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="<武胜白坪脐橙采摘园-广安小平故居汽车2日游>享川东刨猪汤脐橙采摘10人起订">
+                                <a href="http://www.tuniu.com/tour/210438219" pro_id="210438219" pro_name="&lt;武胜白坪脐橙采摘园-广安小平故居汽车2日游&gt;享川东刨猪汤脐橙采摘10人起订" pro_type="1" venue_tuniu_price="426" venue_pro_price="426" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-3']);" target="_blank"><武胜白坪脐橙采摘园-广安小平故居汽车2日游>享川东刨猪汤脐橙采摘10人起订</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">426</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">426</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://www.tuniu.com/tour/210438219" pro_id="210438219" pro_name="&lt;武胜白坪脐橙采摘园-广安小平故居汽车2日游&gt;享川东刨猪汤脐橙采摘10人起订" pro_type="1" venue_tuniu_price="426" venue_pro_price="426" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-跟团游产品-3']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+      </ul>
+</div><div class="tabChange">
+    <ul>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://hotel.tuniu.com/detail/215219378" pro_id="215219378" pro_name="广安华蓥山大酒店" pro_type="1" venue_tuniu_price="263" venue_pro_price="263" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-1']);" target="_blank">
+                                <img data-src="http://m.tuniucdn.com/fb2/t1/G1/M00/08/FB/Cii9EVbNvQeIF2AAAACFTmOgvysAACRxwH7-kkAAIVm592_w640_h480_c1_t0.jpg" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="广安华蓥山大酒店">
+                                <a href="http://hotel.tuniu.com/detail/215219378" pro_id="215219378" pro_name="广安华蓥山大酒店" pro_type="1" venue_tuniu_price="263" venue_pro_price="263" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-1']);" target="_blank">广安华蓥山大酒店</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">263</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">263</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://hotel.tuniu.com/detail/215219378" pro_id="215219378" pro_name="广安华蓥山大酒店" pro_type="1" venue_tuniu_price="263" venue_pro_price="263" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-1']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://hotel.tuniu.com/detail/198087895" pro_id="198087895" pro_name="广安岷山世纪大饭店" pro_type="1" venue_tuniu_price="230" venue_pro_price="230" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-2']);" target="_blank">
+                                <img data-src="http://m.tuniucdn.com/filebroker/cdn/res/93/c8/93c88304dd6c85a3d860785dd2ecd5fc_w640_h480_c1_t0.jpg" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="广安岷山世纪大饭店">
+                                <a href="http://hotel.tuniu.com/detail/198087895" pro_id="198087895" pro_name="广安岷山世纪大饭店" pro_type="1" venue_tuniu_price="230" venue_pro_price="230" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-2']);" target="_blank">广安岷山世纪大饭店</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">230</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">230</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://hotel.tuniu.com/detail/198087895" pro_id="198087895" pro_name="广安岷山世纪大饭店" pro_type="1" venue_tuniu_price="230" venue_pro_price="230" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-2']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://hotel.tuniu.com/detail/636507" pro_id="636507" pro_name="广安思源酒店" pro_type="1" venue_tuniu_price="409" venue_pro_price="409" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-3']);" target="_blank">
+                                <img data-src="http://m.tuniucdn.com/filebroker/cdn/res/8f/58/8f58c8e4075316a93b0a7f974dff3a31_w640_h480_c1_t0.jpg" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="广安思源酒店">
+                                <a href="http://hotel.tuniu.com/detail/636507" pro_id="636507" pro_name="广安思源酒店" pro_type="1" venue_tuniu_price="409" venue_pro_price="409" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-3']);" target="_blank">广安思源酒店</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">409</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">409</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://hotel.tuniu.com/detail/636507" pro_id="636507" pro_name="广安思源酒店" pro_type="1" venue_tuniu_price="409" venue_pro_price="409" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-酒店产品-3']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+      </ul>
+</div><div class="tabChange">
+    <ul>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://menpiao.tuniu.com/t_616" pro_id="616" pro_name="广安华蓥山旅游区" pro_type="1" venue_tuniu_price="90" venue_pro_price="90" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-1']);" target="_blank">
+                                <img data-src="http://m3.tuniucdn.com/filebroker/cdn/olb/e4/bc/e4bc2a675bf5e0c7859ffdaaca06789f_w640_h480_c1_t0.jpg" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="广安华蓥山旅游区">
+                                <a href="http://menpiao.tuniu.com/t_616" pro_id="616" pro_name="广安华蓥山旅游区" pro_type="1" venue_tuniu_price="90" venue_pro_price="90" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-1']);" target="_blank">广安华蓥山旅游区</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">90</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">90</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://menpiao.tuniu.com/t_616" pro_id="616" pro_name="广安华蓥山旅游区" pro_type="1" venue_tuniu_price="90" venue_pro_price="90" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-1']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://menpiao.tuniu.com/t_9640" pro_id="9640" pro_name="宝箴塞" pro_type="1" venue_tuniu_price="60" venue_pro_price="60" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-2']);" target="_blank">
+                                <img data-src="http://m1.tuniucdn.com/filebroker/cdn/olb/2c/e7/2ce747b4dc5a5783cf2d9179ab19665f_w640_h480_c1_t0.jpg" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="宝箴塞">
+                                <a href="http://menpiao.tuniu.com/t_9640" pro_id="9640" pro_name="宝箴塞" pro_type="1" venue_tuniu_price="60" venue_pro_price="60" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-2']);" target="_blank">宝箴塞</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">60</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">60</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://menpiao.tuniu.com/t_9640" pro_id="9640" pro_name="宝箴塞" pro_type="1" venue_tuniu_price="60" venue_pro_price="60" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-2']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+              <li class="card">
+                    <div class="tItem">
+                        <div class="tPic">
+                            <a href="http://menpiao.tuniu.com/t_741" pro_id="741" pro_name="巴人石头城" pro_type="1" venue_tuniu_price="50" venue_pro_price="50" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-3']);" target="_blank">
+                                <img data-src="http://m4.tuniucdn.com/filebroker/cdn/olb/29/42/2942dd7544abaf1039aec8981fcda069_w640_h480_c1_t0.jpg" src="http://img.tuniucdn.com/js/white.gif" alt="">
+                                <!--额外标签-->
+                                <p class="tnTag">立减0元</p>
+                                <p class="tnDiscount" style="display:none;"><span></span>折</p>
+                                <div class="goCity">
+                                  <p class="city">出发</p>
+                                  <p class="attr"></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="tInfo">
+                            <div class="tDesc" title="巴人石头城">
+                                <a href="http://menpiao.tuniu.com/t_741" pro_id="741" pro_name="巴人石头城" pro_type="1" venue_tuniu_price="50" venue_pro_price="50" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-3']);" target="_blank">巴人石头城</a>
+                            </div>                          
+                            <div class="tPrice">                          
+                                <div class="tSalePrice">
+                                    <span class="tText">促销价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tsNum">50</span>
+                                    <span class="qi">起</span>
+                                </div>
+                                <div class="tnPrice">
+                                    <span class="tText">参考价：</span>
+                                    <span class="tRmb">￥</span>
+                                    <span class="tnNum">50</span>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="tBtnArea">
+                          <a target="_blank" href="http://menpiao.tuniu.com/t_741" pro_id="741" pro_name="巴人石头城" pro_type="1" venue_tuniu_price="50" venue_pro_price="50" target="_blank" onclick="_gaq.push(['_trackEvent', '广安 小平故里行-上海', '点击', '-线路推荐-1-门票产品-3']);">立即预订</a>
+                       </div>
+                    </div>
+              </li>
+      </ul>
+</div><!-- txtModule txtMself start -->
+        </div>
+<!-- txtModule txtMself end --></div></div><div id='block_2104451' class='block_mod tuijian an_mo' liWithHan='cms_2104451_景区推荐'><div id="block" class="block clearfix"><!-- txtModule txtMself start -->
+        <div class="tabTop" id="commonTit">
+                <ul class="tabUl">
+                    <li class="tabHover select">
+                        <span></span> 邓小平
+                        <br>故里</li>
+                    <li class="tabHover LH">
+                        <span></span> 华蓥山
+                    </li>
+                    <li class="tabHover LH">
+                        <span></span> 白坪
+                        <br>飞龙</li>
+                    <li class="tabHover LH">
+                        <span></span> 宝箴塞
+                    </li>
+                    <li class="tabHover LH">
+                        <span></span> 巴人
+                        <br>石头城</li>
+                    <li class="tabHover LH">
+                        <span></span> 天意谷
+                    </li>
+                </ul>
+            </div>
+<!-- txtModule txtMself end -->
+<div id="commonCon" class="tabCon">
+	<div class="tabChange">
+                <img src = "http://m.tuniucdn.com/fb2/t1/G2/M00/5B/61/Cii-TlhQ1HeIEDCWAAJnl7QMe4wAAFgpAHy6HsAAmev04.jpeg"/>
+	</div>
+	<div class="tabChange">
+                <img src = "http://m.tuniucdn.com/fb2/t1/G2/M00/5B/61/Cii-TFhQ1HaIe_-MAAJMnuriYjMAAFgpAH2KNMAAky246.jpeg"/>
+	</div>
+	<div class="tabChange">
+                <img src = "http://m.tuniucdn.com/fb2/t1/G2/M00/5B/61/Cii-T1hQ1JGIUtQFAAHvDWmnQ3kAAFgpAN5L8EAAe8l17.jpeg"/>
+	</div>
+	<div class="tabChange">
+                <img src = "http://m.tuniucdn.com/fb2/t1/G2/M00/5B/61/Cii-T1hQ1JKIDS2LAAJut3WEiicAAFgpAN7HuYAAm7P50.jpeg"/>
+	</div>
+	<div class="tabChange">
+                <img src = "http://m.tuniucdn.com/fb2/t1/G2/M00/5B/62/Cii-T1hQ1KyIRus2AAFepH3GlDMAAFgpQEBj4YAAV6867.jpeg"/>
+	</div>
+	<div class="tabChange">
+                <img src = "http://m.tuniucdn.com/fb2/t1/G2/M00/5B/62/Cii-TlhQ1K2IXpJDAANey1GMTEAAAFgpQEaUg0AA17j66.jpeg"/>
+	</div>
+</div></div></div><div id='block_2104452' class='block_mod meishi an_mo' liWithHan='cms_2104452_美食推荐'><div id="block" class="block clearfix"><!-- txtModule txtMself start -->
+        
+<!-- txtModule txtMself end --></div></div><div id='block_2104453' class='script an_mo' liWithHan='cms_2104453_脚本'><div id="block" class="block clearfix"><!-- txtModule txtMself start -->
+        <script type="text/javascript" src="http://img1.tuniucdn.com/mkt/20160520/unti/jquery.lazyload.min.js"></script>
+    <script type="text/javascript" src="http://img2.tuniucdn.com/site/market/topic/destinationMod/js/tabQie.js"></script>
+    <script type="text/javascript">
+    // 图片懒加载
+    $('img').lazyload({
+        effect: "fadeIn",
+        threshold: 100,
+        data_attribute: 'src'
+    });
+
+    $('#prdTit .tabUl li:first').css({
+        'height': '91px',
+        'lineHeight': '38px',
+        'padding-top': '16px'
+    });
+
+    $('#prdTit .tabUl li:last').css({
+        'height': '91px',
+        'lineHeight': '38px',
+        'padding-top': '16px'
+    });
+    $('#commonTit .tabUl li:first').css({
+        'height': '84px',
+        'lineHeight': '34px',
+        'padding-top': '23px'
+    });
+    $('#commonTit .tabUl li:eq(2)').css({
+        'height': '84px',
+        'lineHeight': '34px',
+        'padding-top': '23px'
+    });
+    $('#commonTit .tabUl li:eq(4)').css({
+        'height': '84px',
+        'lineHeight': '34px',
+        'padding-top': '23px'
+    });
+    $('.prdCon .tabChange:first').css('display', 'block');
+    </script>
+    <!-- tab切换 -->
+    <script type="text/javascript">
+    var oPrdCon = $('#prdCon');
+    var aPrdLis = $('#prdTit li');
+    var aPrdDivs = $('#prdCon .tabChange');
+    var oTab1 = new tabQie();
+    oTab1.tabChange(aPrdLis, aPrdDivs);
+
+    var oTraCon = $('#commonTit');
+    var aTraLis = $('#commonTit li');
+    var aTraDivs = $('#commonCon .tabChange');
+    var oTab3 = new tabQie();
+    oTab3.tabChange(aTraLis, aTraDivs);
+    </script>
+    <script type="text/javascript">
+    (function($) {
+        var oSideNavLi = $('#position li');
+
+        var num = $('.block_mod').length - 1;
+        var aTop = [];
+        $('.block_mod').each(function() {
+            var sTop = $(this).offset().top - 200;
+            aTop.push(sTop);
+        });
+
+        $("#position li").click(function(event) {
+            $("body,html").stop().animate({
+                    "scrollTop": $(".block_mod").eq($(this).index()).offset().top
+                },
+                1000);
+        });
+    })(jQuery)
+    </script>
+<!-- txtModule txtMself end --></div></div>
+    </div>
+    <!-- cmsBlockModule floatRight start -->
+    <div class="sideNav">
+        <div class="sideCon">
+            <div class="headerImg"></div>
+            <ul>
+            </ul>
+            <a href="javascript:;" class="back">TOP</a>
+        </div>
+    </div>
+    <!-- cmsBlockModule floatRight end -->
+
+    <div class="topicFooter">
+        <!-- siteMap S -->
+<link rel="stylesheet" type="text/css" href="//ssl1.tuniucdn.com/s/20190530/common_foot/common_foot_v3.css" /> <div class="trav_sev">
+        <ul class="ts_box clearfix">
+            <li class="trav_l_first">
+                <i class="ts_1"></i>
+                <dl class="trav_l ">
+                    <dt class="tl_tt"><a>去旅游</a></dt>
+                    <dd class="tl_w">
+                        <p>
+                            <a href="http://www.tuniu.com/tours/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-1']);">跟团游</a>
+                            <a href="http://www.tuniu.com/niuren/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-2']);">牛人专线</a>
+                            <a href="http://hotel.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-3']);">酒店</a>
+                            
+                        </p>
+                        <p>
+                            <a href="http://www.tuniu.com/pkg/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-4']);">自由行</a>
+                            <a href="http://www.tuniu.com/theme/qinzi/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-5']);">亲子游</a>
+                            <a href="http://menpiao.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-6']);">门票</a>
+                        </p>
+                        <p>
+                            <a href="http://www.tuniu.com/drive/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-7']);">酒+景</a>
+                            <a href="http://www.tuniu.com/theme/weiaimy/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-8']);">蜜月游</a>
+                            <a href="http://youlun.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-9']);">邮轮</a>
+                        </p>
+                        <p>
+                            <a href="http://www.tuniu.com/gongsi/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-10']);">公司旅游</a>
+                            <a href="http://www.tuniu.com/theme/haidao/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-11']);">海岛游</a>
+                            <a href="http://www.tuniu.com/visa/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-12']);">签证</a>
+                        </p>
+                        <p>
+                            <a href="http://www.tuniu.com/local/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-13']);">当地玩乐</a>
+                            <a href="http://www.tuniu.com/zt/laoyutuijian_pdy/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-14']);">老于推荐</a>
+                            <a href="http://flight.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-15']);">机票</a>
+                        </p>
+                        <p>
+                            <a href="http://www.tuniu.com/zt/sfcf/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-16']);">首付出发</a>
+                            <a href="http://lvpai.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_1','1-17']);">旅拍</a>
+                        </p>
+                    </dd>
+                </dl>
+            </li>
+            <li>
+                <i class="ts_2"></i>
+                <dl class="trav_l ">
+                    <dt class="tl_tt"><a>寻优惠</a></dt>
+                    <dd class="tl_w">
+                        <p><a href="http://temai.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_2','2-1']);">特卖</a></p>
+                        <p><a href="http://hotel.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_2','2-2']);">订酒店 返现金</a></p>
+                        <p><a href="http://points.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_2','2-4']);">积分商城</a></p>
+                        <p><a href="http://www.tuniu.com/zt/bankactivities/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_2','2-5']);">银行特惠游</a></p>
+                    </dd>
+                </dl>
+            </li>
+            <li>
+                <i class="ts_3"></i>
+                <dl class="trav_l ">
+                    <dt class="tl_tt"><a>看攻略</a></dt>
+                    <dd class="tl_w">
+                        <p><a href="http://go.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_3','3-1']);">攻略</a></p>
+                        <p><a href="http://top.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_3','3-2']);">途牛风向标</a></p>
+                        <p><a href="http://trips.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_3','3-3']);">游记</a></p>
+                        <p><a href="http://www.tuniu.com/way/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_3','3-4']);">达人玩法</a></p>
+                    </dd>
+                </dl>
+            </li>
+            <li>
+                <i class="ts_4"></i>
+                <dl class="trav_l ">
+                    <dt class="tl_tt"><a>查服务</a></dt>
+                    <dd class="tl_w tl_cont">
+                        <p>
+                            <a href="http://www.tuniu.com/help/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_4','4-1']);">帮助中心</a>
+                            
+                        </p>
+                        <p>
+                            <a href="http://www.tuniu.com/u/club" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_4','4-2']);">会员俱乐部</a>
+                        </p>
+                        <p>
+                            <a href="http://www.tuniu.com/static/sunshine_ensure/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_4','4-3']);">阳光保障</a>
+                        </p>
+                        <p><a href="http://huoche.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_4','4-4']);">火车时刻表</a></p>
+                        <p><a href="http://flight.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','tydb_wzdt_4','4-6']);">航班查询</a></p>
+                    </dd>
+                </dl>
+            </li>
+            <li class="trav_l_last">
+                <i class="ts_5"></i>
+                <dl class="trav_l ">
+                    <dt class="tl_tt"><a>途牛APP</a></dt>
+                    <dd class="tl_w tl_cont">
+                        <p>
+                            <a>扫描下载途牛APP</a>
+                        </p>
+                        <p>
+                            <img src="//m.tuniucdn.com/filebroker/cdn/olb/93/b3/93b34fea1990ca328c77fa2bfe2e6533_w800_h0_c0_t0.jpg">
+                        </p>
+                    </dd>
+                </dl>
+        </ul>
+    </div><!-- siteMap E -->
+<!-- three sun S -->
+<div class="three_trav">
+    <div class="thr_trav">
+        <a href="//www.tuniu.com/static/sunshine_ensure/" target="_blank" style="display:block;width:100%;height:100%;">
+            <em class="tn_text" id="service_phone_head_text">客户服务电话</em>
+            <em class="tn_phone" id="service_phone_head_phone">4007-999-999</em>
+        </a>
+    </div>
+</div>
+<!-- three sun E -->
+<!-- four_ad S -->
+<!-- four_ad S -->
+    <div class="fourImgs">
+        <ul class="clearfix">
+                        <li>
+                <a href="http://www.tuniu.com/szt/branding/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','点击','底部广告图_1_品牌合作']);" >
+                    <img src="https://images.tuniucdn.com/u/mainpic/footer/tn_footer_042.jpg" alt="品牌合作" width="238" height="58"/>
+                </a>
+            </li>
+                        <li>
+                <a href="http://temai.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','点击','底部广告图_2_超值特卖-底部']);" >
+                    <img src="https://images.tuniucdn.com/u/mainpic/footer/tn_footer_06.jpg" alt="超值特卖-底部" width="238" height="58"/>
+                </a>
+            </li>
+                        <li>
+                <a href="http://points.tuniu.com/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','点击','底部广告图_3_积分商城']);" >
+                    <img src="https://m4.tuniucdn.com/fb2/t1/G3/M00/89/C0/Cii_LlmSlsaICijDAABiOObnKkEAAHXXABQ4z0AAGJQ76.jpeg" alt="积分商城" width="238" height="58"/>
+                </a>
+            </li>
+                        <li>
+                <a href="https://www.tuniu.com/web-mall/" target="_blank" onclick="_gaq.push(['_trackEvent','common_nj','点击','底部广告图_4_旅游特产-底部']);" >
+                    <img src="https://s.tuniu.net/qn/images/637c1a3c0438e7b473eb184c9c7d99c0.png" alt="旅游特产-底部" width="238" height="58"/>
+                </a>
+            </li>
+                    </ul>
+    </div>
+    <!-- four_ad E -->
+<!-- four_ad E -->
+
+<!--start foot-->
+<div id="TN-footer" class="tn_footer datalazyload" data-lazyload-type="data" data-lazyload-from="textarea">
+        <p id="TN-24">途牛客服中心设立在江苏南京及江苏宿迁，来电显示号码请查看：<a rel="nofollow" href="//www.tuniu.com/help/detail/331" target="_blank">途牛会员中心外呼电话号码汇总</a></p>
+    <p>北京途牛国际旅行社有限公司，旅行社业务经营许可证编号：L-BJ-CJ00144　　上海途牛国际旅行社有限公司，旅行社业务经营许可证编号：L-SH-CJ00107    </p>
+    <p id="TN-links">
+        <a href="//www.tuniu.com/corp/aboutus.shtml" target="_blank" rel="nofollow">关于我们</a>
+        <a $nofollow href="//ir.tuniu.com" target="_blank">Investor Relations</a>
+        <a href="//www.tuniu.com/corp/contactus.shtml" target="_blank" rel="nofollow">联系我们</a>
+        <a href="//www.tuniu.com/corp/advise.shtml" target="_blank" rel="nofollow">投诉建议</a>
+        <a rel="nofollow" href="//www.tuniu.com/corp/advertising.shtml" target="_blank">广告服务</a>
+        <a rel="nofollow" href="//www.tuniu.com/giftcard/" target="_blank">旅游券</a>
+        <a rel="nofollow" href="//tuniu.zhiye.com/" target="_blank" style="color: red;">途牛招聘</a>
+        <a href="//www.tuniu.com/corp/privacy.shtml" target="_blank" rel="nofollow">隐私保护</a>
+        <a href="//www.tuniu.com/corp/duty.shtml" target="_blank" rel="nofollow">免责声明</a>
+        <a rel="nofollow" href="//www.tuniu.com/corp/zizhi.shtml" target="_blank" style="color: red;">旅游度假资质</a>
+        <a rel="nofollow" href="//www.tuniu.com/theme/index/" target="_blank">主题旅游</a>
+        <a href="//www.tuniu.com/corp/service_agreement.shtml" target="_blank" rel="nofollow" style="color: red;">平台服务协议</a>
+        <a href="//www.tuniu.com/corp/trade_rule.shtml" target="_blank" rel="nofollow" style="color: red;">平台交易规则</a>
+        <a href="//www.tuniu.com/corp/sitemap.shtml" target="_blank">网站地图</a>
+        <a rel="nofollow" target="_blank" href="//www.tuniu.com/ueip/">UEIP</a>
+        <a rel="nofollow" href="//www.tuniu.com/help/" target="_blank">帮助中心</a>
+    </p>
+
+    <!-- #TN-links -->
+    <p id="copyright">Copyright &copy; 2006-2020        <a rel="nofollow" href="//www.tuniu.com">南京途牛科技有限公司</a>
+        <a rel="nofollow" href="//www.tuniu.com">Tuniu.com</a> |
+        <a target="_blank" href="//www.tuniu.com/corp/company.shtml" rel="nofollow">营业执照</a> |
+        <a target="_blank" href="http://www.beian.miit.gov.cn/" rel="nofollow">ICP证：苏B2-20130006</a> |
+        <a target="_blank" href="http://www.beian.miit.gov.cn/" rel="nofollow">苏ICP备12009060号</a> |
+        <a target="_blank" href="//nj.tuniu.com">上海旅游网</a>
+    </p>
+
+        <div class="trav_corp">
+        <a id='___szfw_logo___' href='https://credit.szfw.org/CX20160128013521800380.html' rel="nofollow"  target='_blank'>
+            <img src='//img1.tuniucdn.com/img/20130614/common/common_foot/chengxinOne.png' border='0' style="height:41px;" alt="中国互联网诚信示范企业"/>
+        </a>
+        <a href="http://net.china.cn/" rel="nofollow" target="_blank" onclick="tuniuRecorder.push('32_1_1_1_1_1')">
+            <img src="//ssl1.tuniucdn.com/img/20140415/common/common_foot/buliang.png" alt="违法和不良信息举报中心" width="109" height="47" />
+        </a>
+        <a href="http://js.cyberpolice.cn/webpage/index.jsp" rel="nofollow" target="_blank" onclick="tuniuRecorder.push('32_1_1_1_1_2')">
+            <img src="//ssl1.tuniucdn.com/img/20140415/common/common_foot/wangluo.png" alt="网络110报警服务" width="110" height="47" />
+        </a>
+        <img src="//ssl1.tuniucdn.com/img/20140415/common/common_foot/cata.png" alt="cata航空资质认证" width="110" height="47" />
+        <a target="_blank" rel="nofollow" href="http://www.isc.org.cn/" onclick="tuniuRecorder.push('32_1_1_1_1_3')">
+            <img src="https://m3.tuniucdn.com/fb2/t1/G5/M00/1E/22/Cii-tFpAbkWITEAmAAAF3Gwa3cUAABOHgP_-ZQAAAZs898.png" alt="中国互联网协会" width="110" height="47"/>
+        </a>
+        <a title="可信网站" target="_blank" href="https://ss.knet.cn/verifyseal.dll?sn=e14120832010056662smwq000000&amp;ct=df&amp;a=1&amp;pa=0.06350954016670585" rel="nofollow" onclick="tuniuRecorder.push('32_1_1_1_1_5')">
+            <img src="//ssl1.tuniucdn.com/img/20140415/common/common_foot/chengxin.png" alt="诚信网站" width="110" height="47" />
+        </a>
+        <a target="_blank" rel="nofollow" href="http://www.patachina.org/" onclick="tuniuRecorder.push('32_1_1_1_1_7')">
+            <img src="//ssl1.tuniucdn.com/img/20140415/common/common_foot/pata.png" alt="亚太旅游协会会员单位" width="140" height="47" />
+        </a>
+    </div>
+
+</div>
+<!--end foot-->
+
+<script language="javascript" src="//ssl4.tuniucdn.com/j/201704191800/common/mobile_app.js,common/zeus.js"></script>
+<script type="text/javascript">
+    var tuniuRecorder = _zeus.getRecorder();
+</script>
+
+<script src="//ssl4.tuniucdn.com/j/201802231800/rightcommon/underscore.js,rightcommon/main_prd_v3.js,rightcommon/getdata_v4.js"></script>
+<script type="text/javascript" src="//ssl3.tuniucdn.com/j/201505212000/common/jquery_autoSlide.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $("#slideOrder").autoSlide();
+    })
+</script>
+
+    </div>
+<script type="text/javascript">
+  (function($){
+    var oSideNavLi= $('.sideNav ul li');
+      var oSideBack = $('.sideNav .back');
+      if(oSideNavLi.length <= 0){
+        oSideBack.hide();
+      }else{
+        oSideBack.show();
+      }
+
+      var num = $('.block_mod').length - 1;
+      var aTop = [];
+      $('.block_mod').each(function() {
+          var sTop = $(this).offset().top - 200;
+          aTop.push(sTop);
+      });
+      
+      $(window).scroll(function(event) {
+          var aW = parseInt($(window).scrollTop());
+          var aIndex = 0;
+          if ($(window).scrollTop() > 300) {
+              $('.sideNav').show();
+          } else {
+              $('.sideNav').hide();
+          }
+          for (var i = 0; i <= num; i++) {
+              if (aW >= aTop[i] && aW < aTop[i + 1]) {
+                  aIndex = i;
+                  break;
+              }
+              if (i == num && aW >= aTop[i]) {
+                  aIndex = i;
+                  break;
+              }
+          }
+          $('.sideNav li').eq(aIndex).addClass('active').siblings().removeClass('active');
+      });
+      $(".sideNav li").click(function(event) {
+          $("body,html").stop().animate({
+              "scrollTop": $(".block_mod").eq($(this).index()).offset().top
+          },
+          1000);
+      });
+      $('.back').click(function() {
+          $("body,html").stop().animate({
+              "scrollTop": 0
+          },
+          800);
+      })
+  })(jQuery)
+</script>
+    <script language="javascript" src="//img1.tuniucdn.com/j/20150114/common/monitor.js"></script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4782081-5']);
+    _gaq.push(['_setDomainName', 'tuniu.com']);
+    _gaq.push(["_setAllowHash", false]);
+    _gaq.push(["_setAllowAnchor", true]);
+    _gaq.push(["_addOrganic", "baidu", "wd"]);
+    _gaq.push(["_addOrganic", "baidu", "word"]);
+    _gaq.push(["_addOrganic", "google", "q"]);
+    _gaq.push(["_addOrganic", "118114", "kw"]);
+    _gaq.push(["_addOrganic", "bing", "q"]);
+    _gaq.push(["_addOrganic", "soso", "w"]);
+    _gaq.push(["_addOrganic", "youdao", "q"]);
+    _gaq.push(["_addOrganic", "sogou", "query"]);
+    _gaq.push(["_addOrganic", "360", "q"]);
+    _gaq.push(["_addOrganic", "baidu", "w"]);
+    _gaq.push(["_addOrganic", "baidu", "q1"]);
+    _gaq.push(["_addOrganic", "baidu", "q2"]);
+    _gaq.push(["_addOrganic", "baidu", "q3"]);
+    _gaq.push(["_addOrganic", "baidu", "q4"]);
+    _gaq.push(["_addOrganic", "baidu", "q5"]);
+    _gaq.push(["_addOrganic", "baidu", "q6"]);
+    _gaq.push(["_addOrganic", "baidu", "q6"]);
+    _gaq.push(["_addOrganic", "www.so.com", "u"]);
+    _gaq.push(["_addOrganic", "www.so.com", "q"]);
+    _gaq.push(["_addOrganic", "360", "u"]);
+    _gaq.push(["_addOrganic", "360", "q"]);
+    _gaq.push(["_trackPageview", "/度假/主题/广安 小平故里行"]);
+</script>
+<script type="text/javascript"> (
+function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = location.protocol + '//img4.tuniucdn.com/j/2014101501/common/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">
+var u = (("https:" == document.location.protocol) ? "https://analy.tuniu.cn/analysisCollect/": "http://analy.tuniu.cn/analysisCollect/");
+document.write(unescape("%3Cscript src='"+ u+ "tac.mini.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    var analyTuniuSpend = 0.057;
+    var tuniuTracker = _tat.getTracker();
+    tuniuTracker.setPageName(":度假:主题:广安 小平故里行");//do not delete
+    tuniuTracker.addOrganic("baidu.com","w");
+    tuniuTracker.addOrganic("baidu.com","q1");
+    tuniuTracker.addOrganic("baidu.com","q2");
+    tuniuTracker.addOrganic("baidu.com","q3");
+    tuniuTracker.addOrganic("baidu.com","q4");
+    tuniuTracker.addOrganic("baidu.com","q5");
+    tuniuTracker.addOrganic("baidu.com","q6");
+    tuniuTracker.addOrganic("www.so.com","u");
+    tuniuTracker.addOrganic("www.so.com","q");
+    tuniuTracker.addOrganic("so.360.cn","u");
+    tuniuTracker.addOrganic("so.360.cn","q");
+    tuniuTracker.trackPageView();
+    tuniuTracker.enableLinkTracking();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function()
+{ var hm = document.createElement("script"); hm.src = "//hm.baidu.com/hm.js?51d49a7cda10d5dd86537755f081cc02"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); }
+)();
+</script>
+</body>
+</html>

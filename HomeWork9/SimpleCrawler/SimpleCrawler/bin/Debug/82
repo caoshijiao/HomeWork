@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>China Radio International</title>
+<meta name="keywords" content="Сі Цзіньпін, Рэйтынг творчых гарадоў Кітая, Радзіма ушу, Майстар ушу,ушу, Кітай , навіны Кітая , Ху Цзіньтао , старшыня КНР , Сіньцзян , Тыбет , кітайскае ўрад , Міжнароднае радыё Кітая , МРК , радыё , онлайн радыё , кітайская культура , культура Кітая , гісторыя Кітая , імператар Кітая , імператарскі палац , грабніца імператара , старажытны Кітай , кітайскія дынастыі , дынастыя Кітая , дынастыя Цын , Вялікая кітайская сцяна , кітайскія славутасці , кітайскія славутасці , кітайская медыцына , кітайскія фільмы , кітайскае кіно , кітайская кухня , кітайскія стравы , эканоміка Кітай , кітайскі онлайн, кітайскую мову , вучыць кітайскую мову , песні Кітай , кітайская музыка , музыка Кітая , выканаўцы Кітая , кітайскія групы , Алімпіяда -2008 , алімпіяда , навіны Алімпіяды , пекінская Алімпіяда">
+<link href="/css/global15.css" rel="stylesheet" type="text/css" />
+<link href="/css/index15.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="/js/jquery.wyslide1.js"></script>
+<script type="text/javascript" src="/js/index_wy_12.js"></script>
+<script src="/js/marquee.js" type="text/javascript"></script>
+<script src="/js/main15.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+if ((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad|BlackBerry|NokiaN|Windows Phone)/i))) 
+	{
+   	window.location.href="/other/iphone/index.html";
+    }
+</script>
+</head>
+<body>
+<div class="container19da">
+<div class="contain">
+	<div class="headleft">
+    	<div class="headleft_top"></div>
+        <div class="headleft_bot"></div>
+    </div>
+    <div class="headright">
+    	<div class="headright_top">
+        	<div class="headright_top_left"><table width="100%" class=385 cellpadding="0" cellspacing="0"><tr></tr><tr><td align=right colspan=1></td></tr></table></div>
+            <div class="headright_top_right"><script language="JavaScript" src="/js/selectlanguage.js" type="text/JavaScript"></script></div>
+        </div>
+        <div class="headright_bot">
+        	<div class="headright_bot_left"><table width="100%" class=386 cellpadding="0" cellspacing="0"><tr><td valign=top><IMG border=0 src=" /mmsource/images/2009/09/03/belsindex09_08.jpg">&nbsp;<A href=" /41/2009/09/09/2s349.htm" target=_blank s_oidt="0" s_oid=" /41/2009/09/09/2s349.htm">Пра МРК&nbsp;&nbsp; </A><IMG border=0 src=" /mmsource/images/2009/09/03/belsindex09_16.jpg">&nbsp; <A href=" /114/2009/09/09/2s343.htm" target=_blank>Кантакты</A>&nbsp;&nbsp;<IMG src=" /mmsource/images/2009/09/03/belsindex09_11.jpg">&nbsp; <A href="javascript:window.external.addFavorite('http://gb.cri.cn/','Беларусь');">Дадаць у выбранае </A>&nbsp;<IMG border=0 src=" /mmsource/images/2009/09/03/belsindex09_13.jpg"><A href=" /longxun2/maincontrol/NEnewsEdit?action=editOldNews&amp;subjectId=110&amp;channelId=101&amp;nbId=445#">Зрабіць стартавай</A></td></tr><tr><td align=right colspan=1></td></tr></table></div>
+            <div class="headright_bot_right"><img src="/images/dgindex08_05.jpg">&nbsp;<script type="text/javascript" src="/js/date.js"></script></div>
+        </div>
+    </div>
+</div>
+<div class="contain">
+	<div class="nav" id="J_m_nav"><table width="100%" class=387 cellpadding="0" cellspacing="0"><tr><td valign=top><A href="http://belarusian.cri.cn/" target=_blank>Галоўная</A>︱<A href="/news15.htm" target=_blank>Навіны</A>︱<A href="/gzzg15.htm" target=_blank>Культура</A>︱<A href="/chinese15.htm" target=_blank>Урокі кітайскай мовы</A>︱<A href="http://russian.cri.cn/other/zgbk2013/index.html" target=_blank>Усё пра Кітай</A></td></tr><tr><td align=right colspan=1></td></tr></table></div>
+</div>
+<script type='text/javascript' >
+	var nt = !1;
+	$(window).bind("scroll",
+		function() {
+		var st = $(document).scrollTop();//往下滚的高度
+		nt = nt ? nt: $("#J_m_nav").offset().top;
+		// document.title=st;
+		var sel=$("#J_m_nav");
+		if (nt < st) {
+			sel.addClass("nav_fixed");
+		} else {
+			sel.removeClass("nav_fixed");
+		}
+		});
+	$('.nav').css('opacity','0.9');
+</script>
+</div>
+<div class="conn">
+	<div class="connleft">
+        <div class="tptt">
+			<div id="wySlide1" style="display:none"><table width="100%" class=361><tr><td valign=top><a href='/393/2020/04/09/2s51660.htm' target=_blank><img  align=left src= /mmsource/images/2020/04/09/c9d48e7cef86499ba6cf545766365e78.jpg border=0 width=680 height=330></a><a href='/393/2020/04/09/2s51660.htm' target=_blank>Сі Цзіньпін сваім прыкладам прасоўвае канцэпцыю "Зялёныя горы і смарагдавыя рэкі - незлічоныя скарбы»</a></td></tr><tr><td align=right colspan=1></td></tr></table></div>
+		</div> 
+        <div class="longtit"><table width="100%" class=362><tr><td valign=top>У Кітаі</td></tr><tr><td align=right colspan=1></td></tr></table></div>
+        <div class="leftbox"><table width="100%" class=363><tr><td valign=top><img  align=left src= /mmsource/images/2020/04/17/6773730c171e4405b9617bba11721dbc.jpg border=0  width=200 height=120><b><a href='/393/2020/04/17/2s51887.htm' target=_blank>У першым кветале 2020 года эканоміка Кітая ўпала на 6,8%. на фоне эпідэміі</a></b><br>Такія даныя апублікавала ў пятніцу Дзяржаўнае статыстычнае ўпраўленне КНР.</td></tr><tr><td valign=top><img  align=left src= /mmsource/images/2020/04/17/9693f0704f3c429ab119ad88d00968af.jpg border=0  width=200 height=120><b><a href='/393/2020/04/17/2s51877.htm' target=_blank>МЗС КНР: Абвінавачванні ЗША ў правядзенні Кітаем ядзерных выпрабаванняў -- прыдумка</a></b><br>ЗША лічаць, што Кітай не выконвае сваіх абяцанняў і парушыў мараторый на правядзенне ядзерных выпрабаванняў.</td></tr><tr><td valign=top><img  align=left src= /mmsource/images/2020/04/17/c3c936e9a034473ea7422de7483718e7.jpg border=0  width=200 height=120><b><a href='/393/2020/04/17/2s51875.htm' target=_blank>Аднаўленне Уханя надае сілы кітайскай эканоміцы</a></b><br>Да цяперашняга часу прамежкавыя станоўчыя вынікі Кітая ў барацьбе c эпідэміяй усё больш замацоўваюцца, сацыяльна-эканамічны парадак у краіне аднаўляецца паскоранымі тэмпамі.</td></tr><tr><td align=right colspan=1><a href='/360/more/363/more363.htm' target=_blank>Усе>></a></td></tr></table></div>
+        <div class="longtit"><table width="100%" class=364><tr><td valign=top>У свеце</td></tr><tr><td align=right colspan=1></td></tr></table></div>
+        <div class="leftbox"><table width="100%" class=365><tr><td valign=top><img  align=left src= /mmsource/images/2020/04/17/131c18d37c714651bd3027b4fba5d39e.jpg border=0  width=200 height=120><b><a href='/393/2020/04/17/2s51905.htm' target=_blank>"Група 20" выдзеліць 7 трлн долараў на развіццё сусветнай эканомікі</a></b><br>Пра гэта паведаміў арабскі спадарожнікавы тэлеканал "Аль-Арабія".</td></tr><tr><td valign=top><img  align=left src= /mmsource/images/2020/04/17/ab57b0bafc3243e5b6356214becb4e6b.jpg border=0  width=200 height=120><b><a href='/393/2020/04/17/2s51891.htm' target=_blank>Агульная колькасць хворых COVID-19 у ЗША перавысіла 650 тыс. чалавек</a></b><br>У найбольш пацярпелым ад эпідэміі штаце Нью-Ёрк колькасць пацверджаных выпадкаў захворвання дасягнула 223231, колькасць памерлых - 14198.</td></tr><tr><td valign=top><img  align=left src= /mmsource/images/2020/04/17/4c2b0da5ea85494cb18b5c99db81161f.jpg border=0  width=200 height=120><b><a href='/393/2020/04/17/2s51889.htm' target=_blank>Колькасць выпадкаў COVID-19 за межамі Кітая дасягнула 1907765-СААЗ</a></b><br>Колькасць пацверджаных выпадкаў COVID-19 ва ўсім свеце за суткі павялічылася на 76647 і дасягнула 1991562; колькасць смерцяў ад COVID-19 за суткі ўзрасла на 7875, дасягнуўшы 130885.</td></tr><tr><td align=right colspan=1><a href='/360/more/365/more365.htm' target=_blank>Усе>></a></td></tr></table></div>
+        <div class="leftbanner1"><table width="100%" class=366><tr><td valign=top><A href="/360/2019/10/16/Zt2s48486.htm" target=_blank><IMG src=" /mmsource/images/2019/10/24/19934c7f511b450396faa0fdb44fdf61.jpg"></A></td></tr><tr><td align=right colspan=1><a href='/360/more/366/more366.htm' target=_blank>More>></a></td></tr></table></div>
+        <div class="longtit"><table width="100%" class=367 cellpadding="0" cellspacing="0"><tr><td valign=top>Калейдаскоп падзей</td></tr><tr><td align=right colspan=1></td></tr></table></div>
+        <div class="gundongbot">
+			<div  id="marqueehd" style="display:none"><table width="100%" class=368><tr><td valign=top><a href='/409/2020/04/17/2s51885.htm' target=_blank><img  align=left src= /mmsource/images/2020/04/17/5f32a70457634de183ff525af6eb43ed.jpg border=0 width=215 height=150></a><a href='/409/2020/04/17/2s51885.htm' target=_blank>У Шаньмін: "Аблічча жыцця"</a></td><td valign=top><a href='/409/2020/04/13/2s51736.htm' target=_blank><img  align=left src= /mmsource/images/2020/04/13/50a8ae117c114d6e9255489dfdc85b16.jpg border=0 width=215 height=150></a><a href='/409/2020/04/13/2s51736.htm' target=_blank>【Відэа】Півоні ў парку "Цзіншань"</a></td><td valign=top><a href='/393/2020/04/07/2s51599.htm' target=_blank><img  align=left src= /mmsource/images/2020/04/07/31d348f6d3be49218fee6fb41c370947.jpg border=0 width=215 height=150></a><a href='/393/2020/04/07/2s51599.htm' target=_blank>Вытворчасць чаю ў Нін'эр-хані-ійскім аўтаномным павеце</a></td><td valign=top><a href='/393/2020/03/26/2s51277.htm' target=_blank><img  align=left src= /mmsource/images/2020/03/26/5f5cffeb079243558026bb25cb9e195d.jpg border=0 width=215 height=150></a><a href='/393/2020/03/26/2s51277.htm' target=_blank>У гарадской акрузе Іньчуань адноўлены заняткі ў школах</a></td><td valign=top><a href='/409/2020/03/24/2s51198.htm' target=_blank><img  align=left src= /mmsource/images/2020/03/24/332523a359574aefb5ac0f73e5b9f624.jpg border=0 width=215 height=150></a><a href='/409/2020/03/24/2s51198.htm' target=_blank>Вясна ў пекінскім парку "Цзіншань"</a></td><td valign=top><a href='/409/2020/03/23/2s51143.htm' target=_blank><img  align=left src= /mmsource/images/2020/03/23/7be383c3311d4dd8b6fea75ed68637ef.jpg border=0 width=215 height=150></a><a href='/409/2020/03/23/2s51143.htm' target=_blank>Паўночна-ўсходняя вежа Забароненага горада ў промнях сакавіцкага сонца</a></td></tr><tr><td align=right colspan=6><a href='/360/more/368/more368.htm' target=_blank>More>></a></td></tr></table></div>
+    		<div class="gdtu_l" id="goL" align="right"><img src="/images/arrow01.gif"/></div>
+    		<div class="gdtu_c" id="marquee"><ul></ul></div>
+   			<div class="gdtu_r" id="goR"><img src="/images/arrow02.gif"/></div>
+		</div>
+        <div class="leftbanner2"><!--leftbanner2--></div>
+    </div>
+    <div class="connright">
+    	<div class="shorttit"><table width="100%" class=370 cellpadding="0" cellspacing="0"><tr><td valign=top>Топ-навіны</td></tr><tr><td align=right colspan=1></td></tr></table></div>
+        <div class="rightbox"><table width="100%" class=371><tr><td valign=top><table><tr><td valign=top align=left><b><font style='font-family:wingdings;font-size:9px'>v</font>&nbsp;<a href='/393/2020/04/17/2s51907.htm' target=_blank>Сі Цзіньпін накіраваў прэзідэнту Беларусі Аляксандру Лукашэнку тэлеграму са спачуваннямі ў сувязі з успышкай COVID-19</a></b></td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left> </td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left></td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left></td><td valign=top align=center></td><td valign=top align=right></td></tr></table></td></tr><tr><td valign=top><table><tr><td valign=top align=left><b><font style='font-family:wingdings;font-size:9px'>v</font>&nbsp;<a href='/393/2020/04/17/2s51869.htm' target=_blank>Кітаўнікі Кітая і Расіі правялі тэлефонную размову</a></b></td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left> </td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left></td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left></td><td valign=top align=center></td><td valign=top align=right></td></tr></table></td></tr><tr><td valign=top><table><tr><td valign=top align=left><b><font style='font-family:wingdings;font-size:9px'>v</font>&nbsp;<a href='/393/2020/04/16/2s51825.htm' target=_blank>У Кітаі будзе апублікаваны артыкул Сі Цзіньпіна пра важнасць глабальнай салідарнасці і супрацоўніцтва ў барацьбе з COVID-19</a></b></td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left> </td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left></td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left></td><td valign=top align=center></td><td valign=top align=right></td></tr></table></td></tr><tr><td valign=top><table><tr><td valign=top align=left><b><font style='font-family:wingdings;font-size:9px'>v</font>&nbsp;<a href='/393/2020/04/15/2s51811.htm' target=_blank>У горадзе на мяжы з Расіяй пабудавалі часовы шпіталь для лячэння пацыентаў з COVID-19</a></b></td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left> </td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left></td><td valign=top align=center></td><td valign=top align=right></td></tr><tr><td valign=top align=left></td><td valign=top align=center></td><td valign=top align=right></td></tr></table></td></tr><tr><td align=right colspan=1><a href='/360/more/371/more371.htm' target=_blank>Усе>></a></td></tr></table></div>
+        <div class="shorttit"><table width="100%" class=372 cellpadding="0" cellspacing="0"><tr><td valign=top>Кітай маімі вачыма</td></tr><tr><td align=right colspan=1></td></tr></table></div>
+        <div class="rightbox"><table width="100%" class=373 cellpadding="0" cellspacing="0"><tr><td valign=top><P><A href="/1/2010/07/15/Zt2s4352.htm" target=_blank><IMG src=" /mmsource/images/2015/04/27/ded79fb1a1d24c908e29adcae237725c.jpg"></A></P>
+<P><A href="/1/2010/07/12/Zt2s4305.htm" target=_blank><IMG src=" /mmsource/images/2015/04/27/654e8f177dc244f2a039aa5b9ae31145.jpg"></A></P></td></tr><tr><td align=right colspan=1></td></tr></table></div>
+        <div class="shorttit"><table width="100%" class=374 cellpadding="0" cellspacing="0"><tr><td valign=top>Гарачыя тэмы</td></tr><tr><td align=right colspan=1></td></tr></table></div>
+        <div class="rightbox"><table width="100%" class=375><tr><td valign=top align=center><P align=center><A href="/409/2020/04/13/2s51736.htm" target=_blank><IMG src=" /mmsource/images/2020/04/13/a0ca7bd24515487a98dc5a4ff6b356df.jpg"></A></P><A href="/409/2020/04/13/2s51736.htm" target=_blank>
+<P align=center>【Відэа】Півоні ў парку "Цзіншань"</P></A></td></tr><tr><td valign=top align=center><P align=center><A href="/360/2019/12/03/2s49249.htm" target=_blank><IMG src=" /mmsource/images/2019/12/03/877d7947141c4fa484f9b27660284b18.jpg"></A></P><A href="/360/2019/12/03/2s49249.htm" target=_blank>
+<P align=center>Упраўленне марской паліцыі КНР актывізуе патруляванне і барацьбу з правапарушэннямі на моры</P></A></td></tr><tr><td valign=top align=center><A href="/360/2019/03/21/Zt2s45314.htm" target=_blank>
+<P align=center><IMG src=" /mmsource/images/2019/03/21/a58cbb1e6f41459896c1fd30da089c48.jpg">&nbsp;</P>
+<P align=center>Конкурс</P></A></td></tr><tr><td align=right colspan=1><a href='/360/more/375/more375.htm' target=_blank>Усе>></a></td></tr></table></div>
+        <div class="shorttit"><table width="100%" class=376 cellpadding="0" cellspacing="0"><tr><td valign=top>Нашыя партнёры</td></tr><tr><td align=right colspan=1></td></tr></table></div>
+        <div class="rightbox"><table width="100%" class=377><tr><td valign=top><center><img src= /mmsource/images/2015/04/28/fcdcd71c51a3496b8c17da98ae83152e.jpg border=0  width=120 height=52><br><b><A href="http://by.china-embassy.org/rus/" target=_blank>Пасольства КНР у Беларусі </A></b></center></td><td valign=top><center><img src= /mmsource/images/2015/04/28/1a6408d94a1d42108cb9f5b00cf6ee92.jpg border=0  width=120 height=52><br><b><A href="http://china.mfa.gov.by/zh/" target=_blank>Пасольства Рэспублікі Беларусь ў КНР</A></b></center></td></tr><tr><td valign=top><center><img src= /mmsource/images/2015/04/28/4e10e541fa7d4f409bc60658bd7ef221.jpg border=0  width=120 height=52><br><b><A href="http://www.tvr.by/bel/" target=_blank>Нацыянальная дзяржаўная тэлерадыёкампанія Рэспублікі Беларусь</A></b></center></td><td valign=top><center><img src= /mmsource/images/2015/04/28/0a1650a94c1e45218eb73761b43bb0cc.jpg border=0  width=120 height=52><br><b><A href="http://www.belaruschina.by/ru" target=_blank>Беларуска-Кітайская камісія па гандлёва-эканамічным супрацоўніцтве </A></b></center></td></tr><tr><td valign=top><center><img src= /mmsource/images/2015/04/28/258fc9a4daed4c1896bb4299b2995976.jpg border=0  width=120 height=52><br><b><A href="http://russian.china.com/" target=_blank>china.com</A></b></center></td><td valign=top><center><img src= /mmsource/images/2015/04/28/5c0c7c55f4d841b7a4d0d2c29019bc1a.jpg border=0  width=120 height=52><br><b><A href="http://russian.cri.cn/" target=_blank>russian.cri.cn</A></b></center></td></tr><tr></tr><tr><td align=right colspan=2></td></tr></table></div>
+    </div>
+    <div class="link"><!--link--></div>
+</div>
+<div class="container">
+<table width="1004" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><img src="/images/spacer.gif" width="1" height="14"></td>
+  </tr>
+  <tr>
+    <td height="79" class="copy" align="center" valign="middle">&#169; China Radio International.CRI. All Rights Reserved.<br>
+16A Shijingshan Road, Beijing, China. 100040</td>
+  </tr>
+</table>
+</div>
+
+
+<script type="text/javascript" src="/js/s_code.js"></script>
+
+</body>
+</html>

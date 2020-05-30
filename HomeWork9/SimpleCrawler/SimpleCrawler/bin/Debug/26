@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+  </head>
+
+  <body>
+    <div style="display: none;">
+      <a href="http://www.ulearning.com.cn">文华在线教育</a>
+      <a href="http://mooc.people.cn">人民网公开课</a>
+      <a href="https://x.ulearning.cn">优学院投屏</a>
+      <a href="https://js.ulearning.cn">军事理论门户</a>
+      <a href="https://rmsc.ulearning.cn">人民双创门户</a>
+      <a href="https://hnszlm.ulearning.cn">思政课程联盟门户</a>
+      <a href="https://sjjx.ulearning.cn">实践教学门户</a>
+      <a href="https://english.ulearning.cn/english/index.do">数字外院</a>
+      <a href="https://marx.ulearning.cn/digitalweb/index.do">人民数字马院</a>
+      <a href="https://ssr.ulearning.cn/">搜索优化</a>
+    </div>
+    <script>
+      var perfix = location.host.substring(0, location.host.indexOf("."));
+      if (perfix == "courseweb" || perfix == "mooc") {
+        window.location = "publicCourse/index.html#/index/portal";
+      } else if (perfix == "www") {
+        if (location.host == "www.ulearning.app") {
+          window.location = "ulearning/index.html#/i18n";
+        } else if (location.host == "www.ulearning.asia") {
+          window.location = "ulearning/index.html#/i18n";
+        } else {
+          window.location = "ulearning/index.html#/index/portal";
+        }
+      } else if (perfix == "rmsc") {
+        // 人民双创
+        window.location = "sc/index.html#/index/portal";
+      } else if (perfix == "hnszlm") {
+        // 思政课程联盟
+        window.location = "hnszCourseLeague/index.html#/index/portal";
+      } else if (perfix == "x") {
+        window.location = "screen/index.html";
+      } else if (perfix == "js") {
+        window.location = "militaryTheory/index.html#/index/portal";
+      } else if (perfix == "tjxc") {
+        // 天津财大门户
+        window.location = "portal-site/index.html#/tjxc";
+      } else if (perfix == "right") {
+        // 权限管理系统
+        window.location = "right-ms/manage/index.html#/login";
+      } else if (perfix == "hjy") {
+        // 天津海教
+        window.location = "portal-site/index.html#/tjhj";
+      } else if (perfix == "xdmy") {
+        // 天津现代
+        window.location = "portal-site/index.html#/tjxd";
+      } else {
+        window.location = "organization/index.html#/index/portal";
+      }
+    </script>
+  </body>
+</html>

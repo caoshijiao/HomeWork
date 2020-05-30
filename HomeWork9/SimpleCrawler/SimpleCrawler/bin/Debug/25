@@ -1,0 +1,1384 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<link rel="stylesheet" type="text/css" href="./images/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="./images/default-style.css" />
+	<link rel="stylesheet" type="text/css" href="./images/default-style2.css" />
+	<link rel="stylesheet" type="text/css" href="./images/jiaodiantu.css" />
+	<link rel="stylesheet" type="text/css" href="./images/shehuagaige.css" />
+	<link rel="stylesheet" type="text/css" href="./images/default-style20190507.css" />
+	<meta id="9DhefwqGPrzGxEp9hPaoag" content="LKBT=K/=?h=&gt;B=LC=BP=Hj=Fd=Fg=@g=@*=Hk&amp;Q&lt;RX[[^LM\\XeL+LLPL]^OWXY0[1d`TC6U4-\t_BE7Av&gt;29=c{53R&lt;;|uNb8:VqzfD.M?Zas@/ySeKwFQxPgihj !#$%klmnop})+,GIJLdLOQUXLOL_XUOQLO[ZOM`LM)c)M)Y&amp;&gt;[53;6@?6E&gt;E;~:A7|:F6@=]0h4:1e:0&lt;5;|2o;j:u/275;/6:;q6w.{276z9i/{8];z7?;:@m:s9v6]/|:|3A;f5}6r7}8?&gt;/1C9U6o.??p9C%-}8:QPG]jfByjB=aPAx&gt;Og}]ePARC~=S&lt;&gt;=4C~P1\iFIDg6P;)\|Y?gSPY?j8zyzPBcz}:xQCd7P;;Ci(;VfPdfb?=R&gt;9z;GPc)V8`eQTcaP8wiVc)QJc]jx;IwPF@1Dx))P6e\~Be\29xj{P=DzC;?:E`Fb;PX3y&lt;61PFc&lt;TY\y2xQPxwhc8))PG4`f;Dy)x3Cf6yy9E1P;y\PX;iQE;i2=1P(fViBRVQPcc&lt;)PX4iV6;j^zFIQz;)PE?aTYSw|Ge)WXwau:)yd`EQWdeWe1SJjYxW29)AP(}1PY4:yFR:)zyy(IQP`eb[xwB\I;zZcwj4`]I4`c`\Fw&gt;`I;B4Iwh:I)hI`7Pz?)uYRzwY@~W8_W^PzcgiPF?)}1)5PB[juc@7JX[Dyde`UEy\WAc]Odcj|ER&lt;Pg\j2A4w&gt;AfhQ91PGx7PXf&lt;PgRCHAfFPA)W&lt;d4W2P`)gz1wiE1DB_P1FVh;7P13QPXR&gt;2=;5PgfjH9Ei{g^b}=@)7c}i}=_D^(_ACPYR]cz)hE;D:gz35P=;JPGRhyE1P1DIEI]yF;IiIx7Pc)\Tc@i[`eJPxcW|5whX1]hxGDV8`aP(}ByARVeA1PYD]AF4h6FyjV%*-uSUOjWKVjP`^uO&lt;,\zyC)[md?S;^dP(os+w^Z+lT;=;QtcNo}P}-RRu&lt;N_x&lt;wsw-crN*@T}[M\ck&lt;Tm|Ocx,t`wXVa_Op*N,Mz@pm\N\zax-~[@w+R_c{B:-|aw=xSl|-O(XiUN]ajU)Q8OC*U*&lt;C)}^KoKuvp+UX)r@CiT(oaOwcCS}zW=co-K)X~+y,A*c[YPvc[UwVx*uTL~N+d`:-NrU|Ts;Vqrukb[u{l;},;`vz*PcqMW&lt;w&gt;}CvXK(c@[_TxPM\O=M`&gt;%FvtU.U/UUUbU@s*UhUKU|U6sXUjUfU[~+svU?sV~*U7sJU&lt;&lt;OK$sGUms=~OsCs&amp;sRs|&gt;Zsms;pZ~TsU~7s sL~fKp&lt;TKXsls%s&lt;5(s\s7sTs&gt;ssshspKG~$K.&lt;&gt;~w~&amp;sF~,~QsK~#K6~;~v~)?T&lt;&amp;sj~2Kt~Cs[sY&lt;5&gt;Q~|5sm-6x7R~R~tKV|\~z~E|J~s|QK%@z~?p*7?fb~:&lt;(~FK2p(KYf*7+p[&lt;$@O&lt;@~-2&gt;KR7)m$K&amp;6$7f|,~(Fs|/|$6;K[K@~&lt;5&amp;| |&amp;|f~YFCKl@jh:@C&lt;Xm=|=[sK=fC|~5 65m.KZ@+K*2~KO|*|Z7VK-|z|.7[|lph6K&lt;uY?K&lt;@G&lt;l6,|Optj&gt;m]5h7UmW|s|t2.|#@W7E|p6U|m6Q|C|GKm|b7h?sj#Kjm26Z5v|-w2&lt;U|T7O(J&gt;fFO6?|(F#||7T6Cjb@tFL|5@f|Ef-?fmJ6_jJ|+@Q|26.p6mvFuY\(zf]5jm\[ThY|YhXpp&lt;Rh;@V2/6hF=Fzp]hQhbfT6%pw|h@6f\|&lt;(x6/Y56th,|w?YhWh7[v@T5tmF6(Y#&lt;pwRp&amp;2x7Q6T[G6z( wxpG(jY/p&gt;6+5U@x2PjW5T7C6lwYY6wv6b2)7;&lt;)&lt;=m/p|2Fhp[]p\&gt;-7pYj56@5@XjfmQ2pF|j[Y@@,YLY|h#2 p%2+p$5z[_(w@U@&amp;&lt;-YEp+w=@ZjTp@5J&gt;&gt;puw+jXY+@:?[&lt;J@(j=@-7%@7h[F57.hf&gt;/?@@~5\5=@h@YwQ[=YOhz55FP?\&lt;*?,j7[FjY&gt;\j+wT?F7sfx2$?5Y([~YKpW@[wX?=hvp55lY*ws7#p)[6|7m#jGp,2Vj65)pLmLY$m6(Q&gt;Rhl5K&lt;v((5*(&amp;Yb&gt;7w]pT2O(_7mW@jxw?7@hLwUwfp/@2(*FJhZpmFVY)jR25[&amp;&lt;~5$&gt;W&lt;P&gt;,jV(;&gt;[?/@&gt;jtwlwJF,wzpJ[\(O5&gt;&gt;v?;&gt;%p#jPjl7&lt;j.fJ?w[QYw(h5&lt;5mm5&lt;FF hmpbh\[Uj)m&amp;&lt;[5F[|fG?C?W7W7,fVwFj?|6?b@bj]2KhE2#?|pv7u(2Y.275wjE[lj-2%m[hwjm?2j,? &lt;_[h?z&gt;:m_fvjzh6j2|x2Z&gt;)?vmE2EFKj;wO?+hOf6@mYs&gt;$?l&lt;66*&gt;sh~F?2L&gt;|&lt;+h$YC2JY=w~wt&gt;*(v(7FTFU[b2-5Y|VfP[Jf)?(hP&gt;u572W7Kh_w6&gt;+[(|_2,(V2[[R(]mU6-Fm2=hKh.&lt;ww5[:&gt;Y(&lt;f#w&gt;(P7~&gt;TmsfuYh7v2&amp;2Q2?mhh27ZjK&gt;w5x?~[-&gt;(mzw:(&gt;&gt;.?%mZw&amp;22mTj*2w2j?Z(CK5&gt;Ef[(/F]&gt;6fsFX(~YW&lt;swCfQh+7F?u@%mKmp&gt; (.[$Y_F;&lt;EhTFp[Yfl2R(Rw_&lt;|(5(Z(KYm2zw[KQfh[f|:5~hCw.ffF2FWmm&gt;??h(Y72[p5/K75%(,@=2t7zf&lt;&gt;]m,YV5-2G[ j YR&gt;PYFFv&lt;/F+m@2lhu(f&gt;z5WKF?&lt;(%&lt;Qj5F$jCF-hGh?7w?p6Y2C?jwK[CYQf@[Www&gt;5w/f|[7YffRf2|ufU7Pj(fLYY@s(X&lt;]5P?R&lt;.5bh ?#(\&lt;,fK[@?EYzYpw$7-7j2;?Kf(@Kw&lt;w7&lt;WKbplYXF/[+2f7=[Ow@m Yl2sfjFG7_5LpKw)2u@l2Yw-j\F%w#&gt;J?G&gt;2h&gt;FRF@?]&gt;U2|7](|mxFE&gt;tjj7 &lt;V7&gt;&lt;C(G(+mjf%m(jQ5:fz&gt;~Ff(uhx(T?t()&lt;;m+f+@#fOh|mbm|&gt;@52fFjU[,?)m7(@f5Y&lt;(?hVhs&gt;K(=j&amp;jswjj&lt;7Jf=fWh5&lt;%2Um?f&amp;([&gt;x262m[5&gt;OjLfp&gt;j&gt;#2@&gt;&amp;[*(EY,?x&gt;G|vF~K]m)(pY~p7&lt;h7(mV7tmfwVhU5;(lwG?6hR&gt;hpVhtf Y&amp;?.?mh=fw&gt;l?-hjw(&gt;p[tFY5R&lt;t6&amp;&lt;zYtm;f72*f&gt;Y w;f~???Jjwj$j|@v(F[x[?@u2(7*Yx&gt;b&gt;_5f&lt;x2hfE77wpp:&gt;ChF&lt;j2:5V5O7&amp;&gt;V(:h-h/7:@F[;jOpQpPY:wPfX[#fmFFmC[K&lt;2w\5C?O@pj:&lt; f,p2pzp-5QY25u5p66F[5[wb755Xj_?&gt;F67\w ?_7L[jpCpUpx?Upfp=@;[V5+pY5??:7$?LhJp&lt;2&lt;?Q&gt;L(6f/Fhf;jv?X@@KUwh&gt;m(-5E[Zw*h*(sj~6P2][2wLm%F\&lt;LmP7l2bYumY2_F&lt;7Y($|K7X@ 76@wf?wm6|~l@&lt;fYY&gt;m:F.Fx6j5]7b&lt;b&lt;GY]&gt;F5,f.@.jph@(L5_6p@?6~6u[z&lt;:7xw|h]?76\Y[h%F&amp;wEh&lt;YG7G@&gt;67&lt;Z(b[L@)p_6f6wK;@\6&gt;mt@/mlpj6GY-YT@Jh)?P@E62wWfZ(Um&lt;Fl6mhh6Omu&gt;X6Xw%&lt;\6[f:YZj@Y7?*F:6#Y;F(?$6L6&lt;&gt;;5@[XFw6v@L[.p sZ6=&gt;&lt;[&gt;5#Yvp?~J|W7|6R2Ts.p.6)p;j/[%FjpO6FK(@]6JFZju[Eh&amp;5|F_|&gt;@|Kffth(2v?VY%@P|)7/FbYJ2XmOpsK:@$5G[wF)5.KxK)mwjh(t&gt;=|U|?p~2\f_6Vj%|LjZ6:F*F7Ks|P~[YU[)YPKL|[6s[uKuKTF&gt;Ft[PK|~6KPK_[/mX&lt;?K\(mwuK+&lt;K~~mGK~K?K#(W~jpEKh@_~P6E~bKK|X~.~UK&gt;~u@R@*wZpFmRKC~pm&gt;6]|%~&gt;?&amp;~m~GjFm~~V~/Kz|;f$[&lt;[mpXK,~\~LK/~K~X~=6@KE~@KJs@m*s$~_|jpRs2~h6W~%sbsP~]K sxKvs/~W|F|@~ s,s6~5|R[[5ZFQs-sws~s(6 Kw~xKW~Zs]s+sus?&lt;fs:sfstsW&lt;#|]szs#sQUFU&gt;U(U2sEUYs_UwU5s5s)UsUpU~sOU#?GlpmAijiiAijqpAmmiAijii1--.1[/,[0R]S8PDl[po9++3yei,=2rq,uVmfrtjmn5+uRhUu&gt;@5y{qq.Zk06gpzH.xbCV1lH54U6Me9KiIyDHtUUQWUZTYzqxlWq{q3VSYIBHrLsgJcJJNq6neZabG4KrDGoCEi9sgn078Pwck0s8ap_ZoXbea1yYnjRmlqhH_TsW_RWylLqr0qk674qt1074790440qk128qhFKHTRg9t4CjqqqKn5wfIXB41OsFLldRcBEDkqqqqqqr1qViWExeak0cBaJead5cdgWq.Q_SVyfCvMcxh1C8VUHXNYxS5VK0yLfHcgx2eCabRp73qqqqq|QYAJbFuwVmvqPsfpwrsr78cW5RTAe3qm6HKGZiKT0HDEu3nrlmDE0VuyDRu9Htnmnk1aghuz1WbVnwATXR6w4Fceslq05YGwnH9aK3nAMmor21ur8xYaqobSqWSLw8nRKWYTzUGei3DQtrSrZlTEkRPpkqqaBYCWxRlQ5UP3HJoRfJbV1RfzfhsLrEfA0Q1As3sayQGVrHvg1hk7.xGL1HnEZRaqFhDV03ulJmv7ulk0HJcWl3pEelr9B3cQ2ibloqr3HHqq5qKa4y_Iw.h.pPOCkAp2YH9eGqlDa70qHkTq53kwOiKLdRugqlVnyZqqqkcPgq{4tRLMLrc.ldfDd2uusHmwO9.ssWJwSbuEsWfWnmCHkzyquVumkLEou0Ok8QxETv6xKwAx2q5sUQRQ0lbllgWIGbOWswJD5YuFsefM6fXmoHWs.2X.stTwNYC7pjGqm12999qc80qDd41832q8i50K6q68cJZiaqurkZliSaOJkWlcaAq~?RTxQ3TRv1KR1Rl2vUbRxF2wjUKxU3mRzV6JYFTRSY22KsTY1UT2IYmSUY2exY2JR1YzsK92FVm2wYYwYrpawq091craDll9UcVeIp2asrqzxDGGVrffxoa2oU0yQDqXXrigxga1zriNwBY8ek8qJ50v_riVU5rKPqiEpLqsfUFfUjfs6rXlldlvnk8V8XAk6lMQlemCOY_QV5qM7rHwxSa61oLaqurDtrWzwvT88YyWVCAkr1wGlaSI8m3qqarD8rJewP28ElWWAbakQmWyx6aOH1w9xGY5WUWLAnVvUrMWmL0b2chYxNavdUdRQ7rcd1MLlNp8gm8EqLfoGrtmw_mIjoMGKz0bvrhLUNpUyqhQpea10U8JUySC9oMNx.q1HmyEYuqcWlQLlPT68YeaqkF_gqkRhE"><!--[if lt IE 9]><script r='m'>document.createElement("section")</script><![endif]--><script type="text/javascript" src="/4QbVtADbnLVIc/d.FxJzG50F.js?D9PVtGL=d41832" r='m'></script><script type="text/javascript" r='m'>function _$le(_$bY,_$pv){var _$m5=_$nc();for (var _$dH=0;_$dH<_$pv.length;_$dH++ ){_$wA[_$m5+_$bY[_$dH]]=_$jO(_$pv[_$dH]);}}function _$gB(_$pv,_$dH){_$pv=_$pv[_$nZ()](_$mQ());_$pv.push(_$dH);var _$tE=_$pv.length,_$bY=new _$wn(_$tE);for (var _$m5=0;_$m5<_$tE;_$m5++ ){_$bY[_$m5]=_$lE()[_$ni()](_$m5,_$hY());}return new _$vn(_$iS(),_$ft()+_$bY.join(_$mQ())+_$nm())(_$pv);}function _$rq(_$dH){var _$q1=_$tX();var _$q1=_$p5();if(_$sB()){_$tE=_$ea();}_$dH[_$n8(_$tM(),16)]=_$uJ();_$dH[_$n8(_$u7(),16)]=_$uT();_$tE=_$p5();return _$dH[_$n8(_$ut(),16)];}function _$uU(_$dH){_$dH[_$n8(_$sB(),16)]=_$k1();var _$q1=_$ea();_$pv=_$tz();_$dH[0]=_$tV();return _$ut();}function _$pU(_$dH){_$dH[0]=_$u6(_$dH);_$dH[_$n8(_$dH[_$n8(_$uT()+_$eb(),16)],16)]=_$rq(_$dH);if(_$dH[_$n8(_$bu()+_$u7(),16)]){_$tH(_$dH);}_$dH[1]=_$dH[_$n8(_$uT()+_$eb(),16)];return _$v1(_$dH);}function _$uz(){return 8}function _$jO(_$m5){var _$dH;return function(){if(_$dH===_$wz){_$dH=_$sv(_$m5);_$dH=_$uB(_$dH);}return _$dH;};}function _$ve(){return _$oH._$lM();}function _$fv(_$bY){var _$pv=_$bY.length,_$dH=new _$wn(_$pv),_$m5=0,_$tE=_$bU();while (_$m5<_$pv){_$dH[_$m5]=_$tE[_$wx.call(_$bY,_$m5++ )];}return _$dH.join(_$hf());}function _$u6(_$dH){_$nf(_$dH);var _$tE=_$tM();if(_$ea()){_$dH[_$n8(_$eb(),16)]=_$p5();}_$dH[6]=_$ea();_$dH[2]=_$uz();_$uU(_$dH);return _$u5(_$dH);}function _$p2(_$dH){_$dH[8]=_$tX();_$dH[_$n8(_$uT(),16)]=_$eb();_$dH[9]=_$uq();return _$sB();}function _$uJ(){return 0}function _$bu(){return 10}function _$uq(){return 5}function _$ug(_$bY){var _$pv=_$r0&&new _$r0();if(_$pv){var _$tE=_$pv[_$jh()];if( !_$tE){return;}var _$m5=_$tE[_$dA()]();var _$dH=_$wk.call(_$m5,_$ar());_$m5=_$dH[_$oh()]();if(_$m5===_$hf()&&_$dH.length>0)_$m5=_$dH[_$oh()]();if(_$v9.call(_$m5,_$ej())!== -1||_$uN(_$m5,_$nV())||_$m5===_$lR()){_$qr(_$bY,1);return true;}}}function _$hv(){var _$dH=_$uB(_$ve())[_$nZ()](_$iK());for (var _$m5=0;_$m5<_$dH.length;_$m5++ )_$dH[_$m5]=_$wr(_$dH[_$m5]);return _$dH;}function _$uW(_$dH){_$sn(_$dH);_$dH[12]=_$tM();var _$pv=_$u7();_$q1=_$uT();var _$pv=_$tV();_$pv=_$ut();_$p2(_$dH);return _$dH[_$n8(_$uJ(),16)];}function _$sn(_$dH){_$dH[14]=_$ut();_$dH[_$n8(_$k1(),16)]=_$bu();var _$pv=_$tz();_$pv=_$uz();return _$tV();}function _$lc(_$dH){return function(){_$dH=(_$dH*17405+40643)>>9&0xFFFF;return _$dH;};}function _$e4(_$tE,_$q1,_$o6,_$oA,_$pv,_$m5){_$tE=_$rQ(_$af(_$uB(_$tE)),2);var _$dH=_$fS(_$uB(_$q1));_$q1=_$wk.call(_$dH,_$rM);_$o6=_$uB(_$o6);if(_$o6.length>0){_$o6=_$wk.call(_$o6,_$rM);_$q1=_$q1[_$cM()](_$o6);}var _$eh=_$nc();for (var _$bY=0;_$bY<_$tE.length;_$bY++ ){_$wA[_$eh+_$tE[_$bY]]=_$q1[_$bY];}_$oA=_$rQ(_$uB(_$oA),2);_$dH=_$uB(_$pv);_$pv=_$wk.call(_$dH,_$rM);_$dH=_$uB(_$m5);_$m5=_$wk.call(_$dH,_$rM);_$pv=_$pv[_$cM()](_$m5);_$le(_$oA,_$pv);}function _$mY(_$dH){return _$eJ(_$sz(_$dH));}function _$br(){var _$dH=new _$wn(256),_$pv=new _$wn(256),_$bY;for (var _$tE=0;_$tE<256;_$tE++ ){_$dH[_$tE]=_$al(_$pv[_$tE]=_$tE);}var _$q1=_$lv();for (_$tE=32;_$tE<127;_$tE++ )_$bY=_$tE-32,_$dH[_$tE]=_$uY.call(_$q1,_$bY),_$pv[_$tE]=_$wx.call(_$q1,_$bY);_$q1=_$dH;_$bU=function(){return _$q1;};var _$m5=_$wk.call(_$rL(),_$hf());_$qm=function(){return _$m5;};}function _$jU(){var _$bY=_$ph();var _$m5=[];for (var _$eh=0;_$eh<6;_$eh++ ){_$m5[_$eh]=[];}_$on=function(){return _$m5;};var _$tE=_$m5[0],_$pv=_$m5[1],_$o6=_$m5[2],_$q1=_$m5[3],_$pu=_$m5[4],_$dH=_$m5[5];_$nr(_$dH,0,255, -1);for (_$eh=0;_$eh<_$bY.length;_$eh++ ){var _$oA=_$wx.call(_$bY[_$eh],0);_$tE[_$oA]=_$eh<<2;_$pv[_$oA]=_$eh>>4;_$o6[_$oA]=(_$eh&15)<<4;_$q1[_$oA]=_$eh>>2;_$pu[_$oA]=(_$eh&3)<<6;_$dH[_$oA]=_$eh;}}function _$v1(_$dH){var _$q1=_$k1();_$q1=_$bu();var _$tE=_$tz();_$pv=_$p5()+_$uq();_$q1=_$bu()+_$u7();_$uW(_$dH);_$dH[_$n8(_$dH[_$n8(_$ea(),16)],16)]=_$vm(_$dH);return _$sB();}function _$tb(_$dH){for (var _$bY,_$m5,_$pv=_$dH.length-1;_$pv>0;_$pv-- ){_$bY=_$vL[_$qx()](_$mu()*_$pv);_$m5=_$dH[_$pv];_$dH[_$pv]=_$dH[_$bY];_$dH[_$bY]=_$m5;}return _$dH;}function _$l2(){_$uY=_$vH.prototype.charAt;_$wx=_$vH.prototype.charCodeAt;_$gY=_$vH.prototype.codePointAt;_$aC=_$vH.prototype.concat;_$ca=_$vH.prototype.endsWith;_$iB=_$vH.prototype.includes;_$v9=_$vH.prototype.indexOf;_$bZ=_$vH.prototype.lastIndexOf;_$l9=_$vH.prototype.localeCompare;_$by=_$vH.prototype.match;_$hH=_$vH.prototype.normalize;_$ih=_$vH.prototype.padEnd;_$nG=_$vH.prototype.padStart;_$pH=_$vH.prototype.repeat;_$vj=_$vH.prototype.replace;_$hk=_$vH.prototype.search;_$uR=_$vH.prototype.slice;_$wk=_$vH.prototype.split;_$hK=_$vH.prototype.startsWith;_$v7=_$vH.prototype.substr;_$vU=_$vH.prototype.substring;_$py=_$vH.prototype.toLocaleLowerCase;_$lQ=_$vH.prototype.toLocaleUpperCase;_$wi=_$vH.prototype.toLowerCase;_$kH=_$vH.prototype.toSource;_$fM=_$vH.prototype.toString;_$jx=_$vH.prototype.toUpperCase;_$gI=_$vH.prototype.trim;_$nA=_$vH.prototype.trimLeft;_$ol=_$vH.prototype.trimRight;_$nK=_$vH.prototype.valueOf;}function _$gL(){return "$_ws8L0se1sJrwvzrnt8nv";}function _$a9(){var _$dH=_$ve();var _$m5=_$ve();_$dH=_$wk.call(_$uB(_$dH),_$rM);_$m5=_$wk.call(_$uB(_$m5),_$rM);_$d1(_$dH,_$m5);}function _$u0(_$bY){var _$m5,_$dH=0,_$pv;_$bY=_$mY(_$bY);_$pv=_$bY.length;_$m5=new _$wn(_$pv);_$pv-=3;while (_$dH<_$pv){_$m5[_$dH]=_$wx.call(_$bY,_$dH++ );_$m5[_$dH]=_$wx.call(_$bY,_$dH++ );_$m5[_$dH]=_$wx.call(_$bY,_$dH++ );_$m5[_$dH]=_$wx.call(_$bY,_$dH++ );}_$pv+=3;while (_$dH<_$pv)_$m5[_$dH]=_$wx.call(_$bY,_$dH++ );return _$m5;}function _$pz(){var _$m5=_$s1(_$iT(_$pb()))("9DhefwqGPrzGxEp9hPaoag"),_$tE=0,_$bY={};_$bY._$lM=_$q1;_$bY._$sc=_$dH;return _$bY;function _$dH(){return _$v7.call(_$m5,_$tE);}function _$q1(){var _$o6=_$pv();var _$eh=_$v7.call(_$m5,_$tE,_$o6);_$tE+=_$o6;return _$eh;}function _$pv(){var _$oA=_$wx.call(_$m5,_$tE);if(_$oA>=40){_$tE++ ;return _$oA-40;}var _$o6=39-_$oA;_$oA=0;for (var _$eh=0;_$eh<_$o6;_$eh++ ){_$oA*=87;_$oA+=_$wx.call(_$m5,_$tE+1+_$eh)-40;}_$tE+=_$o6+1;return _$oA+87;}}function _$tM(){return 3}function _$aY(_$pv){var _$oA=_$pv.length,_$si=new _$wn(_$vL[_$ew()](_$oA*3/4));var _$kW,_$g8,_$nQ,_$mJ;var _$o6=0,_$eh=0,_$bY=_$oA-3;var _$m5=_$on();var _$nO=_$m5[0],_$sU=_$m5[1],_$q1=_$m5[2],_$tE=_$m5[3],_$pu=_$m5[4],_$dH=_$m5[5];for (_$o6=0;_$o6<_$bY;){_$kW=_$wx.call(_$pv,_$o6++ );_$g8=_$wx.call(_$pv,_$o6++ );_$nQ=_$wx.call(_$pv,_$o6++ );_$mJ=_$wx.call(_$pv,_$o6++ );_$si[_$eh++ ]=_$nO[_$kW]|_$sU[_$g8];_$si[_$eh++ ]=_$q1[_$g8]|_$tE[_$nQ];_$si[_$eh++ ]=_$pu[_$nQ]|_$dH[_$mJ];}if(_$o6<_$oA){_$kW=_$wx.call(_$pv,_$o6++ );_$g8=_$wx.call(_$pv,_$o6++ );_$si[_$eh++ ]=_$nO[_$kW]|_$sU[_$g8];if(_$o6<_$oA){_$nQ=_$wx.call(_$pv,_$o6);_$si[_$eh++ ]=_$q1[_$g8]|_$tE[_$nQ];}}return _$si;}function _$tz(){return 9}function _$qe(_$q1){var _$tE=_$q1.length,_$dH=new _$wn(_$tE),_$pv,_$bY,_$m5=_$qm();for (_$pv=0;_$pv<_$tE;_$pv++ ){_$bY=_$wx.call(_$q1,_$pv);if(_$bY>=32&&_$bY<127)_$dH[_$pv]=_$m5[_$bY-32];else _$dH[_$pv]=_$uY.call(_$q1,_$pv);}return _$dH.join(_$hf());}function _$qr(_$bY,_$m5){if( !_$wc)return;if( typeof _$bY===_$p9()){_$bY=_$vH(_$bY);}var _$dH=_$qI(_$bY);if(_$dH)_$m5=_$wr(_$dH)+_$m5;_$bY=_$my()+_$v4(_$bY);_$wc[_$bY]=_$m5;}function _$dt(_$dH){return _$dH[_$cq];}function _$fH(_$dH){return function(){return _$dH;};}function _$l3(_$m5,_$pv){var _$dH=_$on()[5];var _$bY=_$dH[_$wx.call(_$m5,_$pv)];if(_$bY<82)return 1;return 86-_$bY+1;}function _$tH(_$dH){var _$tE=_$uq();_$q1=_$sB();if(_$uJ()){_$dH[_$n8(_$u7(),16)]=_$uT();}_$vq(_$dH);return _$uT();}function _$d1(_$bY,_$pv){var _$m5=_$nc();for (var _$dH=0;_$dH<_$pv.length;_$dH++ ){_$wA[_$m5+_$bY[_$dH]]=_$fH(_$pv[_$dH]);}}function _$pN(_$m5,_$q1,_$bY){_$q1=_$q1||0;if(_$bY===_$wz)_$bY=_$m5.length;var _$dH=new _$wn(_$vL[_$i0()](_$m5.length/40960)),_$tE=_$bY-40960,_$pv=0;while (_$q1<_$tE){_$dH[_$pv++ ]=_$al[_$nR()](null,_$m5[_$c3()](_$q1,_$q1+=40960));}if(_$q1<_$bY)_$dH[_$pv++ ]=_$al[_$nR()](null,_$m5[_$c3()](_$q1,_$bY));return _$dH.join(_$ae());}function _$u5(_$dH){var _$tE=_$u7();_$tE=_$uT();_$dH[_$n8(_$uz(),16)]=_$tV();_$dH[12]=_$tM();return _$uJ();}function _$v4(_$o6,_$pv){if( typeof _$o6===_$jX())_$o6=_$u0(_$o6);if( !_$pv)_$pv=_$ph();var _$dH,_$m5=_$pO=0,_$bY=_$o6.length,_$q1,_$tE;_$dH=new _$wn(_$vL[_$sI()](_$bY*4/3));_$bY=_$o6.length-2;while (_$m5<_$bY){_$q1=_$o6[_$m5++ ];_$dH[_$pO++ ]=_$pv[_$q1>>2];_$tE=_$o6[_$m5++ ];_$dH[_$pO++ ]=_$pv[((_$q1&3)<<4)|(_$tE>>4)];_$q1=_$o6[_$m5++ ];_$dH[_$pO++ ]=_$pv[((_$tE&15)<<2)|(_$q1>>6)];_$dH[_$pO++ ]=_$pv[_$q1&63];}if(_$m5<_$o6.length){_$q1=_$o6[_$m5];_$dH[_$pO++ ]=_$pv[_$q1>>2];_$tE=_$o6[ ++_$m5];_$dH[_$pO++ ]=_$pv[((_$q1&3)<<4)|(_$tE>>4)];if(_$tE!==_$wz){_$dH[_$pO++ ]=_$pv[(_$tE&15)<<2];}}return _$dH.join(_$hf());}function _$af(_$bY){_$bY=_$wk.call(_$bY,_$ae());for (var _$dH=0;_$dH<_$bY.length-1;_$dH+=2){var _$m5=_$bY[_$dH];_$bY[_$dH]=_$bY[_$dH+1];_$bY[_$dH+1]=_$m5;}return _$bY.join(_$ae());}function _$pb(){return"rGs`{p_v|{GHf ]r_`]{ s`{p_v|{GvqHf an] c ( q|p`zr{_Mtr_0yrzr{_-d4qGvqHZ an] a ( cMp|{_r{_Z cM}n]r{_9|qrM]rz|ar.uvyqGcHZ ]r_`]{ aZhhGHH";}function _$nI(){var _$bY=_$uB(_$ve());_$bY=_$rQ(_$bY,2);var _$m5=_$qe(_$nb());for (var _$dH=0;_$dH<_$bY.length;_$dH++ ){_$bY[_$dH]=_$m5+_$bY[_$dH];}return _$bY;}function _$tp(_$dH,_$m5){_$kF|=_$dH;if(_$m5)_$uc|=_$dH;}function _$iz(_$m5,_$bY){for (var _$dH=0;_$dH<_$bY.length;_$dH++ ){_$wA[_$fv(_$m5[_$dH])]=_$gP(_$bY[_$dH]);}}function _$iT(_$bY){var _$dH,_$q1=_$bY.length,_$o6=new _$wn(_$q1-1);var _$m5=_$wx.call(_$bY,0)-93;for (var _$tE=0,_$pv=1;_$pv<_$q1; ++_$pv){_$dH=_$wx.call(_$bY,_$pv);if(_$dH>=40&&_$dH<92){_$dH+=_$m5;if(_$dH>=92)_$dH=_$dH-52;}else if(_$dH>=93&&_$dH<127){_$dH+=_$m5;if(_$dH>=127)_$dH=_$dH-34;}_$o6[_$tE++ ]=_$dH;}return _$al.apply(null,_$o6);}function _$vq(_$dH){var _$tE=_$uJ();_$tE=_$tX();var _$pv=_$eb();_$q1=_$p5();_$dH[15]=_$sB();_$tE=_$bu();return _$u7();}function _$o1(_$m5,_$dH){var _$bY;return function(_$pv,_$tE){if(_$bY===_$wz){_$bY=_$gB(_$fv(_$m5),_$fv(_$dH));}return _$bY;};}function _$p5(){return 2}function _$uT(){return 15}var _$wz,_$wc;_$wA=window;_$vH=String;_$l2();_$au(_$gL(),_$dR());function _$m7(_$tE,_$q1){var _$dH=_$on()[5];var _$pv=_$dH[_$wx.call(_$tE,_$q1)];if(_$pv<82)return _$pv;var _$m5=86-_$pv;_$pv=0;for (var _$bY=0;_$bY<_$m5;_$bY++ ){_$pv*=86;_$pv+=_$dH[_$wx.call(_$tE,_$q1+1+_$bY)];}return _$pv+82;}function _$eb(){return 13}function _$ro(_$m5){var _$dH=[],_$bY,_$pv,_$tE,_$q1=_$wx.call(_$b4(),0);for (_$bY=0;_$bY<_$m5.length;){_$pv=_$m5[_$bY];if(_$pv<0x80){_$tE=_$pv;}else if(_$pv<0xc0){_$tE=_$q1;}else if(_$pv<0xe0){_$tE=((_$pv&0x3F)<<6)|(_$m5[_$bY+1]&0x3F);_$bY++ ;}else if(_$pv<0xf0){_$tE=((_$pv&0x0F)<<12)|((_$m5[_$bY+1]&0x3F)<<6)|(_$m5[_$bY+2]&0x3F);_$bY+=2;}else if(_$pv<0xf8){_$tE=_$q1;_$bY+=3;}else if(_$pv<0xfc){_$tE=_$q1;_$bY+=4;}else if(_$pv<0xfe){_$tE=_$q1;_$bY+=5;}else{_$tE=_$q1;}_$bY++ ;_$dH.push(_$tE);}return _$pN(_$dH);}function _$n6(_$dH){if(_$dH===_$wz||_$dH===_$hf()){return;}var _$pv=_$wA[_$mO()][_$jY()],_$bY;if( !_$do){_$do=_$pv[_$mX()];}if(_$wA[_$cD()]){_$bY=_$wA[_$cD()](_$dH);}else{var _$m5=_$wA[_$eK()];_$bY=_$m5[_$bW()](_$wA,_$dH);}if(_$do!==_$pv.push){_$pv.push=_$do;}return _$bY;}function _$wj(){return new _$t8()[_$kr()]();}function _$nf(_$dH){var _$pv=_$bu();_$tE=_$u7();var _$q1=_$uz();_$q1=_$tV();_$dH[_$n8(_$sB(),16)]=_$k1();return _$bu();}function _$gP(_$m5){var _$dH;return function(_$bY,_$pv){if(_$dH===_$wz){_$dH=_$fv(_$m5);}return _$dH;};}function _$gW(){_$oR=_$wA[_$eK()][_$dA()]()[_$is()](/[\r\n\s]/g,_$hf())!==_$nM();}function _$n8(_$m5,_$dH){return _$aG(_$m5)%_$dH;}function _$n2(){if(_$rQ)/$/.test(_$jU());_$e4(_$ve(),_$ve(),_$ve(),_$ve(),_$ve(),_$ve());_$br();_$ww=_$wA[_$l1()];_$mu=_$vL[_$dv()];_$vd=_$wA[_$nB()];_$po=_$wA[_$iV()];_$aG=_$vL[_$i9()];_$vK=_$wA[_$gm()];try{_$wc=_$wA[_$nF()];}catch(_$dH){}if(_$wc){try{_$wc[_$ix()]=_$ix();_$wc[_$im()](_$ix());_$wc[_$qb()]=_$nF();}catch(_$dH){_$wc=_$wz;}}if( !_$kF&& !_$uc){_$uc=0;_$kF=0;_$a5=0;}if( !_$vK){_$vK=new _$s8();_$wA[_$gm()]=_$vK;}_$eu=_$aY(_$k9());}function _$qI(_$dH){if( !_$wc)return;if( typeof _$dH===_$p9()){_$dH=_$vH(_$dH);}_$dH=_$my()+_$v4(_$dH);return _$wc[_$dH];}function _$sv(_$m5){var _$dH=_$aY(_$m5);return _$ro(_$dH);}function _$h5(_$o6){_$o6=_$wk.call(_$o6,'');var _$bY,_$m5=_$lc(24207),_$dH=[],_$tE=_$o6.length,_$pv,_$q1;for (_$bY=0;_$bY<_$tE;_$bY++ ){_$dH.push(_$m5()%_$tE);}for (_$bY=_$tE-1;_$bY>=0;_$bY-- ){_$pv=_$dH[_$bY];_$q1=_$o6[_$bY];_$o6[_$bY]=_$o6[_$pv];_$o6[_$pv]=_$q1;}return _$o6.join('');}function _$ut(){return 14}function _$fS(_$bY){_$bY=_$wk.call(_$bY,_$ae());for (var _$dH=0;_$dH<_$bY.length-1;_$dH+=2){var _$m5=_$bY[_$dH];_$bY[_$dH]=_$bY[_$dH+1];_$bY[_$dH+1]=_$m5;}return _$bY.join(_$ae());}function _$bL(_$dH){var _$q1=_$u7();_$q1=_$uT();_$dH[3]=_$p5();_$dH[15]=_$sB();return _$k1();}function _$hV(_$m5){var _$dH=arguments;return _$m5[_$is()](/\{(.+?)\}/g,function(_$pv,_$bY){return _$dH[_$wr(_$bY)+1];});}function _$hi(_$eh,_$sG,_$bY){var _$pu=_$wj();_$gW();var _$tR=0,_$mJ=0;var _$pv=_$qe(_$iK());_$pu=_$wj();_$sU();var _$eD=_$fc();var _$nQ=_$g8();var _$kW=_$g8();_$kW=_$kW[_$ni()](_$g8(true));var _$oA=_$g8();function _$tE(_$bh){var _$fR=_$ue(),_$tI,_$rE=new _$wn(_$bh),_$nj=new _$wn(_$fR),_$lT=new _$wn(_$bh+_$fR);if(_$bh==3){var _$eR=_$wA[_$mt()][_$qx()]((_$wj()-_$hZ)/1000);_$cw=_$cw+_$wA[_$mt()][_$qx()](_$wA[_$mt()][_$iN()](_$eR/5.88+1));}_$tI=0;while (_$tI<_$fR)_$nj[_$tI++ ]=_$q1(1);_$tI=0;while (_$tI<_$bh)_$rE[_$tI++ ]=_$q1(1);_$tb(_$rE);_$tI=0;var _$r7=0,_$sw=0;while (_$r7<_$fR&&_$sw<_$bh){var _$tv=(_$mu()%100)*(_$fR-_$r7+1)/(_$bh-_$sw)>=50;var _$fL=_$mu()%10;if(_$tv){while (_$r7<_$fR&&_$fL>0){_$lT[_$tI++ ]=_$nj[_$r7++ ]; --_$fL;}}else{while (_$sw<_$bh&&_$fL>0){_$lT[_$tI++ ]=_$rE[_$sw++ ]; --_$fL;}}}while (_$r7<_$fR)_$lT[_$tI++ ]=_$nj[_$r7++ ];while (_$sw<_$bh)_$lT[_$tI++ ]=_$rE[_$sw++ ];return _$lT.join(_$hf());}function _$dG(){return _$eh[_$tR++ ];}function _$sU(){if(_$mJ=== -1)return;if(_$mJ===0){_$tR++ ;if(_$eh[_$nX()](_$tR)===_$jr()){_$tR++ ;}else if(_$eh[_$nX()](_$tR)===_$bX()){_$mJ= -1;_$tR++ ;return;}else{}}var _$fR;if( typeof(_$eh)===_$jX()){_$fR=_$wr(_$eh[_$be()](_$tR+1,3));}else{_$fR=_$wr(_$pN(_$eh,_$tR+1,_$tR+4));}if(_$fR!==_$mJ){}_$tR+=4;_$mJ++ ;}function _$tU(_$nj){var _$fR=_$tR;_$tR+=_$nj;return _$eh[_$aW()](_$fR,_$tR);}function _$q1(_$fR){var _$sw=0,_$bh,_$tI,_$nj;if(_$fR===1){_$lT();if(_$tI<=4){return _$nO[_$tI][_$nj];}return _$si[_$tI](_$nj);}_$bh=new _$wn(_$fR);while (_$sw<_$fR){_$lT();if(_$tI<=4){_$bh[_$sw++ ]=_$nO[_$tI][_$nj];}else{_$bh[_$sw++ ]=_$si[_$tI](_$nj);}}return _$bh.join(_$hf());function _$lT(){_$tI=_$dG();_$nj=_$tI&0x1F;_$tI=_$tI>>5;if(_$nj==0x1f){_$nj=_$ue()+31;}}}function _$dH(){var _$bh,_$nj,_$fR;_$bh=_$q1(1);_$q1(1);_$nj=_$q1(1);_$q1(1);_$fR=_$q1(1);_$wA[_$fv(_$bh)]=_$o1(_$nj,_$fR);}function _$fc(){var _$fR=_$m7(_$eh,_$tR);_$tR+=_$l3(_$eh,_$tR);return _$fR;}function _$g8(_$tv){var _$lT,_$fR,_$tI,_$sw;_$sU();_$fR=_$fc();_$lT=_$fc();_$tI=_$tU(_$lT);if(_$fR===0&&_$lT===0)return[];var _$nj=_$tI[_$nZ()](_$pv);if(_$tv){for (var _$bh=0;_$bh<_$fR;_$bh++ ){_$nj[_$bh]=_$sv(_$nj[_$bh]);}}return _$nj;}_$oA=_$oA[_$ni()](_$g8(true));var _$rv=_$g8()[_$ni()](_$g8(true));_$pu=_$wj();_$sU();var _$tC=_$fc();_$eh=_$aY(_$eh[_$be()](_$tR));_$tR=0;_$pu=_$wj();var _$se=_$sG[_$sr()](_$bY[1],_$bY[2]);var _$o6=_$sG[_$sr()](0,_$bY[0]);var _$dw=_$sG[_$sr()](_$bY[3],_$bY[4]);var _$nO=[_$rv,_$dw,[],_$o6,_$se];if(_$wA[_$fv(_$uy(_$dx()))]){_$tb(_$o6);}_$pu=_$wj();var _$m5,_$tD=0,_$si=[_$wz,_$wz,_$wz,_$wz,_$wz,_$tE,_$q1,_$dH];_$m5=_$q1(1);_$pu=_$wj();_$iz(_$dw,_$oA);_$n6(_$fv(_$m5));return;;;;;function _$ue(){var _$fR=_$eh[_$tR];if((_$fR&0x80)===0){_$tR+=1;return _$fR;}if((_$fR&0xc0)===0x80){_$fR=((_$fR&0x3f)<<8)|_$eh[_$tR+1];_$tR+=2;return _$fR;}}}function _$uN(_$dH,_$m5){return _$uR.call(_$dH,0,_$m5.length)===_$m5;}function _$uB(_$bY){var _$dH,_$q1=_$dt(_$bY),_$o6=new _$wn(_$q1-1);var _$m5=_$wx.call(_$bY,0)-40;for (var _$tE=0,_$pv=1;_$pv<_$q1; ++_$pv){_$dH=_$wx.call(_$bY,_$pv);if(_$dH>=40&&_$dH<127){_$dH+=_$m5;if(_$dH>=127)_$dH=_$dH-87;}_$o6[_$tE++ ]=_$dH;}return _$al.apply(null,_$o6);}function _$vm(_$dH){var _$pv=_$uq();_$q1=_$sB();_$dH[_$n8(_$uJ(),16)]=_$tX();var _$pv=_$eb();_$tE=_$p5();return _$uq();}function _$tV(){return 1}function _$sB(){return 6}function _$dx(){return 407;}function _$nr(_$dH,_$m5,_$bY,_$pv){for (;_$m5<_$bY;_$m5++ ){_$dH[_$m5]=_$pv;}}function _$nc(){return _$al(95,36);}function _$dR(){return "r|t|UFonrAoemd|eaa|Dnte|nebMc|jc|elctuenCpi|rynoIenoEsenahoptO|RrrsetIcpautraav";}function _$ph(){return _$wk.call(_$es(),_$ae());}function _$u7(){return 11}function _$rQ(_$m5,_$q1){var _$pv=_$dt(_$m5),_$dH=new _$wn(_$pM(_$pv/_$q1)),_$bY=0,_$tE=0;for (;_$tE<_$pv;_$tE+=_$q1,_$bY++ )_$dH[_$bY]=_$v7.call(_$m5,_$tE,_$q1);return _$dH;}function _$tX(){return 12}function _$ea(){return 4}function _$au(_$tE,_$dH){_$dH=_$wk.call(_$h5(_$dH),'|');_$tE=_$h5(_$tE);var _$m5,_$bY=_$v7.call(_$tE,0,2),_$pv;for (_$m5=0;_$m5<_$dH.length;_$m5++ ){_$pv=_$v7.call(_$tE,2+_$m5*2,2);_$wA[_$bY+_$pv]=_$wA[_$dH[_$m5]];}}function _$hw(){_$mR=_$vK[_$mc()];_$vK[_$mc()]=_$wz;_$vK._$kC=_$wj();_$hZ=_$vK._$kC;_$tp(4,0);_$tp(2,_$ug(7));var _$tE=_$nI();var _$m5=_$hv();var _$pv=_$hv();_$uy=_$dH;_$aK=_$pv[1];_$cw=_$pv[0];_$uX=_$pv[2];if(_$mR){_$hi(_$mR,_$tE,_$m5);_$mR=_$wz;}_$vK._$rW=_$wj();if(_$vK._$rW-_$vK._$kC>12000){_$tp(1,1);_$qr(13,1);}else{_$tp(1,0);}_$tp(8,0);_$tp(16,0);function _$bY(){return _$rN;}function _$dH(_$q1){return _$wA[_$fv(_$tE[_$q1])];}}_$al=_$vH.fromCharCode;_$pM=_$vL.ceil;_$rM=_$al(96);var _$kF,_$uc,_$a5;var _$sy=1;_$cq=_$iT("yrktmzn");;;var _$do;;_$oH=_$pz();_$a9();_$n2();_$hw();;function _$k1(){return 7}function _$oK(){debugger;}</script><script src="./images/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="./images/koala.min.1.5.js" type="text/javascript" charset="utf-8"></script>
+	<script src="./images/AC_RunActiveContent.js" type="text/javascript"></script>
+	<title>中国机构编制网</title>
+	<base target="_blank" />
+	<style>
+		.shgg-con .con-left ul li a{
+			width: 165px;
+			height: 139px;
+			display: block;
+			cursor: pointer;	
+		}
+                .gaige .c-i-content a{
+                       text-indent:2em;
+                }
+	</style>
+</head>
+
+<body>
+	<script type="text/javascript">
+						// JavaScript Document
+			function addCookie(){//加入收藏夹
+				if(document.all){
+				       window.external.addFavorite('http://www.scopsr.gov.cn', '中国机构编制网');
+				}
+				else if(window.sidebar){
+				      window.sidebar.addPanel('中国机构编制网','http://www.scopsr.gov.cn',"");
+				}
+			}
+
+			function setHomepage(){//设置首页
+			   if(document.all){
+			      document.body.style.behavior='url(#default#homepage)';
+			      document.body.setHomePage('http://www.scopsr.gov.cn');
+			   }
+			   else if(window.sidebar){
+			        if(window.netscape){
+			             try{
+			                 netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+			             }
+			             catch(e){
+			                 alert("您的浏览器未启用[设为首页]功能，开启方法：先在地址栏内输入about:config,然后将项 signed.applets.codebase_principal_support 值该为true即可");
+			             }
+			        }
+			        var prefs=Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+			        prefs.setCharPref('browser.startup.homepage','http://www.scopsr.gov.cn');
+			   }
+			}
+		</script>
+<style type="text/css">
+		.top-date .top-search .input {
+		    margin-top: 8px;
+		    line-height: 24px;
+		}
+.nav ul li a {
+    color: #d41618;
+    font-family: 微软雅黑;
+    font-weight: 400;
+}
+</style>
+
+		
+		<div class="top-banner w1000">
+			<div class="top-text">
+				<a href="javascript:window.external.addFavorite('http://www.scopsr.gov.cn/','中国机构编制网');" class="" >加入收藏</a> |
+				<a href="#" class="" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.scopsr.gov.cn/');">设为首页</a>
+			</div>
+		</div>
+		<div class="top-date w1000 clearfix">
+			<div class="top-date-left fl" id="oTopToday">
+
+			</div>
+			<div class="top-search fr clearfix" style="width:350px;text-align:left;position:relative">
+				站内检索：
+				<form class="fr" onSubmit="return submitSearch(this);" method=get name=advsearchform action="http://www.scopsr.gov.cn/was5/web/search" target=_blank accept-charset="UTF-8" style="position: absolute;top: 0px;right:12px;">
+					<input type="hidden" name="channelid" value="225755" />
+					<input type="hidden" name="searchword" id="searchword" />
+					<input style="padding-left:5px;" name="keyword" id="keyword" type="text" size="15" value="关键字" onFocus="javascript:this.value=''" onBlur="if(this.value=='')this.value='关键字'" class="input" />
+					<input type="submit" name="button2" id="button2" value="检索" />
+                    <input type="button" name="button3" onClick="location.href='http://www.scopsr.gov.cn/index_1351.html'" value="高级检索" id="button3" />
+				</form>
+			</div>
+		</div>
+		
+		<div class="nav  clearfix">
+			<ul>
+				<li style=" background:none"><a href="http://www.scopsr.gov.cn/" target="_blank">首页</a></li>
+				<li><a href="./xwzx/" target="_blank">新闻中心</a></li>
+				<li><a href="./jgbzdt/" target="_blank">机构编制动态</a></li>
+				<li><a href="./shgg/" target="_blank">深化改革</a></li>
+				<li><a href="./cxgl/" target="_blank">创新管理</a></li>
+				<li><a href="./dfbbjs/" target="_blank">地方编办建设</a></li>
+				<li><a href="#wsfw-p" target="_self">网上服务</a></li>
+			</ul>
+		</div>
+		
+		<script type="text/javascript">
+//			top区域获取时间
+			var strToday = '';
+			function getToday() {
+				var tmpDate = new Date(),
+				    date = tmpDate.getDate(),
+				    month = tmpDate.getMonth() + 1,
+					year = tmpDate.getYear(),
+					year = year > 1900 ? year : year + 1900;
+					strToday = "今天是" + year + "年" + month + "月" + date + "日";
+				var	myArray = new Array(6);
+					myArray[0] = "星期日";
+					myArray[1] = "星期一";
+					myArray[2] = "星期二";
+					myArray[3] = "星期三";
+					myArray[4] = "星期四";
+					myArray[5] = "星期五";
+					myArray[6] = "星期六";
+					strToday += myArray[tmpDate.getDay()];
+				var oTopToday = document.getElementById('oTopToday');
+				oTopToday.innerHTML = strToday;
+			}
+			getToday();
+			
+			function submitSearch(thisform) {
+				var keyword = document.getElementsByName("keyword")[0].value;
+				if(keyword.replace(/ */g, "").length == 0) {
+					alert("请输入关键字");
+					return false;
+				} else {
+					document.getElementById("searchword").value = keyword;
+				}
+			}
+			
+		</script>
+	
+	
+	<div class="w1000 clearfix" style="margin-top: 10px;">
+		
+		<div class="con-left fl">
+			
+			<div class="con-left-imgtop">
+				
+					<img src="./images/bianwei011.jpg" />
+				
+			</div>
+
+			
+			<div class="con-left-imgtop">
+				<a href="./zybb/" target="_blank">
+					<img src="./images/bianban011.jpg" />
+				</a>
+			</div>
+
+			<div class="con-left-info">
+				
+				<div class="left-jggk">
+					<div class="left-default-title">
+						
+					</div>
+					<ul class="left-info-ul">
+                        
+						<li>
+							<a href='./zlzx/jggk/201901/t20190118_359604.html' title='党中央机构' target="_blank">
+								党中央机构
+							</a>
+						</li>
+						
+						<li>
+							<a href='./zlzx/jggk/201901/t20190118_359603.html' title='全国人大机构' target="_blank">
+								全国人大机构
+							</a>
+						</li>
+						
+						<li>
+							<a href='http://www.scopsr.gov.cn/zlzx/jggk/gwyjg/' title='国务院机构' target="_blank">
+								国务院机构
+							</a>
+						</li>
+						
+						<li>
+							<a href='./zlzx/jggk/201901/t20190118_359602.html' title='全国政协机构' target="_blank">
+								全国政协机构
+							</a>
+						</li>
+						
+						<li>
+							<a href='./zlzx/jggk/201901/t20190118_359601.html' title='最高人民法院' target="_blank">
+								最高人民法院
+							</a>
+						</li>
+						
+						<li>
+							<a href='./zlzx/jggk/201901/t20190118_359600.html' title='最高人民检察院' target="_blank">
+								最高人民检察院
+							</a>
+						</li>
+						
+						<li>
+							<a href='./zlzx/jggk/201901/t20190118_359599.html' title='中央编办管理机构编制的群众团体机关' target="_blank">
+								群众团体机关
+							</a>
+						</li>
+						
+						<li>
+							<a href='./zlzx/jggk/201901/t20190118_359598.html' title='民主党派中央机关' target="_blank">
+								民主党派中央机关
+							</a>
+						</li>
+						
+
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+
+		
+		<div class="con-right fr">
+			
+			<div class="con-right-news1">
+				
+				<div class="con-right-toutiao">
+					<h1>
+						 
+						<a href="./xwzx/ttxw/202004/t20200418_374430.html" target="_blank">
+							<img src='./xwzx/ttxw/202004/W020200418361914264085.jpg' width="740" height="56" border="0" />
+						</a>
+						 
+					</h1>
+					<div class="con-right-toutiao-list">
+						
+						<a href="./xwzx/gdxw/202004/t20200418_374433.html" target="_blank">
+							[研究部署抓紧抓实抓细常态化疫情防控工作]
+						</a>						
+						 
+						<a href="./xwzx/gdxw/202004/t20200418_374432.html" target="_blank">
+							[分析研究当前经济形势和经济工作]
+						</a>						
+						 
+						<a href="./xwzx/gdxw/202004/t20200418_374431.html" target="_blank">
+							[从中央政治局会议看当前中国经济形势]
+						</a>						
+						 
+					</div>
+				</div>
+				        
+
+        
+				<div class="con-right-hotnews clearfix">
+					
+					<div class="con-right-hotimg fl">
+						
+						<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>首页焦点图</title>
+<link href="./images/lrtk201587.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="./images/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="./images/koala.min.1.5.js"></script>
+<link rel="stylesheet" type="text/css" href="./images/jiaodiantu.css" />
+</head>
+<body>
+<style type="text/css">
+		#D1fBt{
+			width: 75px;
+		}
+		.focus .shadow a span{
+			color: #fff;
+		}
+	</style>
+
+<div id="fsD1" class="focus">  
+    <div id="D1pic1" class="fPic">  
+    
+<div class="fcon" style="display: none;">
+            <a target="_blank" href="./xwzx/tpbd/202003/t20200330_374084.html"><img src='./xwzx/tpbd/202003/W020200330425778240245.jpg' style="opacity: 1;" border="0" /></a>
+            <span class="shadow"><a target="_blank" href="./xwzx/tpbd/202003/t20200330_374084.html"><span class='jiaodiantupian'>习近平在浙江考察调研</span></a></span>
+        </div>
+    
+<div class="fcon" style="display: none;">
+            <a target="_blank" href="./xwzx/tpbd/202003/t20200323_373974.html"><img src='./xwzx/tpbd/202003/W020200323362291824584.jpg' style="opacity: 1;" border="0" /></a>
+            <span class="shadow"><a target="_blank" href="./xwzx/tpbd/202003/t20200323_373974.html"><span class='jiaodiantupian'>习近平同巴基斯坦总统阿尔维会谈</span></a></span>
+        </div>
+    
+<div class="fcon" style="display: none;">
+            <a target="_blank" href="./xwzx/tpbd/202003/t20200307_373773.html"><img src='./xwzx/tpbd/202003/W020200307351833649084.jpg' style="opacity: 1;" border="0" /></a>
+            <span class="shadow"><a target="_blank" href="./xwzx/tpbd/202003/t20200307_373773.html"><span class='jiaodiantupian'>习近平：坚决克服新冠肺炎疫情影响 坚决夺取脱...</span></a></span>
+        </div>
+    
+<div class="fcon" style="display: none;">
+            <a target="_blank" href="./xwzx/tpbd/202003/t20200303_373716.html"><img src='./xwzx/tpbd/202003/W020200303384775813804.jpg' style="opacity: 1;" border="0" /></a>
+            <span class="shadow"><a target="_blank" href="./xwzx/tpbd/202003/t20200303_373716.html"><span class='jiaodiantupian'>习近平：协同推进新冠肺炎防控科研攻关 为打赢...</span></a></span>
+        </div>
+    
+<div class="fcon" style="display: none;">
+            <a target="_blank" href="./xwzx/tpbd/202003/t20200302_373705.html"><img src='./xwzx/tpbd/202003/W020200302349173080300.jpg' style="opacity: 1;" border="0" /></a>
+            <span class="shadow"><a target="_blank" href="./xwzx/tpbd/202003/t20200302_373705.html"><span class='jiaodiantupian'>习近平同蒙古国总统巴特图勒嘎会谈</span></a></span>
+        </div>
+    
+<div class="fcon" style="display: none;">
+            <a target="_blank" href="./xwzx/tpbd/202002/t20200224_373612.html"><img src='./xwzx/tpbd/202002/W020200224401549888577.jpg' style="opacity: 1;" border="0" /></a>
+            <span class="shadow"><a target="_blank" href="./xwzx/tpbd/202002/t20200224_373612.html"><span class='jiaodiantupian'>习近平出席统筹推进新冠肺炎疫情防控和经济社...</span></a></span>
+        </div>
+         
+</div>
+    <div class="fbg">  
+    <div class="D1fBt" id="D1fBt">  
+    
+        <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>1</i></a>  
+    
+        <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>2</i></a>  
+    
+        <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>3</i></a>  
+    
+        <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>4</i></a>  
+    
+        <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>5</i></a>  
+    
+        <a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>6</i></a>  
+    
+    </div>  
+    </div>  
+    <span class="prev"></span>   
+    <span class="next"></span>    
+</div>  
+<script type="text/javascript">
+	Qfast.add('widgets', { path: "./images/terminator2.2.min.js", type: "js", requires: ['fx'] });  
+	Qfast(false, 'widgets', function () {
+		K.tabs({
+			id: 'fsD1',   //焦点图包裹id  
+			conId: "D1pic1",  //** 大图域包裹id  
+			tabId:"D1fBt",  
+			tabTn:"a",
+			conCn: '.fcon', //** 大图域配置class       
+			auto: 1,   //自动播放 1或0
+			effect: 'fade',   //效果配置
+			eType: 'click', //** 鼠标事件
+			pageBt:true,//是否有按钮切换页码
+			bns: ['.prev', '.next'],//** 前后按钮配置class                          
+			interval: 3000  //** 停顿时间  
+		}) 
+	})  
+</script>
+
+
+</body>
+</html>
+<span style="display:none">
+<img src="./images/focus_btn.png" />
+<img src="./images/terminator2.2.min.js" />
+</span>
+					</div>
+					
+					<div class="con-right-szyw fr">
+						<div class="con-right-szyw-title clearfix">
+							<h3 class="fl">时政要闻</h3>
+							<a href="./xwzx/szyw/" class="szyw-title-more fr">更多>></a>
+						</div>
+						<ul class="szyw-info-list">
+							
+							<li>
+								<a href='./xwzx/szyw/202004/t20200418_374434.html' title='习近平签令 嘉奖军队执行疫情防控任务人员' target="_blank">
+									习近平签令 嘉奖军队执行疫情防控任务人员
+								</a>
+							</li>
+							
+							<li>
+								<a href='./xwzx/szyw/202004/t20200418_374435.html' title='三十而立从头越 ——以习近平同志为核心的党中央关心浦东开发开放纪实' target="_blank">
+									以习近平同志为核心的党中央关心浦东开发开放纪实
+								</a>
+							</li>
+							
+							<li>
+								<a href='./xwzx/szyw/202004/t20200418_374436.html' title='习近平就白俄罗斯发生新冠肺炎疫情向白俄罗斯总统卢卡申科致慰问电' target="_blank">
+									习近平就白俄罗斯疫情向白总统致慰问电
+								</a>
+							</li>
+							
+							<li>
+								<a href='./xwzx/szyw/202004/t20200417_374406.html' title='习近平总书记关切事｜让贫困劳动力端稳就业的“饭碗”' target="_blank">
+									习近平总书记关切事｜让贫困劳动力端稳就业的“饭碗”
+								</a>
+							</li>
+							
+							<li>
+								<a href='./xwzx/szyw/202004/t20200417_374405.html' title='李克强主持中央应对疫情工作领导小组会议' target="_blank">
+									李克强主持中央应对疫情工作领导小组会议
+								</a>
+							</li>
+							
+							<li>
+								<a href='./xwzx/szyw/202004/t20200415_374320.html' title='中办印发《通知》 持续解决困扰基层的形式主义问题 为决胜全面建成小康社会提供坚强作风保证' target="_blank">
+									中办发文：持续解决困扰基层的形式主义问题
+								</a>
+							</li>
+							
+							<li>
+								<a href='./xwzx/szyw/202004/t20200410_374261.html' title='中共中央 国务院关于构建更加完善的要素市场化配置体制机制的意见' target="_blank">
+									中共中央 国务院关于构建更加完善的要素市场化配置体制机...
+								</a>
+							</li>
+							
+							<li>
+								<a href='./xwzx/szyw/202004/t20200415_374331.html' title='《求是》杂志发表习近平总书记重要文章' target="_blank">
+									《求是》杂志发表习近平总书记重要文章
+								</a>
+							</li>
+							
+													
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+
+
+		</div>
+		
+	</div>	
+	
+	
+	<div class="con-topimg-zt w1000 clearfix" style="margin: 0 auto 10px;">
+		<ul>
+			<li style="margin-right: 8px; width: 328px; height: 69px;">
+				<a href="./zlzx/wqzt/19szqh/" target="_blank">
+					<img src="./images/20200416-home-zt1.jpg" alt="" />
+				</a>
+			</li>
+			<li style="margin-right: 8px;width: 328px; height: 69px;">
+				<a href="./zlzx/wqzt/dfgghglcxjyzf/" target="_blank">
+					<img src="./images/20200416-home-zt2.jpg" alt="" />
+				</a>
+			</li>
+			<li style="width: 328px; height: 69px;">
+				<a href="./zlzx/wqzt/lxyz/" target="_blank">
+					<img src="./images/20200416-home-zt3.jpg" alt="" />
+				</a>
+			</li>
+		</ul>
+	</div>
+	
+	
+	<div class="w1000 clearfix">
+		
+		<div class="con-right-news2">
+			<div class="con-right-news2-title clearfix"><a href="./jgbzdt/" target="_blank">
+				<img src="./images/jgbzdt-title20190507.jpg" style="float: left;" />
+				</a>
+			</div>
+			<div class="con-right-news2-info clearfix">
+				<div class="con-right-news2-imgscroll fr">
+					
+						
+						
+						
+					
+					<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国机构编制网</title>
+<base target="_blank"/>
+</head>
+<style>
+
+.jiaodiantupian{
+     font-weight:bold;
+	 font-size:14px;
+	color:#000000;
+	text-decoration:none;
+	line-height:30px;
+	 }
+.jiaodiantupian:link{
+	COLOR: #000;text-decoration:none; font-size:12px; line-height:24px;font-weight:bold;
+}
+.jiaodiantupian:visited {
+	COLOR: #000;text-decoration:none; font-size:12px; line-height:24px;font-weight:bold;
+}
+.jiaodiantupian:active {
+    COLOR: #000;text-decoration:none; font-size:12px; line-height:24px;font-weight:bold;
+}
+.jiaodiantupian:hover {
+	COLOR: #ff0000;
+	font-size:12px;text-decoration:none; line-height:24px;font-weight:bold;
+}
+
+a{ text-decoration:none;}
+a:hover{ text-decoration: underline;}
+OL {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none;text-decoration:none;
+}
+IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+#photolists {
+	DISPLAY: none
+}
+#nBox1 {
+	WIDTH: 328px; OVERFLOW: hidden
+}
+#focus_photo_box {
+	WIDTH: 328px; HEIGHT: 148px; OVERFLOW: hidden
+}
+#focus_photo_title {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 3px;
+}
+#focus_photo_nav {
+	POSITION: relative; TEXT-ALIGN: right; FILTER: alpha(style=0,opacity=70,finishOpacity=90); MARGIN-TOP: -12px; opacity: 0.70
+}
+.axx {
+	BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 0px
+}
+A.axx:link {
+	BACKGROUND-COLOR: #000; COLOR: #fff; font-size:10px
+}
+A.axx:visited {
+	BACKGROUND-COLOR: #000; COLOR: #fff; font-size:10px
+}
+A.axx:active {
+	BACKGROUND-COLOR: #ce0609; COLOR: #fff; font-size:10px
+}
+A.axx:hover {
+	BACKGROUND-COLOR: #ce0609; COLOR: #fff; font-size:10px; text-decoration:none
+}
+.bxx {
+	BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 2px
+}
+A.bxx:link {
+	BACKGROUND-COLOR: #ce0609; COLOR: #fff; font-size:10px
+}
+A.bxx:visited {
+	BACKGROUND-COLOR: #ce0609; COLOR: #fff; font-size:10px
+}
+A.bxx:active {
+	BACKGROUND-COLOR: #ce0609; COLOR: #fff; font-size:10px
+}
+A.bxx:hover {
+	BACKGROUND-COLOR: #ce0609; COLOR: #fff; font-size:10px; text-decoration:none
+}
+#focus_photo_title a span{
+   color:#000 !important;
+   font-size:14px;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="./images/jiaodiantu.css" />
+<body>
+<DIV id=nBox1 style="width:328px;">
+<DIV id=focus_photo_box style="width:328px; height:216px;"><A id=focus_photo_url><IMG style="FILTER: progid:DXImageTransform.Microsoft.RevealTrans (duration=2,transition=23)" id=focus_photo_pic width=328 height=225 /></A></DIV>
+<DIV id=focus_photo_nav style="margin-top:-10px; bottom: 34px;"></DIV>
+<DIV id=focus_photo_title style="background:#faf4e8; color:#000;padding:0; margin-top: -39px;position: absolute;width: 328px; height: 26px;"><A id=focus_title_url></A></DIV>
+<UL id=photolists>
+
+  <LI><a style="" href="./jgbzdt/dt/202001/t20200110_373280.html" target="_blank" class="jiaodiantupian"><span class='jiaodiantupian'>中央第九巡视组向中央机构编...</span></a><IMG alt=标题图片 src="./jgbzdt/dt/202001/W020200110674309101909.jpg" width='328' height='225' /> 
+
+  <LI><a style="" href="./jgbzdt/dt/202001/t20200110_373277.html" target="_blank" class="jiaodiantupian"><span class='jiaodiantupian'>全国编办主任会议在京召开</span></a><IMG alt=标题图片 src="./jgbzdt/dt/202001/W020200110559562034214.jpg" width='328' height='225' /> 
+
+  <LI><a style="" href="./jgbzdt/dt/201910/t20191010_371947.html" target="_blank" class="jiaodiantupian"><span class='jiaodiantupian'>中央编办隆重举行升国旗仪式</span></a><IMG alt=标题图片 src="./jgbzdt/dt/201910/W020191010427615216475.jpg" width='328' height='225' /> 
+
+  <LI><a style="" href="./jgbzdt/dt/201909/t20190930_371847.html" target="_blank" class="jiaodiantupian"><span class='jiaodiantupian'>中央编办机关党委为离休干部...</span></a><IMG alt=标题图片 src="./jgbzdt/dt/201909/W020190930510423795461.jpg" width='328' height='225' /> 
+
+  <LI><a style="" href="./jgbzdt/dt/201909/t20190912_371568.html" target="_blank" class="jiaodiantupian"><span class='jiaodiantupian'>中央第九巡视组巡视中央机构...</span></a><IMG alt=标题图片 src="./jgbzdt/dt/201909/W020190912670107738383.jpg" width='328' height='225' /> 
+
+  <LI><a style="" href="./jgbzdt/dt/201909/t20190906_371454.html" target="_blank" class="jiaodiantupian"><span class='jiaodiantupian'>中央编办召开“不忘初心、牢...</span></a><IMG alt=标题图片 src="./jgbzdt/dt/201909/W020190906338366854421.jpg" width='328' height='225' /> 
+
+  </UL></DIV>
+  
+  <SCRIPT type=text/javascript>
+<!--
+function getObject(o){
+    if (!getObject) { return null; };
+    o = (typeof o == 'string') ? document.getElementById(o) : o;
+    return o;
+}
+if (typeof photolist != 'function'){
+    var photolist=function (){
+        var a;
+        var img;
+        var title;
+    }
+}
+
+/*处理数组*/
+var plist=getObject("photolists");
+plist.style.display='none';
+var Photos=new Array();
+var Num=0;
+if(plist){
+    var n=plist.getElementsByTagName("LI");
+    for (var i=0;i<n.length;i++){
+        var p=new photolist();
+        p.a=n[i].getElementsByTagName("A")[0];
+        p.img=n[i].getElementsByTagName("IMG")[0];
+        p.title=p.a.innerHTML;
+        if(p.a&&p.img&&p.title){
+            Photos[Num]=p;Num++;
+        }
+    }
+    var focus_photo_nav=getObject("focus_photo_nav");
+    for (var i=1;i<Photos.length+1;i++){
+        var y=document.createElement("a");
+        y.appendChild(document.createTextNode(i));
+        y.id="xxjdjj"+i;
+        y.className="axx";
+        y.target="_self";
+        y.href="javascript:changeimg("+i+");";
+        focus_photo_nav.appendChild(y);
+    }
+}
+/*处理数组结束*/
+
+var nn=1; //当前所显示的滚动图
+var key=0; //标识是否为第一次开始执行
+var tt; //标识作用
+
+function change_img()
+{
+    if(key==0){key=1;} //如果第一次执行KEY=1，表示已经执行过一次了。
+    else if(document.all)//document.all仅IE6/7认识，firefox不会执行此段内容
+    {
+        getObject("focus_photo_pic").filters[0].Apply(); //将滤镜应用到对像上
+        getObject("focus_photo_pic").filters[0].Play(duration=2); //开始转换
+        getObject("focus_photo_pic").filters[0].Transition=23;//转换效果
+    }
+
+    getObject("focus_photo_pic").src=Photos[nn-1].img.src; //替换图片
+    getObject("focus_photo_url").href=Photos[nn-1].a.href; //替换URL
+    getObject("focus_title_url").href=Photos[nn-1].a.href; //替换URL
+    getObject("focus_title_url").innerHTML=Photos[nn-1].title; //替换title
+
+    for (var i=1;i<=Num;i++){
+        getObject("xxjdjj"+i).className='axx'; //将下面黑条上的所有链接变为未选中状态
+    }
+    getObject("xxjdjj"+nn).className='bxx'; //将当前页面的ID设置为选中状态
+    nn++;
+    if(nn>Num){nn=1;} //如果ID大于总图片数量。则从头开始循环
+    tt=setTimeout('change_img()',7000); //在4秒后重新执行change_img()方法.
+}
+function changeimg(n)//点击黑条上的链接执行的方法。
+{
+    nn=n; //当前页面的ID等于传入的N值,
+    window.clearInterval(tt); //清除用于循环的TT
+    //重新执行change_img();但change_img()内所调用的图片ID已经在此处被修改,会从新ID处开始执行.
+    change_img();
+}
+//开始执行滚动操作
+change_img();
+//-->
+</SCRIPT>
+</body>
+</html>
+				</div> 
+				<div class="con-right-news2-list fl clearfix">
+					<div class="jgbzdtgg-con fl">
+						<div class="clearfix jgbzdtgg-con-title">
+							<img src="./images/dt-title20181229.jpg" />
+							<a href="./jgbzdt/dt/" target="_blank">更多>></a>
+						</div>
+						<ul>
+							
+							<li>
+								<a href='./jgbzdt/dt/202004/t20200403_374177.html' title='中央编办召开机关党建专题会议动员部署模范机关创建工作' target="_blank">
+									中央编办召开机关党建专题会议动员部署...
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/dt/202001/t20200116_373332.html' title='“改革先锋”吴金印同志助力化德县脱贫攻坚' target="_blank">
+									“改革先锋”吴金印同志助力化德县脱贫攻坚
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/dt/202001/t20200115_373327.html' title='中央编办召开青年学习小组年度工作汇报会  6名年轻干部被评为“青年学习标兵”' target="_blank">
+									中央编办召开青年学习小组年度工作汇报...
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/dt/202001/t20200110_373280.html' title='中央第九巡视组向中央机构编制委员会办公室反馈巡视情况' target="_blank">
+									中央第九巡视组向中央机构编制委员会办...
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/dt/202001/t20200110_373277.html' title='全国编办主任会议在京召开' target="_blank">
+									全国编办主任会议在京召开
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/dt/201911/t20191112_372491.html' title='中国机构编制管理研究会第四次会员代表大会在北京召开' target="_blank">
+									中国机构编制管理研究会第四次会员代表...
+								</a>
+							</li>
+													
+						</ul>
+					</div>
+					
+					<div class="jgbzdtgg-con fr">
+						<div class="clearfix jgbzdtgg-con-title">
+							<img src="./images/gg-title20181229.jpg" />
+							<a href="./jgbzdt/gg/" target="_blank">更多>></a>
+						</div>
+						<ul>
+							
+							<li>
+								<a href='./jgbzdt/gg/201907/P020190719526613223174.pdf' title='中央机构编制委员会办公室2018年度部门决算' target="_blank">
+									中央机构编制委员会办公室2018年度部门决算
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/gg/201904/P020190402582441270285.pdf' title='中央机构编制委员会办公室2019年度部门预算' target="_blank">
+									中央机构编制委员会办公室2019年度部门预算
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/gg/201903/t20190318_361591.html' title='财政部职能配置、内设机构和人员编制规定' target="_blank">
+									财政部职能配置、内设机构和人员编制规定
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/gg/201903/t20190318_361590.html' title='中国人民银行职能配置、内设机构和人员编制规定' target="_blank">
+									中国人民银行职能配置、内设机构和人员...
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/gg/201901/t20190125_359776.html' title='人力资源和社会保障部职能配置、内设机构和人员编制规定' target="_blank">
+									人力资源和社会保障部职能配置、内设机...
+								</a>
+							</li>
+							
+							<li>
+								<a href='./jgbzdt/gg/201901/t20190125_359775.html' title='民政部职能配置、内设机构和人员编制规定' target="_blank">
+									民政部职能配置、内设机构和人员编制规定
+								</a>
+							</li>
+													
+						</ul>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		
+		
+		<div class="clearfix shgg-con" id="wsfw-p">
+			<div class="con-left fl">
+				
+				<div class="wsfw-title"></div>
+				<ul>
+					<li class="sydw"><a href="http://www.gjsy.gov.cn/"></a></li>
+					<li class="dzjg"><a href="http://wzsh.scopsr.gov.cn/"></a></li>
+					<li class="phone12310"><a href="http://www.scopsr.gov.cn/cxgl/jdjc/12310jbdh/"></a></li>
+					<li class="jjjb"><a href="http://www.scopsr.gov.cn/wsbs/201811/t20181122_357182.html"></a></li>
+					<li class="zgjgjs"><a href="http://jgjs.scopsr.gov.cn/"></a></li>
+					<li class="jgbzypt"><a href="http://jgbzy.conac.cn/#/index"></a></li>
+					<li class="ymgl"><a href="http://www.conac.cn/"></a></li>
+				</ul>
+			</div>
+			<div class="con-right fr">
+				
+				<div class="gaige">
+					<div class="con-right-news2-title">
+						<img src="./images/shgg-title20190507new.jpg" />
+					</div>
+					<div class="row">
+						<div class="con-right-news2-info clearfix">
+							<div class="con-right-news2-left fl">
+								<div class="con-info-layout">
+									<div class="con-info-title shgg-child-title01">
+										<a href="./shgg/jjxz/">更多>></a>
+									</div>
+									<div class="con-info-content">
+										
+										<div class="c-i-top">
+											<a href='./shgg/jjxz/202004/t20200414_374304.html' target="_blank">
+											内蒙古自治区党委编办夯基垒台 着力推进基层整合审批服...
+											</a>
+										</div>
+										
+										<div class="c-i-center clearfix">
+											
+											<div class="c-i-img">
+		<a href='./shgg/jjxz/202004/t20200414_374304.html' target="_blank"><img style="" src='./shgg/jjxz/202004/W020200416499667000755.gif' border="0" /></a>
+											</div>
+											
+														
+											
+											<div class="c-i-content">
+												<a style="" href='./shgg/jjxz/202004/t20200414_374304.html' target="_blank">为贯彻落实上级相关文件精神，内蒙古自治区党委编办始终坚持问题导向，特别是重点聚焦基层机构设置臃杂、职能分散交叉、效...</a>
+											</div>
+											
+										</div>
+										<div class="c-i-bottom">
+											<ul>
+												
+												<li><a href='./shgg/jjxz/202004/t20200416_374350.html'  title='浙江省绍兴市上虞区委编办“三步走”积极推进机构职能体系建设' target="_blank">浙江省绍兴市上虞区委编办“三步走”积极推进机构职...</a> </li>
+												
+												<li><a href='./shgg/jjxz/202004/t20200413_374283.html'  title='山东省临沂市河东区委编办“四项聚焦”巩固深化机构改革成果' target="_blank">山东省临沂市河东区委编办“四项聚焦”巩固深化机构...</a> </li>
+												
+												<li><a href='./shgg/jjxz/202004/t20200409_374243.html'  title='海南省委编办发挥“三大作用”突出“五项重点”努力为海南自贸港建设作贡献' target="_blank">海南省委编办发挥“三大作用”突出“五项重点”努力...</a> </li>
+												
+												<li><a href='./shgg/jjxz/202004/t20200409_374241.html'  title='云南省昆明市官渡区构建自贸试验区昆明片区官渡区域立体工作格局' target="_blank">云南省昆明市官渡区构建自贸试验区昆明片区官渡区域...</a> </li>
+												
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="con-right-news2-right fr">
+								<div class="con-info-layout">
+									<div class="con-info-title shgg-child-title02">
+										<a href="./shgg/sydw/">更多>></a>
+									</div>
+									<div class="con-info-content">
+										
+										<div class="c-i-top">
+											<a href='./shgg/sydw/202004/t20200417_374423.html' target="_blank">
+											重庆市召开经营类事业单位改革工作推进会
+											</a>
+										</div>
+										
+										<div class="c-i-center clearfix">
+											
+											<div class="c-i-img">
+		<a href='./shgg/sydw/202004/t20200417_374423.html' target="_blank"><img style="" src='./shgg/sydw/202004/W020200417613949486491.gif' border="0" /></a>
+											</div>
+											
+														
+											
+											<div class="c-i-content">
+												<a style="" href='./shgg/sydw/202004/t20200417_374423.html' target="_blank">4月14日，重庆市召开经营类事业单位改革工作推进会，深入学习贯彻中央关于经营类事业单位改革的决策部署和市委工作安排，进...</a>
+											</div>
+											
+										</div>
+										<div class="c-i-bottom">
+											<ul>
+												
+												<li><a href='./shgg/sydw/202004/t20200409_374248.html'  title='浙江省温州市“三步”推进事业单位清理规范整合工作' target="_blank">浙江省温州市“三步”推进事业单位清理规范整合工作</a> </li>
+												
+												<li><a href='./shgg/sydw/202001/t20200119_373357.html'  title='江苏常州天宁区委编办以“三点”促“三高” 扎实做好事业单位优化调整工作' target="_blank">江苏常州天宁区委编办以“三点”促“三高” 扎实做好...</a> </li>
+												
+												<li><a href='./shgg/sydw/202004/t20200408_374223.html'  title='浙江省金华兰溪市委编办“两结合”“两围绕”“两建立”推进事业单位改革' target="_blank">浙江省金华兰溪市委编办“两结合”“两围绕”“两建...</a> </li>
+												
+												<li><a href='./shgg/sydw/202001/t20200103_373182.html'  title='上海市杨浦区积极开展事业单位“三定”工作 进一步深化事业单位分类改革' target="_blank">上海市杨浦区积极开展事业单位“三定”工作 进一步深...</a> </li>
+												
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+		
+					<div class="row">
+						<div class="con-right-news2-info clearfix">
+							<div class="con-right-news2-left fl">
+								<div class="con-info-layout">
+									<div class="con-info-title shgg-child-title03">
+										<a href="./shgg/xzzf/">更多>></a>
+									</div>
+									<div class="con-info-content">
+										
+										<div class="c-i-top">
+											<a href='./shgg/xzzf/202003/t20200324_373999.html' target="_blank">
+											宁夏固原市推行“1234”模式扎实推进综合行政执法改革
+											</a>
+										</div>
+										
+										<div class="c-i-center clearfix">
+											
+											<div class="c-i-img">
+		<a href='./shgg/xzzf/202003/t20200324_373999.html' target="_blank"><img style="" src='./shgg/xzzf/202003/W020200324476086986569.jpg' border="0" /></a>
+											</div>
+											
+														
+											
+											<div class="c-i-content">
+												<a style="" href='./shgg/xzzf/202003/t20200324_373999.html' target="_blank">固原市以“提高执法效率、精简执法队伍”为切入点，积极推行“1234”模式，扎实推进综合行政执法改革，进一步构建权责统一...</a>
+											</div>
+											
+										</div>
+										<div class="c-i-bottom">
+											<ul>
+												
+												<li><a href='./shgg/xzzf/202004/t20200402_374162.html'  title='辽宁省鞍山市委编办用好“三字诀” 顺利完成五大领域综合行政执法改革' target="_blank">辽宁省鞍山市委编办用好“三字诀” 顺利完成五大领域...</a> </li>
+												
+												<li><a href='./shgg/xzzf/202003/t20200326_374035.html'  title='内蒙古包头市做到“四个坚持”五大领域综合行政执法改革初见成效' target="_blank">内蒙古包头市做到“四个坚持”五大领域综合行政执法...</a> </li>
+												
+												<li><a href='./shgg/xzzf/202004/t20200405_374196.html'  title='山东省烟台市持续推进综合行政执法体制机制改革' target="_blank">山东省烟台市持续推进综合行政执法体制机制改革</a> </li>
+												
+												<li><a href='./shgg/xzzf/202003/t20200307_373783.html'  title='安徽省合肥市瑶海区推进市场监管体制改革 增强街道统筹协调能力' target="_blank">安徽省合肥市瑶海区推进市场监管体制改革 增强街道统...</a> </li>
+												
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="con-right-news2-right fr">
+								<div class="con-info-layout">
+									<div class="con-info-title shgg-child-title04">
+										<a href="./shgg/spfw/">更多>></a>
+									</div>
+									<div class="con-info-content">
+										
+										<div class="c-i-top">
+											<a href='./shgg/spfw/202004/t20200409_374246.html' target="_blank">
+											江苏省宿迁市“三抓三促”推进基层整合审批服务执法力量...
+											</a>
+										</div>
+										
+										<div class="c-i-center  clearfix">
+											
+											<div class="c-i-img">
+		<a href='./shgg/spfw/202004/t20200409_374246.html' target="_blank"><img style="" src='./shgg/spfw/202004/W020200409508800601377.jpg' border="0" /></a>
+											</div>
+											
+														
+											
+											<div class="c-i-content">
+												<a style="" href='./shgg/spfw/202004/t20200409_374246.html' target="_blank">自中央和省部署基层整合审批服务执法力量改革以来，江苏省宿迁市立足实际，多措并举、稳步有序推进基层整合审批服务执法力...</a>
+											</div>
+											
+										</div>
+										<div class="c-i-bottom">
+											<ul>
+												
+												<li><a href='./shgg/spfw/202004/t20200417_374416.html'  title='山东潍坊昌邑市上线“邑办理”平台倾力打造“三零审批服务”新模式' target="_blank">山东潍坊昌邑市上线“邑办理”平台倾力打造“三零审...</a> </li>
+												
+												<li><a href='./shgg/spfw/202004/t20200413_374272.html'  title='河南省新乡市委编办“一同步二提升”探索权责清单建设新举措' target="_blank">河南省新乡市委编办“一同步二提升”探索权责清单建...</a> </li>
+												
+												<li><a href='./shgg/spfw/202004/t20200414_374300.html'  title='江苏省南通市通州区“六化”推进镇街整合审批服务执法力量' target="_blank">江苏省南通市通州区“六化”推进镇街整合审批服务执...</a> </li>
+												
+												<li><a href='./shgg/spfw/202004/t20200417_374414.html'  title='山东省东营市垦利区委编办“四单融合”推动部门职能从“物理变化”到“化学反应”' target="_blank">山东省东营市垦利区委编办“四单融合”推动部门职能...</a> </li>
+												
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="con-right-news2-info clearfix" style="border-bottom: 0;">
+							<div class="con-right-news2-left fl">
+								<div class="con-info-layout">
+									<div class="con-info-title shgg-child-title05">
+										<a href="./shgg/jcgl/">更多>></a>
+									</div>
+									<div class="con-info-content">
+										
+										<div class="c-i-top">
+											<a href='./shgg/jcgl/202004/t20200409_374238.html' target="_blank">
+											四川省内江市委编办做好街道管理体制改革“后半篇”文章
+											</a>
+										</div>
+										
+										<div class="c-i-center  clearfix">
+											
+											<div class="c-i-img">
+		<a href='./shgg/jcgl/202004/t20200409_374238.html' target="_blank"><img style="" src='./shgg/jcgl/202004/W020200409510045981445.jpg' border="0" /></a>
+											</div>
+											
+														
+											
+											<div class="c-i-content">
+												<a style="" href='./shgg/jcgl/202004/t20200409_374238.html' target="_blank">为做好街道行政区划调整和体制机制改革“后半篇”文章，四川省内江市委编办紧紧围绕街道职能定位，正确处理属地管理与行业...</a>
+											</div>
+											
+										</div>
+										<div class="c-i-bottom">
+											<ul>
+												
+												<li><a href='./shgg/jcgl/202004/t20200415_374336.html'  title='浙江省台州市椒江区开展“七一”行动赋能基层提升社区治理能力' target="_blank">浙江省台州市椒江区开展“七一”行动赋能基层提升社...</a> </li>
+												
+												<li><a href='./shgg/jcgl/202004/t20200415_374335.html'  title='浙江省湖州市德清县坚持“五化融合”解好基层社会治理方程式' target="_blank">浙江省湖州市德清县坚持“五化融合”解好基层社会治...</a> </li>
+												
+												<li><a href='./shgg/jcgl/202004/t20200415_374327.html'  title='内蒙古自治区党委编办精细谋化主动对接在苏木乡镇和街道改革上下好“先手棋”' target="_blank">内蒙古自治区党委编办精细谋化主动对接在苏木乡镇和...</a> </li>
+												
+												<li><a href='./shgg/jcgl/202004/t20200413_374271.html'  title='山东省泰安市泰山区取消街道招商引资职能集中力量提升基层公共服务水平' target="_blank">山东省泰安市泰山区取消街道招商引资职能集中力量提...</a> </li>
+												
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="con-right-news2-right fr">
+								<div class="con-info-layout">
+									<div class="con-info-title shgg-child-title06">
+										<a href="./shgg/qtgg/">更多>></a>
+									</div>
+									<div class="con-info-content">
+										
+										<div class="c-i-top">
+											<a href='./shgg/qtgg/202004/t20200409_374252.html' target="_blank">
+											吉林省吉林市委编办突出“三个重点”完善危化品安全生产...
+											</a>
+										</div>
+										
+										<div class="c-i-center  clearfix">
+											
+											<div class="c-i-img">
+		<a href='./shgg/qtgg/202004/t20200409_374252.html' target="_blank"><img style="" src='./shgg/qtgg/202004/W020200409580664560559.jpg' border="0" /></a>
+											</div>
+											
+														
+											
+											<div class="c-i-content">
+												<a style="" href='./shgg/qtgg/202004/t20200409_374252.html' target="_blank">吉林省吉林市作为化工城，化工是全市经济支柱产业，生产、经营、储存、运输危化品种类多、数量大，辖区有两个区域列为全国...</a>
+											</div>
+											
+										</div>
+										<div class="c-i-bottom">
+											<ul>
+												
+												<li><a href='./shgg/qtgg/202003/t20200324_374000.html'  title='湖北省荆州市委编办补齐“三农”领域短板 助力乡村振兴战略' target="_blank">湖北省荆州市委编办补齐“三农”领域短板 助力乡村振...</a> </li>
+												
+												<li><a href='./shgg/qtgg/202003/t20200324_373992.html'  title='江苏省无锡市委编办三项举措做好安全生产监管机构编制保障' target="_blank">江苏省无锡市委编办三项举措做好安全生产监管机构编...</a> </li>
+												
+												<li><a href='./shgg/qtgg/202003/t20200324_373991.html'  title='浙江嘉兴桐乡市生态环境保护管理体制改革取得明显成效' target="_blank">浙江嘉兴桐乡市生态环境保护管理体制改革取得明显成效</a> </li>
+												
+												<li><a href='./shgg/qtgg/202004/t20200409_374235.html'  title='山东泰安新泰市活用“增减法”做好开发区机制体制改革试卷' target="_blank">山东泰安新泰市活用“增减法”做好开发区机制体制改...</a> </li>
+												
+											</ul>
+										</div>
+									</div>
+								</div>
+		
+							</div>
+						</div>
+					</div>
+				</div>				
+			</div>
+		</div>				
+
+		
+		<div class="news3" style="clear: both;">
+			<div class="con-right-news2-title" style="margin-bottom: 8px">
+				<img src="./images/cxgl-title20190507.jpg" />
+			</div>
+			<div class="row clearfix">
+				<div class="con-new3-layout fl">
+
+					<div class="con-new3-title cxgl-title1">						
+						<a class="cx-title" href="./cxgl/jgbzgl/">更多>></a>
+					</div>
+					<div class="con-new3-content">
+						<ul>
+							
+								<li><a href='./cxgl/jgbzgl/202004/t20200417_374429.html'  title='四川省成都市印发清单明确安全生产和自然灾害防治领域职责任务' target="_blank">四川省成都市印发清单明确安全生产和自然灾害防治领域职责任务</a> </li>
+							
+								<li><a href='./cxgl/jgbzgl/202004/t20200417_374420.html'  title='宁波市海曙区委编办创新编制周转管理激活事业单位编制资源“一池春水”' target="_blank">宁波市海曙区委编办创新编制周转管理激活事业单位编制资源“一池...</a> </li>
+							
+								<li><a href='./cxgl/jgbzgl/202004/t20200417_374408.html'  title='河南省郑州市管城回族区探索机构编制动态管理新机制' target="_blank">河南省郑州市管城回族区探索机构编制动态管理新机制</a> </li>
+							
+								<li><a href='./cxgl/jgbzgl/202004/t20200416_374388.html'  title='贵州遵义赤水市委编办“三转”提升机构编制管理水平' target="_blank">贵州遵义赤水市委编办“三转”提升机构编制管理水平</a> </li>
+							
+								<li><a href='./cxgl/jgbzgl/202004/t20200416_374347.html'  title='山东省滨州市沾化区委编办“四个聚焦”统筹推进全年机构编制工作' target="_blank">山东省滨州市沾化区委编办“四个聚焦”统筹推进全年机构编制工作</a> </li>
+							
+						</ul>
+					</div>
+				</div>
+
+				<div class="con-new3-layout fr">
+
+					<div class="con-new3-title  cxgl-title2">
+						<a class="cx-title" href="./cxgl/jdjc/">更多>></a>
+					</div>
+					<div class="con-new3-content">
+						<ul>
+							
+								<li><a href='./cxgl/jdjc/202004/t20200417_374427.html'  title='以法治方式推动机构编制管理规范有序——陕西省委编办出台《机构编制事项合法合规性审查办法》' target="_blank">以法治方式推动机构编制管理规范有序——陕西省委编办出台《机构...</a> </li>
+							
+								<li><a href='./cxgl/jdjc/202004/t20200417_374421.html'  title='河南省焦作市委编办“四个不松劲”持续推进机构编制监督检查工作' target="_blank">河南省焦作市委编办“四个不松劲”持续推进机构编制监督检查工作</a> </li>
+							
+								<li><a href='./cxgl/jdjc/202004/t20200417_374424.html'  title='上海市奉贤区多措并举全面加强机构编制监督检查工作' target="_blank">上海市奉贤区多措并举全面加强机构编制监督检查工作</a> </li>
+							
+								<li><a href='./cxgl/jdjc/202004/t20200416_374345.html'  title='山东省东营市东营区委编办“1234”模式开展职能运行监管试点工作推动部门单位履职尽责' target="_blank">山东省东营市东营区委编办“1234”模式开展职能运行监管试点工作...</a> </li>
+							
+								<li><a href='./cxgl/jdjc/202004/t20200414_374296.html'  title='湖北省黄冈市委编办发挥“三大效应”筑牢机构编制管理防火墙' target="_blank">湖北省黄冈市委编办发挥“三大效应”筑牢机构编制管理防火墙</a> </li>
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="row clearfix">
+				<div class="con-new3-layout fl">
+
+					<div class="con-new3-title  cxgl-title3">						
+						<a class="cx-title" href="./cxgl/fgzd/">更多>></a>
+					</div>
+					<div class="con-new3-content">
+						<ul>
+							
+								<li><a href='./cxgl/fgzd/202004/t20200417_374426.html'  title='上海市普陀区全面贯彻落实《中国共产党机构编制工作条例》' target="_blank">上海市普陀区全面贯彻落实《中国共产党机构编制工作条例》</a> </li>
+							
+								<li><a href='./cxgl/fgzd/202004/t20200416_374349.html'  title='山西晋城沁水县委编办“四个强化”打造法治编办' target="_blank">山西晋城沁水县委编办“四个强化”打造法治编办</a> </li>
+							
+								<li><a href='./cxgl/fgzd/202004/t20200416_374343.html'  title='陕西多措并举学习贯彻《中国共产党机构编制工作条例》' target="_blank">陕西多措并举学习贯彻《中国共产党机构编制工作条例》</a> </li>
+							
+								<li><a href='./cxgl/fgzd/202004/t20200416_374346.html'  title='浙江金华兰溪市委编办“三招齐抓”深入推进机构编制法定化管理' target="_blank">浙江金华兰溪市委编办“三招齐抓”深入推进机构编制法定化管理</a> </li>
+							
+								<li><a href='./cxgl/fgzd/202004/t20200414_374295.html'  title='山东省聊城市东昌府区委编办绷紧“三根弦”推进机构编制法制化建设' target="_blank">山东省聊城市东昌府区委编办绷紧“三根弦”推进机构编制法制化建设</a> </li>
+							
+						</ul>
+					</div>
+				</div>
+
+				<div class="con-new3-layout fr">
+
+					<div class="con-new3-title  cxgl-title4">
+						<a class="cx-title" href="./cxgl/jgbzxxh/">更多>></a>
+					</div>
+					<div class="con-new3-content">
+						<ul>
+							
+								<li><a href='./cxgl/jgbzxxh/202004/t20200417_374409.html'  title='宁波市宁海县委编办“三聚焦”提升机构编制实名制管理水平' target="_blank">宁波市宁海县委编办“三聚焦”提升机构编制实名制管理水平</a> </li>
+							
+								<li><a href='./cxgl/jgbzxxh/202004/t20200415_374328.html'  title='山东省聊城市茌平区委编办“四注重”扎实做好机构编制实名制管理工作' target="_blank">山东省聊城市茌平区委编办“四注重”扎实做好机构编制实名制管理工作</a> </li>
+							
+								<li><a href='./cxgl/jgbzxxh/202004/t20200410_374263.html'  title='上海市委编办圆满完成2019年度机构编制年报统计工作' target="_blank">上海市委编办圆满完成2019年度机构编制年报统计工作</a> </li>
+							
+								<li><a href='./cxgl/jgbzxxh/202004/t20200414_374299.html'  title='湖北随州广水市委编办多措并举做好机构编制实名制管理工作' target="_blank">湖北随州广水市委编办多措并举做好机构编制实名制管理工作</a> </li>
+							
+								<li><a href='./cxgl/jgbzxxh/202004/t20200414_374298.html'  title='山东省淄博市张店区委编办“一二三四”工作法 精准推进机构编制实名制管理优化升级' target="_blank">山东省淄博市张店区委编办“一二三四”工作法 精准推进机构编制实...</a> </li>
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="row clearfix">
+				<div class="con-new3-layout fl">
+
+					<div class="con-new3-title  cxgl-title5">
+						<a class="cx-title" href="./cxgl/sydj/">更多>></a>
+					</div>
+					<div class="con-new3-content">
+						<ul>
+							
+								<li><a href='./cxgl/sydj/202004/t20200413_374281.html'  title='四川省多管齐下确保疫情防控期间登记赋码工作有序推进' target="_blank">四川省多管齐下确保疫情防控期间登记赋码工作有序推进</a> </li>
+							
+								<li><a href='./cxgl/sydj/202003/t20200324_374014.html'  title='浙江省宁波市鄞州区拉高标杆服务改革优化事业单位登记管理服务' target="_blank">浙江省宁波市鄞州区拉高标杆服务改革优化事业单位登记管理服务</a> </li>
+							
+								<li><a href='./cxgl/sydj/202003/t20200324_374013.html'  title='山东省威海市委编办“五个一”打通事业单位法人注销登记“最后一公里”' target="_blank">山东省威海市委编办“五个一”打通事业单位法人注销登记“最后一...</a> </li>
+							
+								<li><a href='./cxgl/sydj/202003/t20200324_374012.html'  title='浙江省兰溪市委编办“三结合”提升事业单位法人登记规范化管理' target="_blank">浙江省兰溪市委编办“三结合”提升事业单位法人登记规范化管理</a> </li>
+							
+							<li><a style="color: #f00;" href='./sydwwfwgxxtg/' target="_blank">事业单位违法违规信息通告</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="con-new3-layout fr">
+
+					<div class="con-new3-title cxgl-title6">
+						<a class="cx-title" href="./cxgl/tyshxydm/">更多>></a>
+					</div>
+					<div class="con-new3-content">
+						<ul>
+							
+								<li><a href='./cxgl/tyshxydm/202003/t20200306_373762.html'  title='内蒙古自治区党委编办全心服务 助力疫情防控期间登记赋码工作' target="_blank">内蒙古自治区党委编办全心服务 助力疫情防控期间登记赋码工作</a> </li>
+							
+								<li><a href='./cxgl/tyshxydm/202001/t20200107_373230.html'  title='河南省商丘市委编办“五高”标准扎实推进事业单位登记管理和机关群团赋码工作' target="_blank">河南省商丘市委编办“五高”标准扎实推进事业单位登记管理和机关...</a> </li>
+							
+								<li><a href='./cxgl/tyshxydm/201912/t20191225_373082.html'  title='内蒙古呼伦贝尔市委编办三举措提升党政群机关赋码档案管理水平' target="_blank">内蒙古呼伦贝尔市委编办三举措提升党政群机关赋码档案管理水平</a> </li>
+							
+								<li><a href='./cxgl/tyshxydm/201912/t20191213_372908.html'  title='山东烟台市委编办“三个坚持”稳妥有序推进群团改革工作' target="_blank">山东烟台市委编办“三个坚持”稳妥有序推进群团改革工作</a> </li>
+							
+								<li><a href='./cxgl/tyshxydm/201910/t20191017_372087.html'  title='辽宁葫芦岛市委编办三举措积极推进群团改革工作' target="_blank">辽宁葫芦岛市委编办三举措积极推进群团改革工作</a> </li>
+							
+						</ul>
+					</div>
+				</div>
+
+			</div>
+
+		</div>			
+
+		
+		<div class="news4" style="clear: both;">
+			<div class="con-right-news2-title clearfix">
+				<img src="./images/dfbbjs-title20190507.jpg" style="float: left;" />
+				<a href="./dfbbjs/" target="_blank">更多>></a>
+			</div>
+			<div class="row clearfix">
+				<div class="con-news4-content fl">
+					<ul>
+						
+								<li><a href='./dfbbjs/202004/t20200417_374415.html'  title='安徽省委编办召开深化“三个以案”警示教育动员部署会' target="_blank">安徽省委编办召开深化“三个以案”警示教育动员部署会</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200417_374412.html'  title='贵州省毕节市委编办“五力五突破”统筹谋划2020年机构编制重点工作' target="_blank">贵州省毕节市委编办“五力五突破”统筹谋划2020年机构编制重点工作</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200417_374411.html'  title='内蒙古兴安盟阿尔山市委编办多举措加强机构编制人才队伍建设' target="_blank">内蒙古兴安盟阿尔山市委编办多举措加强机构编制人才队伍建设</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200417_374407.html'  title='黑龙江省召开编办主任会议暨系统廉政建设会议' target="_blank">黑龙江省召开编办主任会议暨系统廉政建设会议</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200416_374351.html'  title='山东潍坊诸城市委编办推行“三项制度”实现工作“三化”管理' target="_blank">山东潍坊诸城市委编办推行“三项制度”实现工作“三化”管理</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200415_374337.html'  title='广东省佛山市委编办成立青年理论学习小组  打造政治能力提升新平台' target="_blank">广东省佛山市委编办成立青年理论学习小组  打造政治能力提升新平台</a> </li>
+							
+					</ul>
+				</div>
+				<div class="con-news4-content fr">
+					<ul>
+						
+								<li><a href='./dfbbjs/202004/t20200415_374333.html'  title='辽宁省鞍山市委编办以巡察整改为契机通过“三坚持三聚焦”业务工作与党建工作“互促双赢”' target="_blank">辽宁省鞍山市委编办以巡察整改为契机通过“三坚持三聚焦”业务工...</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200415_374322.html'  title='江西省委编办召开2020年机关党建和党风廉政建设专题会议' target="_blank">江西省委编办召开2020年机关党建和党风廉政建设专题会议</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200414_374308.html'  title='河南省周口市委编办提升工作内涵 精准推行时间表路线图工作法' target="_blank">河南省周口市委编办提升工作内涵 精准推行时间表路线图工作法</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200414_374302.html'  title='宁夏吴忠市委编办“三项举措”着力加强机关自身建设' target="_blank">宁夏吴忠市委编办“三项举措”着力加强机关自身建设</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200414_374294.html'  title='江苏省徐州市云龙区委编办聚焦“五个聚焦”打造过硬党支部' target="_blank">江苏省徐州市云龙区委编办聚焦“五个聚焦”打造过硬党支部</a> </li>
+							
+								<li><a href='./dfbbjs/202004/t20200413_374274.html'  title='贵州省委编办出台意见用好调查研究“金钥匙”' target="_blank">贵州省委编办出台意见用好调查研究“金钥匙”</a> </li>
+							
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+	
+	<div class="bottom-zhanqun w1000 clearfix">
+		<div class="con-right-news2-title">
+			<img src="./images/zqdh-title20190507.jpg" />
+		</div>
+		<div class="bottom-zhanqun-con clearfix">
+			<div class="bottom-zhanqun-left fl">
+				<div class="bottom-zhanqun-titledefault">
+					网站链接
+					<a href="./hdfw/tplj/" target="_blank">更多>></a>
+				</div>
+				<div class="bottom-zhanqun-info">
+					
+					<a href='http://www.12371.cn/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678121591991.jpg' border="0" /></a>
+					
+					<a href='http://www.xinhuanet.com/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678120118880.jpg' border="0" /></a>
+					
+					<a href='http://www.people.com.cn/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678118638477.jpg' border="0" /></a>
+					
+					<a href='http://www.cntv.cn' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678117200528.jpg' border="0" /></a>
+					
+					<a href='http://www.chinadaily.com.cn/hqzx/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678115763468.jpg' border="0" /></a>
+					
+					<a href='http://gb.cri.cn/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678114273285.jpg' border="0" /></a>
+					
+					<a href='http://www.ce.cn/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678112816119.jpg' border="0" /></a>
+					
+					<a href='http://www.youth.cn/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678111375697.jpg' border="0" /></a>
+					
+					<a href='http://www.cnr.cn/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678109892575.jpg' border="0" /></a>
+					
+					<a href='http://www.cyol.com/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678108419496.jpg' border="0" /></a>
+					
+					<a href='http://www.gmw.cn/' target="_blank"><img style="" src='./hdfw/tplj/201811/W020181121678106781876.jpg' border="0" /></a>
+					
+				</div>
+			</div>
+			<div class="bottom-flash" style="position: relative;">
+				<script type="text/javascript">
+					AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','570','height','405','src','../site14/map20190511-01','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','images/map20190511-01' ); //end AC code
+				</script>
+				<noscript>
+					<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="570" height="405">
+							<param name="movie" value="images/map20190511-01.swf" />
+							<param name="quality" value="high" />
+							<embed src="map20190511-01.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="570" height="405"></embed>
+					</object>
+				</noscript>
+				
+			</div>
+			<div class="bottom-right fr" style="width: 284px;">
+				<div class="bottom-right-1" style="margin-bottom: 10px; background: #f1f1f1;">
+					<div class="bottom-zhanqun-titledefault">
+						
+					</div>
+					<ul style="padding-top: 5px;">
+						<li>党中央各部门</li>
+						<li><a target="_blank" href="http://www.npc.gov.cn/">全国人大</a></li>
+						<li><a target="_blank" href="http://www.scopsr.gov.cn/hdfw/gwybmwz/">国务院各部门</a></li>
+						<li><a target="_blank" href="http://www.cppcc.gov.cn/">全国政协</a></li>
+						<li><a target="_blank" href="http://www.court.gov.cn/">最高人民法院</a></li>
+						<li><a target="_blank" href="http://www.spp.gov.cn/">最高人民检察院</a></li>
+					</ul>
+				</div>
+				<div class="bottom-right-2" style="background: #f1f1f1;">
+					<div class="bottom-zhanqun-titledefault">
+								 					
+					</div>
+					<div class="bottom-right-2-link" style="padding-top: 5px;white-space:nowrap;">
+						 <a href="./hdfw/zgjg/bj/">北京</a> | <a href="./hdfw/zgjg/tj/">天津</a> | <a href="./hdfw/zgjg/sh/">上海</a> | <a href="./hdfw/zgjg/cq/">重庆</a> | <a href="./hdfw/zgjg/hb/">河北</a> |<br>
+						 <a href="./hdfw/zgjg/sxs/">山西</a> | <a href="./hdfw/zgjg/nmg/">内蒙古</a> | <a href="./hdfw/zgjg/ln/">辽宁</a> | <a href="./hdfw/zgjg/jl/">吉林</a> | <a href="./hdfw/zgjg/hlj/">黑龙江</a> |<br>
+						 <a href="./hdfw/zgjg/js/">江苏</a> | <a href="./hdfw/zgjg/zj/">浙江</a> | <a href="./hdfw/zgjg/ah/">安徽</a> | <a href="./hdfw/zgjg/fj/">福建</a> | <a href="./hdfw/zgjg/jx/">江西</a> |<br>
+						 <a href="./hdfw/zgjg/sd/">山东</a> | <a href="./hdfw/zgjg/hn/">河南</a> | <a href="./hdfw/zgjg/hbs/">湖北</a> | <a href="./hdfw/zgjg/hns/">湖南</a> | <a href="./hdfw/zgjg/gd/">广东</a> |<br>
+						 <a href="./hdfw/zgjg/gx/">广西</a> | <a href="./hdfw/zgjg/hainan/">海南</a> | <a href="./hdfw/zgjg/sc/">四川</a> | <a href="./hdfw/zgjg/gz/">贵州</a> | <a href="./hdfw/zgjg/yn/">云南</a> |<br>
+						 <a href="./hdfw/zgjg/xz/">西藏</a> | <a href="./hdfw/zgjg/sx/">陕西</a> | <a href="./hdfw/zgjg/gs/">甘肃</a> | <a href="./hdfw/zgjg/qh/">青海</a> | <a href="./hdfw/zgjg/nx/">宁夏</a> |<br>
+						 <a href="./hdfw/zgjg/xj/">新疆</a> | <a href="./hdfw/zgjg/btjg/">新疆生产建设兵团</a> |<br>
+					</div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	
+	<div class="w1000 bottom-3img-link clearfix" style="padding: 18px 0;">
+		<div style="width: 317px;height: 71px;float: left; border: 1px solid #b1b1af;"><a href="http://cspsr.org.cn/">
+			<img style="width: 317px;height: 71px;" src="./images/friend-link12320190507.jpg" /></a></div>
+		<div style="width: 317px;height: 71px;float: left; border: 1px solid #b1b1af; margin-left: 22px;"><a href="http://cspsr.org.cn/tzgg/zzstzgg/">
+			<img style="width: 317px;height: 71px;" src="./images/friend-link2320190507.jpg" /></a></div>
+		<div style="width: 317px;height: 71px;float: left; border: 1px solid #b1b1af;float: right;"><a href="./zlzx/" target="_blank"><img style="width: 317px;height: 71px;" src="./images/friend-link320190507.jpg" /></a></div>
+	</div>
+	<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" style="margin: 0 auto;">
+	  <tr>
+	    <td height="14" background="./images/dh_4_2.jpg"></td>
+	  </tr>
+	</table>
+	<style type="text/css">
+<!--
+.hei12 {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 22px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	magrin-bottom:10px;
+	text-align: center;
+	width: 1000px;
+	margin: 0 auto;
+}
+-->
+</style>
+<div class="content"> 
+ 
+  <div>
+    <div class="hei12"> 
+	 <div style="width: 1000px; text-align: center;">	
+      <span id="_ideConac">
+     	<a style=" text-align: center" href="//bszs.conac.cn/sitename?method=show&amp;id=0580A5A4278B1569E053022819AC795D" target="_blank">
+		<img style="width:80px;height:80px;margin:0 auto;" id="imgConac" src="//dcs.conac.cn/image/red.png" data-bd-imgshare-binded="1" vspace="0" hspace="0" border="0" />
+	   </a>
+       </span>
+	</div>
+
+联系地址：北京市东城区东四南大街85号　　邮政编码：100010　　电话：010-69001463 69001475<br />
+　
+中央机构编制委员会办公室版权所有，未经书面授权禁止使用  | <span class="hei122"><a href="http://www.scopsr.gov.cn//mzsm/201905/t20190513_363707.html" target="_blank" class="hei122">免责声明</a>  <br /></span>
+
+<span class="hei122"><a href="http://www.miibeian.gov.cn" target="_blank" class="hei122"> 京ICP备 05084180号</a> | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700056" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+<img src="./images/20180827-ghs.png" style="float:left;" />&nbsp;京公网安备11040102700056号</a><br />
+
+Copyright © 2010-2019 www.scopsr.gov.cn. All Rights Reserved.     </p></br>
+    </div>
+ </div>
+  
+</div>
+<script id="_trs_ta_js" src="//ta.trs.cn/c/js/ta.js?mpid=970" async="async" defer="defer"></script>
+<script type='text/javascript' src='http://static.gridsumdissector.com/js/Clients/GWD-000531-C21155/gs.js'></script>
+	
+</body>
+
+</html>

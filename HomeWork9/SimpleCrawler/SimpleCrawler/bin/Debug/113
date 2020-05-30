@@ -1,0 +1,846 @@
+﻿<!DOCTYPE html>    
+<!--[if lt IE 7]><html class="ie ie6 lt8 lt9"><![endif]-->
+<!--[if IE 7]><html class="ie ie7 lt8 lt9"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 lt9"><![endif]-->
+<!--[if IE 9]><html class="ie ie9"><![endif]-->
+<!--[if (gt IE 9) | !(IE)]><!-->
+<html>
+<!--<![endif]-->
+	<head>
+<script src="//f2.cri.cn/M00/7D/51/CqgNOlfoeD6AeS54AAAAAAAAAAA0078300.mobile-JumpURL.js"></script>
+<script type="text/javascript" src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZ27lAAAAAAAAAAA5883992.m-jump.js"></script>
+		<meta charset="UTF-8" />
+		<title id="国际">国际频道_国际在线</title>
+		<meta name="keywords" content="国际新闻,国内新闻,今日新闻,最新新闻" />
+		<meta name="description" content="国际在线国际新闻频道，24小时报道国际新闻时事，提供新闻热点解读、深度分析评论，让你看懂新闻！还有环球趣闻轶事、独家新闻图片等，让你在中国，看世界！" />
+
+    <link rel="stylesheet" type="text/css" href="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AYauGAAAAAAAAAAA1611288.resetCSS.css" />
+    <link rel="stylesheet" type="text/css" href="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AYauGAAAAAAAAAAA1611288.common.css" />
+    <script src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZ27lAAAAAAAAAAA5883992.jquery172.js"></script>
+<!--[if IE 7]>
+        <script type="text/javascript" src="/2019/common/pc/js/pie.js"></script>
+<![endif]-->
+	</head>
+	<body>
+
+    <link rel="stylesheet" type="text/css" href="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AYauGAAAAAAAAAAA1611288.nav19.css" />
+<div class="nav-19-box">
+    <div class="w1200">
+        <div class="logo left shadow_1"><a href="http://www.cri.cn">国际在线</a></div>
+        <div class="nav right">
+            <div class="nav-eff-bg"></div>
+            <ul>
+                <li class="nav-li nav-li-index"><a href="http://www.cri.cn" target="_blank" class="nav-title">首页</a></li>
+                <li class="nav-li"><a href="http://news.cri.cn/cfxx" target="_blank" class="nav-title">春风习习</a></li>
+                <li class="nav-li"><a href="http://news.cri.cn/world" target="_blank" class="nav-title">国际</a></li>
+                <li class="nav-li"><a href="http://news.cri.cn/guojiruiping" target="_blank" class="nav-title">国际锐评</a>
+                </li>
+                <li class="nav-li"><a href="http://news.cri.cn/knowntheworld" target="_blank" class="nav-title">国际3分钟</a></li>
+                <li class="nav-li"><a href="http://news.cri.cn/wmkzg" target="_blank" class="nav-title">外媒看中国</a></li>
+                <li class="nav-li"><a href="http://news.cri.cn/lwjfp" target="_blank" class="nav-title">老外街访评</a></li>
+                <li class="nav-li"><a href="http://news.cri.cn/ydyl" target="_blank" class="nav-title">一带一路</a></li>
+                <li class="nav-li"><a href="http://news.cri.cn/video" target="_blank" class="nav-title">视频</a></li>
+                <li class="nav-li"><a href="http://news.cri.cn/zhibo" target="_blank" class="nav-title">直播</a></li>
+                <li class="nav-li nav-li-eff-1 nav-li-add-1">
+                    <a href="###" class="nav-title">城市远洋<i></i></a>
+                    <div class="li-box-wrap shadow_1">
+                        <div class="ol-1">
+                            <ol>
+                                <li class="li-1"><a href="http://city.cri.cn/" target="_blank">城市</a></li>
+                                <li class="li-2"><a href="http://bj.cri.cn/" target="_blank">北京</a></li>
+                                <li class="li-3"><a href="http://sc.cri.cn/" target="_blank">四川</a></li>
+                                <li class="li-4"><a href="http://sd.cri.cn/" target="_blank">山东</a></li>
+                                <li class="li-5"><a href="http://sn.cri.cn/" target="_blank">陕西</a></li>
+                                <li class="li-6"><a href="http://hebei.cri.cn/" target="_blank">河北</a></li>
+                                <li class="li-1"><a href="http://gd.cri.cn/" target="_blank">广东</a></li>
+                                <li class="li-2"><a href="http://js.cri.cn/" target="_blank">江苏</a></li>
+                                <li class="li-3"><a href="http://cq.cri.cn/" target="_blank">重庆</a></li>
+                                <li class="li-4"><a href="http://hlj.cri.cn/" target="_blank">黑龙江</a></li>
+                                <li class="li-5"><a href="http://sx.cri.cn/" target="_blank">山西</a></li>
+                                <li class="li-6"><a href="http://gz.cri.cn/" target="_blank">贵州</a></li>
+                                <li class="li-1"><a href="http://gx.cri.cn/" target="_blank">广西</a></li>
+                                <li class="li-2"><a href="http://fj.cri.cn/" target="_blank">福建</a></li>
+                                <li class="li-3"><a href="http://jl.cri.cn/" target="_blank">吉林</a></li>
+                                <li class="li-4"><a href="http://hb.cri.cn/" target="_blank">湖北</a></li>
+                                <li class="li-5"><a href="http://hn.cri.cn/" target="_blank">河南</a></li>
+                                <li class="li-6"><a href="http://ln.cri.cn/" target="_blank">辽宁</a></li>
+                                <!--<li class="li-6"><a href="http://county.cri.cn/" target="_blank">县域经济</a></li>-->
+                            </ol>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-li nav-li-eff-1 nav-li-add-2">
+                    <a href="###" class="nav-title">企业出海<i></i></a>
+                    <div class="li-box-wrap shadow_1">
+                        <div class="ol-1">
+                            <ol>
+                                <li class="li-1"><a href="http://ge.cri.cn/" target="_blank">环创</a></li>
+                                <li class="li-2"><a href="http://eco.cri.cn/" target="_blank">生态</a></li>
+                                <li class="li-3"><a href="http://ce.cri.cn/" target="_blank">企业</a></li>
+                                <li class="li-1"><a href="http://cj.cri.cn/" target="_blank">城建</a></li>
+                                <li class="li-2"><a href="http://auto.cri.cn/" target="_blank">汽车</a></li>
+                                <li class="li-3"><a href="http://it.cri.cn/" target="_blank">IT</a></li>
+                                <li class="li-1"><a href="http://gr.cri.cn/" target="_blank">财智</a></li>
+                                <!--<li class="li-3"><a href="http://cx.cri.cn/" target="_blank">创新</a></li>
+								<li class="li-1"><a href="http://ich.cri.cn/" target="_blank">非遗</a></li>
+								<li class="li-2"><a href="http://money.cri.cn/" target="_blank">理财</a></li>
+								<li class="li-3"><a href="http://if.cri.cn/" target="_blank">互金</a></li>
+								<li class="li-3"><a href="http://arts.cri.cn/" target="_blank">书画</a></li>-->
+                            </ol>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-li nav-li-eff-1 nav-li-add-2 nav-li-add-2-1">
+                    <a href="###" class="nav-title">文娱体育<i></i></a>
+                    <div class="li-box-wrap shadow_1">
+                        <div class="ol-1">
+                            <ol>
+                                <li class="li-1"><a href="http://ent.cri.cn/" target="_blank">文娱</a></li>
+                                <li class="li-2"><a href="http://sports.cri.cn/" target="_blank">体育</a></li>
+                                <li class="li-1"><a href="http://ent.cri.cn/movie/" target="_blank">电影</a></li>
+                                <li class="li-2"><a href="http://ent.cri.cn/drama/" target="_blank">演出</a></li>
+                                <li class="li-1"><a href="http://ent.cri.cn/tv/" target="_blank">电视</a></li>
+                                <li class="li-2"><a href="http://ent.cri.cn/starshow" target="_blank">星访谈</a></li>
+                                <!--<li class="li-1"><a href="http://jiaoxue.cri.cn/" target="_blank">国广教育</a></li>-->
+                            </ol>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-li nav-li-eff-1 nav-li-add-3">
+                    <a class="nav-title">语言<i></i></a>
+                    <div class="li-box-wrap shadow_1">
+                        <div class="ol-2 languageLine">
+                            <ol>
+                                <li class="li-1"><a href="http://www.cri.cn/index.html?lang=zh-CN" target="_blank"></a>
+                                </li>
+                                <li class="li-2"><a href="http://big5.cri.cn/gate/big5/www.cri.cn/index.html?lang=zh-CH/" target="_blank"></a></li>
+                                <li class="li-3"><a href="http://czech.cri.cn/" target="_blank"></a></li>
+                                <li class="li-4"><a href="http://hungarian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-5"><a href="http://nepal.cri.cn/" target="_blank"></a></li>
+                                <li class="li-6"><a href="http://sinhalese.cri.cn/" target="_blank"></a></li>
+                                <li class="li-7"><a href="http://chinese.cri.cn/" target="_blank"></a></li>
+                                <li class="li-8"><a href="http://newsradio.cri.cn/" target="_blank"></a></li>
+                                <li class="li-9"><a href="http://chinaplus.cri.cn/" target="_blank"></a></li>
+                                <li class="li-10"><a href="http://indonesian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-11"><a href="http://persian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-12"><a href="http://espanol.cri.cn/" target="_blank"></a></li>
+                                <li class="li-13"><a href="http://www.itaiwannews.cn" target="_blank"></a></li>
+                                <li class="li-14"><a href="http://vscs.cri.cn" target="_blank"></a></li>
+                                <li class="li-15"><a href="http://esperanto.cri.cn/" target="_blank"></a></li>
+                                <li class="li-16"><a href="http://italian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-17"><a href="http://polish.cri.cn/" target="_blank"></a></li>
+                                <li class="li-18"><a href="http://swahili.cri.cn/" target="_blank"></a></li>
+                                <li class="li-19"><a href="http://albanian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-20"><a href="http://filipino.cri.cn/" target="_blank"></a></li>
+                                <li class="li-21"><a href="http://japanese.cri.cn/" target="_blank"></a></li>
+                                <li class="li-22"><a href="http://portuguese.cri.cn/" target="_blank"></a></li>
+                                <li class="li-23"><a href="http://tamil.cri.cn/" target="_blank"></a></li>
+                                <li class="li-24"><a href="http://arabic.cri.cn/" target="_blank"></a></li>
+                                <li class="li-25"><a href="http://french.cri.cn/" target="_blank"></a></li>
+                                <li class="li-26"><a href="http://korean.cri.cn/" target="_blank"></a></li>
+                                <li class="li-27"><a href="http://pushtu.cri.cn/" target="_blank"></a></li>
+                                <li class="li-28"><a href="http://thai.cri.cn/" target="_blank"></a></li>
+                                <li class="li-29"><a href="http://bengali.cri.cn/" target="_blank"></a></li>
+                                <li class="li-30"><a href="http://german.cri.cn/" target="_blank"></a></li>
+                                <li class="li-31"><a href="http://laos.cri.cn/" target="_blank"></a></li>
+                                <li class="li-32"><a href="http://romanian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-33"><a href="http://turkish.cri.cn/" target="_blank"></a></li>
+                                <li class="li-34"><a href="http://bulgarian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-35"><a href="http://hausa.cri.cn/" target="_blank"></a></li>
+                                <li class="li-36"><a href="http://malay.cri.cn/" target="_blank"></a></li>
+                                <li class="li-37"><a href="http://russian.cri.cn" target="_blank"></a></li>
+                                <li class="li-38"><a href="http://urdu.cri.cn/" target="_blank"></a></li>
+                                <li class="li-39"><a href="http://myanmar.cri.cn/" target="_blank"></a></li>
+                                <li class="li-40"><a href="http://hindi.cri.cn/" target="_blank"></a></li>
+                                <li class="li-41"><a href="http://mongol.cri.cn/" target="_blank"></a></li>
+                                <li class="li-42"><a href="http://serbian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-43"><a href="http://vietnamese.cri.cn/" target="_blank"></a></li>
+                                <li class="li-44"><a href="http://cambodian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-45"><a href="http://ukrainian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-46"><a href="http://belarusian.cri.cn/" target="_blank"></a></li>
+                                <li class="li-47"><a href="http://greek.cri.cn/" target="_blank"></a></li>
+                                <li class="li-48"><a href="https://www.cri.co.il/" target="_blank"></a></li>
+                                <li class="li-49"><a href="http://croatian.cri.cn" target="_blank"></a></li>
+                                <!--<li class="li-48"><a href="http://turkish.cri.cn/" target="_blank"></a></li>
+								<li class="li-49"><a href="http://urdu.cri.cn/" target="_blank"></a></li>
+								<li class="li-50"><a href="http://vietnamese.cri.cn/" target="_blank"></a></li>
+								<li class="li-51"><a href="http://hebrew.cri.cn/" target="_blank"></a></li>
+								<li class="li-52"><a href="http://dk.gbtimes.com/" target="_blank"></a></li>
+								<li class="li-53"><a href="http://nl.gbtimes.com/" target="_blank"></a></li>
+								<li class="li-54"><a href="http://ee.gbtimes.com/" target="_blank"></a></li>
+								<li class="li-55"><a href="http://fi.gbtimes.com/" target="_blank"></a></li>
+								<li class="li-56"><a href="http://is.gbtimes.com/" target="_blank"></a></li>
+								<li class="li-57"><a href="http://se.gbtimes.com/" target="_blank"></a></li>
+								<li class="li-58"><a href="http://lt.gbtimes.com/" target="_blank"></a></li>
+								<li class="li-59"><a href="http://no.gbtimes.com/" target="_blank"></a></li>-->
+                            </ol>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-li-add-4-1">
+                    <a class="nav-title-1"><i></i></a>
+                    <div class="search-select-box">
+                      <div class="search-box">
+                         <div class="w10">
+			   <div class="head13_search">
+				<script src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZ27lAAAAAAAAAAA5883992.search.js"></script>
+				<form id="form2" name="form2" method="post" onsubmit="return change()">
+                                      <div class="head13_search2_box"><div class="head13_search2">百度</div></div>
+					<div class="head13_search1">
+					     <input name="q1" id="q1" type="text" class="input_box" autocomplete="off" />
+					</div>
+				   <div class="head13_search3">
+					<input name="sa" type="image" src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.redsearch.png" width="23" height="18" border="0" align="absmiddle" />
+				   </div>
+				   <div type="hidden" id="selectId" name="selectId" value="0"></div>
+				</form>
+			    </div>
+			   <div class="newsBox"></div>
+			   <div id="engine"></div>
+			 </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="nav-li nav-li-eff-2 nav-li-add-4">
+                    <a class="nav-title-2"><i></i></a>
+                    <div class="li-box-wrap shadow_1">
+                        <div class="ol-3">
+                            <ol>
+                                <li class="li-1">
+                                    <div class="li-logo"><a href="http://www.cri.cn/download#?id=chinanews" target="_blank"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.3n-news-logo_03.png" /></a>
+                                    </div>
+                                    <div class="li-title"><a href="http://www.cri.cn/download#?id=chinanews" target="_blank">ChinaNews</a></div>
+                                    <div class="li-pic"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.3n-news-ewm_07.jpg" /></div>
+                                </li>
+                                <li class="li-2">
+                                    <div class="li-logo"><a href="http://www.cri.cn/download#?id=chinaradio" target="_blank"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.3n-radio-logo.png" /></a>
+                                    </div>
+                                    <div class="li-title"><a href="http://www.cri.cn/download#?id=chinaradio" target="_blank">ChinaRadio</a></div>
+                                    <div class="li-pic"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.3n-radio-ewm_07.jpg" /></div>
+                                </li>
+                                <li class="li-3">
+                                    <div class="li-logo"><a href="http://www.cri.cn/download#?id=chinatv" target="_blank"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.3n-tv-logo_03.png" /></a>
+                                    </div>
+                                    <div class="li-title"><a href="http://www.cri.cn/download#?id=chinatv" target="_blank">ChinaTV</a></div>
+                                    <div class="li-pic"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.3n-tv-ewm_07.jpg" /></div>
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-li nav-li-eff-3 nav-li-add-5">
+                    <a class="nav-title-3"><i></i></a>
+                    <div class="li-box-wrap shadow_1">
+                        <div class="li-box">
+                            <div class="line line-1"></div>
+                            <div class="line line-2"></div>
+                            <div class="line line-3"></div>
+                            <div class="line line-4"></div>
+                            <div class="left w500">
+                                <div class="ol-5">
+                                    <ol>
+                                        <li><a href="http://news.cri.cn/world" target="_blank">国际</a></li>
+                                        <li><a href="http://news.cri.cn/video" target="_blank">视频</a></li>
+                                        <li><a href="http://news.cri.cn/photo/" target="_blank">图片</a></li>
+                                        <li><a href="http://news.cri.cn/opinion/" target="_blank">评论</a></li>
+                                        <li><a href="http://news.cri.cn/zhibo" target="_blank">直播</a></li>
+                                        <li><a href="http://news.cri.cn/exclusive" target="_blank">原创</a></li>
+                                        <li><a href="http://ent.cri.cn/" target="_blank">文娱</a></li>
+                                        <li><a href="http://ent.cri.cn/starshow" target="_blank">星访谈</a></li>
+                                        <li><a href="http://ent.cri.cn/movie/" target="_blank">电影</a></li>
+                                        <li><a href="http://sports.cri.cn/" target="_blank">体育</a></li>
+                                        <li><a href="http://ent.cri.cn/drama/" target="_blank">演出</a></li>
+                                        <li><a href="http://ent.cri.cn/tv/" target="_blank">电视</a></li>
+                                    </ol>
+                                </div>
+                                <div class="ol-6">
+                                    <ol>
+                                        <li><a href="http://news.cri.cn/cfxx" target="_blank">春风习习</a></li>
+                                        <li><a href="http://news.cri.cn/guojiruiping" target="_blank">国际锐评</a></li>
+                                        <li><a href="http://news.cri.cn/knowntheworld" target="_blank">国际3分钟</a></li>
+                                        <li><a href="http://news.cri.cn/wmkzg" target="_blank">外媒看中国</a></li>
+                                        <li><a href="http://news.cri.cn/lwjfp" target="_blank">老外街访评</a></li>
+                                        <li><a href="http://news.cri.cn/ydyl" target="_blank">一带一路</a></li>
+                                        <li><a href="http://news.cri.cn/lwzzg" target="_blank">老外在中国</a></li>
+                                    </ol>
+                                </div>
+                                <div class="ol-7">
+                                    <ol>
+                                        <li><a href="http://city.cri.cn/" target="_blank">城市</a></li>
+                                        <li class="li-2"><a href="http://ge.cri.cn/" target="_blank">环球创业</a></li>
+                                        <li><a href="http://cj.cri.cn/" target="_blank">城建</a></li>
+                                        <li><a href="http://eco.cri.cn/" target="_blank">生态</a></li>
+                                        <li class="li-2"><a href="http://gr.cri.cn/" target="_blank">环球财智</a></li>
+                                        <li><a href="http://auto.cri.cn/" target="_blank">汽车</a></li>
+                                        <li><a href="http://ce.cri.cn/" target="_blank">企业</a></li>
+                                        <li><a href="http://it.cri.cn/" target="_blank">IT</a></li>
+                                        <!--<li class="li-2"><a href="http://county.cri.cn/" target="_blank">县域经济</a></li>
+                                              <li><a href="http://cx.cri.cn/" target="_blank">创新</a></li>
+										<li><a href="http://jq.cri.cn/" target="_blank">景区</a></li>
+										<li class="li-2"><a href="http://if.cri.cn/" target="_blank">互金</a></li>
+										<li><a href="http://ich.cri.cn/" target="_blank">非遗</a></li>
+										<li class="li-2"><a href="http://money.cri.cn/" target="_blank">理财</a></li>
+										<li><a href="http://arts.cri.cn/" target="_blank">书画</a></li>
+										<li class="li-3"><a href="http://jiaoxue.cri.cn/" target="_blank">国广教育</a></li>-->
+                                    </ol>
+                                </div>
+                            </div>
+                            <div class="right w650">
+                                <div class="languageLine-clone">
+
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="ol-8">
+                                <div class="ol-title">地方:</div>
+                                <ol>
+                                    <li><a href="http://bj.cri.cn/" target="_blank">北京</a></li>
+                                    <li><a href="http://sc.cri.cn/" target="_blank">四川</a></li>
+                                    <li><a href="http://sd.cri.cn/" target="_blank">山东</a></li>
+                                    <li><a href="http://hebei.cri.cn/" target="_blank">河北</a></li>
+                                    <li><a href="http://sn.cri.cn/" target="_blank">陕西</a></li>
+                                    <li><a href="http://gd.cri.cn/" target="_blank">广东</a></li>
+                                    <li><a href="http://cq.cri.cn/" target="_blank">重庆</a></li>
+                                    <li><a href="http://hlj.cri.cn/" target="_blank">黑龙江</a></li>
+                                    <li><a href="http://fj.cri.cn/" target="_blank">福建</a></li>
+                                    <li><a href="http://js.cri.cn/" target="_blank">江苏</a></li>
+                                    <li><a href="http://sx.cri.cn/" target="_blank">山西</a></li>
+                                    <li><a href="http://gz.cri.cn/" target="_blank">贵州</a></li>
+                                    <li><a href="http://gx.cri.cn/" target="_blank">广西</a></li>
+                                    <li><a href="http://jl.cri.cn/" target="_blank">吉林</a></li>
+                                    <li><a href="http://hb.cri.cn/" target="_blank">湖北</a></li>
+                                    <li><a href="http://hn.cri.cn/" target="_blank">河南</a></li>
+                                    <li><a href="http://ln.cri.cn/" target="_blank">辽宁</a></li>
+                                    <li><a href="http://news.cri.cn/gb/42071/2014/11/06/5187s4757119.htm" target="_blank">移动版</a></li>
+                                </ol>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <div class="clear"></div>
+            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<script src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZ27lAAAAAAAAAAA5883992.nav19.js"></script>
+<script src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZ27lAAAAAAAAAAA5883992.zh-360.js"></script>
+
+		
+		<link type="text/css" href="//f2.cri.cn/M00/64/BD/CqgNOl1wYWaAPCADAAAAAAAAAAA7395295.style.css" rel="stylesheet" /><!--新闻站点样式-->
+		<div class="w1200">
+			<!--<div class="news-nav" >
+				<div class="news-logo left"><a href="/">国际在线新闻</a></div>
+				<div class="news-crumbs left">
+					<a href="/">首页</a>&nbsp;&nbsp;&gt;&nbsp;&nbsp;<span>国际</span>
+				</div>
+				<div class="clear"></div>
+			</div>-->
+			<div class="h20"></div><div class="h20"></div>
+			<div class="mgB30">
+				<div class="w860 left">
+
+					<div class="list-1 mgB30">
+						<div class="banner-a">
+							<div class="banner-img banner-a-img">
+								<ul>
+									<li><a href="/20200417/8b884fc2-dd6f-83d9-7650-79918d481f23.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/24/wKgACl6ZPqyABNX6AAAAAAAAAAA634.900x506.860x484.jpg" etitle="德国：发放免费食物" /></a></li><li><a href="/20200417/54f51e64-de1b-b656-40b4-55fe8d49d377.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/24/wKgACl6ZPpaADsGkAAAAAAAAAAA395.898x505.860x484.jpg" etitle="英国封禁措施将延长至少三周" /></a></li><li><a href="/20200417/3922589a-77ea-3238-9900-65d4643b45e7.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/24/wKgACl6ZPoKAEBWRAAAAAAAAAAA760.900x506.860x484.jpg" etitle="法国新冠患者住院人数和重症人数均呈下降趋势" /></a></li><li><a href="/20200415/4dc08fdd-f973-dda2-58aa-d9f3b26ed264.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2C/EA/wKgACl6Woi2AL01RAAAAAAAAAAA369.900x506.860x484.jpg" etitle="利比亚：时装学校“变身”防护服工厂" /></a></li><li><a href="/20200415/4d13fd8f-5782-525d-a1dd-7568ca512a73.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2C/EA/wKgACl6WohKAdD4BAAAAAAAAAAA616.898x505.860x484.jpg" etitle="约翰斯&#183;霍普金斯大学：美国确诊病例超60万例" /></a></li>
+								</ul>
+							</div>
+							<div class="banner-text banner-a-text"><a href="###" target="_blank"></a></div>
+							<div class="banner-page banner-a-page"><a class="btnLeft tran_1"></a><a class="btnRight tran_1"></a></div>
+							<div class="banner-nav banner-a-nav"><ul></ul></div>
+							<!--<div class="banner-list"><ul></ul></div>-->
+						</div>
+					</div>
+
+					
+<!--not found: http://news.cri.cn/inc/413493c9-ea79-4349-a807-05d6aaf42c1b.inc-->
+					
+					<div class="mgB30">
+						<!--not found: http://news.cri.cn/inc/35d1f2fe-4ed3-4098-bd63-a91071403641.inc-->
+						<!--not found: http://news.cri.cn/inc/50ae5273-ed97-4c88-a8c2-48f0f9f8792a.inc-->
+						<div class="clear"></div>
+					</div>
+
+					<div class="list-2 bg-1">
+						<div class="pdT25 more-list">
+							<div class="title-1 pdLR25"><a class="title-a">最新消息</a></div>
+							<ul class="more-wrap" dateUrls='{"total":20,"current":1,"urls":["/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-2.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-3.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-4.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-5.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-6.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-7.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-8.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-9.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-10.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-11.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-12.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-13.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-14.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-15.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-16.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-17.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-18.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-19.inc","/inc/43b8d7fd-9ae6-4edd-b0fe-d9c340b2cc5c-20.inc"],"allUrl":null,"dates":[]}'>
+								<li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200419/f6b927d3-d3e7-f7ee-85d9-b4dae4aafa3f.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/B8/wKgACl6cDjqAOj4ZAAAAAAAAAAA189.700x393.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200419/f6b927d3-d3e7-f7ee-85d9-b4dae4aafa3f.html" target="_blank">马来西亚：延长对外国游客逗留期限 酒店等生活开销须自行承担</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月19日 16:37<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200419/dd0d4b22-186d-bfd2-a679-54a33c91e5d2.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/B0/wKgACl6b99SAWM29AAAAAAAAAAA290.645x362.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200419/dd0d4b22-186d-bfd2-a679-54a33c91e5d2.html" target="_blank">日本8个都府县病床紧张 15个道县拟再停课或延长停课期</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月19日 15:01<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200419/f7ae280c-b9af-8eeb-1228-521b1fac9273.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/AE/wKgACl6b7NqAKP4tAAAAAAAAAAA784.700x393.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200419/f7ae280c-b9af-8eeb-1228-521b1fac9273.html" target="_blank">疫情影响航天活动 宇航员落地后感叹地球“不一样了”</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月19日 14:16<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200419/d7048136-429b-b68b-6990-613f32c76f0b.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/A9/wKgACl6b3eSAQ6oaAAAAAAAAAAA016.700x393.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200419/d7048136-429b-b68b-6990-613f32c76f0b.html" target="_blank">美国新冠感染人数逾73万 防疫“居家令”现松动</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月19日 13:12<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200419/db05cd71-992a-91fb-d585-1ad2888fa691.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/A4/wKgACl6bv66AfeK_AAAAAAAAAAA982.700x393.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200419/db05cd71-992a-91fb-d585-1ad2888fa691.html" target="_blank">单日新增时隔61天降至个位数！韩国确诊病例达10661例</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月19日 11:03<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200419/5124b042-a55a-7083-d70b-d1d02cd6d283.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/A2/wKgACl6bsn2AKGoRAAAAAAAAAAA261.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200419/5124b042-a55a-7083-d70b-d1d02cd6d283.html" target="_blank">希腊SKAI电视台大楼遭燃烧弹袭击 无人员伤亡</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月19日 10:07</div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200419/41ba8263-2ec1-d2ab-ee50-ce9534bcaa28.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/A1/wKgACl6bshCAByRwAAAAAAAAAAA939.700x393.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200419/41ba8263-2ec1-d2ab-ee50-ce9534bcaa28.html" target="_blank">国际疫情：全球确诊病例逾231万 西班牙拟延长紧急状态</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月19日 10:05<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200419/45187375-504e-da37-682e-9c5a22f36551.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/9E/wKgACl6bmsKARtq8AAAAAAAAAAA221.712x400.256x144.png" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200419/45187375-504e-da37-682e-9c5a22f36551.html" target="_blank">美国疾病控制与预防中心实验室污染导致全美新冠检测延迟</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月19日 08:26</div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/2a7f9635-3000-8f53-d515-4d68ccb9a956.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/94/wKgACl6a3EOAW3qcAAAAAAAAAAA314.634x356.256x144.png" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/2a7f9635-3000-8f53-d515-4d68ccb9a956.html" target="_blank">中国驻墨尔本总领事馆高度关注留学生遭袭事件</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 18:53</div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/13948286-902b-99ee-e119-4f87b907dad4.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/93/wKgACl6a2DeAdu1EAAAAAAAAAAA834.640x360.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/13948286-902b-99ee-e119-4f87b907dad4.html" target="_blank">世界银行行长：确保重要医疗用品、关键农产品跨境流动</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 18:36<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/80b96f0c-28a0-8177-9adb-4f579267c113.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/8D/wKgACl6awZaAOry1AAAAAAAAAAA996.934x525.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/80b96f0c-28a0-8177-9adb-4f579267c113.html" target="_blank">世卫组织：全球新冠肺炎确诊超210万例 中国以外超203万例</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 16:58<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/628ca379-635d-be99-8018-326253aa365c.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/8D/wKgACl6awHmAYIoaAAAAAAAAAAA731.700x393.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/628ca379-635d-be99-8018-326253aa365c.html" target="_blank">国际社会力挺世卫组织 反对美国“断供”言行</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 16:54<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/8bfd5c80-5907-f53d-f358-91967c5a8940.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/81/wKgACl6aXqmAYQOeAAAAAAAAAAA953.524x294.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/8bfd5c80-5907-f53d-f358-91967c5a8940.html" target="_blank">西班牙官员：疫情扩散速度减缓 计划夏天复工9月复课</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 09:57<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/a47bb30c-2913-87c6-5d1c-cbd0b923e284.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/81/wKgACl6aXkWARFIIAAAAAAAAAAA867.471x264.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/a47bb30c-2913-87c6-5d1c-cbd0b923e284.html" target="_blank">俄外交部：美暂停资助世卫组织有害无益</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 09:55<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/889a4109-5056-5705-718e-cb6716416b01.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/80/wKgACl6aXbWAEjTCAAAAAAAAAAA097.550x309.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/889a4109-5056-5705-718e-cb6716416b01.html" target="_blank">纽约州每日入院约2000人 加州失业率创新高</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 09:53<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/db8dbacb-65eb-9c73-604d-91db76691585.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/80/wKgACl6aW2uAelcfAAAAAAAAAAA446.840x472.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/db8dbacb-65eb-9c73-604d-91db76691585.html" target="_blank">​美国洛杉矶举行反对“居家令”抗议活动</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 09:42<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/733d5a2f-cb5e-a603-2617-83943aa33e09.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/00/9B/wKgAC16aWtSAPeP5AAAAAAAAAAA268.690x388.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/733d5a2f-cb5e-a603-2617-83943aa33e09.html" target="_blank">美国新冠肺炎确诊病例超70万</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 09:39<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/119ace00-e86d-55eb-8c28-adf9c7b6392a.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/80/wKgACl6aWWaAS97sAAAAAAAAAAA782.528x297.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/119ace00-e86d-55eb-8c28-adf9c7b6392a.html" target="_blank">德国战疫情：新增感染人数放缓 病毒传播可控</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 09:33<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/8a4ccee9-a997-b731-10d6-e47a95af38bb.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/7B/wKgACl6aRiOAHOj7AAAAAAAAAAA139.963x541.256x144.jpg" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/8a4ccee9-a997-b731-10d6-e47a95af38bb.html" target="_blank">欧洲多国谨慎迈出“解封”第一步</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 08:12<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li><li>
+									<div class="list-li">
+										<div class="list-pic rounded"><a href="/20200418/33abb30b-9268-9395-2f44-c6c97f89c625.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/7B/wKgACl6aQ4iAXZNBAAAAAAAAAAA908.711x399.256x144.png" alt="" srcset="" /></a></div>
+										<div class="list-title"><a href="/20200418/33abb30b-9268-9395-2f44-c6c97f89c625.html" target="_blank">巴西新任卫生部长纳尔逊•泰希就职</a></div>
+										<div class="clear"></div>
+										<div class="list-time">2020年04月18日 08:01<a href="/list/xinxingfeiyan" target="_blank" class="hot">新型肺炎疫情</a></div>
+									</div>
+								</li>
+							</ul>
+							<div class="list-more"><a class="more-btn">点击加载更多</a></div>
+						</div>
+					</div>
+
+				</div>
+				
+				<div class="w320 right">
+<div class="list-3 bg-1 mgB30">
+						<div class="pdLR25">
+							<div class="title-1"><div class="title-more"><a href="/guojiruiping" target="_blank">查看更多 &gt;</a></div><a class="title-a">国际锐评</a></div>
+						</div>
+						<ul>
+							<li class="li-1">
+								<div class="list-pic"><a href="/20200415/97211bb4-7bc9-8b5d-e91f-61e2c7517a6e.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2C/FB/wKgACl6WsamAP91XAAAAAAAAAAA274.450x253.270x152.jpg" width="270" height="152"  alt="美政府预计新冠肺炎疫情在美大范围传播 白宫向国会寻求拨款" /></a></div>
+								<div class="list-title"><a href="/20200415/97211bb4-7bc9-8b5d-e91f-61e2c7517a6e.html" target="_blank">【国际锐评】白宫连番向美国媒体“开炮”暴露了什么？</a></div>
+							</li>
+							<li><div class="list-title"><a href="/20200414/9fe2cb3a-b9da-36ca-6050-4861e333fa52.html" target="_blank">【国际锐评】美国政客的信口雌黄掩饰不了抗疫上的三大失误</a></div></li><li><div class="list-title"><a href="/20200403/befb86c4-d6d5-d6a9-d6d8-8ea5a005b4b3.html" target="_blank">【国际锐评】习近平浙江考察社会治理推进“中国之治”</a></div></li><li><div class="list-title"><a href="/20200402/fcc043f0-35f0-a109-4773-73ddb94683f7.html" target="_blank">【国际锐评】习近平浙江考察生态表明中国继续走绿色发展之路</a></div></li>
+						</ul>
+					</div>
+					
+<!--not found: http://news.cri.cn/inc/0d9bbee8-b32b-48e9-937f-a087e316e49c.inc-->
+				
+<div class="list-3 list-3-1 bg-1 mgB30">
+						<div class="pdLR25">
+							<div class="title-1"><div class="title-more"><a href="/knowntheworld" target="_blank">查看更多 &gt;</a></div><a class="title-a">国际3分钟</a></div>
+						</div>
+						<ul>
+							<li class="li-1">
+								<div class="list-pic"><a href="/20200417/22a7fae5-cd0b-1636-b932-e05ca76b6aaa.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/4C/wKgACl6ZZn-AEqUxAAAAAAAAAAA534.1899x1065.270x152.png" width="270" height="152"  alt="图片默认标题" /></a></div>
+								<div class="list-title"><a href="/20200417/22a7fae5-cd0b-1636-b932-e05ca76b6aaa.html" target="_blank">为生命而战！</a></div>
+							</li>
+							<li><div class="list-title"><a href="/20200409/a521ebe8-a0c8-9d84-4088-48e9c2d46cf1.html" target="_blank">抗疫，中外画风一样的眼熟 一样的感人</a></div></li><li><div class="list-title"><a href="/20200409/8db34ef8-97f8-2aa2-6a15-9c955a7bb237.html" target="_blank">国际社会为何如此担忧印度疫情？</a></div></li><li><div class="list-title"><a href="/20200403/68c8f8ea-7bda-2304-b271-6dacc2ac239f.html" target="_blank">暖哭！中国捐赠寄语成世界诗词大会</a></div></li><li><div class="list-title"><a href="/20200326/97aef942-4ace-5dfa-2c80-e386a037852f.html" target="_blank">明明缺的是口罩 为什么外国人都在抢购卫生纸？</a></div></li><li><div class="list-title"><a href="/20200325/5fc6fb8e-9f2e-3738-c698-f0dc63f34670.html" target="_blank">“甩锅”中国 美国人自己都看不下去了</a></div></li>
+						</ul>
+					</div>
+					
+<!--not found: http://news.cri.cn/inc/a368700e-de35-4076-a763-e0c15d61fdd6.inc-->
+				
+<div class="list-4 bg-1 mgB30">
+						<div class="pdLR25">
+							<div class="title-1"><div class="title-more"><a href="/video" target="_blank">查看更多 &gt;</a></div><a class="title-a">国际视频</a></div>
+							<ul>
+								<li>
+									<div class="list-pic"><a href="/20200419/a5d229bb-d344-8564-8403-f3a043ede5be.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/AA/wKgACl6b4geAFhzKAAAAAAAAAAA452.1194x673.270x152.png" width="270" height="152"  alt="也门政府军和胡塞武装交火致24人死亡" /></a></div>
+									<div class="list-title"><a href="/20200419/a5d229bb-d344-8564-8403-f3a043ede5be.html" target="_blank">也门政府军和胡塞武装交火致24人死亡</a></div>
+								</li><li>
+									<div class="list-pic"><a href="/20200419/b7364311-e179-a433-35a8-559d6e596eab.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/A5/wKgACl6bwVyAMEixAAAAAAAAAAA461.1194x673.270x152.png" width="270" height="152"  alt="纽约州长：疫情还远未到转机时刻" /></a></div>
+									<div class="list-title"><a href="/20200419/b7364311-e179-a433-35a8-559d6e596eab.html" target="_blank">纽约州长：疫情还远未到转机时刻</a></div>
+								</li><li>
+									<div class="list-pic"><a href="/20200417/4a869765-52e8-4bbc-9dc5-ebc8fc5e442f.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/2D/wKgACl6ZTWSAYRjbAAAAAAAAAAA255.1194x673.270x152.png" width="270" height="152"  alt="日本紧急事态宣言范围扩大至全国" /></a></div>
+									<div class="list-title"><a href="/20200417/4a869765-52e8-4bbc-9dc5-ebc8fc5e442f.html" target="_blank">日本紧急事态宣言范围扩大至全国</a></div>
+								</li><li>
+									<div class="list-pic"><a href="/20200417/f160c053-d426-a7f1-8489-98b0555b9651.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/28/wKgACl6ZRiWANQmoAAAAAAAAAAA471.1194x673.270x152.jpg" width="270" height="152"  alt="俄总统新闻秘书：5月纪念卫国战争胜利75周年阅兵暂无变化" /></a></div>
+									<div class="list-title"><a href="/20200417/f160c053-d426-a7f1-8489-98b0555b9651.html" target="_blank">俄罗斯新冠确诊人数近2.8万 推迟胜利日阅兵式</a></div>
+								</li><li>
+									<div class="list-pic"><a href="/20200417/216e9546-267c-48d8-7273-6a3f41bf8010.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/25/wKgACl6ZQLiAFBwPAAAAAAAAAAA921.1194x673.270x152.png" width="270" height="152"  alt="希腊将从海岛转移2380名难民至大陆" /></a></div>
+									<div class="list-title"><a href="/20200417/216e9546-267c-48d8-7273-6a3f41bf8010.html" target="_blank">希腊将从海岛转移2380名难民至大陆</a></div>
+								</li><li>
+									<div class="list-pic"><a href="/20200417/946217ae-9d22-4c2b-ea4b-e74446e14393.html" target="_blank" class="aImg"><img src="//p2.cri.cn/M00/2E/24/wKgACl6ZPmeAShmpAAAAAAAAAAA543.1194x673.270x152.png" width="270" height="152"  alt="美国上周首次申请失业救济人数超520万" /></a></div>
+									<div class="list-title"><a href="/20200417/946217ae-9d22-4c2b-ea4b-e74446e14393.html" target="_blank">美国上周首次申请失业救济人数超520万</a></div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+<!--not found: http://news.cri.cn/inc/ce0d6462-4b3d-41a2-84d7-36af8baffb42.inc-->
+			
+		</div>
+		
+<!--not found: http://news.cri.cn/inc/105e4224-a4ad-453c-9842-4dd58a4e4b2c.inc-->
+<script type="text/javascript" src="//f2.cri.cn/M00/64/BD/CqgNOl1wYWaALz67AAAAAAAAAAA0213164.js.js"></script>
+
+<!--<link rel="stylesheet" type="text/css" href="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AYauGAAAAAAAAAAA1611288.top19.css" />
+<div class="top-19-box autoUlWidth">
+	<ul>
+		<li class="li-1"><a></a></li>
+		<li class="li-2"><a></a></li>
+		<li class="li-3"><a href="http://www.cri.cn/" target="_blank"></a></li>
+		<li class="li-4"><a href="http://www.cctv.com/" target="_blank"></a></li>
+                <li class="li-5"><a href="http://www.cnr.cn/" target="_blank"></a></li>
+		<div class="clear"></div>
+	</ul>
+</div>
+<!--<script src="/2019/common/pc/js/top19.js"></script>-->
+<link rel="stylesheet" type="text/css" href="http://f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AYauGAAAAAAAAAAA1611288.footer19.css?v=33" />
+<div class="footer-19-box-1">
+    <div class="w1200">
+        <div class="footer-19-list-1 left">
+            <ul>
+                <li class="item-li">
+                    <div class="list-title">关于我们</div>
+                    <div class="list-ol">
+                        <ol>
+                            <!--<li class="list-ol-li1"><a href="/" target="_blank">关于CRI</a></li>-->
+                            <li class="list-ol-li1"><a href="http://news.cri.cn/20181025/3c9752d3-ff8e-b40b-63a4-402d59dd11c3.html" target="_blank">关于本网</a></li>
+                            <li class="list-ol-li2"><a href="http://news.cri.cn/gb/47051/2014/08/28/6311s4671068.htm" target="_blank">联系本网</a></li>
+                            <li class="list-ol-li1"><a href="http://www.cri.cn/zhaopin" target="_blank">本网招聘</a></li>
+                        </ol>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <li class="item-li li-1">
+                    <div class="list-title">业务概况</div>
+                    <div class="list-ol">
+                        <ol>
+                            <li class="list-ol-li1"><a href="http://newsradio.cri.cn/" target="_blank">环球资讯</a></li>
+                            <li class="list-ol-li2"><a href="http://www.hitfm.cn/" target="_blank">劲曲调频</a></li>
+                            <li class="list-ol-li1"><a href="http://ezfm.cri.cn/" target="_blank">轻松调频</a></li>
+                            <li class="list-ol-li2"><a href="/" target="_blank">国际在线</a></li>
+                        </ol>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <li class="item-li li-2">
+                    <div class="list-title">商务合作</div>
+                    <div class="list-ol">
+                        <ol>
+                            <li class="list-ol-li1"><a href="http://news.cri.cn/ad" target="_blank">广播广告</a></li>
+                            <li class="list-ol-li2"><a href="http://news.cri.cn/20190220/b0dc9f7f-8d82-e6f8-5977-e95197bc8229.html" target="_blank">网站广告</a></li>
+                            <li class="list-ol-li1"><a href="http://yuqing.crionline.cn/" target="_blank">舆情智库</a></li>
+                            <li class="list-ol-li2"><a href="http://yunfabu.crionline.cn/" target="_blank">云发布</a>
+                        </li></ol>
+                        <div class="clear"></div>
+                    </div>
+                
+                <li class="item-li li-3">
+                    <div class="list-title">更多链接</div>
+                    <div class="list-ol">
+                        <ol>
+                            <!--<li class="list-ol-li1"><a href="http://www.cri.cn/sitemap.html" target="_blank">网站地图</a>
+                            </li>-->
+                            <li class="list-ol-li1"><a href="http://www.cri.cn/banquan/index1.html" target="_blank">网站声明</a></li>
+                            <li class="list-ol-li2"><a href="http://report.12377.cn:13225/toreportinputNormal_anis.do" target="_blank">有害信息举报</a></li>
+                            <li class="list-ol-li1"><a href="http://www.cri.cn/yqlj.html" target="_blank">友情链接</a></li>
+                        </ol>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+            </li></ul>
+            <div class="clear"></div>
+        </div>
+        <div class="footer-19-list-2 right">
+            <!--<ul class="ul-1">
+                <li class="item-logo item-logo-1">中央广播电视总台</li>
+                <li class="item-logo item-logo-2"><a href="http://www.cctv.com/" target="_blank"></a></li>
+                <li class="item-logo item-logo-3"><a href="http://www.cnr.cn/" target="_blank"></a></li>
+                <li class="item-logo item-logo-4"><a href="http://www.cri.cn/" target="_blank"></a></li>
+                <li class="item-li li-1">
+                    <div class="list-pic"><a href="http://www.cri.cn/download#?id=chinanews" target="_blank"
+                            class="aImg"><img src="/2019/common/pc/images/ft-logo-5.png"></a></div>
+                    <div class="list-title"><a href="http://www.cri.cn/download#?id=chinanews" target="_blank">China
+                            News</a></div>
+                </li>
+                <li class="item-li li-2">
+                    <div class="list-pic"><a
+                            href="http://app.cctv.com/appkhdxz/ydb/index.shtml?spm=C96370.PsikHJQ1ICOX.EX60QUJxaD0D.17"
+                            target="_blank" class="aImg"><img src="/2019/common/pc/images/ft-logo-1.png"></a></div>
+                    <div class="list-title"><a
+                            href="http://app.cctv.com/appkhdxz/ydb/index.shtml?spm=C96370.PsikHJQ1ICOX.EX60QUJxaD0D.17"
+                            target="_blank">央视影音</a></div>
+                </li>
+                <li class="item-li li-3">
+                    <div class="list-pic"><a
+                            href="http://app.cctv.com/appkhdxz/ysxwydb/index.shtml?spm=C96370.PsikHJQ1ICOX.EX60QUJxaD0D.18"
+                            target="_blank" class="aImg"><img src="/2019/common/pc/images/ft-logo-2.png"></a></div>
+                    <div class="list-title"><a
+                            href="http://app.cctv.com/appkhdxz/ysxwydb/index.shtml?spm=C96370.PsikHJQ1ICOX.EX60QUJxaD0D.18"
+                            target="_blank">央视新闻</a></div>
+                </li>
+                <li class="item-li li-4">
+                    <div class="list-pic"><a
+                            href="http://app.cctv.com/appkhdxz/yscj/index.shtml?spm=C96370.PsikHJQ1ICOX.EX60QUJxaD0D.19"
+                            target="_blank" class="aImg"><img src="/2019/common/pc/images/ft-logo-3.png"></a></div>
+                    <div class="list-title"><a
+                            href="http://app.cctv.com/appkhdxz/yscj/index.shtml?spm=C96370.PsikHJQ1ICOX.EX60QUJxaD0D.19"
+                            target="_blank">央视财经</a></div>
+                </li>
+                <li class="item-li li-5">
+                    <div class="list-pic"><a
+                            href="http://app.cctv.com/appkhdxz/xmpdydb/index.shtml?spm=C96370.PsikHJQ1ICOX.EX60QUJxaD0D.20"
+                            target="_blank" class="aImg"><img src="/2019/common/pc/images/ft-logo-4.png"></a></div>
+                    <div class="list-title"><a
+                            href="http://app.cctv.com/appkhdxz/xmpdydb/index.shtml?spm=C96370.PsikHJQ1ICOX.EX60QUJxaD0D.20"
+                            target="_blank">熊猫频道</a></div>
+                </li>
+                <div class="clear"></div>
+            </ul>-->
+            <ul class="ul-2">
+                <li class="item-li li-3">
+                    <div class="list-pic"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.xwwb.jpg" /></div>
+                    <div class="list-title">国际在线新闻微博</div>
+                </li>
+                <li class="item-li li-2">
+                    <div class="list-pic"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.wb.jpg" /></div>
+                    <div class="list-title">国际在线微博</div>
+                </li>
+                <li class="item-li li-1">
+                    <div class="list-pic"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.wx.jpg" /></div>
+                    <div class="list-title">国际在线微信</div>
+                </li>
+                <li class="item-li li-0">
+                    <div class="list-pic"><a href="http://www.cri.cn/download#?id=chinanews" target="_blank" class="aImg"><img src="//f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZr1jAAAAAAAAAAA7296456.ChinaNews.png" /></a></div>
+                    <div class="list-title"><a href="http://www.cri.cn/download#?id=chinanews" target="_blank">ChinaNews</a></div>
+                </li>
+                <div class="clear"></div>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="footer-19-box-2">
+    <div class="w1200">
+        <div class="footer-19-list-3 left">
+            <ul>
+                <li><a href="http://www.12377.cn/" target="_blank" class="icon-1"><i></i>中国互联网举报中心</a>
+                    违法和不良信息举报电话：010-68891032 举报邮箱：jubao@cri.com.cn</li>
+                <li>新闻从业人员职业道德监督电话：010-68892232 监督邮件：jchsh@cri.com.cn</li>
+                <li><a target="_blank" href="http://gb.cri.cn/18824/2008/07/07/404s2134041.htm">中国互联网视听节目服务自律公约</a>
+                    网络传播视听节目许可证 <a target="_blank" href="http://gb.cri.cn/images/wlcbxkz.jpg">0102006</a>　京ICP证<a target="_blank" href="http://gb.cri.cn/images/2013icp.jpg">120531</a>号　<a target="_blank" href="http://beian.miit.gov.cn/">京ICP备05064898号</a>　<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040202120016"><img src="//f2.cri.cn/M00/85/28/CqgNOlgFwtmAGKhTAAAAAAAAAAA9493010.ba.png" style="vertical-align: middle;" />&nbsp;京公网安备 11040202120016号</a></li>
+            </ul>
+        </div>
+        <div class="footer-19-list-4 left">
+            <ul>
+                <li>
+                    <div class="icon-2"><a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202001091800401"><i></i></a>网站运营：国广国际在线网络（北京）有限公司
+                    </div>
+                </li>
+                <li>中国国际广播电台国际在线版权所有©1997-
+                    <script>var date = new Date; var year = date.getFullYear(); document.write(year);</script>
+                </li>
+                <li>未经书面授权禁止复制或建立镜像</li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div class="return-top return-to-top"></div>
+
+<script>
+	$(window).scroll(function() {
+		if ($(window).scrollTop() > 200) {
+			$(".return-to-top").fadeIn(300);
+		} else {
+			$(".return-to-top").fadeOut(300);
+		}
+	});
+
+$(".return-top").click(function() {
+	$('body,html').animate({
+		scrollTop: 0
+	}, 500);
+}); 
+</script>
+
+<div style="display:none;">
+<!--Baidu-->
+<script>
+var _hmt = _hmt || [];
+(function() { 
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e45061fe2e668fb7ed6e0d06e32ec1e3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!--cnzz20151102-->
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000030653'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000030653%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?0fc6300dd1ab58d622ee07d32b9d9f25";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1257073568'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1257073568' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<!--����Ԫ-20141224-->
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://c.wrating.com/a1.js">
+</script>
+<script type="text/javascript">
+var vjAcc="860010-2934010101";
+var wrUrl="http://c.wrating.com/";
+vjTrack("");
+</script>
+
+<noscript>
+<img src="http://c.wrating.com/a.gif?a=&c=860010-2934010101" width="1" height="1" />
+</noscript>
+<!-- END WRating v1.0 -->
+</div>
+<!--统计代码-->
+<!--处理低版本圆角 开始  -->
+<!--[if lt IE 10]> 
+<style>
+.rounded,.rounded img {
+    display:block;
+    position: relative;
+    border-radius: 5px;
+}
+</style>
+<script type="text/javascript" src="http://f2.cri.cn/M00/4F/D3/CqgNOl0-aB2AZ27lAAAAAAAAAAA5883992.pie.js"></script>
+<![endif]--> 
+<script language="javascript">
+yuanjiaoFn()
+
+function yuanjiaoFn(){
+if(navigator.appName == "Microsoft Internet Explorer"&&parseInt(navigator.appVersion.split(";")[1].replace(/[ ]/g, "").replace("MSIE",""))<9){
+    if (window.PIE) {
+        $('.rounded img').each(function() {
+           //$(this).css("position", "relative");//设置position属性，否则无法覆盖
+            PIE.attach(this);
+        });
+    }
+
+    if (window.PIE) {
+        $('.rounded').each(function() {
+           //$(this).css("position", "relative");//设置position属性，否则无法覆盖
+            PIE.attach(this);
+        });
+    }
+}
+}
+</script>
+<!--处理低版本圆角 结束-->
+	</body>
+</html>

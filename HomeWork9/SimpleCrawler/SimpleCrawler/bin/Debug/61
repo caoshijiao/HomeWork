@@ -1,0 +1,346 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<base target="_blank">
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+    <title>�¸ձ�����--�����۰���--������_���ϵ������ձ�</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <meta http-equiv="Content-Language" content="utf-8" />
+        <meta http-equiv="Cache-Control"?content="no-cache"?/>
+        <meta content="all" name="robots" />
+         <meta name="keywords" content="" />
+        <meta name="description" content="" />
+                    <!--����ʹ�� IE ���°汾�� Chrome-->
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+        <meta name="filetype" content="1" />
+        <meta name="publishedtype" content="1" />
+        <meta name="pagetype" content="2" />
+        <meta name="catalogs" content="L_383569" />
+                <link rel="stylesheet" href="/img/LOCAL/2017/11/113105/css/default.css" type="text/css" />
+        <script type="text/javascript" src="http://tools.people.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js"></script>
+        <script type="text/javascript" src="http://tools.people.com.cn/libs/swiper/3.3.1/swiper-3.3.1.jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="/img/LOCAL/2017/11/113110/swiper-3.3.1.min.css">
+        <script type="text/javascript" language="javascript">
+<!--
+   (function() {
+     if (!
+     /*@cc_on!@*/
+     0) return;
+     var e = "abbr, article, aside, audio, canvas, datalist, details, dialog, eventsource, figure, footer, header, hgroup, mark, menu, meter, nav, output, progress, section, time, video".split(', ');
+     var i= e.length;
+     while (i--){
+         document.createElement(e[i])
+     }
+})()
+   -->
+</script>
+<style>
+  html,body{
+    height: auto;
+    overflow: visible;
+  }
+  .floatNav{
+    display:block;
+  }
+  .header div{
+     width:1200px;
+	 height:300px;
+	 position:relative;
+	 margin:0 auto;
+   }
+  .header a.goIndex{
+    position:absolute;
+	width:128px;
+	height:51px;
+	left:950px;
+	top:30px;
+	display:inline-block;
+  }
+  .pageContent dl h3{height:auto;}
+</style>
+<script type="text/javascript">
+$(document).ready(function(e) {
+       $('.shearBox').bind('mouseenter',function(){
+     $(this).find('.tipBox').show();
+   })
+   $('.shearBox').bind('mouseleave',function(){
+     $(this).find('.tipBox').hide();
+   })
+   
+   $('.searchBox').bind('mouseenter',function(){
+     $(this).find('.tipBox').show();
+   })
+   $('.searchBox').bind('mouseleave',function(){
+     $(this).find('.tipBox').hide();
+   })
+    $('.weixinbox').bind('mouseenter',function(){
+     $(this).find('b').show();
+   })
+   $('.weixinbox').bind('mouseleave',function(){
+     $(this).find('b').hide();
+   })
+   
+   $('.weibobox').bind('mouseenter',function(){
+     $(this).find('b').show();
+   })
+   $('.weibobox').bind('mouseleave',function(){
+     $(this).find('b').hide();
+   })
+     $('.replaytop').bind('click',function(){
+	  $("html, body").animate({
+			scrollTop: 0
+		}, 120)
+	})
+});
+</script>
+</head>
+<body>
+<div class="header"><div><a href="http://www.people.com.cn" class="goIndex" target="_blank"></a></div></div>
+<div class="pagenav">
+<a href="/GB/index.html"target="_blank">��ҳ</a>��<a href="/GB/383581/index.html"target="_blank">Ҫ��</a>��<a href="/GB/383579/index.html"target="_blank">�����ձ�ϵ˵�۰�</a>��<a href="/GB/384008/383580/index.html"target="_blank">����</a>��<a href="/GB/384008/383654/index.html"target="_blank">���</a>��<a href="/GB/383578/index.html"target="_blank">�۽�����</a>��<a href="/GB/383572/index.html"target="_blank">ֱ����̸</a>��<a href="/GB/383573/index.html"target="_blank">���۰���</a>��<a href="/GB/383576/index.html"target="_blank">�Ļ�</a>��<a href="/GB/383575/index.html"target="_blank">��̬</a>��<a href="/GB/383574/index.html"target="_blank">��ͼ</a>��<a href="/GB/383571/index.html"target="_blank">�ǿ�</a>��<span><a href="http://en.rmxiongan.com/"target="_blank">English</a>
+</div>
+<div id="nav01">
+<div class=" clearfix w640 nav01 white">
+<img src="/img/LOCAL/2017/11/113105/images/jiao.jpg" alt="" id="openjiao" />
+<p><span class="swiper-slide">
+    <a href="/GB/384013/index.html">��ҳ</a>
+    </span>
+<span class="swiper-slide">
+    <a href="/GB/383581/index.html">Ҫ��</a>
+    </span>
+    <span class="swiper-slide">
+    <a href="/GB/383579/index.html">�����ձ�ϵ˵�۰�</a>
+    </span>
+    <span class="swiper-slide">
+    <a href="/GB/384008/383580/index.html">����</a>
+    </span></p><p> <span class="swiper-slide">
+    <a href="/GB/384008/383654/index.html">���</a>
+    </span>
+    <span class="swiper-slide">
+    <a href="/GB/383578/index.html">�۽�����</a>
+    </span>
+    <span class="swiper-slide">
+    <a href="/GB/383572/index.html">ֱ����̸</a>
+    </span>
+    <span class="swiper-slide">
+    <a href="/GB/383573/index.html">���۰���</a>
+    </span></p><p> <span class="swiper-slide">
+    <a href="/GB/383576/index.html">�Ļ�</a>
+    </span>
+    <span class="swiper-slide">
+    <a href="/GB/383575/index.html">��̬</a>
+    </span>
+    <span class="swiper-slide">
+    <a href="/GB/383574/index.html">��ͼ</a>
+    </span>
+    <span class="swiper-slide">
+    <a href="/GB/383571/index.html">�ǿ�</a>
+    </span></p>
+</div>
+</div>
+<script>
+ var cw1 = window.innerWidth;
+                var sUserAgent = navigator.userAgent.toLowerCase();    
+                var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";    
+                var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";    
+                var bIsMidp = sUserAgent.match(/midp/i) == "midp";    
+                var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";    
+                var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";    
+                var bIsAndroid = sUserAgent.match(/android/i) == "android";    
+                var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";    
+                var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";    
+                if (bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM ){
+					    $('.pagenav').hide();
+					     var ts = 0;
+						 var ts1 = 0;
+						$('#openjiao').bind('click',function(){
+							if(ts == 0){
+							  $('.nav01').animate({
+								'height':'160px'
+							  },300)
+							  $('#openjiao').animate({
+								'top':'120px'
+							  },300)
+							  $('#openjiao').attr({'src':'/img/LOCAL/2017/11/113105/images/unjiao.jpg'})
+							  ts = 1;
+							}else{
+							  $('.nav01').animate({
+								'height':'44px'
+							  },300)
+							  $('#openjiao').animate({
+								'top':'0px'
+							  },300)
+							  $('#openjiao').attr({'src':'/img/LOCAL/2017/11/113105/images/jiao.jpg'})
+							  ts = 0;
+							}
+						   
+						})
+                }else{
+				  $('.pagenav').show();
+				  $('.nav01').hide();
+				}  
+</script>
+<style type="text/css">
+.more{float:right;}
+.nav01{ font-size:26px; font-weight:bold; background:#1c8fc7; height:44px;overflow:hidden;line-height:auto;position:relative;}
+.nav01 a{ padding:0 10px;color:#fff;font-size: 14px;}
+.nav01 img{position:absolute;right:10px;top:0px;height:44px;}
+.nav01 .swiper-slide{
+	height:44px;
+	line-height:44px;
+	width: auto;
+}
+</style>
+<div class="pagenavlink">
+  <span><a href="http://www.rmxiongan.com/">�����۰���</a> &gt;&gt; <a href="http://www.rmxiongan.com/GB/383569/">�¸ձ�����</a></span>
+</div>
+<div class="pageContent">
+<h2>�¸ձ�����</h2><dl class="clearfix">
+<h3><a href='/n2/2020/0415/c383557-33951536.html' target="_blank">�¸��ڰ����ص�����̬�����ۺ�������Ŀ</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0415/c383557-33951536.html' >�������۰�4��15�յ�&nbsp;4��14�����磬�ӱ�ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸��ڰ����ص�����̬�����ۺ�������Ŀʵʩ��չ�������ǿ����Ҫ����ѧϰ�᳹ϰ��ƽ��̬����˼���ϰ��ƽ����ǹ����۰������滮����ϵ����Ҫָʾ��ʾ����������ʵʡί��ʡ�������𣬾۽�ˮ������������Ŀ�꣬����������ʱ�����ƽ��������̬�����ۺ�������̣��ӿ�ָ�����������֮�������ܣ����������������̬���ס�	�ڰ������Ϻ�ͷ���ƺ���ˮ�����������Ŀ�ֳ����¸�ʵ�ز鿴����Ŀ�ֳ������������Ա��ϸ�˽�����Ⱦ�������ݺ���Ŀ������չ��</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0413/c383557-33945713.html' target="_blank">�¸����ȷ��е��������ž��й�����̸</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0413/c383557-33945713.html' >�������۰�4��13�յ�&nbsp;4��12�գ��ȷ��е��������ŵ��۰������ͼӿ��۰��̲�԰�ȷ�԰����ͼ�ǿ�ص���Ŀ�������е��н������ӱ�ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸����ȷ���ί��Ƿ��ػۡ��г��Ը�������ȷ��е���������һ�о��й�����̸��	�¸մ����۰���������ί����ί�ᣬ���ȷ��е������������������б�ʾ���һ�ӭ�����ȷ��г����������۰������滮���蹤������˽֧�ֱ�ʾ���ĸ�л��</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0412/c383557-33943173.html' target="_blank">�۰������ٿ�����ίίԱ�����󣩻���</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0412/c383557-33943173.html' >�������۰�4��12�յ�&nbsp;4��11�գ��۰������ٿ�����ίίԱ�����󣩻��飬ѧϰϰ��ƽ��������й��������ξֳ���ίԱ���ϵ���Ҫ���������㽭�������ʱ����Ҫ�����������人�����³�����ȫ�����������ߵĻ��ţ���������Ӧ���¹ڷ������鹤���쵼С����顢����Ժ�������Ȼ��龫�񣻴���ѧϰʡί��ί��������龫�����������ǡ�����ʡ������������ʱ�Ľ�������ʡί�۰������滮���蹤���쵼С��ר����龫���о�������һ���ص㹤����ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸����ֻ��鲢������	����ǿ������ǰ�ҹ�������ؽ׶��Գ�Ч��һ�����̣���������ȡ����Ҫ��չ�����������������ӿ�ָ���ͬʱ��������������ӣ����ȶ���ȷ�������������ࡣ</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0410/c383557-33941046.html' target="_blank">�¸յ��м���۰��̲�԰��Ŀ�������</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0410/c383557-33941046.html' >�¸��ڵ��м���۰��̲�԰��Ŀ�������ʱǿ��	����۰���׼&nbsp;���﹤������	�߱�׼�����������۰��̲�԰	�������۰�4��10�յ�&nbsp;4��9�գ��ӱ�ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸յ��۰��̲�԰��Ŀ�����ֳ����е��м�顣��ǿ����Ҫ����ѧϰ�᳹ϰ��ƽ����Ƕ��۰������滮�������Ҫָʾ��ʾ����͵����롢����Ժ���߲��𣬰���ʡί��ʡ��������Ҫ�󣬼���۰���׼�����﹤�����񣬸߱�׼�����������۰��̲�԰��Ϊ�۰�������Ϊ�����ӱ�����һ���������������̽�֯����ɫ��������̬��Ƭ��	��֦���̣��������ţ��۰��̲�԰������һ֧֧רҵ���������������ɵ��ڿӡ����硢��������ˮ��չ�ֳ�һ�����������ľ���</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0401/c383557-33920809.html' target="_blank">�۰������ٿ�����ίίԱ�����󣩻���������ѧϰ������ѧϰ����</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0401/c383557-33920809.html' >�������۰�4��1�յ�&nbsp;2020��4��1���ǵ����롢����Ժ���������۰���������������ӡ�����������������۰�������֯�ٿ�����ίίԱ�����󣩻���������ѧϰ������ѧϰ���顣�����Ա��һ��������ϰ��ƽ�����2017��2��23�ա�2019��1��16���Ⱥ����ε��۰������������ʱ����Ҫ��������͡��й����롢����Ժ���������ӱ��۰�������֪ͨ�����й����롢����Ժ����֧�ֺӱ��۰�����ȫ����ĸ�����󿪷ŵ�ָ�����������������ǡ�����ʡ������1��16����ȫʡ�۰����������ϵĽ������������ᵳ���롢����Ժ�����۰���������Զ��ʷ������ش���ʵ���壬��һ�����˼�롢������ѡ������ȴ������Ƴɣ����������������跢չ�¾��档</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0401/c383557-33920394.html' target="_blank">�¸յ����ص���Ŀ�����ƽ����</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0401/c383557-33920394.html' >�������۰�4��1�յ�&nbsp;3��31�����磬�ӱ�ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸������ݶ�Ƭ�������ֳ���������Ŀ�����ƽ��������ǿ����Ҫ����ѧϰ�᳹ϰ��ƽ����ǹ����۰������滮�����ϵ����Ҫ��������Ҫָʾ��ʾ���񣬰��պӱ�ʡί��ʡ�����Ĳ���Ҫ��ѹʵ�������Ρ��Ͽع���������ȷ��������ȫ�����������ƽ��ص㹤�̽��衣	���۰��������Ľ����ֳ����¸�������ȡ��Ŀ������Ա�㱨���̽�չ���������Ŀ�н���λ�˷�����Ӱ�졢��ѧ������֯ʩ������ʱ���Ԥ��������������Ŭ�����Կ϶���</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0331/c383557-33916949.html' target="_blank">�۰������ٿ�����˼������Ź�������</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0331/c383557-33916949.html' >�������۰�3��31�յ�&nbsp;3��29�գ��۰������ٿ�2020�������˼������Ź������飬�ܽ�����2019������˼������Ź���������2020�깤�����ӱ�ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸ն��۰���������˼�빤��������ʾ��	�¸�����ʾ��ָ����2019����������������˼��ս�߼����ϰ��ƽ��ʱ���й���ɫ�������˼��Ϊָ��������᳹��ʵ����ί������߲����Ը߶ȵ����θУ�����������Ϊ������������¡������ܽ������������۰�����������۰����¡������۰������������滮����ȫ���з�������Ҫ���á�</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0321/c383557-33894140.html' target="_blank">�۰�����֧Ԯ��������սʿʤ������</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0321/c383557-33894140.html' >�������۰�3��21�յ�&nbsp;3��20�գ��۰�����10��ҽ��������ӱ�ʡ֧Ԯ����ҽ�ƶӳ˻�˳���ִ�ʯ��ׯ�������ʻ�����֮�󣬳�����ͻص��������ܵ��ɲ�Ⱥ���ǵ����һ�ӭ���ӱ�ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸�������ʽ��ӭ10��ͬ־���������ο�ʺ͸�л��	�¹ڷ������鷢������������᳹ϰ��ƽ�������Ҫָʾ��������롢ʡ���߲��𣬴�����������Ը����Ԯ��ҽ����Ա����ѡ��10������սʿ����ӱ�ʡԮ��ҽ�ƶӡ�</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0319/c383557-33889812.html' target="_blank">�¸��ڰ����ص��а������ͷ������������̬���������ص���Ŀ��չ���</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0319/c383557-33889812.html' >�������۰�3��19�յ�&nbsp;3��18�����磬�ӱ�ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸����۰����������ص��а������ͷ������������̬���������ص���Ŀ��չ������¸�ǿ����Ҫ����ѧϰ�᳹ϰ��ƽ��̬����˼���ϰ��ƽ����ǹ����۰������滮�����ϵ����Ҫ������ָʾ��ʾ����ȫ��᳹��ʵ�����롢����Ժ��ʡί��ʡ�������ڰ������̬�����������Ҫ��ͳ���ƽ��������̬�����ۺ������������׼ʩ�ߡ�����������ȫ���ð������̬�������ս��	�¸�ͬ־��������������°�������ͷ����Ŀ�������ͷ����������Ŀ�ֳ���ʵ�ز鿴��̬�̽������ͷ����������չ�����</a></p>
+</dd>
+       </dl>
+<dl class="clearfix">
+<h3><a href='/n2/2020/0315/c383557-33877799.html' target="_blank">�۰������ٿ�����ίίԱ(����)����</a></h3>
+         <dt>
+
+</dt>
+         <dd>
+<p>����<a href='/n2/2020/0315/c383557-33877799.html' >�������۰�3��15�յ�&nbsp;3��13�����磬�۰������ٿ�����ίίԱ(����)���飬����ѧϰ�ӱ�ʡί��������塢ʡ���������������м�ʡί�۰������滮���蹤���쵼С����龫���о������᳹��ʵ������о�������ȫ�����йع����������۰�����������ץ�á���ũ�������ص㹤��ȷ������ʵ��ȫ��С����ʵʩ������ȡ��ӱ�ʡί��ί����ʡ�����۰���������ί��ǡ���ί�����γ¸����ֻ��鲢������	����ָ������һ��ʱ����������������ǡ�����ʡ����������۰���������ָ�����ٿ�ר������о�����������������ǿ����������ָ����Ϊ���������ѹض��򣬳��������ʡί��ʡ�����Թ᳹��ʵϰ��ƽ����ǹ����۰������滮�������Ҫָʾ�����������߲���ĸ߶������Ծ���˼���Ծ����ж��Ծ���</a></p>
+</dd>
+       </dl>
+<div class="page clearfix"><a class="common_current_page">1</a>&nbsp;<a href='index2.html'  >2</a>&nbsp;<a href='index3.html'  >3</a>&nbsp;<a href='index4.html'  >4</a>&nbsp;<a href='index5.html'  >5</a>&nbsp;<a href='index2.html'  >��һҳ</a></div><!--all page--><!--PageNo=7-->
+
+</div>
+<div class="p12Box">
+        <p><img src="/img/LOCAL/2017/11/113105/images/rmrb_logo.png" alt=""></p>
+        <p><a href="http://www.people.com.cn" target="_blank"><img src="/img/LOCAL/2017/11/113105/images/rmw_logo.png" alt=""></a></p>
+        <footer class="clearfix">
+        <p class="mt30">�� �� �� �� Ȩ �� �� ��δ �� �� �� �� Ȩ �� ֹ ʹ ��<br />Copyright &copy; 1997-2017 by www.people.com.cn. all rights reserved</p>
+    </footer>
+     </div>
+     <!--��������-->
+<div class="floatNav">
+  <div class="floatNavBox">
+  <form action="http://search.people.com.cn/cnpeople/xasearch.do" name="searchForm" method="post"  target="_blank">
+     <div class="searchBox"><div class="tipName"><span class="search"></span><br>����</div>
+      <div class="tipBox">
+		<input type="hidden" name="pageNum" value="1" />
+		<input type="hidden" name="facetFlag" value="true" />
+		<input type="hidden" name="nodeId" value="383557" />     
+      <input name="keyword" type="text"  placeholder="�����ؼ���" id="keyword" /><input name="SearchSubmit" value="submit" type="image" src="/img/LOCAL/2017/11/113105/images/search_b1.jpg" />
+      </div>
+     </div>
+           </form>
+     <p class="weixinbox"><span class="weixin"></span><br>΢��
+       <b class="erweima"><img src="/img/LOCAL/2017/11/113105/images/weixinerweima.jpg" width="100" height="100" alt="" /></b>
+     </p>
+     <p class="weibobox"><span class="weibo"></span><br>΢��
+     <b class="erweima"><img src="/img/LOCAL/2017/11/113105/images/weiboerweima.png" width="100" height="100" alt="" /></b>
+     </p>
+    <div class="shearBox">
+       <div class="tipName"><span class="shear"></span><br>����</div>
+       <div class="tipBox">
+          <div id="ops_share"></div>
+     <script src="http://www.people.com.cn/img/2016wb/share_qr.min.js" charset="utf-8"></script>
+       </div>
+     </div>
+     <p class="replaytop"><span></span><br>����<br>����</p>
+  </div>
+</div>
+<style type="text/css">
+.floatNav .floatNavBox p b.erweima{
+  width:100px;
+  height:100px;
+  position:absolute;
+  right:70px;
+  margin-top:-40px;
+  display:none;
+}
+</style>
+<style type="text/css">
+@media (min-device-width: 320px) and (max-width: 689px), (max-device-width: 480px) {
+  .floatNav{display:none;}
+}
+</style>
+     
+     <script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+</body>
+</html>
